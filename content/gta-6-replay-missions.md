@@ -12,6 +12,7 @@ sources:
   - https://www.gamespot.com/articles/how-do-you-save-your-game-in-gta-6/
   - https://www.gamespot.com/articles/can-you-keep-playing-after-finishing-gta-6s-story/
   - https://sea.ign.com/grand-theft-auto-vi-rumored-title/252132/gta-6-doesnt-let-you-replay-story-missions-heres-why
+  - https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/
 updated: 2026-11-18
 status: live
 publish: true
@@ -23,7 +24,7 @@ qa: pending
 # Can You Replay Missions in GTA 6? No, Save First
 
 > - **Quick answer:** **No.** You cannot replay a finished story mission from the GTA 6 menu, not even after the story ends (GameSpot, IGN).
-> - **The way back:** load an older **manual save**. GTA 6 has **15 save slots**, and the autosave uses one of them (GameSpot, IGN).
+> - **The way back:** load an older **manual save**. GTA 6 has **15 save slots** (GameSpot, IGN). GameSpot says the autosave uses one of them; IGN and PowerPyx describe 15 manual slots plus the autosave.
 > - **Best tip:** make a new manual save before every big mission. You cannot save during a mission (GameSpot).
 
 **Words used on this page.** A *mission* is a story job with a goal. *Replay* means playing it again. A *save slot* is one space where the game keeps your progress. *Autosave* means the game saves by itself. A *manual save* is one you make yourself.
@@ -37,7 +38,7 @@ qa: pending
 | Can you replay a finished mission from the menu? | **No** | GameSpot, IGN (18 Nov 2026) |
 | Can you replay missions after the story ends? | **No**, not from the menu | GameSpot |
 | Can you keep playing after the story ends? | **Yes** | GameSpot |
-| How many save slots? | **15** | GameSpot, IGN |
+| How many save slots? | **15**. GameSpot says the autosave uses one; IGN and PowerPyx say 15 manual slots plus the autosave. | GameSpot, IGN, PowerPyx |
 | Does the autosave keep old saves? | **No.** It uses one slot and writes over itself. | GameSpot |
 | Can you save during a mission? | **No** | GameSpot |
 | Are there gold, silver and bronze medals for missions? | **No** medal system | IGN |
@@ -45,8 +46,8 @@ qa: pending
 
 IGN's view: GTA 6's story can play out in different ways based on your earlier choices. IGN thinks replaying single missions could break that. That is IGN's opinion, not something Rockstar said.
 
-![15 save slots with one autosave](TODO: image:gta-6-replay-missions-step-1 — diagram, our own art: a grid of 15 save slots, one marked Autosave, with the label Save before big missions)
-*Caption: Diagram. 15 slots in total. The autosave takes one and writes over itself.*
+![A grid of 15 save slots](TODO: image:gta-6-replay-missions-step-1 — diagram, our own art: a grid of 15 save slots, one marked Autosave, with the label Save before big missions)
+*Caption: Diagram. 15 save slots. The autosave writes over itself.*
 
 ## How to go back to a mission
 
@@ -87,7 +88,7 @@ Need a break? GameSpot says opening the menu or the map **pauses** the mission.
 No. Not from the menu. Load an older manual save to play a mission again (GameSpot, IGN).
 
 ### How many save slots does GTA 6 have?
-15. The autosave uses one of them (GameSpot, IGN).
+15 (GameSpot, IGN). GameSpot says the autosave uses one of them; IGN and PowerPyx describe 15 manual slots plus the autosave.
 
 ### Can I save during a mission?
 No. GameSpot says you can only save when you are not on a mission.
@@ -103,6 +104,7 @@ Not announced. IGN says it does not know if it will come after launch.
 | Date | What changed |
 |---|---|
 | 2026-11-18 | Page created from IGN and GameSpot (18 Nov 2026). |
+| 2026-11-18 | Save-slot wording now shows where GameSpot, IGN and PowerPyx differ. |
 
 ---
 *Unofficial fan site, not affiliated with Rockstar Games or Take-Two.*

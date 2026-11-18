@@ -29,7 +29,7 @@ qa: pending
 # GTA 6 Review Scores: Metacritic 99 and More (Spoiler-Free)
 
 > - **Quick answer:** Metacritic shows a **Metascore of 99** from **123 critic reviews** on PS5 (checked 12:25 CET, 18 Nov 2026). OpenCritic shows a **Top Critic Average of 98** and **100% of critics recommend** it.
-> - **Big outlets:** IGN 10/10, GameSpot 10/10, Game Informer 10/10, Eurogamer 5/5 (reported by PCFormat and Gamefa; see the table).
+> - **Big outlets:** IGN 10/10, GameSpot 10/10, Game Informer 10/10 (PCFormat, Gamefa) and Eurogamer 5/5 (PCFormat, CritIndex; see the table).
 > - **Spoiler warning:** this page quotes no review text. The full reviews may cover the story. We link outlet posts only.
 
 **Words used on this page.** A *review* is a writer's opinion of a game. *Metacritic* and *OpenCritic* are sites that average many review scores. A *Metascore* is Metacritic's score out of 100. A *percentile* tells you where something ranks, 100th means the top. *Embargo* means reviewers could not publish until a set time.

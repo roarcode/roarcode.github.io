@@ -1,0 +1,23 @@
+{
+  "type": "info-cards",
+  "alt": "Two boxes: more than 200 GTA 6 web addresses checked by Avast, and about 1 in 10 rated medium or high risk.",
+  "data": {
+    "category": "beginner",
+    "title": "What Avast found",
+    "cols": 2,
+    "card_height": 230,
+    "cards": [
+      {
+        "title": "200+ addresses checked",
+        "body": "All made within 24 hours.",
+        "status": "check"
+      },
+      {
+        "title": "About 1 in 10 risky",
+        "body": "Rated medium or high risk.",
+        "status": "no"
+      }
+    ],
+    "note": "200 is the number checked, not the number of scams (INSERT FUTURE, Eurogamer.de)."
+  }
+}

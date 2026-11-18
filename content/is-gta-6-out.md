@@ -82,6 +82,8 @@ Do not change your console region or use a second account to unlock early. Polyg
 
 Worried about spoilers? [How to avoid GTA 6 spoilers: mute words on X](/beginner-tips/gta-6-avoid-spoilers/).
 
+Looking for cheats? [GTA 6 cheats: how to enter them on PS5 and Xbox](/launch-hub/gta-6-cheats/).
+
 ## What players are saying
 
 *Public posts, quoted with a link. Player tips are not confirmed facts.*

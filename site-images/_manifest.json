@@ -1005,9 +1005,9 @@
   "gta-6-review-score-roundup-step-2": {
     "file": "gta-6-review-score-roundup-step-2.webp",
     "width": 1200,
-    "height": 846,
-    "bytes": 46036,
-    "alt": "A table of six outlet scores seen on OpenCritic on 18 Nov, all out of 10.",
+    "height": 828,
+    "bytes": 26558,
+    "alt": "A table of six outlet scores seen on 18 Nov: DualShockers 10, Wccftech 9.6, TheSixthAxis 9, ZTGD 9, Giant Bomb 5/5 and VGC 5/5.",
     "type": "compare-table"
   },
   "gta-6-review-score-roundup-step-3": {
@@ -1161,5 +1161,53 @@
     "bytes": 28100,
     "alt": "Illustrated menu with Progress open and the Vehicles row highlighted. Not an in-game screenshot.",
     "type": "menu-mock"
+  },
+  "gta-6-replay-missions-step-1": {
+    "file": "gta-6-replay-missions-step-1.webp",
+    "width": 1200,
+    "height": 696,
+    "bytes": 28236,
+    "alt": "A grid of 15 save slots and a note saying Save before big missions. No mission names.",
+    "type": "save-slots"
+  },
+  "gta-6-replay-missions-step-3": {
+    "file": "gta-6-replay-missions-step-3.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 28400,
+    "alt": "Illustration of an in-mission menu with three rows: Retry, Quit and Restart. Not an in-game screenshot.",
+    "type": "menu-mock"
+  },
+  "gta-6-replay-missions-step-2": {
+    "file": "gta-6-replay-missions-step-2.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 35696,
+    "alt": "Diagram: four cards in a row, Save here, Big mission, Save here, Big mission. No mission names.",
+    "type": "step-card"
+  },
+  "gta-6-scam-sites-step-1": {
+    "file": "gta-6-scam-sites-step-1.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 26608,
+    "alt": "Two boxes: more than 200 GTA 6 web addresses checked by Avast, and about 1 in 10 rated medium or high risk.",
+    "type": "info-cards"
+  },
+  "gta-6-scam-sites-step-2": {
+    "file": "gta-6-scam-sites-step-2.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 37172,
+    "alt": "Five warning signs: PC download, free or early game, connect a crypto wallet, password box, odd web address.",
+    "type": "info-cards"
+  },
+  "gta-6-scam-sites-step-3": {
+    "file": "gta-6-scam-sites-step-3.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 26982,
+    "alt": "Two boxes with green ticks: PS5, PS button then PlayStation Store; Xbox, Xbox button then Store.",
+    "type": "info-cards"
   }
 }

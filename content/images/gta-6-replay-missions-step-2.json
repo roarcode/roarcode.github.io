@@ -1,11 +1,27 @@
 {
   "type": "step-card",
-  "alt": "Diagram card: make a manual save before each big mission, about every 7% of the story, because finished missions cannot be replayed.",
+  "alt": "Diagram: four cards in a row, Save here, Big mission, Save here, Big mission. No mission names.",
   "data": {
     "category": "beginner",
-    "step": 1,
     "title": "Save before each big mission",
-    "body": "Finished missions cannot be replayed from the menu. Make a manual save before each big mission, about every 7% of the story (IGN's tip).",
-    "tip": "You cannot save during a mission (GameSpot)."
+    "steps": [
+      {
+        "title": "Save here",
+        "body": "Make a new manual save."
+      },
+      {
+        "title": "Big mission",
+        "body": "Play it. You cannot save during it."
+      },
+      {
+        "title": "Save here",
+        "body": "New manual save before the next one."
+      },
+      {
+        "title": "Big mission",
+        "body": "Play it. Old saves let you go back."
+      }
+    ],
+    "note": "No mission names. IGN's tip: a new save about every 7% of the story."
   }
 }

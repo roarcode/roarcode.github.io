@@ -1,0 +1,23 @@
+{
+  "type": "info-cards",
+  "alt": "Two boxes with green ticks: PS5, PS button then PlayStation Store; Xbox, Xbox button then Store.",
+  "data": {
+    "category": "beginner",
+    "title": "Buy only from your console's store",
+    "cols": 2,
+    "card_height": 230,
+    "cards": [
+      {
+        "title": "PS5",
+        "body": "PS button > PlayStation Store.",
+        "status": "ok"
+      },
+      {
+        "title": "Xbox Series X|S",
+        "body": "Xbox button > Store.",
+        "status": "ok"
+      }
+    ],
+    "note": "A boxed copy holds a code. Type it only into your console's store."
+  }
+}

@@ -1,8 +1,8 @@
 # Slot report
 
-- content slots: 147
-- specs: 147
-- rendered this run: 1
+- content slots: 150
+- specs: 150
+- rendered this run: 3
 - no-spec: 0
 - errors: 0
 - missing: none

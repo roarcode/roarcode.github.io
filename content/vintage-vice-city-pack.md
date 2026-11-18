@@ -14,10 +14,12 @@ sources:
   - https://www.playstation.com/en-us/games/grand-theft-auto-vi/
   - https://store.playstation.com/en-us/product/EP1004-PPSA01547_00-GTAVIULTIMATE001
   - https://www.xbox.com/en-US/games/store/grand-theft-auto-vi-ultimate-edition/9nnzsnhlr63l
+  - https://www.pcgamer.com/games/grand-theft-auto/gta-6-pre-order-bonus-vintage-vice-city-pack/
+  - https://rockstarintel.com/how-to-get-the-exclusive-gta-vi-tropical-weapon-skins/
 updated: 2026-11-18
 status: prelaunch
-spoilers: none
-qa: passed
+spoilers: minor
+qa: live-review
 ---
 
 # GTA 6 Vintage Vice City Pack: How to Get It Before 20 Nov
@@ -66,6 +68,23 @@ Rockstar describes the pack as items "that flash back to when the neon burned br
 ![PS5 store page showing the Vintage Vice City Pack in the edition list](TODO: image:vintage-vice-city-pack-step-2 — step screenshot, PS5: GTA VI page "Editions" listing with Vintage Vice City Pack)
 *Caption: Step screenshot. The PS5 Store page lists the pack with the game.*
 
+## How to claim the pack in the game
+
+The pack is **not ready the moment you start**. PC Gamer says you unlock it by playing the story first (PC Gamer, 18 Nov 2026).
+
+**Spoiler-free tip:** if you cannot see the pack yet, you have not done anything wrong. Keep playing the story.
+
+:::spoiler When the pack shows up, and where each item is (names an early mission and a story chapter)
+- **See the pack:** the **store** in the main menu opens after mission 11, **"Coming Home"**, in Chapter 1. Open the main menu, select the store, then scroll down past GTA+ to the Vintage Vice City Pack (PC Gamer).
+- **Claim it:** the items only work from **Chapter 3** (PC Gamer).
+- **The car:** a new task appears in the **Exploration** part of the map index. It sends you to the **Ocean View Hotel** to collect the '55 Vapid Stanier and the garage (PC Gamer).
+- **Outfits:** in your **wardrobe**, after you collect the car (PC Gamer).
+- **Hairstyles:** in the **Special** menu at any **salon** (PC Gamer).
+- **Weapon pattern:** at any **Ammu-Nation** (the gun store), open the **modify** menu, then **Cosmetics/Wraps** (PC Gamer).
+:::
+
+> **Report, not confirmed by Rockstar on its own pages:** RockstarINTEL says there are also **two tropical weapon patterns** you get by **linking your Rockstar Games account** to your PlayStation or Xbox account. Its steps: on the Rockstar Games website, sign in, then **Account > Manage Account > Connections**, link your console account, then restart the game. The patterns then show in **Cosmetics / Wraps** at Ammu-Nation (RockstarINTEL, 18 Nov 2026). We have not tested this.
+
 ## The free GTA+ month (separate bonus)
 
 - **Who:** digital buyers before 20 Nov 2026. Boxed copies do not get it.
@@ -90,6 +109,15 @@ Yes. Both editions do.
 
 ### Does the boxed version get it?
 Yes, per The Verge (digital or physical, before 20 November). The free GTA+ month is digital only.
+
+### I bought the game. Why can't I see my pack?
+PC Gamer says the pack appears in the main menu store only after an early story mission, and the items work later in the story. Keep playing. The details are in the spoiler box above.
+
+## Updated
+
+| Date | What changed |
+|---|---|
+| 2026-11-18 | Added how to claim the pack in the game (PC Gamer) and RockstarINTEL's report on two tropical patterns for linked accounts. |
 
 ---
 *Unofficial fan site, not affiliated with Rockstar Games or Take-Two.*

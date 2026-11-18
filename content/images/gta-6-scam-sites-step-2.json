@@ -1,0 +1,38 @@
+{
+  "type": "info-cards",
+  "alt": "Five warning signs: PC download, free or early game, connect a crypto wallet, password box, odd web address.",
+  "data": {
+    "category": "beginner",
+    "title": "5 signs a GTA 6 page is fake",
+    "cols": 5,
+    "card_height": 250,
+    "cards": [
+      {
+        "title": "PC download",
+        "body": "No PC version announced.",
+        "status": "no"
+      },
+      {
+        "title": "Free or early",
+        "body": "Play now, free? Fake.",
+        "status": "no"
+      },
+      {
+        "title": "Connect wallet",
+        "body": "Never link crypto.",
+        "status": "no"
+      },
+      {
+        "title": "Password box",
+        "body": "Never type it in.",
+        "status": "no"
+      },
+      {
+        "title": "Odd address",
+        "body": "Check the web address.",
+        "status": "no"
+      }
+    ],
+    "note": "A real logo does not make a page real (Avast, via La Vanguardia)."
+  }
+}
