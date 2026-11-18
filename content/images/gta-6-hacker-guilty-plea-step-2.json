@@ -9,7 +9,7 @@
     "cards": [
       {
         "title": "Admitted",
-        "body": "6 crimes, including the Rockstar hack.",
+        "body": "6 charges, including the Rockstar hack.",
         "status": "check"
       },
       {
@@ -23,6 +23,6 @@
         "status": "warn"
       }
     ],
-    "note": "Source: Crown Prosecution Service, 16 Nov 2026."
+    "note": "Sources: Oxford Mail (6 charges) and the Crown Prosecution Service, 16 Nov 2026."
   }
 }

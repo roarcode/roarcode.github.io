@@ -32,7 +32,7 @@ qa: pending
 2. They took **90 test videos** of GTA 6 and posted them online.
 3. On **16 November 2026**, Arion Kurtaj, now 21, told a London court he did it.
 
-The Crown Prosecution Service (the people who take cases to court in England) says he admitted **6 crimes**. They include the Rockstar hack and attacks on **BT/EE, Revolut and Uber**.
+Oxford Mail reports he pleaded guilty to **6 charges**. The Crown Prosecution Service (the people who take cases to court in England) says he admitted hacking **Rockstar, BT/EE, Revolut and Uber**.
 
 ![Timeline of the case in four dates](TODO: image:gta-6-hacker-guilty-plea-step-1 — diagram, our own art: four dates from 2022 video posts to the 23 Nov sentencing)
 *Caption: Diagram. The case in four dates.*
@@ -42,7 +42,7 @@ The Crown Prosecution Service (the people who take cases to court in England) sa
 - **The sentence.** Nothing has been decided. It is due on **23 November 2026**, and court dates can move.
 - **Rockstar's view.** Rockstar has not said anything about the plea this week.
 
-![What is known and not known](TODO: image:gta-6-hacker-guilty-plea-step-2 — diagram, our own art: three boxes for admitted, other companies, not known yet)
+![What is known and not known](TODO: image:gta-6-hacker-guilty-plea-step-2 — diagram, our own art: three boxes for the 6 charges, other companies, not known yet)
 *Caption: Diagram. What he admitted and what is still open.*
 
 ## Does this change GTA 6?

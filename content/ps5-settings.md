@@ -113,9 +113,9 @@ qa: live-review
 
 Rockstar has not published the full settings menu. Early players in New Zealand are posting what they see. These are **reports, not confirmed facts**.
 
-> **Rumour / unconfirmed:** a stream clip shows a **dismemberment** on/off option, a **blood and gore** level and a **motion blur** setting. Source: https://x.com/SixthStarGTA/status/2123021775684477299
+> **Rumour / unconfirmed:** a stream clip shows a **dismemberment** on/off option, a **blood and gore** level and a **motion blur** setting. Source: [@SixthStarGTA on X](https://x.com/SixthStarGTA/status/2123021775684477299)
 
-> **Rumour / unconfirmed:** one player says aim assist feels very weak even when it is turned on. Source: https://x.com/MuyiwaOyinloye/status/2123023079806840935
+> **Rumour / unconfirmed:** one player says aim assist feels very weak even when it is turned on. Source: [@MuyiwaOyinloye on X](https://x.com/MuyiwaOyinloye/status/2123023079806840935)
 
 - **HDR tip from a player:** one post says to turn HDR off. That is one person's opinion. Rockstar says the game was made for both HDR and SDR. Our tip: run **Adjust HDR** first (Step 2). Turn HDR off only if the picture still looks wrong on your TV.
 
@@ -170,7 +170,7 @@ No. Rockstar says the vignette (darker corners) is an art choice with no toggle.
 
 | Date | What changed |
 |---|---|
-| 2026-11-18 17:20 CET | Added the settings menu list from DayOne and Space4Games (aim, motion blur, music, accessibility). |
+| 2026-11-18 17:09 CET | Added the settings menu list from DayOne and Space4Games (aim, motion blur, music, accessibility). |
 | 2026-11-18 13:15 CET | Added Rockstar's resolution and HDR answers (via Wccftech), the no-toggle vignette note, and early player reports about the settings menu. |
 
 ### Can I change the controller buzz?
