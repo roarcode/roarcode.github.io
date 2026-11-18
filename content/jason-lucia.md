@@ -40,8 +40,8 @@ qa: live-review
 - **Relationship:** a story choice. See the spoiler box below.
 - **Voice cast:** we have not verified an official cast list. Do not treat press mentions as final.
 
-![Jason and Lucia switch screen](TODO: image:jason-lucia-step-1 — menu screen, only after launch: the character switch prompt; before launch use Designer's own art of two silhouettes)
-*Caption: Menu screen. How the switch between Jason and Lucia looks, once we can show it.*
+![Official GTA 6 key art of Jason and Lucia](TODO: image:jason-lucia-step-1 — official key art Jason and Lucia 01)
+*Caption: Jason and Lucia, the two main characters you play. Image: Rockstar Games ([source](https://www.rockstargames.com/VI/media/artwork-wallpapers)).*
 
 ## The setup, in one line
 

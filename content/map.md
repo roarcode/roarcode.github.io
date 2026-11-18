@@ -54,8 +54,8 @@ qa: live-review
 
 Rockstar says a double-sided paper poster is also on the Rockstar Store for **$0.99**, or free with any Rockstar Store purchase after launch (USA Today, VGC). *VGC says the map goes live on launch day. USA Today (9 Nov 2026) described it as already available. Check the Rockstar site before you link to it.*
 
-![rockstargames.com/VI page area where the map download sits](TODO: image:map-step-1 — step screenshot (own screenshot, credit Rockstar): the VI page with the printable map link highlighted, after it goes live)
-*Caption: Step screenshot. Where the free printable map is on the official site.*
+![Official GTA 6 screenshot of the Leonida Keys, sunny islands and blue sea](TODO: image:map-step-1 — official press screenshot Leonida Keys 01)
+*Caption: The Leonida Keys, one part of the GTA 6 map. Image: Rockstar Games ([source](https://www.rockstargames.com/VI/media/screenshots)).*
 
 ## Weather and wildlife
 
