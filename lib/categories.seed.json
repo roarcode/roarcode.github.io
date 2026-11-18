@@ -114,5 +114,21 @@
       "playstation",
       "ps5-settings-guide"
     ]
+  },
+  {
+    "slug": "leaks",
+    "name": "Leaks & Rumors",
+    "short": "Leaks",
+    "icon": "eye",
+    "description": "Unconfirmed GTA VI leaks and rumours, clearly labelled, sourced and kept separate from verified guides.",
+    "aliases": [
+      "leak",
+      "rumors",
+      "rumours",
+      "rumor",
+      "rumour",
+      "leaks-and-rumors",
+      "leaks-rumors"
+    ]
   }
 ]

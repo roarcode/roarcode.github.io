@@ -30,7 +30,7 @@ eleventyExcludeFromCollections: true
         <span aria-hidden="true">·</span>
         <span>{{ item.readingMinutes }} min read</span>
       </p>
-      <p class="article__byline">By <span class="article__author">{{ item.author }}</span> <span class="article__ai" title="Drafted with AI assistance and checked by a human editor before publishing">· {{ site.aiDisclosure }}</span> <a class="article__ai-link" href="{{ '/about/' | url }}">How we work</a></p>
+      <p class="article__byline">By <span class="article__author">{{ item.author }}</span> <span class="article__ai">· {{ site.aiDisclosure }}</span> <a class="article__ai-link" href="{{ '/about/' | url }}">How we work</a></p>
       {%- if item.hasDescription %}<p class="article__lead">{{ item.description }}</p>{% endif %}
       {%- if item.answerHtml %}
       <section class="key-answer" aria-label="Quick answer">
