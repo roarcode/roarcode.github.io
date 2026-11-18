@@ -1292,8 +1292,8 @@
     "file": "gta-6-bigfoot-location-step-2.webp",
     "width": 1200,
     "height": 675,
-    "bytes": 27830,
-    "alt": "Our diagram: How to look. Go to the lake area. Listen for a growl. Follow the sound. Look for footprints. Not a game screenshot.",
+    "bytes": 29680,
+    "alt": "Our diagram: How to look. Drive to the lake and marsh area. Listen for the growl. Follow the sound. Go on foot: When the road ends. Not a game screenshot.",
     "type": "step-card"
   },
   "gta-6-bigfoot-location-step-3": {
@@ -1308,24 +1308,24 @@
     "file": "gta-6-collectible-cards-step-1.webp",
     "width": 1200,
     "height": 675,
-    "bytes": 24558,
-    "alt": "Our diagram: Card sets. Cards in the game: 480. Sets: 18. Sets needed for 100%: 15. Not a game screenshot.",
+    "bytes": 30318,
+    "alt": "Our diagram: Card sets: what is confirmed. Cards in the game: 480. Sets: 18. Sets needed for 100%: 15. Not a game screenshot.",
     "type": "bar-chart"
   },
   "gta-6-collectible-cards-step-2": {
     "file": "gta-6-collectible-cards-step-2.webp",
     "width": 1200,
     "height": 675,
-    "bytes": 29636,
-    "alt": "Our diagram: Where cards hide. Phone box: Yellow phone boxes. Toolbox: Check them. Shelf: Look on shelves. Wall board: Look at boards. Not a game screenshot.",
+    "bytes": 31294,
+    "alt": "Our diagram: Where cards hide (unconfirmed). Indoors: On a surface or stuck to a wall. Outside: Yellow phone boxes on walls, tool boxes on surfaces. Not a game screenshot.",
     "type": "info-cards"
   },
   "gta-6-collectible-cards-step-3": {
     "file": "gta-6-collectible-cards-step-3.webp",
     "width": 1200,
     "height": 675,
-    "bytes": 32486,
-    "alt": "Our diagram: Progress > Collections > Collectible Cards. Progress: Open this first. Collections: Then this. Collectible Cards: Your sets. Not a game screenshot.",
+    "bytes": 29706,
+    "alt": "Our diagram: Menu path (unconfirmed). Progress: Open this first. Collections: Then this. Collectible Cards: Your sets. Not a game screenshot.",
     "type": "menu-mock"
   },
   "gta-6-dexter-apartment-location-step-1": {
@@ -1619,25 +1619,25 @@
   "gta-6-how-to-save-step-1": {
     "file": "gta-6-how-to-save-step-1.webp",
     "width": 1200,
-    "height": 770,
-    "bytes": 34312,
-    "alt": "Our diagram: Open the pause menu. Press Options (PS5) or Menu (Xbox), then choose Game. Not a game screenshot.",
+    "height": 800,
+    "bytes": 37510,
+    "alt": "Our diagram: Open the pause menu. Open the pause menu, then choose Game. Not a game screenshot.",
     "type": "controller"
   },
   "gta-6-how-to-save-step-2": {
     "file": "gta-6-how-to-save-step-2.webp",
     "width": 1200,
     "height": 675,
-    "bytes": 30618,
-    "alt": "Our diagram: Pause menu: Game > Save > slot. Game: Open this first. Save: Then choose Save. Slot: Pick a slot. Not a game screenshot.",
+    "bytes": 32268,
+    "alt": "Our diagram: Pause menu: Game > Save Game > slot. Game: Open this first. Save Game: Then choose this. Slot: Pick a slot. Not a game screenshot.",
     "type": "menu-mock"
   },
   "gta-6-how-to-save-step-3": {
     "file": "gta-6-how-to-save-step-3.webp",
     "width": 1200,
-    "height": 770,
-    "bytes": 35216,
-    "alt": "Our diagram: Spread your 15 save slots. Try: chapter start, chapter end, before a choice, free roam (16 boxes). Not a game screenshot.",
+    "height": 696,
+    "bytes": 36396,
+    "alt": "Our diagram: Spread your 15 save slots. Try: chapter start, chapter end, before a choice, free roam (15 boxes). Not a game screenshot.",
     "type": "save-slots"
   },
   "gta-6-how-to-steal-cars-step-1": {
@@ -1667,33 +1667,33 @@
   "gta-6-how-to-study-animals-step-1": {
     "file": "gta-6-how-to-study-animals-step-1.webp",
     "width": 1200,
-    "height": 770,
-    "bytes": 33592,
-    "alt": "Our diagram: Study an animal. Open the wheel, zoom with D-pad up, hold R1 / RB to study. Not a game screenshot.",
+    "height": 821,
+    "bytes": 39986,
+    "alt": "Our diagram: Study an animal (buttons unconfirmed). Reported: open the wheel, zoom with D-pad up, hold R1 / RB. Not a game screenshot.",
     "type": "controller"
   },
   "gta-6-how-to-study-animals-step-2": {
     "file": "gta-6-how-to-study-animals-step-2.webp",
     "width": 1200,
     "height": 675,
-    "bytes": 24258,
-    "alt": "Our diagram: Progress > Animals. Progress: Open. Animals: Studied so far. Not a game screenshot.",
+    "bytes": 30490,
+    "alt": "Our diagram: Progress > Animals (unconfirmed). Progress: Open. Animals: Studied so far. Not a game screenshot.",
     "type": "menu-mock"
   },
   "gta-6-how-to-study-animals-step-3": {
     "file": "gta-6-how-to-study-animals-step-3.webp",
     "width": 1200,
     "height": 675,
-    "bytes": 24026,
-    "alt": "Our diagram: Animals for 100%. Needed for 100%: 100. Total in game (PowerPyx): 255. Not a game screenshot.",
+    "bytes": 30802,
+    "alt": "Our diagram: Animals for 100%. Needed for 100% (Insider Gaming): 100. Total, Insider Gaming: Over 160. Total, PowerPyx (unconfirmed): 255. Not a game screenshot.",
     "type": "bar-chart"
   },
   "gta-6-military-base-mile-zero-step-1": {
     "file": "gta-6-military-base-mile-zero-step-1.webp",
     "width": 1200,
     "height": 675,
-    "bytes": 27856,
-    "alt": "Our diagram: Roughly where it is. Mile Zero Air Station: In the far southwest. Start area: Head there from Key Lento. Not a game screenshot.",
+    "bytes": 31144,
+    "alt": "Our diagram: Roughly where it is. Mile Zero Air Station: On Goose Key, Mariana County, in the southwest corner of the map. Getting there: By car, boat or aircraft. Not a game screenshot.",
     "type": "info-cards"
   },
   "gta-6-military-base-mile-zero-step-2": {
@@ -1763,9 +1763,9 @@
   "gta-6-phone-apps-step-1": {
     "file": "gta-6-phone-apps-step-1.webp",
     "width": 1200,
-    "height": 675,
-    "bytes": 28032,
-    "alt": "Our diagram: Seven phone apps. WAiNK. RydeMe. BuckMe. Scooter Bros. Snapmatic. Fitness. On Demand. Not a game screenshot.",
+    "height": 706,
+    "bytes": 35826,
+    "alt": "Our diagram: Six phone apps named by major outlets. WAiNK. RydeMe. BuckMe. Scooter Bros. Snapmatic. Fitness. Not a game screenshot.",
     "type": "info-cards"
   },
   "gta-6-phone-apps-step-2": {
@@ -1812,8 +1812,8 @@
     "file": "gta-6-robberies-guide-step-1.webp",
     "width": 1200,
     "height": 675,
-    "bytes": 26660,
-    "alt": "Our diagram: Shop security levels. Low: Easier job, smaller take. Medium: In between. High: Harder job, bigger take. Not a game screenshot.",
+    "bytes": 34294,
+    "alt": "Our diagram: Shop security levels. Low: No armed guards, few cameras or alarms. One character is enough. Medium: Robbing as a pair is much easier. High: Armed guards. Robbing as a pair is much easier. Not a game screenshot.",
     "type": "info-cards"
   },
   "gta-6-robberies-guide-step-2": {
@@ -1828,8 +1828,8 @@
     "file": "gta-6-robberies-guide-step-3.webp",
     "width": 1200,
     "height": 675,
-    "bytes": 29252,
-    "alt": "Our diagram: Bank layout (simple). Front: Main way in. Back or side door: Quieter way in. Vault: Where the big cash is. Cash truck: Parked outside. Not a game screenshot.",
+    "bytes": 42958,
+    "alt": "Our diagram: Bank tips. Back and side doors: Most banks have both. One is usually reinforced and needs an explosive. Marked bills and dye packs: Sell marked bills to a fence. A dye pack ruins cash if it leaves the building. Cloud icon on a camera: The footage is stored online, so you cannot destroy it. Vault: Details are in the closed box on the page. Not a game screenshot.",
     "type": "info-cards"
   },
   "gta-6-six-star-wanted-level-step-1": {

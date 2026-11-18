@@ -33,7 +33,7 @@ draft: true
 
 PC Gamer says Mile Zero Air Station is in **Mariana County, on Goose Key**, in the **southwest corner** of the map. It is on the big bridges to the southern keys. PC Gamer says it is a bit of a trip by car, boat or aircraft, but not very far from the first house you can use in Key Lento.
 
-![Our diagram: Roughly where it is. Mile Zero Air Station: In the far southwest. Start area: Head there from Key Lento. Not a game screenshot.](TODO: image:gta-6-military-base-mile-zero-step-1 — diagram, our own art: Roughly where it is, see the spec)
+![Our diagram: Roughly where it is. Mile Zero Air Station: On Goose Key, Mariana County, in the southwest corner of the map. Getting there: By car, boat or aircraft. Not a game screenshot.](TODO: image:gta-6-military-base-mile-zero-step-1 — diagram, our own art: Roughly where it is, see the spec)
 *Caption: Diagram. The base sits in the far southwest, drawn by us from PC Gamer's description.*
 
 ## What is inside?

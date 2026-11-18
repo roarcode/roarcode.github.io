@@ -1,6 +1,6 @@
 {
   "type": "info-cards",
-  "alt": "Our diagram: Roughly where it is. Mile Zero Air Station: In the far southwest. Start area: Head there from Key Lento. Not a game screenshot.",
+  "alt": "Our diagram: Roughly where it is. Mile Zero Air Station: On Goose Key, Mariana County, in the southwest corner of the map. Getting there: By car, boat or aircraft. Not a game screenshot.",
   "data": {
     "category": "vehicles",
     "title": "Roughly where it is",
@@ -9,16 +9,16 @@
     "cards": [
       {
         "title": "Mile Zero Air Station",
-        "body": "In the far southwest.",
+        "body": "On Goose Key, Mariana County, in the southwest corner of the map.",
         "status": "none"
       },
       {
-        "title": "Start area",
-        "body": "Head there from Key Lento.",
+        "title": "Getting there",
+        "body": "By car, boat or aircraft.",
         "status": "none"
       }
     ],
-    "note": "A rough description, not an exact pin or the game's map. Sources are on the page.",
+    "note": "As described by PC Gamer. A rough description, not an exact pin or the game's map.",
     "banner": "Our diagram, not a game screenshot"
   }
 }

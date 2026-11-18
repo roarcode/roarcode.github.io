@@ -1,9 +1,9 @@
 {
   "type": "menu-mock",
-  "alt": "Our diagram: Pause menu: Game > Save > slot. Game: Open this first. Save: Then choose Save. Slot: Pick a slot. Not a game screenshot.",
+  "alt": "Our diagram: Pause menu: Game > Save Game > slot. Game: Open this first. Save Game: Then choose this. Slot: Pick a slot. Not a game screenshot.",
   "data": {
     "category": "beginner",
-    "title": "Pause menu: Game > Save > slot",
+    "title": "Pause menu: Game > Save Game > slot",
     "panel_title": "Pause menu",
     "platform": "PS5 / Xbox",
     "rows": [
@@ -13,8 +13,8 @@
         "highlight": true
       },
       {
-        "label": "Save",
-        "value": "Then choose Save",
+        "label": "Save Game",
+        "value": "Then choose this",
         "highlight": true
       },
       {
@@ -22,6 +22,6 @@
         "value": "Pick a slot"
       }
     ],
-    "note": "Steps as reported by KeenGamer, 18 Nov 2026. Illustration, not a screenshot."
+    "note": "Steps from PC Gamer, 18 Nov 2026. Illustration, not a screenshot."
   }
 }

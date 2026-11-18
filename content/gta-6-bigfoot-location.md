@@ -61,8 +61,8 @@ Insider Gaming says you will know you are in the right area when you hear a deep
 3. Follow the sound.
 4. Go on foot when the road ends.
 
-![Our diagram: How to look. Go to the lake area. Listen for a growl. Follow the sound. Look for footprints. Not a game screenshot.](TODO: image:gta-6-bigfoot-location-step-2 — diagram, our own art: How to look, see the spec)
-*Caption: Diagram. Listen for the growl as you reach the lake area.*
+![Our diagram: How to look. Drive to the lake and marsh area. Listen for the growl. Follow the sound. Go on foot: When the road ends. Not a game screenshot.](TODO: image:gta-6-bigfoot-location-step-2 — diagram, our own art: How to look, see the spec)
+*Caption: Diagram. Listen for the growl as you reach the lake area, then go on foot when the road ends.*
 
 :::spoiler What happens when you find him? (reveals an easter egg encounter)
 GameRant says Bigfoot is eating a deer carcass up a footpath, and the encounter forces you off your vehicle to chase him into the woods. It says you cannot catch him and your bullets will not hurt him.

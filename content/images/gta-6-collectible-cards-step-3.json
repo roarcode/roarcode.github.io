@@ -1,9 +1,9 @@
 {
   "type": "menu-mock",
-  "alt": "Our diagram: Progress > Collections > Collectible Cards. Progress: Open this first. Collections: Then this. Collectible Cards: Your sets. Not a game screenshot.",
+  "alt": "Our diagram: Menu path (unconfirmed). Progress: Open this first. Collections: Then this. Collectible Cards: Your sets. Not a game screenshot.",
   "data": {
     "category": "collectibles",
-    "title": "Progress > Collections > Collectible Cards",
+    "title": "Menu path (unconfirmed)",
     "panel_title": "Progress",
     "platform": "Menu",
     "rows": [
@@ -22,6 +22,6 @@
         "value": "Your sets"
       }
     ],
-    "note": "Menu path as reported on the page. Our illustration."
+    "note": "Path reported by PowerPyx only. Our illustration, not a screenshot."
   }
 }

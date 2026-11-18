@@ -1,6 +1,6 @@
 {
   "type": "info-cards",
-  "alt": "Our diagram: Shop security levels. Low: Easier job, smaller take. Medium: In between. High: Harder job, bigger take. Not a game screenshot.",
+  "alt": "Our diagram: Shop security levels. Low: No armed guards, few cameras or alarms. One character is enough. Medium: Robbing as a pair is much easier. High: Armed guards. Robbing as a pair is much easier. Not a game screenshot.",
   "data": {
     "category": "money",
     "title": "Shop security levels",
@@ -9,21 +9,21 @@
     "cards": [
       {
         "title": "Low",
-        "body": "Easier job, smaller take.",
+        "body": "No armed guards, few cameras or alarms. One character is enough.",
         "status": "none"
       },
       {
         "title": "Medium",
-        "body": "In between.",
+        "body": "Robbing as a pair is much easier.",
         "status": "none"
       },
       {
         "title": "High",
-        "body": "Harder job, bigger take.",
+        "body": "Armed guards. Robbing as a pair is much easier.",
         "status": "none"
       }
     ],
-    "note": "Press Triangle (PS5) or Y (Xbox) to invite your partner. Our illustration.",
+    "note": "Per GameSpot, 18 Nov 2026. Press Triangle (PS5) or Y (Xbox) to invite your partner. Our illustration.",
     "banner": "Our diagram, not a game screenshot"
   }
 }

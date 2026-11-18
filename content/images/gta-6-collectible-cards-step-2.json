@@ -1,34 +1,24 @@
 {
   "type": "info-cards",
-  "alt": "Our diagram: Where cards hide. Phone box: Yellow phone boxes. Toolbox: Check them. Shelf: Look on shelves. Wall board: Look at boards. Not a game screenshot.",
+  "alt": "Our diagram: Where cards hide (unconfirmed). Indoors: On a surface or stuck to a wall. Outside: Yellow phone boxes on walls, tool boxes on surfaces. Not a game screenshot.",
   "data": {
     "category": "collectibles",
-    "title": "Where cards hide",
-    "cols": 4,
-    "card_height": 220,
+    "title": "Where cards hide (unconfirmed)",
+    "cols": 2,
+    "card_height": 230,
     "cards": [
       {
-        "title": "Phone box",
-        "body": "Yellow phone boxes.",
+        "title": "Indoors",
+        "body": "On a surface or stuck to a wall.",
         "status": "none"
       },
       {
-        "title": "Toolbox",
-        "body": "Check them.",
-        "status": "none"
-      },
-      {
-        "title": "Shelf",
-        "body": "Look on shelves.",
-        "status": "none"
-      },
-      {
-        "title": "Wall board",
-        "body": "Look at boards.",
+        "title": "Outside",
+        "body": "Yellow phone boxes on walls, tool boxes on surfaces.",
         "status": "none"
       }
     ],
-    "note": "Our drawing, not a game screenshot. Sources are on the page.",
+    "note": "Early reports from Bloxodes and PowerPyx. Not yet confirmed by a major outlet.",
     "banner": "Our diagram, not a game screenshot"
   }
 }

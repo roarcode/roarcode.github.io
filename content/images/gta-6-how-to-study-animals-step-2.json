@@ -1,9 +1,9 @@
 {
   "type": "menu-mock",
-  "alt": "Our diagram: Progress > Animals. Progress: Open. Animals: Studied so far. Not a game screenshot.",
+  "alt": "Our diagram: Progress > Animals (unconfirmed). Progress: Open. Animals: Studied so far. Not a game screenshot.",
   "data": {
     "category": "collectibles",
-    "title": "Progress > Animals",
+    "title": "Progress > Animals (unconfirmed)",
     "panel_title": "Progress",
     "rows": [
       {
@@ -17,6 +17,6 @@
         "highlight": true
       }
     ],
-    "note": "Our illustration, not an in-game screenshot."
+    "note": "Path from PowerPyx only. GamesRadar says studied animals go to your compendium. Our illustration."
   }
 }

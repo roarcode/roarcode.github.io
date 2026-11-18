@@ -1,34 +1,34 @@
 {
   "type": "info-cards",
-  "alt": "Our diagram: Bank layout (simple). Front: Main way in. Back or side door: Quieter way in. Vault: Where the big cash is. Cash truck: Parked outside. Not a game screenshot.",
+  "alt": "Our diagram: Bank tips. Back and side doors: Most banks have both. One is usually reinforced and needs an explosive. Marked bills and dye packs: Sell marked bills to a fence. A dye pack ruins cash if it leaves the building. Cloud icon on a camera: The footage is stored online, so you cannot destroy it. Vault: Details are in the closed box on the page. Not a game screenshot.",
   "data": {
     "category": "money",
-    "title": "Bank layout (simple)",
+    "title": "Bank tips",
     "cols": 4,
-    "card_height": 230,
+    "card_height": 290,
     "cards": [
       {
-        "title": "Front",
-        "body": "Main way in.",
+        "title": "Back and side doors",
+        "body": "Most banks have both. One is usually reinforced and needs an explosive.",
         "status": "none"
       },
       {
-        "title": "Back or side door",
-        "body": "Quieter way in.",
+        "title": "Marked bills and dye packs",
+        "body": "Sell marked bills to a fence. A dye pack ruins cash if it leaves the building.",
+        "status": "none"
+      },
+      {
+        "title": "Cloud icon on a camera",
+        "body": "The footage is stored online, so you cannot destroy it.",
         "status": "none"
       },
       {
         "title": "Vault",
-        "body": "Where the big cash is.",
-        "status": "none"
-      },
-      {
-        "title": "Cash truck",
-        "body": "Parked outside.",
+        "body": "Details are in the closed box on the page.",
         "status": "none"
       }
     ],
-    "note": "A simplified layout, not the game's map. Sources are on the page.",
+    "note": "Per GameSpot's guide, 18 Nov 2026. Our drawing, not a game screenshot.",
     "banner": "Our diagram, not a game screenshot"
   }
 }

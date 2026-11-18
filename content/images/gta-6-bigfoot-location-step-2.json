@@ -1,6 +1,6 @@
 {
   "type": "step-card",
-  "alt": "Our diagram: How to look. Go to the lake area. Listen for a growl. Follow the sound. Look for footprints. Not a game screenshot.",
+  "alt": "Our diagram: How to look. Drive to the lake and marsh area. Listen for the growl. Follow the sound. Go on foot: When the road ends. Not a game screenshot.",
   "data": {
     "category": "collectibles",
     "title": "How to look",
@@ -8,16 +8,17 @@
     "card_height": 230,
     "steps": [
       {
-        "title": "Go to the lake area"
+        "title": "Drive to the lake and marsh area"
       },
       {
-        "title": "Listen for a growl"
+        "title": "Listen for the growl"
       },
       {
         "title": "Follow the sound"
       },
       {
-        "title": "Look for footprints"
+        "title": "Go on foot",
+        "body": "When the road ends."
       }
     ],
     "note": "Our drawing, not a game screenshot. Sources are on the page.",

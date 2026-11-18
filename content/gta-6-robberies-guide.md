@@ -34,7 +34,7 @@ GameSpot says to open the map and look at the store's **security level** first. 
 
 GameSpot says that in the starting area, apart from the bank, every shop has a **low** security level. That means no armed guards and few cameras or alarms. Low shops usually need only one character. For Medium or High, robbing as a pair is much easier. GameSpot says you can invite your partner by pressing **Triangle** (PS5) or **Y** (Xbox) on the map icon.
 
-![Our diagram: Shop security levels. Low: Easier job, smaller take. Medium: In between. High: Harder job, bigger take. Not a game screenshot.](TODO: image:gta-6-robberies-guide-step-1 — diagram, our own art: Shop security levels, see the spec)
+![Our diagram: Shop security levels. Low: No armed guards, few cameras or alarms. One character is enough. Medium: Robbing as a pair is much easier. High: Armed guards. Robbing as a pair is much easier. Not a game screenshot.](TODO: image:gta-6-robberies-guide-step-1 — diagram, our own art: Shop security levels, see the spec)
 *Caption: Diagram. Check the security level before you walk in, drawn by us.*
 
 ## The five steps, in order (GameSpot)
@@ -86,8 +86,8 @@ GameSpot's other bank tips:
 GameSpot says vaults cannot be picked or blown open. You wait for an armoured cash truck. When a worker leaves the truck, the vault is open for a short time. GameSpot says to follow a truck you see, or get tips on truck locations from a fence you meet in Chapter 3.
 :::
 
-![Our diagram: Bank layout (simple). Front: Main way in. Back or side door: Quieter way in. Vault: Where the big cash is. Cash truck: Parked outside. Not a game screenshot.](TODO: image:gta-6-robberies-guide-step-3 — diagram, our own art: Bank layout (simple), see the spec)
-*Caption: Diagram. The parts of a bank job, drawn by us from GameSpot's guide.*
+![Our diagram: Bank tips. Back and side doors: Most banks have both. One is usually reinforced and needs an explosive. Marked bills and dye packs: Sell marked bills to a fence. A dye pack ruins cash if it leaves the building. Cloud icon on a camera: The footage is stored online, so you cannot destroy it. Vault: Details are in the closed box on the page. Not a game screenshot.](TODO: image:gta-6-robberies-guide-step-3 — diagram, our own art: Bank tips, see the spec)
+*Caption: Diagram. Bank tips from GameSpot's guide, drawn by us.*
 
 ## Getting away
 

@@ -1,23 +1,28 @@
 {
   "type": "bar-chart",
-  "alt": "Our diagram: Animals for 100%. Needed for 100%: 100. Total in game (PowerPyx): 255. Not a game screenshot.",
+  "alt": "Our diagram: Animals for 100%. Needed for 100% (Insider Gaming): 100. Total, Insider Gaming: Over 160. Total, PowerPyx (unconfirmed): 255. Not a game screenshot.",
   "data": {
     "category": "collectibles",
     "title": "Animals for 100%",
     "bars": [
       {
-        "label": "Needed for 100%",
+        "label": "Needed for 100% (Insider Gaming)",
         "value": 100,
         "display": "100"
       },
       {
-        "label": "Total in game (PowerPyx)",
+        "label": "Total, Insider Gaming",
+        "value": 160,
+        "display": "Over 160"
+      },
+      {
+        "label": "Total, PowerPyx (unconfirmed)",
         "value": 255,
         "display": "255"
       }
     ],
     "max": 255,
-    "note": "100 animals fills the bar for 100% (PowerPyx).",
+    "note": "Totals disagree. GamesRadar counts more than 170 species. Our chart.",
     "banner": "Our diagram, not a game screenshot"
   }
 }

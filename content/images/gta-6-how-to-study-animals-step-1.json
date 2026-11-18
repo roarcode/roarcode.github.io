@@ -1,13 +1,13 @@
 {
   "type": "controller",
-  "alt": "Our diagram: Study an animal. Open the wheel, zoom with D-pad up, hold R1 / RB to study. Not a game screenshot.",
+  "alt": "Our diagram: Study an animal (buttons unconfirmed). Reported: open the wheel, zoom with D-pad up, hold R1 / RB. Not a game screenshot.",
   "data": {
     "category": "collectibles",
-    "title": "Study an animal",
+    "title": "Study an animal (buttons unconfirmed)",
     "banner": "Our diagram, not a game screenshot",
     "controllers": [
       {
-        "label": "L1 wheel · D-pad up zoom · hold R1 / RB",
+        "label": "Reported: L1 wheel · D-pad up zoom · hold R1 / RB",
         "l": "L1",
         "r": "R1 / RB"
       }
@@ -16,7 +16,7 @@
       "dpad-up",
       "right-shoulder"
     ],
-    "callout": "Open the wheel, zoom with D-pad up, hold R1 / RB to study.",
-    "note": "Buttons as reported by PowerPyx and Beebom, 18 Nov 2026."
+    "callout": "Reported: open the wheel, zoom with D-pad up, hold R1 / RB.",
+    "note": "Buttons from PowerPyx and Beebom only. Not yet confirmed by a major outlet."
   }
 }
