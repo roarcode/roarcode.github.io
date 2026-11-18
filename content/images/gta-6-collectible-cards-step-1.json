@@ -1,27 +1,9 @@
 {
-  "type": "bar-chart",
-  "alt": "Our diagram: Card sets: what is confirmed. Cards in the game: 480. Sets: 18. Sets needed for 100%: 15. Not a game screenshot.",
+  "type": "compare-table",
+  "alt": "Our diagram: Card sets: what is confirmed. Sets for Don't Touch My Deck / 3 / PC Gamer, GamesRadar. Sets for 100% / 15 / Insider Gaming. Total sets / 18 (unconfirmed) / PowerPyx, Bloxodes. Not a game screenshot.",
   "data": {
     "category": "collectibles",
     "title": "Card sets: what is confirmed",
-    "bars": [
-      {
-        "label": "Cards in the game",
-        "value": 480,
-        "display": "480"
-      },
-      {
-        "label": "Sets",
-        "value": 18,
-        "display": "18"
-      },
-      {
-        "label": "Sets needed for 100%",
-        "value": 15,
-        "display": "15"
-      }
-    ],
-    "max": 480,
     "note": "Only the first two rows are confirmed by major outlets. Our table, not a game screenshot.",
     "banner": "Our diagram, not a game screenshot",
     "columns": [

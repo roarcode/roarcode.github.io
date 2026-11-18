@@ -1308,9 +1308,9 @@
     "file": "gta-6-collectible-cards-step-1.webp",
     "width": 1200,
     "height": 675,
-    "bytes": 30318,
-    "alt": "Our diagram: Card sets: what is confirmed. Cards in the game: 480. Sets: 18. Sets needed for 100%: 15. Not a game screenshot.",
-    "type": "bar-chart"
+    "bytes": 34728,
+    "alt": "Our diagram: Card sets: what is confirmed. Sets for Don't Touch My Deck / 3 / PC Gamer, GamesRadar. Sets for 100% / 15 / Insider Gaming. Total sets / 18 (unconfirmed) / PowerPyx, Bloxodes. Not a game screenshot.",
+    "type": "compare-table"
   },
   "gta-6-collectible-cards-step-2": {
     "file": "gta-6-collectible-cards-step-2.webp",
@@ -1668,7 +1668,7 @@
     "file": "gta-6-how-to-study-animals-step-1.webp",
     "width": 1200,
     "height": 821,
-    "bytes": 39986,
+    "bytes": 37768,
     "alt": "Our diagram: Study an animal (buttons unconfirmed). Reported: open the wheel, zoom with D-pad up, hold R1 / RB. Not a game screenshot.",
     "type": "controller"
   },

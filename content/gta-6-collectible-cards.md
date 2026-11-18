@@ -44,7 +44,7 @@ draft: true
 
 GamesRadar lists Don't Touch My Deck as Silver / 30G. Neither outlet gives the total number of cards or sets.
 
-![Our diagram: Card sets: what is confirmed. Cards in the game: 480. Sets: 18. Sets needed for 100%: 15. Not a game screenshot.](TODO: image:gta-6-collectible-cards-step-1 — diagram, our own art: Card sets: what is confirmed, see the spec)
+![Our diagram: Card sets: what is confirmed. Sets for Don't Touch My Deck / 3 / PC Gamer, GamesRadar. Sets for 100% / 15 / Insider Gaming. Total sets / 18 (unconfirmed) / PowerPyx, Bloxodes. Not a game screenshot.](TODO: image:gta-6-collectible-cards-step-1 — diagram, our own art: Card sets: what is confirmed, see the spec)
 *Caption: Diagram. What major outlets confirm. The total of 18 sets is an unconfirmed report.*
 
 ## Early reports: not yet confirmed by a major outlet

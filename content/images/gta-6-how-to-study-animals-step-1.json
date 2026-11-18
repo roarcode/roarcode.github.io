@@ -7,7 +7,7 @@
     "banner": "Our diagram, not a game screenshot",
     "controllers": [
       {
-        "label": "Reported: L1 wheel · D-pad up zoom · hold R1 / RB",
+        "label": "Unconfirmed buttons",
         "l": "L1",
         "r": "R1 / RB"
       }
