@@ -1,12 +1,12 @@
 ---
-title: "GTA 6 Enterable Buildings: Dark Blue, Light Blue, Hidden Rooms"
+title: "GTA 6 Enterable Buildings: Dark Blue Means Enter"
 title_alts:
   - "How to Tell Which GTA 6 Buildings You Can Enter (Map Colours)"
   - "GTA 6 Hidden Rooms: Minimap and Focus Mode Door Tricks"
   - "GTA 6 Interiors: 4 Tips to Find Every Door"
 slug: gta-6-enterable-buildings
 category: beginner
-description: "Which GTA 6 buildings can you enter? Dark blue on the map means yes. Learn the minimap door line, Focus Mode door colours and hidden room clues. PS5 and Xbox."
+description: "Which GTA 6 buildings can you enter? Dark blue on the map means yes. Learn the minimap door line, Focus Mode door colours and hidden room clues."
 sources:
   - https://www.videogameschronicle.com/guide/gta-6-beginners-guide-6-tips-you-need-to-know-before-starting-gta-6/
   - https://www.gamespot.com/articles/gta-6-tips-everything-i-wish-i-knew-before-i-started-playing/
@@ -19,7 +19,7 @@ qa: pending
 draft: true
 ---
 
-# GTA 6 Enterable Buildings: Dark Blue, Light Blue, Hidden Rooms
+# GTA 6 Enterable Buildings: Dark Blue Means Enter
 
 > - **Quick answer:** on the world map, **dark blue** buildings can be entered. **Light blue** ones cannot (VGC).
 > - **Doors:** get close and the minimap shows the way in, usually marked with a **white line** (VGC).
@@ -65,7 +65,7 @@ GameSpot says that if you open your map while you are inside a building you can 
 
 ## Why this matters
 
-GameSpot's robbery guide says back doors can let you get into a shop without kicking in the front door and setting off the alarm. For money ideas see [how to make money fast in GTA 6](/money/gta-6-how-to-make-money-fast/).
+GameSpot's robbery guide says that, with a lock tool you unlock later in the story, you can sneak in through a back door without setting off the alarm. For money ideas see [how to make money fast in GTA 6](/money/gta-6-how-to-make-money-fast/).
 
 ![minimap with white door line and hidden staircase icon](TODO: image:gta-6-enterable-buildings-step-3 — diagram, our own art: a minimap circle with a white line at a door and a small staircase symbol in a back room)
 *Caption: Diagram. The white line shows the door. Hidden rooms show up when you get close.*

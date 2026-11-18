@@ -76,6 +76,9 @@ GameSpot says to click **both thumbsticks** to turn on Focus Mode. With a gun in
 VGC says you can get a quick Focus buff early by feeding Jason's pet snake. Watch it eat.
 :::
 
+![fitness ring and protein shake for locking in gym gains](TODO: image:gta-6-health-stamina-focus-step-3 — diagram, our own art: a fitness ring closing, an arrow to a protein shake, then a lock icon labelled Lock in your gains)
+*Caption: Diagram. Close your fitness ring, then eat or drink to lock in the gains (GameSpot).*
+
 ## FAQ
 
 ### What are the three stats in GTA 6?

@@ -2,7 +2,7 @@
 title: "GTA 6 Easter Eggs: 5 Secrets Found So Far (Spoilers)"
 title_alts:
   - "GTA 6 Easter Eggs and Where to Find Them (Minor Spoilers)"
-  - "GTA 6 Secrets: Red Dead, Dexter and a Very Tall Tower"
+  - "GTA 6 Secrets: 5 Easter Eggs and Where They Hide"
   - "Every GTA 6 Easter Egg Players Found on Day One"
 slug: gta-6-easter-eggs
 category: collectibles
@@ -21,7 +21,7 @@ draft: true
 
 # GTA 6 Easter Eggs: 5 Secrets Found So Far (Spoilers)
 
-> - **Quick answer:** GameSpot's list has **5 easter eggs** so far, from Red Dead reminders to a tower in Vice City.
+> - **Quick answer:** GameSpot's list has **5 easter eggs** so far.
 > - **GameSpot says there are many more.** It is adding to its list as players find them.
 > - **Every egg is in a closed box.** Open only the ones you want.
 

@@ -23,7 +23,7 @@ draft: true
 
 > - **Quick answer:** in theory yes, GameSpot says you can play from start to finish without killing anyone. It is "just incredibly difficult".
 > - **How:** aim at **joints and limbs** to injure. Head and heart shots kill (GameSpot).
-> - **Why bother:** the game keeps a **criminal profile** that changes how your partner and the world act (GameSpot).
+> - **Why bother:** the game keeps a **criminal profile**. GameSpot says a violent Lucia acts more violently when you are not controlling her. Games.gg says it also changes how NPCs and police react.
 
 **Words used on this page.** *Non-lethal* means not killing. *Hit marker* is the little mark that shows you hit someone. *Criminal profile* is the game's record of how violent you are. *Joint* is a body part that bends, like a knee or elbow. *Pursuing* means chasing.
 

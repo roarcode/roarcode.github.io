@@ -90,7 +90,7 @@ draft: true
 
 ## Tips to get started
 
-1. Finish the story first. Nothing needed for 100% is lost by doing that (Insider Gaming says the list opens after the credits).
+1. Play the story first. The checklist only shows up after the credits (Insider Gaming).
 2. Scan cars as you go. See [how to scan cars in GTA 6](/cars/gta-6-how-to-scan-cars/).
 3. Make several manual saves. See [the trophy list](/collectibles/gta-6-trophy-list/).
 4. Count your card sets in Progress, Collections, Collectible Cards (PowerPyx).

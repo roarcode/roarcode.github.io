@@ -23,7 +23,7 @@ draft: true
 
 # GTA 6 Bigfoot Location: Where to Find Him (Spoiler-Light)
 
-> - **Quick answer:** GameRant and Insider Gaming both put Bigfoot near **Cottonmouth Lake**, south of Hamlet. You can go after your first mission (GameRant).
+> - **Quick answer:** GameRant and Insider Gaming both put Bigfoot at **Cottonmouth Lake**. Insider Gaming says it is just below Hamlet. You can go after your first mission (GameRant).
 > - **Clue:** you hear a **deep, guttural growl** when you are close (Insider Gaming).
 > - **The outlets do not all agree on the exact spot**, so read the list below.
 
@@ -67,7 +67,7 @@ Insider Gaming says you will know you are in the right area when you hear a deep
 :::spoiler What happens when you find him? (reveals an easter egg encounter)
 GameRant says Bigfoot is eating a deer carcass up a footpath, and the encounter forces you off your vehicle to chase him into the woods. It says you cannot catch him and your bullets will not hurt him.
 
-Insider Gaming found him on the road standing over an animal and says he quickly runs off into the marshland. Both outlets say there is a strange effigy tied to a tree nearby. GameRant says it looks human. GameRant says inspecting it makes you fall unconscious and Bigfoot takes you back to your vehicle. Insider Gaming blames flowers nearby and says you see his big hairy feet in a short cutscene.
+Insider Gaming found him on the road standing over an animal and says he quickly runs off into the marshland. Insider Gaming says a strange effigy is tied to a nearby tree. GameRant says that further into the woods, at a marked spot, there is what seems to be a human effigy, and that inspecting it makes you fall unconscious and Bigfoot takes you back to your vehicle. Insider Gaming blames flowers nearby and says you see his big hairy feet in a short cutscene.
 
 Both GameRant and Insider Gaming say there may be more to this. GameSpot's easter egg list says Bigfoot is unmissable because of a particular mission, so GameSpot sees it as a mission moment, not only a secret.
 :::
