@@ -79,7 +79,7 @@ export default function (eleventyConfig) {
       fs.writeFileSync(mf, JSON.stringify(m, null, 2));
     }
 
-    generateOgImages(content, assets);
+    await generateOgImages(content, assets);
 
     const s = content.summary;
     console.log(`[build] ${s.guides} guides, ${s.pages} pages, ${content.categories.length} categories · ${s.placeholders} placeholder · ${s.rumours} rumour · warnings: ${s.warnings.length}, errors: ${s.errors.length}`);

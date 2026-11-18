@@ -23,7 +23,7 @@ for (const f of pages) {
   const og = h.match(/property="og:image" content="https?:\/\/[^/]+(?:\/[^/"]+)*?(\/og\/[^"]+)"/);
   if (og && !fs.existsSync(path.join(root, og[1]))) fail.push(`${rel}: og:image file missing (${og[1]})`);
 }
-for (const f of ["sitemap.xml", "robots.txt", "feed.xml", "pagefind/pagefind.js", "pagefind/pagefind-entry.json", "og/default.png", "404.html", "index.html", "search/index.html"]) if (!fs.existsSync(path.join(root, f))) fail.push(`missing ${f}`);
+for (const f of ["sitemap.xml", "robots.txt", "feed.xml", "pagefind/pagefind.js", "pagefind/pagefind-entry.json", "og/default.jpg", "404.html", "index.html", "search/index.html"]) if (!fs.existsSync(path.join(root, f))) fail.push(`missing ${f}`);
 console.log(`checked ${pages.length} pages, ${ld} JSON-LD blocks`);
 if (fail.length) { console.error("FAIL\n" + fail.join("\n")); process.exit(1); }
 console.log("OK");
