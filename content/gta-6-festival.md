@@ -15,10 +15,11 @@ sources:
   - https://www.miaminewtimes.com/music/travis-scott-cardi-b-and-justice-to-play-grand-theft-auto-vi-the-festival-in-wynwood-40596920/
   - https://www.22miami.com/article/gta-vi-festival-travis-scott-cardi-b-mana-wynwood
   - https://www.miamiandbeaches.com/event/grand-theft-auto-the-festival/43920
+  - https://x.com/RockstarGames/status/2123068976045453338
 updated: 2026-11-18
 status: prelaunch
 spoilers: none
-qa: passed
+qa: live-review
 ---
 
 # GTA 6 Festival Miami: Date, Lineup, Tickets (2026)
@@ -77,7 +78,14 @@ These artists were announced by Rockstar (as listed by Miami New Times and 22Mia
 
 *Back-to-back* means two DJs take turns on one set.
 
-Set times: **not announced** on the pages we checked.
+Set times: Rockstar posted them as a picture on X on 18 Nov. [See the set times on Rockstar's post](https://x.com/RockstarGames/status/2123068976045453338). We will type them out here after we check them.
+
+In the same post, Rockstar said two more things:
+
+- **The Store at Mana Wynwood** will sell special GTA VI gear.
+- **All money from ticket sales goes to local Miami charities.** A *charity* is a group that helps people for free.
+
+<blockquote class="twitter-tweet"><a href="https://x.com/RockstarGames/status/2123068976045453338"></a></blockquote>
 
 ![two stage icons with music notes](TODO: image:gta-6-festival-step-3 — diagram, Designer's original art: two simple stages side by side with music notes, no artist photos)
 *Caption: Diagram. The festival has two stages.*
