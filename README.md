@@ -63,7 +63,7 @@ Extra keys (e.g. `title_alts`, `status`) are ignored. Invalid files are skipped 
 
 - `spoilers: none|minor|major` → colour-coded badge ("Spoiler-free" green / "Minor spoilers" amber / "Major spoilers" red) first in every article and on every card/listing.
 - **Spoiler text never leaks:** description, OG/Twitter text, JSON-LD, cards, Atom feed and search excerpts are built from the HTML with every `:::spoiler` block removed (feed shows "Spoiler section hidden: <label>"); spoiler bodies are `data-pagefind-ignore`; headings inside spoilers are kept out of the table of contents. An invalid `spoilers:` value is treated as `major`.
-- Header **Show all spoilers** button (appears only with JS): off by default, remembered in `localStorage` (`lg-spoilers`), opens/closes every `details.spoiler`. Code: `src/js/spoilers.js`, styles: `src/css/45-spoilers.css`.
+- Header **Show all spoilers** button (appears only with JS): off by default, remembered in `localStorage` (`lg-spoilers`), opens/closes every `details.spoiler`. Code: `src/js/ui.js`, styles: `src/css/45-spoilers.css`.
 
 ## Leak coverage (early-player finds, datamines)
 
@@ -81,7 +81,7 @@ Template: `content/template-leak.md` (never published; copy it, set `status: liv
 
 - Every page: `<title>`, description, canonical, Open Graph, Twitter card, robots, JSON-LD `@graph` limited to Article/TechArticle (+ author, publisher, citations), BreadcrumbList on every page and WebSite+SearchAction on home. **No FAQPage / HowTo / other types.** `dateModified`/`datePublished` use exactly the same value as the visible `<time datetime>` (front-matter `updated`/`published`). Each article shows a byline + the AI disclosure from `site.aiDisclosure` ("Written with AI help and fact-checked against the cited sources."). Code: `lib/seo.js`.
 - **Last updated** is visible on guides, pages, category pages, the home "New & updated" block and the footer.
-- **OG images:** `lib/og.js` fills `design/og/og-template.svg` (`{{title}}` auto-wrapped/shrunk, `{{category}}`) and renders 1200×630 PNGs with resvg → `/og/<category>-<slug>.png` (cached in `.cache/og/`). `design/og/og-default.png` → `/og/default.png` for home/search/404. Template lookup also tries `design/og-template.svg`; without a template a built-in placeholder (`lib/og-placeholder.svg`) is used. Fonts for rendering: static TTFs in `design/fonts/` + Space Mono.
+- **OG images:** `lib/og.js` fills `design/og/og-template.svg` (`{{title}}` auto-wrapped/shrunk, `{{category}}`) and renders 1200×630 PNGs with resvg → `/og/<category>-<slug>.png` (cached in `.cache/og/`). `design/og/og-default.png` → `/og/default.png` for home/search/404. Template lookup also tries `design/og-template.svg`; without a template a built-in placeholder (`lib/og-placeholder.svg`) is used. Fonts for rendering: static TTFs in `design/fonts/` (Anton for titles, Inter for labels).
 - **Sitemap/robots/feed:** `/sitemap.xml` (indexable pages only, with `lastmod`), `/robots.txt`, `/feed.xml` (Atom, latest 40 guides). Placeholder/draft pages are `noindex` and omitted.
 - **Search:** Pagefind runs over `_site/` after the build (`npm run index:search`). Only guides/pages (`data-pagefind-body`) are indexed, filtered by category and spoiler level. Header search box = plain GET form to `/search/?q=…` (works without JS); the search page loads Pagefind UI.
 - **SITE_URL** (default `https://REPLACE-ME.example`) drives canonical/OG/sitemap/feed. While it is the placeholder, every page is `noindex` and robots disallows everything. A sub-path (`https://user.github.io/repo`) is supported: all links, CSS-relative fonts, Pagefind and the manifest are prefixed. Switching to the real domain = change `SITE_URL`, rebuild.
@@ -114,7 +114,7 @@ content/            markdown guides (+ inbox/ staging, never published; _facts.m
 design/             Designer kit: tokens.css (source of truth), fonts/, img/, logo/, og/, favicons
 src/                templates (Nunjucks): index, category, guide, page, search, 404, sitemap, feed, robots, css
 src/css/            site CSS (bundled with design/tokens.css into one hashed /assets/site.<hash>.css)
-src/js/             search.js (Pagefind UI boot), spoilers.js (toggle)
+src/js/             ui.js (menu, search dropdown, spoiler toggle, filters, ToC, ticker), search.js (Pagefind UI boot), checklist.js, x-embed.js
 lib/                content loader, markdown, seo, og, css, assets, site config
 scripts/            preview.mjs, watch.mjs, check.mjs
 ```

@@ -1,0 +1,17 @@
+{#- Home ticker (design/components.css §3): newest guides, CSS-only scroll, duplicate group aria-hidden, pause button added by ui.js. -#}
+{%- set tk = library.latest | take(6) -%}
+{%- if tk.length %}
+<div class="ticker" role="region" aria-label="Latest updates">
+  <span class="ticker__label">New</span>
+  <div class="ticker__viewport"><div class="ticker__track">
+    {%- for dup in [false, true] %}
+    <ul class="ticker__group"{% if dup %} aria-hidden="true"{% endif %}>
+      {%- for g in tk %}
+      <li class="ticker__item {{ g.category.catClass }}"><a class="ticker__link" href="{{ g.url | url }}"{% if dup %} tabindex="-1"{% endif %}>{{ g.tickerText or g.title }}</a><span class="ticker__time">{{ g.updatedLabel }}</span></li>
+      {%- endfor %}
+    </ul>
+    {%- endfor %}
+  </div></div>
+  <button class="ticker__pause" type="button" aria-pressed="false" aria-label="Pause ticker" hidden><svg class="icon-pause" viewBox="0 0 24 24" aria-hidden="true"><path d="M7 5h3.5v14H7zM13.5 5H17v14h-3.5z"/></svg><svg class="icon-play" viewBox="0 0 24 24" aria-hidden="true"><path d="M7 5v14l12-7z"/></svg></button>
+</div>
+{%- endif %}

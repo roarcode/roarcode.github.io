@@ -4,74 +4,103 @@ pageType: home
 permalink: /index.html
 eleventyExcludeFromCollections: true
 ---
-{% from "partials/macros.njk" import guideCard, categoryCard, spoilerBadge %}
-{#- PLACEHOLDER HOME COPY: Copywriter/Designer to replace headline, lead and imagery. -#}
-<section class="hero{% if not assets.hasHero %} hero--noimg{% endif %}">
-  {%- if assets.hasHero %}
-  {#- Designer's hero art, LCP image: eager + high priority; sizes avoid layout shift -#}
-  <div class="hero__art" aria-hidden="true"><picture>
-    <source type="image/avif" srcset="{{ '/assets/img/hero-768.avif' | url }} 768w, {{ '/assets/img/hero-1280.avif' | url }} 1280w, {{ '/assets/img/hero-1920.avif' | url }} 1920w" sizes="100vw">
-    <source type="image/webp" srcset="{{ '/assets/img/hero-768.webp' | url }} 768w, {{ '/assets/img/hero-1280.webp' | url }} 1280w, {{ '/assets/img/hero-1920.webp' | url }} 1920w" sizes="100vw">
-    <img src="{{ '/assets/img/hero-1280.webp' | url }}" alt="" width="1280" height="720" fetchpriority="high" decoding="async">
-  </picture></div>
-  {%- endif %}
-  <div class="hero__inner container">
-    <p class="hero__eyebrow">Unofficial GTA VI guides</p>
-    <h1 class="hero__title">Every GTA VI guide, <span class="hero__accent">sourced and kept current.</span></h1>
-    <p class="hero__lead">Launch-day guides: when GTA 6 unlocks in your time zone, how big the pre-load is, what to do if the download or launch fails, and editions and prices. Every guide credits its sources and shows when it was last updated.</p>
-    <p class="hero__cta">
-      <a class="btn btn--primary" href="{{ '/launch-hub/release-time/' | url }}">When does GTA 6 unlock for me?</a>
-      <a class="btn btn--ghost" href="{{ '/launch-hub/' | url }}">Launch Hub</a>
-    </p>
-    <form class="hero__search site-search site-search--large" role="search" action="{{ '/search/' | url }}" method="get">
-      <label class="visually-hidden" for="hero-search-q">Search all guides</label>
-      <input class="site-search__input" id="hero-search-q" type="search" name="q" placeholder="Try “release time”, “pre-load” or “download stuck”" autocomplete="off" enterkeyhint="search">
-      <button class="site-search__button site-search__button--text" type="submit">Search</button>
-    </form>
+{% from "partials/macros.njk" import guideCard, spoilerBadge, clock, catIcon %}
+{#- Redesign v2 home (design/mockup-home.html): hero beside the ranked "Latest updates" wire, optional Trending strip, Quick Access, optional Popular tiles, filterable guide grid, marquee, promo.
+    The h1 stays the site-level statement (SEO); front-matter featured/trending/popular guides feed the optional strips. -#}
+<div class="container hero-grid">
+  <section class="hero-feature cat-missions" aria-labelledby="hero-title">
+    {%- if assets.hasHero %}
+    {#- LCP image: eager + high priority, explicit dimensions -#}
+    <picture class="hero-feature__art"><source type="image/avif" srcset="{{ '/assets/img/hero-768.avif' | url }} 768w, {{ '/assets/img/hero-1280.avif' | url }} 1280w, {{ '/assets/img/hero-1920.avif' | url }} 1920w" sizes="(min-width:64rem) 900px, 100vw"><source type="image/webp" srcset="{{ '/assets/img/hero-768.webp' | url }} 768w, {{ '/assets/img/hero-1280.webp' | url }} 1280w, {{ '/assets/img/hero-1920.webp' | url }} 1920w" sizes="(min-width:64rem) 900px, 100vw"><img src="{{ '/assets/img/hero-768.webp' | url }}" width="1920" height="1080" alt="" loading="eager" decoding="async" fetchpriority="high"></picture>
+    {%- endif %}
+    <div class="hero-feature__shade" aria-hidden="true"></div>
+    <div class="hero-feature__inner">
+      <div class="hero-feature__tags"><a class="chip" href="{{ '/launch-hub/' | url }}" style="position:relative;z-index:2">Unofficial GTA VI guides</a><span class="badge badge--updated">{{ clock() }}Updated {{ library.lastUpdatedLabel }}</span></div>
+      <h1 class="hero-feature__title" id="hero-title">Every GTA VI guide, <em>sourced and kept current.</em></h1>
+      <p class="hero-feature__lede">Launch-day guides: when GTA 6 unlocks in your time zone, how big the pre-load is, what to do if the download or launch fails, and editions and prices. Every guide credits its sources and shows when it was last updated.</p>
+      <div class="hero-feature__foot"><div class="hero-feature__actions"><a class="btn btn--cta" href="{{ '/launch-hub/release-time/' | url }}">When does GTA 6 unlock for me?</a><a class="btn btn--ghost" href="{{ '/launch-hub/' | url }}">Launch Hub</a></div></div>
+    </div>
+  </section>
+  <aside class="wire" aria-labelledby="wire-title">
+    <div class="wire__head"><h2 class="wire__title" id="wire-title">Latest updates</h2><span class="wire__live">Newest first</span></div>
+    {%- if library.latest.length %}
+    <ol class="wire__list">
+      {%- for g in library.latest | take(6) %}
+      <li class="wire__item {{ g.category.catClass }}"><div class="wire__body"><span class="wire__cat">{{ g.category.short }}</span><a class="wire__link" href="{{ g.url | url }}">{{ g.title }}</a><span class="wire__meta"><time datetime="{{ g.updatedValue }}">{{ g.updatedLabel }}</time> · {{ g.readingMinutes }} min</span></div></li>
+      {%- endfor %}
+    </ol>
+    {%- else %}
+    <p class="empty">Guides are on the way. Check back at launch.</p>
+    {%- endif %}
+    <div class="wire__foot"><a class="section__link" href="{{ '/launch-hub/' | url }}">Launch Hub</a></div>
+  </aside>
+</div>
+
+{%- if library.trending.length %}
+<section class="trending" aria-labelledby="trending-title">
+  <div class="container trending__inner">
+    <h2 class="trending__title" id="trending-title"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3c1 3.5 5 5.5 5 10a5 5 0 0 1-10 0c0-2 1-3 2-4 .3 1.2 1 2 2 2 0-3-1-5 1-8z"/></svg><span>Trending</span><span class="visually-hidden">now</span></h2>
+    <ol class="trending__list">
+      {%- for g in library.trending %}
+      <li class="trending__item {{ g.category.catClass }}"><span class="trending__rank">{{ loop.index }}</span><a class="trending__link" href="{{ g.url | url }}">{{ g.title }}</a></li>
+      {%- endfor %}
+    </ol>
+  </div>
+</section>
+{%- endif %}
+
+<section class="section" aria-labelledby="quick-access">
+  <div class="container">
+    <div class="section__head"><div><span class="section__kicker">Browse</span><h2 class="section__title" id="quick-access">Guides by category</h2></div></div>
+    <ul class="quick-access__list">
+      {%- for c in library.navCategories %}
+      <li class="quick-access__item {{ c.catClass }}"><span class="quick-access__icon">{{ catIcon(c.icon) }}</span><a class="quick-access__link" href="{{ c.url | url }}">{{ c.short }}</a><span class="quick-access__count">{% if c.count %}{{ c.count }} {{ 'guide' if c.count == 1 else 'guides' }}{% else %}Coming soon{% endif %}</span></li>
+      {%- endfor %}
+    </ul>
   </div>
 </section>
 
-<section class="section container" aria-labelledby="cats-h">
-  <header class="section__header">
-    <p class="section__kicker">Browse</p>
-    <h2 class="section__title" id="cats-h">Guides by category</h2>
-  </header>
-  <div class="grid grid--categories">
-    {%- for c in library.navCategories %}
-    {{ categoryCard(c) }}
-    {%- endfor %}
+{#- Popular tiles: only when at least 3 guides carry `popular: true` (front-matter). -#}
+{%- if library.popular.length >= 3 %}
+<section class="section" aria-labelledby="popular-guides">
+  <div class="container">
+    <div class="section__head"><div><span class="section__kicker">Most read</span><h2 class="section__title" id="popular-guides">Popular guides</h2></div></div>
+    <ul class="tile-row">
+      {%- for g in library.popular %}
+      <li class="tile-row__item {{ g.category.catClass }}"><article class="tile"><div class="tile__art"><img src="{{ ('/assets/img/tall-' + g.category.crop + '.webp') | url }}" width="480" height="640" alt="" loading="lazy" decoding="async"></div><div class="tile__shade" aria-hidden="true"></div><span class="tile__rank">#{{ loop.index }}</span><div class="tile__body"><span class="tile__cat">{{ g.category.short }}</span><h3 class="tile__title"><a class="tile__link" href="{{ g.url | url }}">{{ g.title }}</a></h3></div></article></li>
+      {%- endfor %}
+    </ul>
   </div>
 </section>
+{%- endif %}
 
-{% if library.featured.length %}
-<section class="section container" aria-labelledby="feat-h">
-  <header class="section__header">
-    <p class="section__kicker">Start here</p>
-    <h2 class="section__title" id="feat-h">Featured guides</h2>
-  </header>
-  <div class="grid grid--cards">
-    {%- for g in library.featured %}{{ guideCard(g, true) }}{% endfor %}
+{%- if library.latest.length %}
+<section class="section" aria-labelledby="latest-guides">
+  <div class="container">
+    <div class="section__head"><div><span class="section__kicker">Newest first</span><h2 class="section__title" id="latest-guides">All guides</h2></div><span class="section__meta label">Last updated <time datetime="{{ library.lastUpdatedDate }}">{{ library.lastUpdatedLabel }}</time></span></div>
+    {#- Filter chips need JS (ui.js un-hides them); without JS every card stays visible. -#}
+    <div class="chip-row" role="group" aria-label="Filter guides by category" data-filter-group data-filter-scope="#latest-grid" hidden>
+      <button class="chip chip--filter" type="button" data-filter="all" aria-pressed="true">All</button>
+      {%- for c in library.navCategories %}{% if c.count %}
+      <button class="chip chip--filter" type="button" data-filter="{{ c.slug }}" aria-pressed="false">{{ c.short }}</button>
+      {%- endif %}{% endfor %}
+    </div>
+    <ul class="guide-grid" id="latest-grid">
+      {%- for g in library.latest %}{{ guideCard(g, { feature: loop.first, flip: loop.index0 % 2 == 1 }) }}{% endfor %}
+    </ul>
   </div>
 </section>
-{% endif %}
+{%- endif %}
 
-<section class="section container" aria-labelledby="latest-h">
-  <header class="section__header">
-    <p class="section__kicker">Newest first</p>
-    <h2 class="section__title" id="latest-h">Latest updates</h2>
-    <p class="section__meta">Last updated <time datetime="{{ library.lastUpdatedDate }}">{{ library.lastUpdatedLabel }}</time></p>
-  </header>
-  {%- if library.latest.length %}
-  {#- ALL published guides, newest first (library.latest is sorted by dateModified, ties by title). -#}
-  <ol class="update-list">
-    {%- for g in library.latest %}
-    <li class="update-list__item">
-      <a class="update-list__link" href="{{ g.url | url }}">{{ g.title }}</a>
-      <span class="update-list__meta">{{ spoilerBadge(g.spoilers, g.spoilerLabel, "update-list__badge") }} <span class="update-list__cat">{{ g.category.short }}</span> <time class="update-list__time" datetime="{{ g.updatedValue }}">{{ g.updatedLabel }}</time></span>
-    </li>
-    {%- endfor %}
-  </ol>
-  {%- else %}
-  <p class="empty">Guides are on the way. Check back at launch.</p>
-  {%- endif %}
-</section>
+<div class="marquee" aria-hidden="true"><div class="marquee__track">
+  {%- for dup in [false, true] %}
+  <ul class="marquee__group"><li class="marquee__item">Release time</li><li class="marquee__item">Pre-load</li><li class="marquee__item">Fixes</li><li class="marquee__item">Editions</li><li class="marquee__item">Checklists</li><li class="marquee__item">Source-checked</li><li class="marquee__item">Fan-made</li></ul>
+  {%- endfor %}
+</div></div>
+
+{%- for g in library.guides %}{% if g.slug == 'launch-night-checklist' and g.indexable %}
+<section class="section section--last" aria-labelledby="promo-title"><div class="container"><div class="promo cat-launch-hub">
+  <div><h2 class="promo__title" id="promo-title">Be ready for launch night</h2><p class="promo__text">Space, pre-load, updates, account checks and controller setup, in one checklist. Your ticks are saved on this device only.</p></div>
+  <div class="promo__actions"><a class="btn btn--cta" href="{{ g.url | url }}">Open the checklist</a><a class="btn btn--ghost" href="{{ '/launch-hub/' | url }}">Launch Hub</a></div>
+</div></div></section>
+{%- endif %}{% endfor %}

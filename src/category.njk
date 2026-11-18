@@ -9,65 +9,67 @@ permalink: "{{ item.path }}/index.html"
 eleventyExcludeFromCollections: true
 ---
 {% from "partials/macros.njk" import guideCard, breadcrumbs %}
-<div class="container" style="--accent: var({{ item.accentVar }}, var(--x-accent-default))">
-  {{ breadcrumbs(item | crumbs(pageType)) }}
-  <header class="page-header">
-    <p class="page-header__kicker">Category</p>
-    <h1 class="page-header__title">{{ item.name }}</h1>
-    {%- if item.intro or item.description %}<p class="page-header__lead">{{ item.intro or item.description }}</p>{% endif %}
-    <p class="page-header__meta">
-      {{ item.count }} {{ 'guide' if item.count == 1 else 'guides' }}
-      {%- if item.lastUpdated %} · Last updated <time datetime="{{ item.lastUpdatedDate }}">{{ item.lastUpdatedLabel }}</time>{% endif %}
-    </p>
+<div class="{{ item.catClass }}">
+  <div class="container">{{ breadcrumbs(item | crumbs(pageType)) }}</div>
+  <header class="hub-header">
+    <div class="hub-header__img" aria-hidden="true"><img src="{{ ('/assets/img/crop-' + item.crop + '.webp') | url }}" width="640" height="400" alt="" decoding="async"></div>
+    <div class="container hub-header__inner">
+      <h1 class="hub-header__title">{{ item.name }}</h1>
+      {%- if item.intro or item.description %}<p class="hub-header__lede">{{ item.intro or item.description }}</p>{% endif %}
+      <p class="label">{{ item.count }} {{ 'guide' if item.count == 1 else 'guides' }}
+        {%- if item.lastUpdated %} · Last updated <time datetime="{{ item.lastUpdatedDate }}">{{ item.lastUpdatedLabel }}</time>{% endif %}</p>
+    </div>
   </header>
 
+  <div class="container" style="padding-block:var(--space-5) 0">
   {%- if item.guides.length %}
   {#- Newest first (library sorts by updated). On the Launch Hub the freshest pages get their own labelled block. -#}
   {%- if item.slug == 'launch-hub' and item.guides.length > 3 %}
-  <section class="section" aria-labelledby="latest-h">
-    <header class="section__header">
-      <h2 class="section__title" id="latest-h">Latest updates</h2>
-      <p class="section__meta">Newest first · last updated <time datetime="{{ item.lastUpdatedDate }}">{{ item.lastUpdatedLabel }}</time></p>
-    </header>
-    <ol class="update-list">
-      {%- for g in item.guides | slice(0, 6) %}{% for x in g %}
-      <li class="update-list__item"><a class="update-list__link" href="{{ x.url | url }}">{{ x.title }}</a> <time class="update-list__time" datetime="{{ x.updatedValue }}">{{ x.updatedLabel }}</time></li>
-      {%- endfor %}{% endfor %}
-    </ol>
+  <section class="section" aria-labelledby="latest-h" style="padding-top:0">
+    <div class="section__head"><div><span class="section__kicker">Newest first</span><h2 class="section__title" id="latest-h">Latest updates</h2></div><span class="section__meta label">Last updated <time datetime="{{ item.lastUpdatedDate }}">{{ item.lastUpdatedLabel }}</time></span></div>
+    <div class="wire wire--wide">
+      <ol class="wire__list">
+        {%- for g in item.guides | take(6) %}
+        <li class="wire__item {{ g.category.catClass }}"><div class="wire__body"><a class="wire__link" href="{{ g.url | url }}">{{ g.title }}</a><span class="wire__meta"><time datetime="{{ g.updatedValue }}">{{ g.updatedLabel }}</time> · {{ g.readingMinutes }} min</span></div></li>
+        {%- endfor %}
+      </ol>
+    </div>
   </section>
   {%- endif %}
-  <h2 class="visually-hidden" id="guides-h">{{ 'All launch guides' if item.slug == 'launch-hub' else 'Guides in ' + item.name }}</h2>
-  <div class="grid grid--cards section">
-    {%- for g in item.guides %}{{ guideCard(g, false) }}{% endfor %}
-  </div>
+  <section class="section" aria-labelledby="guides-h" style="padding-top:{{ 'var(--space-section)' if (item.slug == 'launch-hub' and item.guides.length > 3) else '0' }}">
+    <h2 class="visually-hidden" id="guides-h">{{ 'All launch guides' if item.slug == 'launch-hub' else 'Guides in ' + item.name }}</h2>
+    <ul class="guide-grid guide-grid--3">
+      {%- for g in item.guides %}{{ guideCard(g, { flip: loop.index0 % 2 == 1 }) }}{% endfor %}
+    </ul>
+  </section>
   {%- else %}
-  <div class="empty section">
+  <div class="empty">
     <p class="empty__title">No guides here yet.</p>
     <p>We publish as soon as there is something verified to say. <a href="{{ '/' | url }}">Browse all categories</a> or <a href="{{ '/search/' | url }}">search</a>.</p>
   </div>
   {#- Never a dead end: point at guides that already exist. -#}
   {%- if library.startHere.length %}
   <section class="section" aria-labelledby="start-h">
-    <header class="section__header">
-      <p class="section__kicker">Live now</p>
-      <h2 class="section__title" id="start-h">Start here: launch guides you can read today</h2>
-    </header>
-    <ol class="update-list">
-      {%- for g in library.startHere %}
-      <li class="update-list__item"><a class="update-list__link" href="{{ g.url | url }}">{{ g.title }}</a> <time class="update-list__time" datetime="{{ g.updatedValue }}">{{ g.updatedLabel }}</time></li>
-      {%- endfor %}
-    </ol>
+    <div class="section__head"><div><span class="section__kicker">Live now</span><h2 class="section__title" id="start-h">Start here: launch guides you can read today</h2></div></div>
+    <div class="wire wire--wide">
+      <ol class="wire__list">
+        {%- for g in library.startHere %}
+        <li class="wire__item {{ g.category.catClass }}"><div class="wire__body"><a class="wire__link" href="{{ g.url | url }}">{{ g.title }}</a><span class="wire__meta"><time datetime="{{ g.updatedValue }}">{{ g.updatedLabel }}</time> · {{ g.readingMinutes }} min</span></div></li>
+        {%- endfor %}
+      </ol>
+    </div>
   </section>
   {%- endif %}
   {%- endif %}
 
   {%- set slot = "category-end" %}{% include "partials/ad-slot.njk" %}
-  <nav class="section hub-links" aria-labelledby="hubs-h">
-    <h2 class="section__title" id="hubs-h">Explore other hubs</h2>
-    <ul class="hub-links__list">
+  <nav class="section" aria-labelledby="hubs-h">
+    <div class="section__head"><div><h2 class="section__title" id="hubs-h">Explore other hubs</h2></div></div>
+    <ul class="chip-row" style="list-style:none;margin:0;padding:0">
       {%- for c in library.navCategories %}{% if c.slug != item.slug %}
-      <li><a class="hub-links__link" href="{{ c.url | url }}" style="--accent: var({{ c.accentVar }}, var(--x-accent-default))">{{ c.name }}{% if c.count %} <span>({{ c.count }})</span>{% endif %}</a></li>
+      <li><a class="chip chip--ghost {{ c.catClass }}" href="{{ c.url | url }}">{{ c.name }}{% if c.count %} ({{ c.count }}){% endif %}</a></li>
       {%- endif %}{% endfor %}
     </ul>
   </nav>
+  </div>
 </div>

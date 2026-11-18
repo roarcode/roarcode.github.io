@@ -2,6 +2,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import { spawnSync } from "node:child_process";
+import { transformSync } from "esbuild";
 import { DIRS, site, href, abs } from "./lib/site.js";
 import { loadContent } from "./lib/content.js";
 import { detectAssets } from "./lib/assets.js";
@@ -31,6 +32,7 @@ export default function (eleventyConfig) {
   eleventyConfig.addFilter("crumbs", (item, pageType) => breadcrumbsFor(pageType, item));
   eleventyConfig.addFilter("abs", (p) => abs(p));
   eleventyConfig.addFilter("href", (p) => href(p));
+  eleventyConfig.addFilter("take", (arr, n) => (Array.isArray(arr) ? arr.slice(0, n) : []));
   eleventyConfig.addFilter("xml", (s) => escapeXml(s));
   eleventyConfig.addFilter("isoDate", (d) => (d instanceof Date ? d.toISOString() : d));
   // Feed readers need absolute URLs inside the HTML body.
@@ -38,7 +40,7 @@ export default function (eleventyConfig) {
   eleventyConfig.addFilter("cdata", (s) => String(s).replace(/]]>/g, "]]]]><![CDATA[>"));
 
   // ---- static files ---------------------------------------------------------------
-  eleventyConfig.addPassthroughCopy({ "src/js": "assets/js" });
+  // src/js/*.js is minified into assets/js in eleventy.after (no passthrough copy).
   eleventyConfig.addPassthroughCopy({ "src/static": "." }, { dot: true }); // _headers, .nojekyll
   eleventyConfig.addPassthroughCopy({ "content/media": "media" });
 
@@ -48,6 +50,7 @@ export default function (eleventyConfig) {
   eleventyConfig.addWatchTarget("lib/");
   eleventyConfig.addWatchTarget("site-images/");
   eleventyConfig.addWatchTarget("src/css/");
+  eleventyConfig.addWatchTarget("src/js/");
   eleventyConfig.setServerOptions({ port: 8080, domDiff: false });
   eleventyConfig.setQuietMode(true);
 
@@ -71,6 +74,17 @@ export default function (eleventyConfig) {
       if (!fs.existsSync(dest)) {
         fs.mkdirSync(path.dirname(dest), { recursive: true });
         fs.writeFileSync(dest, redirectPage(to, site.origin));
+      }
+    }
+
+    // site scripts (ui.js, search.js, checklist.js, x-embed.js): minified with esbuild, no bundling, no dependencies
+    const jsDir = path.join(DIRS.src, "js");
+    if (fs.existsSync(jsDir)) {
+      for (const f of fs.readdirSync(jsDir).filter((f) => f.endsWith(".js"))) {
+        const code = fs.readFileSync(path.join(jsDir, f), "utf8");
+        const min = process.env.NODE_ENV === "development" ? code : transformSync(code, { minify: true, target: "es2020", legalComments: "none" }).code;
+        fs.mkdirSync(path.join(out, "assets/js"), { recursive: true });
+        fs.writeFileSync(path.join(out, "assets/js", f), min);
       }
     }
 

@@ -4,7 +4,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-    <meta name="theme-color" content="#07050f">
+    <meta name="theme-color" content="#06050d">
     <meta name="color-scheme" content="dark">
     {% seoHead pageType, item %}
     {#- favicons: from design kit if present, otherwise an inline placeholder icon -#}
@@ -23,7 +23,9 @@
     <link rel="preload" href="{{ ('/assets/fonts/' + f) | url }}" as="font" type="font/woff2" crossorigin>
     {%- endfor %}
     <link rel="stylesheet" href="{{ css.file | url }}">
-    <script src="{{ '/assets/js/spoilers.js' | url }}" defer></script>
+    {#- No-JS: hide the JS-only controls and keep the nav + search reachable (menu/search dropdowns need ui.js). -#}
+    <noscript><style>.spoiler-toggle,.ticker__pause,.site-header__toggle,.site-header__search-toggle{display:none}@media(max-width:63.99rem){.site-header__inner{height:auto;flex-wrap:wrap;padding-block:.5rem}.nav{display:block;position:static;order:5;flex:1 1 100%;padding:0;border:0;box-shadow:none;background:none;max-height:none}.nav__list{display:flex;overflow-x:auto}.site-header__search{display:block;position:static;order:6;flex:1 1 100%;padding:0;border:0;box-shadow:none;background:none}}</style></noscript>
+    <script src="{{ '/assets/js/ui.js' | url }}" defer></script>
     {#- X embeds: widgets.js is never in the page. This tiny loader fetches it only when an embed nears the viewport (and never for a closed spoiler). -#}
     {%- if item and item.checklist %}
     <script src="{{ '/assets/js/checklist.js' | url }}" defer></script>
@@ -36,7 +38,9 @@
   </head>
   <body class="page page--{{ pageType }}">
     <a class="skip-link" href="#main">Skip to content</a>
+    <div class="disclaimer-bar"><div class="container"><p class="disclaimer-bar__text"><strong>{{ site.disclaimer }}</strong></p></div></div>
     {% include "partials/header.njk" %}
+    {%- if pageType == 'home' %}{% include "partials/ticker.njk" %}{% endif %}
     <main id="main" class="site-main" tabindex="-1">
       {{ content | safe }}
     </main>

@@ -22,7 +22,7 @@
   <rect x="0" y="0" width="1200" height="630" fill="#0b0620" opacity="0.28"/>
   <rect x="80" y="84" width="96" height="6" rx="3" fill="url(#bar)"/>
   <text x="80" y="136" font-family="Space Mono" font-size="26" letter-spacing="3" fill="#27e1ff">{{category}}</text>
-  <text x="80" y="250" font-family="Syne" font-size="72" font-weight="800" fill="#ffffff">{{title}}</text>
+  <text x="80" y="250" font-family="Anton" font-size="84" font-weight="400" fill="#ffffff">{{title}}</text>
   <text x="80" y="560" font-family="Space Mono" font-size="24" fill="#ff8ab8">{{site}}</text>
   <text x="1120" y="560" font-family="Space Mono" font-size="22" fill="#b9b0d4" text-anchor="end">{{updated}}</text>
   <text x="80" y="595" font-family="Inter" font-size="18" fill="#8a80a8">Unofficial fan site. Not affiliated with Rockstar Games.</text>

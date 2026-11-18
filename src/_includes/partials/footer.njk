@@ -1,29 +1,34 @@
+{#- Redesign v2 footer (design/components.css §11). Disclaimer text is verbatim from site.disclaimer. -#}
+{%- set nameParts = site.name.split(' ') -%}
 <footer class="site-footer">
-  <div class="site-footer__inner container">
-    <div class="site-footer__brand">
-      <p class="site-footer__name">{{ site.name }}</p>
-      <p class="site-footer__disclaimer"><strong>{{ site.disclaimer }}</strong> Grand Theft Auto and GTA VI are trademarks of Take-Two Interactive Software, Inc. Guides credit every source we use.</p>
+  <div class="container">
+    <div class="site-footer__grid">
+      <div class="site-footer__brand">
+        <a class="site-footer__wordmark" href="{{ '/' | url }}">{{ nameParts[0] }}{% if nameParts.length > 1 %} <span>{{ nameParts.slice(1).join(' ') }}</span>{% endif %}</a>
+        <p class="site-footer__about">Unofficial GTA VI guides, written by fans. Every guide credits its sources and shows when it was last updated; rumours are labelled.</p>
+      </div>
+      <nav aria-label="Guides">
+        <h2 class="site-footer__title">Guides</h2>
+        <ul class="site-footer__list">
+          {%- for c in library.navCategories %}
+          <li><a class="site-footer__link" href="{{ c.url | url }}">{{ c.name }}</a></li>
+          {%- endfor %}
+        </ul>
+      </nav>
+      <nav aria-label="About">
+        <h2 class="site-footer__title">Site</h2>
+        <ul class="site-footer__list">
+          <li><a class="site-footer__link" href="{{ '/about/' | url }}">About &amp; disclaimer</a></li>
+          <li><a class="site-footer__link" href="{{ '/search/' | url }}">Search</a></li>
+          <li><a class="site-footer__link" href="{{ '/feed.xml' | url }}">Atom feed</a></li>
+          <li><a class="site-footer__link" href="{{ '/sitemap.xml' | url }}">Sitemap</a></li>
+        </ul>
+      </nav>
     </div>
-    <nav class="site-footer__col" aria-label="Guides">
-      <p class="site-footer__heading">Guides</p>
-      <ul class="site-footer__list">
-        {%- for c in library.navCategories %}
-        <li><a href="{{ c.url | url }}">{{ c.name }}</a></li>
-        {%- endfor %}
-      </ul>
-    </nav>
-    <nav class="site-footer__col" aria-label="About">
-      <p class="site-footer__heading">Site</p>
-      <ul class="site-footer__list">
-        <li><a href="{{ '/about/' | url }}">About &amp; disclaimer</a></li>
-        <li><a href="{{ '/search/' | url }}">Search</a></li>
-        <li><a href="{{ '/feed.xml' | url }}">Atom feed</a></li>
-        <li><a href="{{ '/sitemap.xml' | url }}">Sitemap</a></li>
-      </ul>
-    </nav>
-  </div>
-  <div class="site-footer__bar container">
-    <p class="site-footer__meta">Site last updated <time datetime="{{ library.lastUpdatedISO }}">{{ library.lastUpdatedLabel }}</time></p>
-    <p class="site-footer__meta">&copy; {{ site.buildDate.getFullYear() }} {{ site.name }} · Fan-made, not for official use</p>
+    <div class="site-footer__disclaimer">
+      <p class="site-footer__disclaimer-strong">{{ site.disclaimer }}</p>
+      <p class="site-footer__legal">Grand Theft Auto and GTA VI are trademarks of Take-Two Interactive Software, Inc. Guides credit every source we use.</p>
+      <p class="site-footer__legal">Site last updated <time datetime="{{ library.lastUpdatedISO }}">{{ library.lastUpdatedLabel }}</time> · &copy; {{ site.buildDate.getFullYear() }} {{ site.name }} · Fan-made, not for official use</p>
+    </div>
   </div>
 </footer>

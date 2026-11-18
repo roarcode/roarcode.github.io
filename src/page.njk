@@ -8,36 +8,43 @@ pagination:
 permalink: "{{ item.path }}/index.html"
 eleventyExcludeFromCollections: true
 ---
-{% from "partials/macros.njk" import breadcrumbs %}
-<div class="container container--article">
-  <div data-pagefind-ignore>{{ breadcrumbs(item | crumbs(pageType)) }}</div>
+{% from "partials/macros.njk" import breadcrumbs, clock %}
+<div class="cat-launch-hub">
+  <div class="container" data-pagefind-ignore>{{ breadcrumbs(item | crumbs(pageType)) }}</div>
   <article class="article article--page" data-pagefind-body>
-    <header class="article__header">
-      {%- if item.placeholder %}<div class="article__badges"><span class="badge badge--placeholder">Placeholder</span></div>{% endif %}
-      <h1 class="article__title" data-pagefind-meta="title">{{ item.title }}</h1>
-      <p class="article__meta"><span class="article__updated">Last updated <time datetime="{{ item.updatedValue }}">{{ item.updatedLabel }}</time></span></p>
+    <header class="article-head">
+      <div class="container article-head__inner">
+        <div class="article-head__tags">
+          {%- if item.placeholder %}<span class="badge badge--rumour">Placeholder</span>{% endif %}
+          <span class="badge badge--updated">{{ clock() }}Updated {{ item.updatedLabel }}</span>
+        </div>
+        <h1 class="article-head__title" data-pagefind-meta="title">{{ item.title }}</h1>
+        <p class="article-head__ai"><span class="article__updated">Last updated <time datetime="{{ item.updatedValue }}">{{ item.updatedLabel }}</time></span></p>
+      </div>
     </header>
-    {%- if item.placeholder %}
-    <aside class="notice notice--placeholder" role="note"><p class="notice__title">Placeholder content</p><p>This page is a structural placeholder and is hidden from search engines until final copy replaces it.</p></aside>
-    {%- endif %}
-    <div class="article__main"><div class="article__body prose">{{ item.html | safe }}</div>
-    {%- if item.slug == 'about' %}
-    {#- Explains the labels used on every page (kept in the template so it always matches the real badges). -#}
-    <section class="label-guide" aria-labelledby="labels-h">
-      <h2 id="labels-h">How we label facts</h2>
-      <ul class="label-guide__list">
-        <li><span class="badge badge--official">Official sources</span> At least one source for the page is an official Rockstar, Take-Two, PlayStation or Xbox page. In the source list, each link is tagged <span class="sources__kind sources__kind--official">Official</span>, <span class="sources__kind">Press</span> (a reputable outlet) or <span class="sources__kind sources__kind--community">Community</span> (a fan site, wiki or other).</li>
-        <li><span class="badge badge--rumour">Rumour — unconfirmed</span> Not confirmed by Rockstar. These pages say where the claim came from and sit behind a warning. We never treat a rumour as a fact.</li>
-        <li><span class="badge badge--spoiler badge--spoiler-none">Spoiler-free</span> <span class="badge badge--spoiler badge--spoiler-minor">Minor spoilers</span> <span class="badge badge--spoiler badge--spoiler-major">Major spoilers</span> Shown at the top of every guide. Story details stay inside click-to-reveal boxes, and the header toggle can open them all.</li>
-        <li><strong>Updated</strong> The “Last updated” date on a guide is the date its facts were last checked, and it matches the date we give search engines.</li>
-      </ul>
-    </section>
-    {%- endif %}
-    {%- if item.sources.length %}
-    <section class="article__sources sources" aria-labelledby="sources-h"><h2 id="sources-h">Sources &amp; credits</h2>
-      <ul class="sources__list">{%- for s in item.sources %}<li class="sources__item">{% if s.kind %}<span class="sources__kind sources__kind--{{ s.kind }}">{{ s.kindLabel }}</span> {% endif %}{% if s.url %}<a class="sources__link" href="{{ s.url }}" rel="noopener noreferrer nofollow" target="_blank">{{ s.label }}</a>{% else %}{{ s.label }}{% endif %}</li>{%- endfor %}</ul>
-    </section>
-    {%- endif %}
-    <p class="article__disclaimer">{{ site.disclaimer }}</p></div>
+    <div class="container page-body">
+      {%- if item.placeholder %}
+      <aside class="notice notice--placeholder" role="note"><p class="notice__title">Placeholder content</p><p>This page is a structural placeholder and is hidden from search engines until final copy replaces it.</p></aside>
+      {%- endif %}
+      <div class="prose article__body">{{ item.html | safe }}</div>
+      {%- if item.slug == 'about' %}
+      {#- Explains the labels used on every page (kept in the template so it always matches the real badges). -#}
+      <section class="label-guide" aria-labelledby="labels-h">
+        <h2 id="labels-h">How we label facts</h2>
+        <ul class="label-guide__list">
+          <li><span class="badge badge--official">Official sources</span> At least one source for the page is an official Rockstar, Take-Two, PlayStation or Xbox page. In the source list, each link is tagged <span class="sources__kind sources__kind--official">Official</span>, <span class="sources__kind">Press</span> (a reputable outlet) or <span class="sources__kind sources__kind--community">Community</span> (a fan site, wiki or other).</li>
+          <li><span class="badge badge--rumour">Rumour — unconfirmed</span> Not confirmed by Rockstar. These pages say where the claim came from and sit behind a warning. We never treat a rumour as a fact.</li>
+          <li><span class="badge badge--spoiler badge--spoiler-none">Spoiler-free</span> <span class="badge badge--spoiler badge--spoiler-minor">Minor spoilers</span> <span class="badge badge--spoiler badge--spoiler-major">Major spoilers</span> Shown at the top of every guide. Story details stay inside click-to-reveal boxes, and the header toggle can open them all.</li>
+          <li><strong>Updated</strong> The “Last updated” date on a guide is the date its facts were last checked, and it matches the date we give search engines.</li>
+        </ul>
+      </section>
+      {%- endif %}
+      {%- if item.sources.length %}
+      <section class="source-credit" aria-labelledby="sources-h"><h2 class="source-credit__title" id="sources-h">Sources &amp; credits</h2>
+        <ul class="source-credit__list">{%- for s in item.sources %}<li class="source-credit__item">{% if s.kind %}<span class="sources__kind sources__kind--{{ s.kind }}">{{ s.kindLabel }}</span>{% endif %}{% if s.url %}<a class="source-credit__link" href="{{ s.url }}" rel="noopener noreferrer nofollow" target="_blank">{{ s.label }}</a>{% else %}<span class="source-credit__link">{{ s.label }}</span>{% endif %}</li>{%- endfor %}</ul>
+      </section>
+      {%- endif %}
+      <p class="article__disclaimer">{{ site.disclaimer }}</p>
+    </div>
   </article>
 </div>

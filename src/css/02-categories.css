@@ -1,7 +1,8 @@
-/* Maps site category slugs to the Designer's accent tokens (design/tokens.css).
-   New categories fall back to --x-accent-default. Edit here if the kit renames tokens. */
+/* Maps this site's category slugs to the Designer's accent tokens (design/tokens.css).
+   The kit themes cards/chips/wire rows through `--accent`, set by a `.cat-<slug>` helper class.
+   design/tokens.css already defines .cat-missions / .cat-money / .cat-collectibles; the rest are mapped here.
+   New categories fall back to the kit default (pink). */
 :root {
-  --x-accent-default: var(--brand-pink);
   --cat-launch-hub: var(--brand-cyan);
   --cat-missions: var(--accent-missions);
   --cat-money: var(--accent-money);
@@ -12,3 +13,8 @@
   --cat-ps5-settings: var(--accent-ps5);
   --cat-leaks: var(--brand-orange);
 }
+.cat-launch-hub { --accent: var(--cat-launch-hub); }
+.cat-cars { --accent: var(--cat-cars); }
+.cat-beginner-tips { --accent: var(--cat-beginner-tips); }
+.cat-ps5-settings { --accent: var(--cat-ps5-settings); }
+.cat-leaks { --accent: var(--cat-leaks); }

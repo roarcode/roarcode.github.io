@@ -7,14 +7,14 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 const here = path.dirname(fileURLToPath(import.meta.url));
 const D = path.resolve(here, '..');
-const fonts = [path.join(D, 'fonts/Syne-ExtraBold-static.ttf'), path.join(D, 'fonts/Inter-SemiBold-static.ttf')];
+const fonts = [path.join(D, 'fonts/Anton-Regular-static.ttf'), path.join(D, 'fonts/Inter-SemiBold-static.ttf')];
 const esc = s => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
-// Measured wrap (Syne ExtraBold). Tries 50px, 42px, 36px: 1 line if it fits in 1100px, else 2 lines (ellipsis only if still too long at 36px).
+// Measured wrap (Anton). Tries 50px, 42px, 36px: 1 line if it fits in 1100px, else 2 lines (ellipsis only if still too long at 36px).
 const MAXW = 1100, SIZES = [50, 42, 36];
 const widthCache = new Map();
 function measure(text, size) {
   const k = size + '|' + text; if (widthCache.has(k)) return widthCache.get(k);
-  const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="4000" height="300"><text x="10" y="150" font-family="Syne" font-weight="800" font-size="${size}">${esc(text)}</text></svg>`;
+  const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="4000" height="300"><text x="10" y="150" font-family="Anton" font-weight="400" font-size="${size}">${esc(text)}</text></svg>`;
   const b = new Resvg(svg, { font: { fontFiles: fonts, loadSystemFonts: false } }).getBBox(); const w = b ? b.width + 0.03 * size : 0; widthCache.set(k, w); return w;
 }
 export function wrapTitle(t) {

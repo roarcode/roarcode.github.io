@@ -1,58 +1,58 @@
-{#- Reusable components. Class names are the contract with the Designer kit (preview.html). -#}
+{#- Reusable components (Designer kit v2, design/components.md). Class names are the contract with design/components.css. -#}
 
 {% macro badge(text, kind) -%}
 <span class="badge{% if kind %} badge--{{ kind }}{% endif %}">{{ text }}</span>
 {%- endmacro %}
 
-{#- Spoiler level badge: green "Spoiler-free", amber "Minor spoilers", red "Major spoilers". -#}
+{#- Spoiler level badge (names unchanged from v1, restyled by the kit): "Spoiler-free" / "Minor spoilers" / "Major spoilers". -#}
 {% macro spoilerBadge(level, label, extra) -%}
 <span class="badge badge--spoiler badge--spoiler-{{ level }}{% if extra %} {{ extra }}{% endif %}" title="Spoiler level: {{ label }}">{{ label }}</span>
 {%- endmacro %}
 
-{#- 16:9 media slot shared by category cards and guide cards. Category art when it exists, otherwise the hero still (cropped) so no card is text-only. -#}
-{% macro cardMedia(c, cls) -%}
-<span class="{{ cls }}" aria-hidden="true"><picture>
-  {%- if c.img %}<source type="image/avif" srcset="{{ ('/assets/img/' + c.img + '-640.avif') | url }}"><img src="{{ ('/assets/img/' + c.img + '-640.webp') | url }}" alt="" width="640" height="360" loading="lazy" decoding="async">
-  {%- else %}<source type="image/avif" srcset="{{ '/assets/img/hero-768.avif' | url }}"><img class="{{ cls }}-fallback" src="{{ '/assets/img/hero-768.webp' | url }}" alt="" width="768" height="432" loading="lazy" decoding="async">{% endif -%}
-</picture></span>
+{% macro clock() -%}<svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg>{%- endmacro %}
+
+{#- Category icon for Quick Access tiles (keyed by categories.seed.json "icon"). -#}
+{% macro catIcon(name) -%}
+<svg viewBox="0 0 24 24" aria-hidden="true">
+{%- if name == 'rocket' %}<path d="M5 21V4M5 4h11l-2 4 2 4H5"/>
+{%- elif name == 'target' %}<circle cx="12" cy="12" r="8"/><circle cx="12" cy="12" r="3.5"/><path d="M12 2v3M12 19v3M2 12h3M19 12h3"/>
+{%- elif name == 'cash' %}<circle cx="12" cy="12" r="9"/><path d="M14.5 9c-.5-1-1.5-1.5-2.5-1.5-1.5 0-2.5.8-2.5 2 0 3 5 1.5 5 4.5 0 1.2-1 2-2.5 2-1.1 0-2.1-.5-2.6-1.5M12 6v1.5M12 16.5V18"/>
+{%- elif name == 'map' %}<path d="m12 3 2.7 5.6 6.1.9-4.4 4.3 1 6.1L12 17l-5.4 2.9 1-6.1L3.2 9.5l6.1-.9z"/>
+{%- elif name == 'car' %}<path d="M5 16V11l2-5h10l2 5v5M3 16h18M7 19v-3M17 19v-3M5 11h14"/>
+{%- elif name == 'bug' %}<path d="M9 7a3 3 0 0 1 6 0M7 11h10M7 11v4a5 5 0 0 0 10 0v-4M12 11v9M4 9l3 2M20 9l-3 2M4 18l3-2M20 18l-3-2"/>
+{%- elif name == 'gamepad' %}<path d="M6 8h12a3 3 0 0 1 3 3.2l-.7 5a2.4 2.4 0 0 1-4.2 1.3L15 16H9l-1.1 1.5a2.4 2.4 0 0 1-4.2-1.3l-.7-5A3 3 0 0 1 6 8zM8 10.5v3M6.5 12h3M16 11h.01M18 13h.01"/>
+{%- elif name == 'eye' %}<path d="M2 12s3.6-7 10-7 10 7 10 7-3.6 7-10 7S2 12 2 12Z"/><circle cx="12" cy="12" r="3"/>
+{%- else %}<path d="M12 3l1.8 5.2L19 10l-5.2 1.8L12 17l-1.8-5.2L5 10l5.2-1.8z"/>
+{%- endif %}</svg>
 {%- endmacro %}
 
-{% macro guideCard(g, showCategory) -%}
-<article class="guide-card" style="--accent: var({{ g.category.accentVar }}, var(--x-accent-default))">
-  <a class="guide-card__link" href="{{ g.url | url }}">
-    {{ cardMedia(g.category, "guide-card__media") }}
-    <div class="guide-card__top">
-      {{ spoilerBadge(g.spoilers, g.spoilerLabel, "guide-card__badge") }}
-      {%- if showCategory %}<span class="guide-card__badge badge badge--category">{{ g.category.short }}</span>{% endif %}
-      {%- if g.rumour %}<span class="guide-card__badge badge badge--rumour">Rumour</span>{% elif g.official %}<span class="guide-card__badge badge badge--official">Official sources</span>{% endif %}
-      {%- if g.placeholder %}<span class="guide-card__badge badge badge--placeholder">Placeholder</span>{% endif %}
-    </div>
-    <h3 class="guide-card__title">{{ g.title }}</h3>
-    <p class="guide-card__desc">{{ g.description }}</p>
-    <p class="guide-card__meta"><span>Updated <time datetime="{{ g.updatedDate }}">{{ g.updatedLabel }}</time></span><span aria-hidden="true">·</span><span>{{ g.readingMinutes }} min read</span></p>
-  </a>
-</article>
-{%- endmacro %}
-
-{% macro categoryCard(c) -%}
-<article class="category-card" style="--accent: var({{ c.accentVar }}, var(--x-accent-default))">
-  <a class="category-card__link" href="{{ c.url | url }}">
-    {{ cardMedia(c, "category-card__media") }}
-    <span class="category-card__kicker">{{ c.count }} {{ 'guide' if c.count == 1 else 'guides' }}</span>
-    <h3 class="category-card__title">{{ c.name }}</h3>
-    <p class="category-card__desc">{{ c.description if c.count else (c.intro or c.description) }}</p>
-    <span class="category-card__cta" aria-hidden="true">Browse →</span>
-  </a>
-</article>
+{#- Guide card (design/components.md §8). opts: feature (bool), compact (bool), flip (bool), eager (bool).
+    Art = pipeline cardImage when set, else the category crop (design/img/crop-<name>.webp), tinted by the category accent in CSS.
+    Never uses the text-heavy site-images/ infographics (unreadable at card size). -#}
+{% macro guideCard(g, opts) -%}
+{%- set o = opts or {} -%}
+<li class="guide-card {{ g.category.catClass }}{% if o.feature %} guide-card--feature{% endif %}{% if o.compact %} guide-card--compact{% endif %}{% if o.flip %} is-flip{% endif %}" data-cat="{{ g.category.slug }}">
+  <div class="guide-card__media"><div class="guide-card__art"><img src="{{ (g.cardImage if g.cardImage else '/assets/img/crop-' + g.cropName + '.webp') | url }}" width="640" height="400" alt="" loading="lazy" decoding="async"{% if g.focus %} style="object-position:{{ g.focus }}"{% endif %}></div><span class="guide-card__chip chip">{{ g.category.short }}</span></div>
+  <div class="guide-card__body">
+    <h3 class="guide-card__title"><a class="guide-card__link" href="{{ g.url | url }}">{{ g.title }}</a></h3>
+    {%- if not o.compact %}
+    <p class="guide-card__excerpt">{{ g.description }}</p>
+    {%- endif %}
+    <div class="guide-card__meta"><span class="guide-card__cat">{{ g.category.short }}</span><span class="guide-card__badge">{{ spoilerBadge(g.spoilers, g.spoilerLabel) }}</span>
+      {%- if g.rumour %}<span class="guide-card__badge"><span class="badge badge--rumour">Rumour</span></span>{% elif g.official and o.feature %}<span class="guide-card__badge"><span class="badge badge--official">Official sources</span></span>{% endif %}
+      {%- if g.placeholder %}<span class="guide-card__badge"><span class="badge badge--rumour">Placeholder</span></span>{% endif %}
+      <span class="guide-card__updated">{{ g.updatedLabel }}</span><span>{{ g.readingMinutes }} min</span></div>
+  </div>
+</li>
 {%- endmacro %}
 
 {% macro breadcrumbs(items) -%}
 <nav class="breadcrumbs" aria-label="Breadcrumb">
   <ol class="breadcrumbs__list">
     {%- for c in items %}
-    <li class="breadcrumbs__item">
-      {%- if loop.last %}<span aria-current="page">{{ c.name }}</span>
-      {%- else %}<a href="{{ c.url | url }}">{{ c.name }}</a>{% endif -%}
+    <li class="breadcrumbs__item"{% if loop.last %} aria-current="page"{% endif %}>
+      {%- if loop.last %}{{ c.name }}
+      {%- else %}<a class="breadcrumbs__link" href="{{ c.url | url }}">{{ c.name }}</a>{% endif -%}
     </li>
     {%- endfor %}
   </ol>
