@@ -105,7 +105,7 @@ qa: live-review
 ## Spoiler guides (each hides details in boxes)
 
 - [GTA 6 Bigfoot Location: Where to Find Him (Spoiler-Light)](/collectibles/gta-6-bigfoot-location/)
-- [GTA 6 Collectible Cards: 480 Cards, 18 Sets, 15 to Finish](/collectibles/gta-6-collectible-cards/)
+- [GTA 6 Collectible Cards: Sets, Trophy and 100% Needs](/collectibles/gta-6-collectible-cards/)
 - [GTA 6 Easter Eggs: 5 Secrets Found So Far (Spoilers)](/collectibles/gta-6-easter-eggs/)
 - [GTA 6 Dexter's Apartment Location: Washington Island](/collectibles/gta-6-dexter-apartment-location/)
 - [GTA 6 100% Completion Checklist: 35 Tasks (Spoilers)](/collectibles/gta-6-100-percent-checklist/)
