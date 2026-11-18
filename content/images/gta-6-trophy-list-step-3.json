@@ -1,0 +1,30 @@
+{
+  "type": "menu-mock",
+  "alt": "Illustration of the PS5 path Profile > Trophies, with a game trophy list that uses placeholder rows and no real trophy names. Not an in-game screenshot.",
+  "data": {
+    "category": "collectibles",
+    "title": "Where to find the trophy list on PS5",
+    "panel_title": "Profile > Trophies — illustration",
+    "platform": "PS5",
+    "highlightRow": 1,
+    "rows": [
+      {
+        "label": "Profile",
+        "value": "Your avatar on the home screen"
+      },
+      {
+        "label": "Trophies",
+        "value": "Open the list here"
+      },
+      {
+        "label": "Grand Theft Auto VI",
+        "value": "Selected"
+      },
+      {
+        "label": "Trophy names",
+        "value": "Hidden in this picture"
+      }
+    ],
+    "note": "Illustration — not an in-game screenshot. General PS5 menu path; check the names on your console. Real trophy names stay in the spoiler section of this page."
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "type": "compare-table",
+  "alt": "A two-column diagram of Digital Foundry's PS5 and PS5 Pro results: both 1440p base, PS5 with possible dips to the mid-20s, PS5 Pro with a locked 30 FPS, PSSR upscaling that looks a lot like 4K, and ray-traced shadows on Pro only.",
+  "data": {
+    "category": "ps5",
+    "title": "PS5 and PS5 Pro, side by side",
+    "subtitle": "Digital Foundry's review numbers, 18 Nov. This is their analysis, not a Rockstar settings screen. Xbox is not in this review yet.",
+    "columns": [
+      "What they checked",
+      "PS5",
+      "PS5 Pro"
+    ],
+    "rows": [
+      [
+        "Frame rate",
+        "Mostly 30 FPS; mid-20s dips possible",
+        "Locked 30 FPS, even pacing"
+      ],
+      [
+        "Base resolution",
+        "1440p",
+        "1440p"
+      ],
+      [
+        "Final picture",
+        "Normal upscaling, softer",
+        "PSSR, looks a lot like 4K"
+      ],
+      [
+        "Ray tracing",
+        "Lighting and reflections",
+        "The same, plus RT shadows"
+      ]
+    ],
+    "note": "Drawn from Digital Foundry's PS5 and PS5 Pro review. We will add Xbox numbers when they publish them."
+  }
+}

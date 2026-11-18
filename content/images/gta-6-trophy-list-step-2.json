@@ -1,0 +1,14 @@
+{
+  "type": "save-slots",
+  "alt": "A grid of 15 save slots with one marked Autosave and a label saying Save before big missions. No mission or trophy names.",
+  "data": {
+    "category": "collectibles",
+    "title": "15 save slots, one of them autosave",
+    "slots": 15,
+    "cols": 5,
+    "autosave_index": 0,
+    "autosave_label": "Autosave",
+    "callout": "Save before big missions",
+    "note": "The autosave uses one slot and writes over itself. There is no mission replay, so keep spare manual saves."
+  }
+}

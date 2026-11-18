@@ -24,8 +24,7 @@ sources:
 updated: 2026-11-18
 status: prelaunch
 spoilers: none
-publish: false
-hold: "Rok must approve the Slovenian wording before publishing"
+publish: true
 qa: pending
 draft: true
 ---

@@ -1,0 +1,33 @@
+{
+  "type": "bar-chart",
+  "alt": "A bar diagram of 55 trophies split by rarity: 1 Platinum, 2 Gold, 6 Silver and 46 Bronze, labelled 55 total. No trophy names.",
+  "data": {
+    "category": "collectibles",
+    "title": "55 trophies, by rarity",
+    "subtitle": "Counts only. No trophy names appear in this picture.",
+    "max": 46,
+    "bars": [
+      {
+        "label": "Platinum",
+        "value": 1,
+        "display": "1"
+      },
+      {
+        "label": "Gold",
+        "value": 2,
+        "display": "2"
+      },
+      {
+        "label": "Silver",
+        "value": 6,
+        "display": "6"
+      },
+      {
+        "label": "Bronze",
+        "value": 46,
+        "display": "46"
+      }
+    ],
+    "note": "55 total. 28 of them are hidden; their names are not shown here. Confirm the list on your console."
+  }
+}
