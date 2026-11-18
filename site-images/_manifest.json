@@ -384,26 +384,25 @@
     "file": "gta-6-first-mission-step-1.webp",
     "width": 1200,
     "height": 675,
-    "bytes": 36540,
-    "alt": "Schematic map with a single placeholder start pin. The first mission start point is filled only from the game after launch, with no story details.",
-    "type": "map-annotate",
-    "credit": "Original schematic by Leonida Guides."
+    "bytes": 31216,
+    "alt": "Our diagram: The mission in four parts. Part 1: See the first box below. Part 2: See the second box. Part 3: See the third box. Part 4: See the last box. Not a game screenshot.",
+    "type": "step-card"
   },
   "gta-6-first-mission-step-2": {
     "file": "gta-6-first-mission-step-2.webp",
     "width": 1200,
-    "height": 675,
-    "bytes": 44644,
-    "alt": "Illustration of a pause-menu mission entry with the name left as a placeholder. Not an in-game screenshot.",
-    "type": "menu-mock"
+    "height": 770,
+    "bytes": 32870,
+    "alt": "Our diagram: Buttons you will use. Circle: crouch · R2: grab · Square: takedown · L3 / R3: Focus. Not a game screenshot.",
+    "type": "controller"
   },
   "gta-6-first-mission-step-3": {
     "file": "gta-6-first-mission-step-3.webp",
     "width": 1200,
     "height": 675,
-    "bytes": 44444,
-    "alt": "Placeholder step card for the first mission's main objective, with no story details.",
-    "type": "step-card"
+    "bytes": 30190,
+    "alt": "Our diagram: Sneak first, then act. Crouch: Circle (PS5). Grab, then takedown: R2, then Square. Focus Mode: click L3 and R3. Not a game screenshot.",
+    "type": "info-cards"
   },
   "gta-6-how-to-make-money-fast-step-1": {
     "file": "gta-6-how-to-make-money-fast-step-1.webp",
@@ -1255,6 +1254,654 @@
     "height": 675,
     "bytes": 29328,
     "alt": "Three steps: the free GTA+ month starts, set a reminder 3 days before it ends, then cancel or it renews as a paid month.",
+    "type": "step-card"
+  },
+  "gta-6-100-percent-checklist-step-1": {
+    "file": "gta-6-100-percent-checklist-step-1.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 21680,
+    "alt": "Our diagram: 100% checklist. Tasks on the checklist: 35. Not a game screenshot.",
+    "type": "bar-chart"
+  },
+  "gta-6-100-percent-checklist-step-2": {
+    "file": "gta-6-100-percent-checklist-step-2.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 27156,
+    "alt": "Our diagram: Checklist lines by group. Story and tasks: 12 lines. Exploration and activities: 20 lines. Discovery: 3 lines. Not a game screenshot.",
+    "type": "bar-chart"
+  },
+  "gta-6-100-percent-checklist-step-3": {
+    "file": "gta-6-100-percent-checklist-step-3.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 28990,
+    "alt": "Our diagram: Three habits that help. Scan cars: Scan as you go. Save often: Keep spare slots. Count card sets: Track your 15. Not a game screenshot.",
+    "type": "step-card"
+  },
+  "gta-6-bigfoot-location-step-1": {
+    "file": "gta-6-bigfoot-location-step-1.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 32588,
+    "alt": "Our diagram: Where outlets put Bigfoot. Insider Gaming / Cottonmouth Lake, just below Hamlet. GameRant / South of Cottonmouth Lake. Both / Near Cottonmouth Lake, in the south. Not a game screenshot.",
+    "type": "compare-table"
+  },
+  "gta-6-bigfoot-location-step-2": {
+    "file": "gta-6-bigfoot-location-step-2.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 27830,
+    "alt": "Our diagram: How to look. Go to the lake area. Listen for a growl. Follow the sound. Look for footprints. Not a game screenshot.",
+    "type": "step-card"
+  },
+  "gta-6-bigfoot-location-step-3": {
+    "file": "gta-6-bigfoot-location-step-3.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 23434,
+    "alt": "Our diagram: More to find?. One sighting: Both outlets describe it. More?: Not confirmed. Not a game screenshot.",
+    "type": "info-cards"
+  },
+  "gta-6-collectible-cards-step-1": {
+    "file": "gta-6-collectible-cards-step-1.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 24558,
+    "alt": "Our diagram: Card sets. Cards in the game: 480. Sets: 18. Sets needed for 100%: 15. Not a game screenshot.",
+    "type": "bar-chart"
+  },
+  "gta-6-collectible-cards-step-2": {
+    "file": "gta-6-collectible-cards-step-2.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 29636,
+    "alt": "Our diagram: Where cards hide. Phone box: Yellow phone boxes. Toolbox: Check them. Shelf: Look on shelves. Wall board: Look at boards. Not a game screenshot.",
+    "type": "info-cards"
+  },
+  "gta-6-collectible-cards-step-3": {
+    "file": "gta-6-collectible-cards-step-3.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 32486,
+    "alt": "Our diagram: Progress > Collections > Collectible Cards. Progress: Open this first. Collections: Then this. Collectible Cards: Your sets. Not a game screenshot.",
+    "type": "menu-mock"
+  },
+  "gta-6-dexter-apartment-location-step-1": {
+    "file": "gta-6-dexter-apartment-location-step-1.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 27338,
+    "alt": "Our diagram: Where to look. Pay 'n' Spray: On one side. Light-blue building: In the middle. Top Fun Drones: On the other side. Not a game screenshot.",
+    "type": "step-card"
+  },
+  "gta-6-dexter-apartment-location-step-2": {
+    "file": "gta-6-dexter-apartment-location-step-2.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 26896,
+    "alt": "Our diagram: Inside the building. Staircase. Outside hallway: Head west. Locked door: At the end. Not a game screenshot.",
+    "type": "step-card"
+  },
+  "gta-6-dexter-apartment-location-step-3": {
+    "file": "gta-6-dexter-apartment-location-step-3.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 26232,
+    "alt": "Our diagram: Possible extra egg. A boat at a dock: Mentioned by one outlet. Not confirmed: Needs a second source. Not a game screenshot.",
+    "type": "info-cards"
+  },
+  "gta-6-difficulty-settings-step-1": {
+    "file": "gta-6-difficulty-settings-step-1.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 24608,
+    "alt": "Our diagram: Settings: Aiming. Aiming: Look here. Difficulty: No Easy, Medium or Hard. Not a game screenshot.",
+    "type": "menu-mock"
+  },
+  "gta-6-difficulty-settings-step-2": {
+    "file": "gta-6-difficulty-settings-step-2.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 24744,
+    "alt": "Our diagram: Early reports. Easier fights: A damage option. Tap assist: Helps with button taps. High contrast: Easier to read. Not a game screenshot.",
+    "type": "info-cards"
+  },
+  "gta-6-difficulty-settings-step-3": {
+    "file": "gta-6-difficulty-settings-step-3.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 29842,
+    "alt": "Our diagram: Four settings to turn on. Reduce damage: Turn on. Aim assist: Turn on. Drive-by help: Turn on. Tap assist: Turn on. Not a game screenshot.",
+    "type": "info-cards"
+  },
+  "gta-6-easter-eggs-step-1": {
+    "file": "gta-6-easter-eggs-step-1.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 31358,
+    "alt": "Our diagram: Easter eggs found so far. Egg 1: Open box 1. Egg 2: Open box 2. Egg 3: Open box 3. Egg 4: Open box 4. Egg 5: Open box 5. Not a game screenshot.",
+    "type": "info-cards"
+  },
+  "gta-6-easter-eggs-step-2": {
+    "file": "gta-6-easter-eggs-step-2.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 26360,
+    "alt": "Our diagram: Where eggs hide. Books: Read what you find. Shop items: Look closely. Dialogue: Listen. Not a game screenshot.",
+    "type": "info-cards"
+  },
+  "gta-6-easter-eggs-step-3": {
+    "file": "gta-6-easter-eggs-step-3.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 26940,
+    "alt": "Our diagram: Needs a second source. One report: Not enough yet. Two sources: We list it as confirmed. Not a game screenshot.",
+    "type": "info-cards"
+  },
+  "gta-6-enterable-buildings-step-1": {
+    "file": "gta-6-enterable-buildings-step-1.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 26466,
+    "alt": "Our diagram: Building colours on the map. Dark blue: You can enter. Light blue: No way in. Not a game screenshot.",
+    "type": "info-cards"
+  },
+  "gta-6-enterable-buildings-step-2": {
+    "file": "gta-6-enterable-buildings-step-2.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 27106,
+    "alt": "Our diagram: Door colours in Focus Mode. White door: Safe to use. Red door: Alarm will go off. Not a game screenshot.",
+    "type": "info-cards"
+  },
+  "gta-6-enterable-buildings-step-3": {
+    "file": "gta-6-enterable-buildings-step-3.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 30124,
+    "alt": "Our diagram: Back-door route. Find the white door line: Look on the minimap. Go in the back: Skip the front. Look for stairs: A staircase may be hidden. Not a game screenshot.",
+    "type": "step-card"
+  },
+  "gta-6-fast-travel-step-1": {
+    "file": "gta-6-fast-travel-step-1.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 28418,
+    "alt": "Our diagram: RydeMe: three choices. Safehouse: Ride home. Map marker: Ride to your marker. New destination: Pick a place. Not a game screenshot.",
+    "type": "menu-mock"
+  },
+  "gta-6-fast-travel-step-2": {
+    "file": "gta-6-fast-travel-step-2.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 30982,
+    "alt": "Our diagram: Three ways across the map. RydeMe / Costs money / You pay per ride. Bus or train / Cheap / Wait for the schedule. Swap character / Free / Other character must be free. Not a game screenshot.",
+    "type": "compare-table"
+  },
+  "gta-6-fast-travel-step-3": {
+    "file": "gta-6-fast-travel-step-3.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 28374,
+    "alt": "Our diagram: No map warp. Phone: Call RydeMe. Bus stop: Wait for a bus or train. Swap: Switch to your partner. Not a game screenshot.",
+    "type": "info-cards"
+  },
+  "gta-6-fences-stash-bags-step-1": {
+    "file": "gta-6-fences-stash-bags-step-1.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 26870,
+    "alt": "Our diagram: Loot a fence takes. Narcotics: Bags of drugs. Jewelry: Necklaces and rings. Marked bills: Banded cash. Not a game screenshot.",
+    "type": "info-cards"
+  },
+  "gta-6-fences-stash-bags-step-2": {
+    "file": "gta-6-fences-stash-bags-step-2.webp",
+    "width": 1200,
+    "height": 770,
+    "bytes": 31890,
+    "alt": "Our diagram: Pass a bag to your partner. D-pad right, then Circle / B. Not a game screenshot.",
+    "type": "controller"
+  },
+  "gta-6-fences-stash-bags-step-3": {
+    "file": "gta-6-fences-stash-bags-step-3.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 27592,
+    "alt": "Our diagram: Where your cash is safe. Cash in your pocket / You lose it. Cash in the floorboard stash / You keep it. Not a game screenshot.",
+    "type": "compare-table"
+  },
+  "gta-6-health-stamina-focus-step-1": {
+    "file": "gta-6-health-stamina-focus-step-1.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 30822,
+    "alt": "Our diagram: What trains each stat. Health: Gym work, such as lifting weights. Stamina: Running and cardio. Focus: Fishing raises it. Gains stay permanent. Not a game screenshot.",
+    "type": "info-cards"
+  },
+  "gta-6-health-stamina-focus-step-2": {
+    "file": "gta-6-health-stamina-focus-step-2.webp",
+    "width": 1200,
+    "height": 770,
+    "bytes": 35988,
+    "alt": "Our diagram: Gym: press fast, release slow. Press both triggers fast, release slowly. Not a game screenshot.",
+    "type": "controller"
+  },
+  "gta-6-health-stamina-focus-step-3": {
+    "file": "gta-6-health-stamina-focus-step-3.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 34106,
+    "alt": "Our diagram: Lock in your gains. Close your fitness ring: Stop when it is closed. Eat a protein bar or shake: This locks in the gains. Gains locked: The window reopens about every in-game day. Not a game screenshot.",
+    "type": "step-card"
+  },
+  "gta-6-how-long-to-beat-step-1": {
+    "file": "gta-6-how-long-to-beat-step-1.webp",
+    "width": 1200,
+    "height": 681,
+    "bytes": 37196,
+    "alt": "Our diagram: How long is GTA 6? Hours by goal. Story only (VGC): About 60 h. Story only (GameSpot): 65 h or more. With side jobs (GameSpot): 90-100 h. Everything (VGC and GameSpot): 200 h+. Not a game screenshot.",
+    "type": "bar-chart"
+  },
+  "gta-6-how-long-to-beat-step-2": {
+    "file": "gta-6-how-long-to-beat-step-2.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 34014,
+    "alt": "Our diagram: What \"100%\" means. A checklist: 100% is the game's own checklist. Not literally everything: Some extras may not count. Still over 200 h: Outlets say everything takes 200 h or more. Not a game screenshot.",
+    "type": "info-cards"
+  },
+  "gta-6-how-long-to-beat-step-3": {
+    "file": "gta-6-how-long-to-beat-step-3.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 33368,
+    "alt": "Our diagram: Hours per day to finish. 60 hours (story) / 30 days / 15 days / 8 days. 100 hours (with side jobs) / 50 days / 25 days / 13 days. 200 hours (everything) / 100 days / 50 days / 25 days. Not a game screenshot.",
+    "type": "compare-table"
+  },
+  "gta-6-how-to-change-characters-step-1": {
+    "file": "gta-6-how-to-change-characters-step-1.webp",
+    "width": 1200,
+    "height": 770,
+    "bytes": 31238,
+    "alt": "Our diagram: D-pad right to swap. Open the swap menu with D-pad right. Not a game screenshot.",
+    "type": "controller"
+  },
+  "gta-6-how-to-change-characters-step-2": {
+    "file": "gta-6-how-to-change-characters-step-2.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 23226,
+    "alt": "Our diagram: Swap menu. Jason: Available. Lucia: Busy or unavailable. Not a game screenshot.",
+    "type": "menu-mock"
+  },
+  "gta-6-how-to-change-characters-step-3": {
+    "file": "gta-6-how-to-change-characters-step-3.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 29566,
+    "alt": "Our diagram: Swap to skip the trip. You are far from home. Swap: Switch to your partner. Now at the safehouse: No driving needed. Not a game screenshot.",
+    "type": "step-card"
+  },
+  "gta-6-how-to-fish-step-1": {
+    "file": "gta-6-how-to-fish-step-1.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 31384,
+    "alt": "Our diagram: Weapon wheel: Equipment > Fishing Rod. Equipment: Open this tab. Fishing Rod: Select it. Not a game screenshot.",
+    "type": "menu-mock"
+  },
+  "gta-6-how-to-fish-step-2": {
+    "file": "gta-6-how-to-fish-step-2.webp",
+    "width": 1200,
+    "height": 822,
+    "bytes": 29684,
+    "alt": "Our diagram: Fishing in five steps. Cast: L2 then R2. Wait. Hook: R2. Pull: Left stick, opposite way. Reel: Right stick. Not a game screenshot.",
+    "type": "step-card"
+  },
+  "gta-6-how-to-fish-step-3": {
+    "file": "gta-6-how-to-fish-step-3.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 24520,
+    "alt": "Our diagram: Fishing raises Focus. Fishing: Time on the water. Focus: Goes up. Not a game screenshot.",
+    "type": "info-cards"
+  },
+  "gta-6-how-to-heal-step-1": {
+    "file": "gta-6-how-to-heal-step-1.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 28712,
+    "alt": "Our diagram: Two hearts, two limits. Pink heart: Fills your health up to the solid white line. Orange heart: Boosts you above the line for a while. Not a game screenshot.",
+    "type": "info-cards"
+  },
+  "gta-6-how-to-heal-step-2": {
+    "file": "gta-6-how-to-heal-step-2.webp",
+    "width": 1200,
+    "height": 770,
+    "bytes": 30578,
+    "alt": "Our diagram: Hold L1, press Square. Xbox buttons are not announced yet. Not a game screenshot.",
+    "type": "controller"
+  },
+  "gta-6-how-to-heal-step-3": {
+    "file": "gta-6-how-to-heal-step-3.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 28992,
+    "alt": "Our diagram: Healing items weaken with use. Use 1: Works well. Use 2: Works less well. Use 3: Weaker again. Not a game screenshot.",
+    "type": "info-cards"
+  },
+  "gta-6-how-to-lose-the-cops-step-1": {
+    "file": "gta-6-how-to-lose-the-cops-step-1.webp",
+    "width": 1200,
+    "height": 706,
+    "bytes": 33274,
+    "alt": "Our diagram: Six ways police find you. Appearance: Wear a hat. Outfit: Change clothes. Weapon: Put it away. Vehicle: Swap your car. CCTV: Destroy cameras. Partner: Split up. Not a game screenshot.",
+    "type": "info-cards"
+  },
+  "gta-6-how-to-lose-the-cops-step-2": {
+    "file": "gta-6-how-to-lose-the-cops-step-2.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 31062,
+    "alt": "Our diagram: Escape step by step. Leave: Get away. Change: New outfit. Gun away: Holster it. Swap car: Not the one they saw. Split up: Separate from your partner. Not a game screenshot.",
+    "type": "info-cards"
+  },
+  "gta-6-how-to-lose-the-cops-step-3": {
+    "file": "gta-6-how-to-lose-the-cops-step-3.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 29430,
+    "alt": "Our diagram: Silencers make less noise. With a silencer: Less noise, so police notice less. Without one: Loud shots can bring a siren. Not a game screenshot.",
+    "type": "info-cards"
+  },
+  "gta-6-how-to-save-step-1": {
+    "file": "gta-6-how-to-save-step-1.webp",
+    "width": 1200,
+    "height": 770,
+    "bytes": 34312,
+    "alt": "Our diagram: Open the pause menu. Press Options (PS5) or Menu (Xbox), then choose Game. Not a game screenshot.",
+    "type": "controller"
+  },
+  "gta-6-how-to-save-step-2": {
+    "file": "gta-6-how-to-save-step-2.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 30618,
+    "alt": "Our diagram: Pause menu: Game > Save > slot. Game: Open this first. Save: Then choose Save. Slot: Pick a slot. Not a game screenshot.",
+    "type": "menu-mock"
+  },
+  "gta-6-how-to-save-step-3": {
+    "file": "gta-6-how-to-save-step-3.webp",
+    "width": 1200,
+    "height": 770,
+    "bytes": 35216,
+    "alt": "Our diagram: Spread your 15 save slots. Try: chapter start, chapter end, before a choice, free roam (16 boxes). Not a game screenshot.",
+    "type": "save-slots"
+  },
+  "gta-6-how-to-steal-cars-step-1": {
+    "file": "gta-6-how-to-steal-cars-step-1.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 28694,
+    "alt": "Our diagram: Three kinds of car. Locked: Press interact to try the door. Alarmed: An alarm brings attention. Keyless: Needs a later tool. Not a game screenshot.",
+    "type": "info-cards"
+  },
+  "gta-6-how-to-steal-cars-step-2": {
+    "file": "gta-6-how-to-steal-cars-step-2.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 30656,
+    "alt": "Our diagram: Tools in the order you get them. Smash and hotwire: Available from the start. Slim jim: Comes later. Key cloner: Comes later still. Not a game screenshot.",
+    "type": "step-card"
+  },
+  "gta-6-how-to-steal-cars-step-3": {
+    "file": "gta-6-how-to-steal-cars-step-3.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 42796,
+    "alt": "Our diagram: Tracker types and slow driving. Standard (yellow): Police can trace it if you stop for a few seconds (GameSpot). Advanced (red): Pings police if you drop below a speed for about 5 seconds (GameSpot). Check the icons: Vehicle icons above the minimap (GameSpot). Not a game screenshot.",
+    "type": "info-cards"
+  },
+  "gta-6-how-to-study-animals-step-1": {
+    "file": "gta-6-how-to-study-animals-step-1.webp",
+    "width": 1200,
+    "height": 770,
+    "bytes": 33592,
+    "alt": "Our diagram: Study an animal. Open the wheel, zoom with D-pad up, hold R1 / RB to study. Not a game screenshot.",
+    "type": "controller"
+  },
+  "gta-6-how-to-study-animals-step-2": {
+    "file": "gta-6-how-to-study-animals-step-2.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 24258,
+    "alt": "Our diagram: Progress > Animals. Progress: Open. Animals: Studied so far. Not a game screenshot.",
+    "type": "menu-mock"
+  },
+  "gta-6-how-to-study-animals-step-3": {
+    "file": "gta-6-how-to-study-animals-step-3.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 24026,
+    "alt": "Our diagram: Animals for 100%. Needed for 100%: 100. Total in game (PowerPyx): 255. Not a game screenshot.",
+    "type": "bar-chart"
+  },
+  "gta-6-military-base-mile-zero-step-1": {
+    "file": "gta-6-military-base-mile-zero-step-1.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 27856,
+    "alt": "Our diagram: Roughly where it is. Mile Zero Air Station: In the far southwest. Start area: Head there from Key Lento. Not a game screenshot.",
+    "type": "info-cards"
+  },
+  "gta-6-military-base-mile-zero-step-2": {
+    "file": "gta-6-military-base-mile-zero-step-2.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 32350,
+    "alt": "Our diagram: Seen on base = gunfight. Seen on the base: Four or five stars at once, with air support and tanks (GameSpot). Easier way in: The stunt-jump entry (PC Gamer). Not a game screenshot.",
+    "type": "info-cards"
+  },
+  "gta-6-military-base-mile-zero-step-3": {
+    "file": "gta-6-military-base-mile-zero-step-3.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 23228,
+    "alt": "Our diagram: Stunt jump entry. Dirt mound: Drive at it. Fence: Jump over it. Not a game screenshot.",
+    "type": "info-cards"
+  },
+  "gta-6-mission-list-step-1": {
+    "file": "gta-6-mission-list-step-1.webp",
+    "width": 1200,
+    "height": 718,
+    "bytes": 28592,
+    "alt": "Our diagram: Missions per chapter. Chapter 1: 22. Chapter 2: 11. Chapter 3: 26. Chapter 4: 25. Chapter 5: 7. Not a game screenshot.",
+    "type": "bar-chart"
+  },
+  "gta-6-mission-list-step-2": {
+    "file": "gta-6-mission-list-step-2.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 28814,
+    "alt": "Our diagram: Use the list by chapter. Chapter 1: Tick off. Chapter 2: Tick off. Chapter 3: Tick off. Chapter 4: Tick off. Chapter 5: Tick off. Not a game screenshot.",
+    "type": "info-cards"
+  },
+  "gta-6-mission-list-step-3": {
+    "file": "gta-6-mission-list-step-3.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 27840,
+    "alt": "Our diagram: Save between chapters. Ch. 1: Save. Ch. 2: Save. Ch. 3: Save. Ch. 4: Save. Ch. 5: Save. Not a game screenshot.",
+    "type": "info-cards"
+  },
+  "gta-6-non-lethal-playthrough-step-1": {
+    "file": "gta-6-non-lethal-playthrough-step-1.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 24112,
+    "alt": "Our diagram: Hit markers. Red / Head or heart / Dead. Yellow / Arms or legs / Injured. Not a game screenshot.",
+    "type": "compare-table"
+  },
+  "gta-6-non-lethal-playthrough-step-2": {
+    "file": "gta-6-non-lethal-playthrough-step-2.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 26136,
+    "alt": "Our diagram: Criminal profile. Professional: Fewer kills. Violent: More kills. Effects: Partner acts differently. Police react. Not a game screenshot.",
+    "type": "info-cards"
+  },
+  "gta-6-non-lethal-playthrough-step-3": {
+    "file": "gta-6-non-lethal-playthrough-step-3.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 34312,
+    "alt": "Our diagram: Stop a chase without killing. Shoot a tyre: A yellow marker shows an injury, not a kill. Car stops: The chase slows down. Helicopter backs off: Our drawing, as described on the page. Not a game screenshot.",
+    "type": "step-card"
+  },
+  "gta-6-phone-apps-step-1": {
+    "file": "gta-6-phone-apps-step-1.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 28032,
+    "alt": "Our diagram: Seven phone apps. WAiNK. RydeMe. BuckMe. Scooter Bros. Snapmatic. Fitness. On Demand. Not a game screenshot.",
+    "type": "info-cards"
+  },
+  "gta-6-phone-apps-step-2": {
+    "file": "gta-6-phone-apps-step-2.webp",
+    "width": 1200,
+    "height": 770,
+    "bytes": 34680,
+    "alt": "Our diagram: Phone and reminders. D-pad up, then Square (PS5) or X (Xbox) for reminders. Not a game screenshot.",
+    "type": "controller"
+  },
+  "gta-6-phone-apps-step-3": {
+    "file": "gta-6-phone-apps-step-3.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 21694,
+    "alt": "Our diagram: Reminders. Article. Post. Text. Call. Not a game screenshot.",
+    "type": "info-cards"
+  },
+  "gta-6-prologue-walkthrough-step-1": {
+    "file": "gta-6-prologue-walkthrough-step-1.webp",
+    "width": 1200,
+    "height": 770,
+    "bytes": 31236,
+    "alt": "Our diagram: Buttons you will use. L2: talk or aim · Square: threaten or fight · Triangle: pick up · X: jump. Not a game screenshot.",
+    "type": "controller"
+  },
+  "gta-6-prologue-walkthrough-step-2": {
+    "file": "gta-6-prologue-walkthrough-step-2.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 23022,
+    "alt": "Our diagram: Two ways it can go. Way 1: See the first box below. Way 2: See the second box below. Not a game screenshot.",
+    "type": "info-cards"
+  },
+  "gta-6-prologue-walkthrough-step-3": {
+    "file": "gta-6-prologue-walkthrough-step-3.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 22482,
+    "alt": "Our diagram: What comes next. Prologue: You are here. Gone Fishing: Next mission. Not a game screenshot.",
+    "type": "info-cards"
+  },
+  "gta-6-robberies-guide-step-1": {
+    "file": "gta-6-robberies-guide-step-1.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 26660,
+    "alt": "Our diagram: Shop security levels. Low: Easier job, smaller take. Medium: In between. High: Harder job, bigger take. Not a game screenshot.",
+    "type": "info-cards"
+  },
+  "gta-6-robberies-guide-step-2": {
+    "file": "gta-6-robberies-guide-step-2.webp",
+    "width": 1200,
+    "height": 782,
+    "bytes": 31760,
+    "alt": "Our diagram: Five parts of a robbery. Control crowd. Switch off alarm: White wall panel. Loot. Destroy CCTV. Escape. Not a game screenshot.",
+    "type": "step-card"
+  },
+  "gta-6-robberies-guide-step-3": {
+    "file": "gta-6-robberies-guide-step-3.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 29252,
+    "alt": "Our diagram: Bank layout (simple). Front: Main way in. Back or side door: Quieter way in. Vault: Where the big cash is. Cash truck: Parked outside. Not a game screenshot.",
+    "type": "info-cards"
+  },
+  "gta-6-six-star-wanted-level-step-1": {
+    "file": "gta-6-six-star-wanted-level-step-1.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 32392,
+    "alt": "Our diagram: Chase timeline. 3 stars: Start the chase. About 10 minutes: Near 5 stars. 10 to 15 more minutes: A notice warns a sixth star is coming. 6 stars: Nearly 20 minutes in total. Not a game screenshot.",
+    "type": "step-card"
+  },
+  "gta-6-six-star-wanted-level-step-2": {
+    "file": "gta-6-six-star-wanted-level-step-2.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 30618,
+    "alt": "Our diagram: Two routes to six stars. Long chase / Evaded police for about 20 minutes / GameSpot. Mass destruction / Stole a tank and blew things up / PC Gamer. Not a game screenshot.",
+    "type": "compare-table"
+  },
+  "gta-6-six-star-wanted-level-step-3": {
+    "file": "gta-6-six-star-wanted-level-step-3.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 28504,
+    "alt": "Our diagram: Six stars: save first. No escape: The sources say you cannot lose six stars. Save first: Make a manual save before you try. Not a game screenshot.",
+    "type": "info-cards"
+  },
+  "gta-6-snap-gun-step-1": {
+    "file": "gta-6-snap-gun-step-1.webp",
+    "width": 1200,
+    "height": 770,
+    "bytes": 31206,
+    "alt": "Our diagram: Picking a lock. Move the left stick, then find the sweet spot. Not a game screenshot.",
+    "type": "controller"
+  },
+  "gta-6-snap-gun-step-2": {
+    "file": "gta-6-snap-gun-step-2.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 26086,
+    "alt": "Our diagram: Back door, then office. Back door: Pick it. Office: Find the panel. Alarm panel: Switch it off. Not a game screenshot.",
+    "type": "step-card"
+  },
+  "gta-6-snap-gun-step-3": {
+    "file": "gta-6-snap-gun-step-3.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 22522,
+    "alt": "Our diagram: Early and later. Early game: Kick the door. Later: Use the snap gun. Not a game screenshot.",
+    "type": "info-cards"
+  },
+  "gta-6-what-to-spend-money-on-step-1": {
+    "file": "gta-6-what-to-spend-money-on-step-1.webp",
+    "width": 1200,
+    "height": 706,
+    "bytes": 26872,
+    "alt": "Our diagram: Weapon mods. Suppressor. Magazine. Foregrip. Barrel. Optics. Not a game screenshot.",
+    "type": "info-cards"
+  },
+  "gta-6-what-to-spend-money-on-step-2": {
+    "file": "gta-6-what-to-spend-money-on-step-2.webp",
+    "width": 1200,
+    "height": 706,
+    "bytes": 31768,
+    "alt": "Our diagram: Worth it, or not. Mods: Worth it. Garage: Worth it. Savings: Worth it. One car you love: Register one. Lots of clothes: Skip. Lots of guns: Skip. Not a game screenshot.",
+    "type": "info-cards"
+  },
+  "gta-6-what-to-spend-money-on-step-3": {
+    "file": "gta-6-what-to-spend-money-on-step-3.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 26452,
+    "alt": "Our diagram: Spend in this order. Mods. Garage. Savings. Registration. Not a game screenshot.",
     "type": "step-card"
   }
 }
