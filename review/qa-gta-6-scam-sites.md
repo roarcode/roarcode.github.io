@@ -18,3 +18,5 @@ The "the box holds a code, not a disc" line matches the PlayStation GTA VI suppo
 Facts match the cited sources (news reports, PlayStation support page, the quoted X post). Images 1–3 present, render at 1280px and 390px, no overflow, spoiler box works, disclaimer present, no spoilers in title/meta/OG.
 
 Fixed by Copywriter 18 Nov 2026 16:05 CET: all flagged domains and example.com are now defanged ([.]) inside code, so nothing auto-links (rg on _site for the domains: 0 matches); PlayStation support page named next to the code-in-box line.
+
+Re-checked by SEARCH 18 Nov 2026 16:10 CET: PASS (Copywriter 16:05 fix confirmed: no scam-domain or example.com links in built HTML; renders cleanly at 1280px and 390px). qa: passed, draft removed, published.

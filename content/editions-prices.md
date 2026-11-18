@@ -38,7 +38,7 @@ sources:
 updated: 2026-11-18
 status: prelaunch
 spoilers: none
-qa: passed
+qa: live-review
 ---
 
 # GTA 6 Editions and Prices: Standard vs Ultimate (2026)
@@ -125,6 +125,7 @@ Rockstar says before 20 Nov. The Xbox Store says before 19 Nov 23:59:59 and Play
 - **Not announced:** PS5 upgrade price, euro prices outside the euro area, season passes or paid add-ons.
 - Bought a box with a code? [GTA 6 code-in-box: how to redeem and fix code problems](/glitches/gta-6-physical-edition-code-in-box/).
 - Prices and refunds: [GTA 6 refund: pre-order error and payment failed fixes](/glitches/gta-6-refund-purchase-error/).
+- Buying safely: [GTA 6 scam sites: 5 signs a page is fake](/beginner-tips/gta-6-scam-sites/).
 
 Related: [Vintage Vice City Pack](/launch-hub/vintage-vice-city-pack/) · [launch hub](/launch-hub/gta-6-launch-hub/)
 
