@@ -20,7 +20,7 @@ sources:
 updated: 2026-11-18
 status: prelaunch
 spoilers: none
-qa: passed
+qa: live-review
 ---
 
 # GTA 6 Platforms: PS5, PS5 Pro, Xbox, PC and 30 FPS
@@ -80,7 +80,7 @@ Voice is in **English only**. Text is in English, French, German, Italian, Korea
 ## FAQ
 
 ### Is GTA 6 coming to PC?
-Not announced. Only an unconfirmed report mentions Q1 2027.
+Not announced. Only an unconfirmed report mentions Q1 2027. Details: [GTA 6 PC release date: is there a PC version?](/launch-hub/gta-6-pc-release-date/).
 
 ### Can I play GTA 6 on PS4?
 No.
@@ -89,7 +89,7 @@ No.
 Only by streaming with Xbox Cloud Gaming from 1 AM ET on 19 November (= 07:00 CET).
 
 ### Does GTA 6 run at 60 FPS?
-Rockstar is targeting 30 FPS on current consoles. No 60 FPS or performance mode has been announced.
+Rockstar is targeting 30 FPS on current consoles. No 60 FPS or performance mode has been announced. Details: [GTA 6 performance mode: is there 60 FPS on PS5 Pro?](/launch-hub/gta-6-performance-mode/).
 
 ---
 *Unofficial fan site, not affiliated with Rockstar Games or Take-Two.*

@@ -30,7 +30,7 @@ sources:
 updated: 2026-11-18
 status: prelaunch
 spoilers: none
-qa: passed
+qa: live-review
 ---
 
 # GTA 6 Pre-Load: 212 GB Size, Start Times, Fixes (2026)
@@ -162,6 +162,8 @@ Who to ask: PlayStation Support or Xbox Support for downloads and codes. Rocksta
 ## Patches (reported, not official)
 
 > **Rumour / unconfirmed:** Vice reports that dataminers (people who read game files) found a patch around 13 Nov (about 1 GB) and another from 16 Nov (about 602.5 MB on PS5, 1.6 GB on Xbox), rolling out slowly. Rockstar had published **no patch notes** as of 16 Nov. Source: https://www.vice.com/en/article/gta-6-second-day-one-patch-ps5-xbox/
+
+Full patch table and how to check: [GTA 6 day-one patch: 01.002.001 size and how to check](/launch-hub/gta-6-day-one-patch/).
 
 The final launch-day update size is **not announced**.
 

@@ -15,13 +15,13 @@ sources:
   - https://www.1news.co.nz/2026/11/18/gta-6-how-to-beat-the-download-rush-and-why-gamers-abroad-envy-kiwis/
   - https://www.gamesradar.com/games/grand-theft-auto/gta-6-release-time/
   - https://www.pcgamer.com/games/grand-theft-auto/gta-6-release-time-date/
-  - https://x.com/DrFUT_/status/2123007910657880268
   - https://x.com/CapitalR/status/2123009075684458823
   - https://x.com/MrMrKlNG/status/2122654842506432595
   - https://x.com/soflysojoe/status/2122772469488521415
   - https://x.com/IGN/status/2122861359549329539
   - https://x.com/IGN/status/2123001020363989069
   - https://x.com/MetroUK/status/2123002517235605661
+  - https://x.com/novaraszn/status/2123010204308779138
   - https://www.rnz.co.nz/life/screens/games/the-grand-theft-auto-kiwi-hack-the-world-is-talking-about
   - https://www.windowscentral.com/gaming/xbox/grand-theft-auto-6-launch-new-zealand-changing-region
   - https://www.playstation.com/en-us/legal/psn-terms-of-service.html/
@@ -29,7 +29,7 @@ sources:
 updated: 2026-11-18
 status: prelaunch
 spoilers: none
-qa: passed
+qa: live-review
 ---
 
 # GTA 6 New Zealand Trick: Does It Work? Real Risks
@@ -54,11 +54,11 @@ qa: passed
 
 *This is a short description of what is being reported. It is not a how-to, and we do not recommend it.*
 
-**Xbox (reported by RNZ and Windows Central, 18 Nov):**
+**Xbox (reported by RNZ, 13 Nov, and Windows Central, 8 Sep):**
 - Players change the **location setting on the console** to New Zealand. The console then shows the New Zealand unlock time.
 - RNZ says the account's billing region is left as it is. It also says you would want to have **pre-ordered the game first**, because buying in another region's store needs a local billing address and a matching payment method.
 - Windows Central says it is easy to **set the console back** afterwards.
-- Both outlets say Xbox has not said the trick is allowed. RNZ calls it "internet folklore" that Xbox does not seem to mind.
+- RNZ says Xbox has not said the trick is allowed. RNZ calls it "internet folklore" that Xbox does not seem to mind.
 
 **PS5 (reported by Windows Central, Polygon, NZ Herald):**
 - The country that counts is the **PlayStation account's**, not the console's. PlayStation says an account's country cannot be changed after it is created.
@@ -104,8 +104,6 @@ You can set it back to your real country.
 4. Set **Location** to your real country.
 5. Restart the console when it asks.
 
-A caution: SenseOS, reading Xbox Support's pages, says Microsoft may refuse a region change if you made one in the last three months. We could not open Xbox's own page to confirm that.
-
 *General Xbox menu path, check the names on your console.*
 
 ![Xbox Language and location screen with the location setting](TODO: image:gta-6-new-zealand-trick-step-3 — menu screen, Xbox: Settings > System > Language & location with the Location field highlighted)
@@ -115,13 +113,13 @@ A caution: SenseOS, reading Xbox Support's pages, says Microsoft may refuse a re
 
 > **Rumour / unconfirmed:** a post in Arabic by @MrMrKlNG says players who made New Zealand accounts to play about 13 hours early started to get account suspensions under PlayStation Network terms, with possible loss of access and digital purchases. Sony has not confirmed this. @soflysojoe repeats the claim in English. Source: https://x.com/MrMrKlNG/status/2122654842506432595
 
+> **Rumour / unconfirmed:** on 18 Nov, after the New Zealand unlock, more posts on X claimed that a well-known streamer was banned while using the trick. No company has confirmed any ban. Source: https://x.com/novaraszn/status/2123010204308779138
+
 IGN also reports that New Zealand's official tourism board welcomed gamers using the trick. That does not mean Sony or Microsoft allow it.
 
 ## What players are saying
 
 *Public posts, quoted with a link. Player tips are not confirmed facts. We do not recommend the trick.*
-
-<blockquote class="twitter-tweet"><a href="https://x.com/DrFUT_/status/2123007910657880268"></a></blockquote>
 
 <blockquote class="twitter-tweet"><a href="https://x.com/CapitalR/status/2123009075684458823"></a></blockquote>
 
@@ -146,6 +144,13 @@ No company has said so. But an analyst told the BBC it may break PlayStation or 
 
 ### What time does GTA 6 unlock in Slovenia?
 00:00 CET on Thu 19 Nov 2026.
+
+## Updated
+
+| Date | What changed |
+|---|---|
+| 2026-11-18 13:00 CET | QA advisories: fixed Xbox source dates, cut an unsourced Xbox claim and removed a how-to post. Added one unconfirmed ban claim from X. |
+| 2026-11-18 | Page created and rewritten at 12:28 CET. |
 
 ---
 *Unofficial fan site, not affiliated with Rockstar Games or Take-Two.*

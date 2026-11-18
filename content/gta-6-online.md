@@ -15,12 +15,12 @@ sources:
 updated: 2026-11-18
 status: prelaunch
 spoilers: none
-qa: passed
+qa: live-review
 ---
 
 # GTA 6 Online: Is There Multiplayer at Launch? (2026)
 
-> - **Quick answer:** **No online mode is announced.** PlayStation's FAQ says: "Grand Theft Auto VI is a single-player experience."
+> - **Quick answer:** **No online mode is announced.** PlayStation's GTA VI page says: "Grand Theft Auto VI is a single-player experience."
 > - **Take-Two's CEO** also called it a "single-player title" (via Game Rant). GTA Online for **GTA 5** is still supported.
 > - **Any date, server count or mode for GTA 6 Online is a rumour.**
 
@@ -30,7 +30,7 @@ qa: passed
 
 | Fact | Source |
 |---|---|
-| GTA VI is a single-player experience. | PlayStation FAQ (quoted by Game Rant) |
+| GTA VI is a single-player experience. | [PlayStation's GTA VI game page](https://www.playstation.com/en-us/games/grand-theft-auto-vi/) |
 | Take-Two CEO Strauss Zelnick called it a "single-player title". | Game Rant, 10 Nov 2026 |
 | GTA Online (in GTA 5) continues to be supported. | Game Rant |
 | No online mode, date or plan has been announced for GTA VI. | Rockstar, PlayStation, Game Rant |
@@ -61,7 +61,7 @@ Do not pay anyone for "early online access". There is none announced.
 ## FAQ
 
 ### Does GTA 6 have multiplayer?
-No online mode is announced. PlayStation's FAQ says it is a single-player experience.
+No online mode is announced. PlayStation's GTA VI game page says it is a single-player experience.
 
 ### Will GTA 6 Online come later?
 Not announced. Any date you see online is a rumour.

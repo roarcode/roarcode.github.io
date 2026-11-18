@@ -10,7 +10,7 @@ description: "Who Jason and Lucia are, per Rockstar's official profiles. Short, 
 sources:
   - https://www.rockstargames.com/VI/only-in-leonida/jason
   - https://www.rockstargames.com/VI/only-in-leonida/lucia
-  - https://www.playstation.com/en-us/support/games/gta-vi-support/
+  - https://www.playstation.com/en-us/games/grand-theft-auto-vi/
   - https://www.pcgamer.com/games/grand-theft-auto/gta-6-guide/
   - https://www.rockstargames.com/VI
   - https://taketwointeractivesoftwareinc.gcs-web.com/news-releases/news-release-details/rockstar-games-announces-pre-orders-grand-theft-auto-vi/
@@ -21,7 +21,7 @@ sources:
 updated: 2026-11-18
 status: prelaunch
 spoilers: minor
-qa: passed
+qa: live-review
 ---
 
 # GTA 6 Jason and Lucia: Who They Are (No Spoilers)
@@ -34,7 +34,7 @@ qa: passed
 
 ## How the pair plays
 
-- **Single-player:** PlayStation's FAQ says "Grand Theft Auto VI is a single-player experience."
+- **Single-player:** PlayStation's [GTA VI game page](https://www.playstation.com/en-us/games/grand-theft-auto-vi/) says "Grand Theft Auto VI is a single-player experience."
 - **Two leads:** you can swap between Jason and Lucia in free roam and during missions. In one example from previews, one drives while the other shoots. (GameSpot, VGC)
 - **Story time:** Rob Nelson's own playthrough, focused on the main story and story-based extras, took about **80 hours** (GameSpot). This is one person's estimate, not a promise.
 - **Relationship:** a story choice. See the spoiler box below.
@@ -97,7 +97,7 @@ Jason Duval and Lucia Caminos. You play both.
 Yes, per previews, in free roam and in missions.
 
 ### Is GTA 6 single-player?
-Yes. PlayStation's FAQ says it is a single-player experience.
+Yes. PlayStation's GTA VI game page says it is a single-player experience.
 
 ### Does this page have spoilers?
 No. Everything about the characters and story is inside boxes you open on purpose.

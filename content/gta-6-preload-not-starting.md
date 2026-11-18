@@ -19,7 +19,7 @@ updated: 2026-11-18
 status: stub
 publish: true
 spoilers: none
-qa: passed
+qa: live-review
 ---
 
 # GTA 6 Pre-Load Not Starting? 7 Fixes for PS5 and Xbox
@@ -40,7 +40,7 @@ qa: passed
 2. **Redeem your box code (PS5).**
    1. Sign in on the PlayStation Store.
    2. Select your **avatar**, then **Redeem Code**.
-   3. Enter the code from the box. If the code is missing or unreadable, contact the shop where you bought it (PlayStation support).
+   3. Enter the code from the box. If the code is missing or unreadable, contact the shop where you bought it (PlayStation support). See [GTA 6 code-in-box: how to redeem and fix code problems](/glitches/gta-6-physical-edition-code-in-box/).
 3. **Redeem your box code (Xbox).** Redeem it in the Microsoft Store on the account you play on (general Xbox path, check on your console).
 4. **Find the download.**
    - PS5: press the **PS button**, then open **Downloads/Uploads** and select GTA VI. If it is there but not moving: **Pause**, then **Resume**.
@@ -48,6 +48,7 @@ qa: passed
 5. **Free 212 GB.** PS5: **Settings > Storage**. Xbox: **Profile & system > Settings > System > Storage devices**. Delete or move an old game.
 6. **Use the right account.** PlayStation says you must be signed in to the account that ordered the game or entered the code.
 7. **Update the console.** PS5: **Settings > System > System Software > System Software Update and Settings**. Also check the [PlayStation status page](https://status.playstation.com) or the [Xbox status page](https://support.xbox.com/en-US/xbox-live-status).
+   - **Required for GTA 6:** PlayStation says a PS5 system update must be installed before you play. See [GTA 6 PS5 update required (14.23.00): how to install](/glitches/gta-6-ps5-system-update-required/).
 
 ![PS5 Redeem Code screen](TODO: image:gta-6-preload-not-starting-step-1 — step screenshot, our own mock-up: PlayStation Store avatar menu with Redeem Code highlighted)
 *Caption: Step screenshot. Where to redeem a boxed code on PlayStation.*
@@ -70,7 +71,7 @@ qa: passed
 
 The pre-load window was 10 Nov onward: PS5 at midnight local time, Xbox at midnight GMT (VGC, USA Today). Boxed copies reached shops on 12 Nov. If you did not pre-load, you can still download now as a normal download. See [GTA 6 download stuck](/glitches/gta-6-download-stuck/) if it stalls. Xbox says Series X and Series S could pre-install, and Xbox One streams through Xbox Cloud Gaming instead of downloading (Xbox Wire).
 
-Related: [pre-load size and steps](/launch-hub/preload-size/) · [is GTA 6 out](/launch-hub/is-gta-6-out/)
+Related: [pre-load size and steps](/launch-hub/preload-size/) · [is GTA 6 out](/launch-hub/is-gta-6-out/) · [GTA 6 day-one patch: 01.002.001 size and how to check](/launch-hub/gta-6-day-one-patch/)
 
 <!-- What players are saying: add real embeds from content/inbox/ -->
 

@@ -17,7 +17,7 @@ sources:
 updated: 2026-11-18
 status: prelaunch
 spoilers: none
-qa: passed
+qa: live-review
 ---
 
 # GTA 6 A Night in Vice City: Heat Game Time in CET
@@ -65,7 +65,7 @@ Rockstar posted that you can watch the Heat "trade Miami for Vice City" on ESPN 
 ![a timeline from 00:00 to 01:00 CET](TODO: image:gta-6-night-in-vice-city-step-3 — diagram, our own art: a short timeline with 00:00 CET game unlock and 01:00 CET tip-off)
 *Caption: Diagram. Launch night in Slovenia, hour by hour.*
 
-Related: GTA 6 Festival in Miami · [launch night checklist](/launch-hub/launch-night-checklist/) · [launch hub](/launch-hub/gta-6-launch-hub/)
+Related: [GTA 6 Festival in Miami](/launch-hub/gta-6-festival/) · [launch night checklist](/launch-hub/launch-night-checklist/) · [launch hub](/launch-hub/gta-6-launch-hub/)
 
 <!-- What players are saying: add real embeds from content/inbox/ -->
 

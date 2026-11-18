@@ -20,7 +20,7 @@ sources:
 updated: 2026-11-18
 status: prelaunch
 spoilers: none
-qa: passed
+qa: live-review
 ---
 
 # GTA 6 Launch Night Checklist: Be Ready by Midnight
@@ -65,6 +65,7 @@ Stuck? See [the download fix steps](/launch-hub/preload-size/).
 3. Open **Settings > System > Power Saving > Features Available in Rest Mode**.
 4. Turn on **Stay Connected to the Internet**.
 5. Open **Settings > System > System Software > System Software Update and Settings**.
+   - **Required for GTA 6:** PlayStation says a PS5 system update must be installed before you play. See [GTA 6 PS5 update required (14.23.00): how to install](/glitches/gta-6-ps5-system-update-required/).
 6. Turn on **Download Update Files Automatically** and **Install Update Files Automatically**.
 
 **Xbox Series X|S** *(general Xbox menu path, check on your console)*
@@ -106,7 +107,7 @@ Stuck? See [the download fix steps](/launch-hub/preload-size/).
 | Download stuck | **PS5:** open Downloads/Uploads, select GTA VI, **Pause**, then **Resume**. Still stuck: **Cancel and Delete**, then download again from **Game Library**. **Xbox:** open the **Queue**, highlight GTA VI, press the **Menu button**, pause, then resume. |
 | Not enough space | Free at least 212 GB. Delete or move another game. |
 | Wrong account | Sign out. Sign in to the account that bought the game. |
-| Box code will not work | Check the code and your region. Ask the shop if the code is missing or unreadable. Ask PlayStation or Xbox Support for code problems. |
+| Box code will not work | Check the code and your region. Ask the shop if the code is missing or unreadable. Ask PlayStation or Xbox Support for code problems. See [GTA 6 code-in-box: how to redeem and fix code problems](/glitches/gta-6-physical-edition-code-in-box/). |
 | Bug after launch | Contact Rockstar Support. We will post verified fixes after launch. |
 
 ![checklist graphic with six steps](TODO: image:launch-night-checklist-step-4 — diagram, our own art: a 6-step checklist poster with icons for download, storage, updates, account, controller, countdown)

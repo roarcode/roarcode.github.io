@@ -31,6 +31,10 @@ qa: live-review
 - [GTA 6 release time: full table by time zone](/launch-hub/release-time/)
 - [GTA 6 launch night checklist](/launch-hub/launch-night-checklist/)
 - [GTA 6 pre-load: 212 GB size, start times and steps](/launch-hub/preload-size/)
+- [GTA 6 New Zealand trick: does it work? real risks](/launch-hub/gta-6-new-zealand-trick/)
+- [GTA 6 day-one patch: 01.002.001 size and how to check](/launch-hub/gta-6-day-one-patch/)
+- [GTA 6 PC release date: is there a PC version?](/launch-hub/gta-6-pc-release-date/)
+- [GTA 6 performance mode: is there 60 FPS on PS5 Pro?](/launch-hub/gta-6-performance-mode/)
 
 ## Something is not working
 
@@ -39,6 +43,10 @@ qa: live-review
 - [GTA 6 pre-load not starting? 7 fixes](/glitches/gta-6-preload-not-starting/)
 - [GTA 6 PS5 fixes: 9 steps](/glitches/gta-6-ps5-fixes/)
 - [GTA 6 Xbox fixes: 8 steps](/glitches/gta-6-xbox-fixes/)
+- [GTA 6 PS5 update required (14.23.00): how to install](/glitches/gta-6-ps5-system-update-required/)
+- [GTA 6 Xbox service outage message: what to do](/glitches/gta-6-xbox-service-outage-message/)
+- [GTA 6 code-in-box: how to redeem and fix code problems](/glitches/gta-6-physical-edition-code-in-box/)
+- [GTA 6 refund: pre-order error and payment failed fixes](/glitches/gta-6-refund-purchase-error/)
 
 ## Buy and know before you play
 
@@ -59,6 +67,9 @@ qa: live-review
 
 ## Launch events
 
+- [GTA 6 trailers: all official videos and dates](/launch-hub/gta-6-trailers/)
+- [GTA 6 A Night in Vice City: Heat game time in CET](/launch-hub/gta-6-night-in-vice-city/)
+- [GTA 6 Festival Miami: date, lineup, tickets](/launch-hub/gta-6-festival/)
 
 ![launch hub diagram: five groups of pages](TODO: image:gta-6-launch-hub-step-1 — diagram, our own art: five boxes named Right now, Not working, Buy and know, World and people, Launch events)
 *Caption: Diagram. The five groups on this page.*

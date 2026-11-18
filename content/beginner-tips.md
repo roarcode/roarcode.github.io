@@ -16,10 +16,13 @@ sources:
   - https://www.videogameschronicle.com/news/rockstar-reveals-a-swathe-of-new-gta-6-details-ahead-of-the-netflix-extended-look/
   - https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI
   - https://gameinformer.com/2026/11/10/grand-theft-auto-vi-will-run-at-30-fps-on-all-consoles-but-ps5-pro-will-feature-improved
+  - https://in.ign.com/grand-theft-auto-vi/277358/grand-theft-auto-6-review
+  - https://www.gamespot.com/articles/can-you-replay-missions-in-gta-6/
+  - https://www.gamespot.com/articles/how-do-you-save-your-game-in-gta-6/
 updated: 2026-11-18
 status: prelaunch
 spoilers: minor
-qa: passed
+qa: live-review
 ---
 
 # GTA 6 Beginner Tips: Start Strong in 2026
@@ -52,6 +55,8 @@ qa: passed
 | **Do not wave guns around.** People react and call the police if you carry a gun in public. | Previews | GameSpot |
 | **New cars may need a "key cloner".** Older cars may need a slim jim or a smashed window. | Previews | GameSpot, Wikipedia |
 | **Body and looks matter.** Workouts build muscle, food affects weight and bad sleep shows on the face. | Previews | GameSpot, VGC |
+| **Save before every big mission.** You cannot replay a finished mission from the mission list. To play it again, you load an older save. | Reported in reviews and guides on 18 Nov | [IGN review](https://in.ign.com/grand-theft-auto-vi/277358/grand-theft-auto-6-review), [GameSpot](https://www.gamespot.com/articles/can-you-replay-missions-in-gta-6/) |
+| **You have 15 save slots.** The autosave uses one slot and writes over itself. You cannot save while a mission is running. | Reported | [GameSpot: how to save](https://www.gamespot.com/articles/how-do-you-save-your-game-in-gta-6/) |
 
 > **Rumour / unconfirmed:** Two secondary sites report a gun limit of 2 sidearms and 2 long guns, with the rest stored in your vehicle. Not yet confirmed in play and not from Rockstar or a reputable outlet. Source: https://www.gtaboom.com/gta-6-drops-default-lock-on-limits-guns-sprint-l3-204b and https://hudwire.com/gta-6-weapons-carry-limit/
 
@@ -62,7 +67,7 @@ qa: passed
 
 1. **To lose the police, break line of sight.** Get out of view, then stay out of view until the stars fade. (Worked in earlier GTA games.)
 2. **Keep a fast car close** before you start a risky job. (Earlier GTA games.)
-3. **Save before a hard mission** if the game lets you. Earlier GTA games used autosave plus manual saves.
+3. **Save to a new slot before a hard mission.** This is now reported for GTA 6 too: there is no mission replay, so an old save is the only way back (IGN, GameSpot, 18 Nov). During a mission, the pause menu offers **retry, quit or restart** (GameSpot). The save button is **not announced** on official pages.
 4. **Check the pause menu and map before you spend money.** Earlier games hid shops and settings there.
 
 ![map pin set with a fast car near a mission marker](TODO: image:beginner-tips-step-3 — map pin, our own art: a mission marker with a car pin beside it)

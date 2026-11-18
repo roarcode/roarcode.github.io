@@ -8,6 +8,8 @@ slug: editions-prices
 category: pre-launch
 description: "GTA 6 costs $79.99 Standard and $99.99 Ultimate, with UK and euro prices, upgrade info, GTA+ month and the Vintage Vice City Pack bonus explained."
 sources:
+  - https://rockstarintel.com/gta-6-collectors-edition-and-merchandise-revealed/
+  - https://gamemode.co/news/gta-vi-goodtime-state-vice-city-collection-box
   - https://taketwointeractivesoftwareinc.gcs-web.com/news-releases/news-release-details/rockstar-games-announces-pre-orders-grand-theft-auto-vi/
   - https://store.playstation.com/en-us/product/EP1004-PPSA01547_00-GTAVIULTIMATE001
   - https://store.playstation.com/en-gb/product/EP1004-PPSA01547_00-GTAVISTANDARD001/
@@ -34,7 +36,7 @@ sources:
 updated: 2026-11-18
 status: prelaunch
 spoilers: none
-qa: passed
+qa: live-review
 ---
 
 # GTA 6 Editions and Prices: Standard vs Ultimate (2026)
@@ -112,9 +114,11 @@ Rockstar says before 20 Nov. The Xbox Store says before 19 Nov 23:59:59 and Play
 ## Good to know
 
 - **No microtransactions at launch:** Rockstar told Kinda Funny this (per GameSpot). The store pages still show "In-game purchases optional". Treat the first as a statement from an interview.
-- **Collector's merch:** "The Goodtime State – Vice City Collection" is a **$399.99** Rockstar Store box (merch only, **the game is sold separately**). It ships from **19 Nov 2026**, and you can buy **one per person** while supplies last ([Rockstar Newswire, 24 Sep](https://www.rockstargames.com/newswire/article/9k2a49ook82o57/pre-order-the-goodtime-state-vice-city-collection-now-while-supplies-l); Forbes; VICE). Not a game edition.
+- **Collector's merch:** "The Goodtime State – Vice City Collection" is a **$399.99** Rockstar Store box (merch only, **the game is sold separately**). It ships from **19 Nov 2026** while supplies last ([Rockstar Newswire, 24 Sep](https://www.rockstargames.com/newswire/article/9k2a49ook82o57/pre-order-the-goodtime-state-vice-city-collection-now-while-supplies-l); Forbes; VICE). The Rockstar Store's FAQ limits it to **one per person**, as reported by [RockstarINTEL](https://rockstarintel.com/gta-6-collectors-edition-and-merchandise-revealed/) and [GAME MODE](https://gamemode.co/news/gta-vi-goodtime-state-vice-city-collection-box). Not a game edition.
 - **Other merch:** Rockstar also launched a GTA VI collection at the Rockstar Store on 8 Oct ([Rockstar Newswire](https://www.rockstargames.com/newswire/article/759875393o5253/grand-theft-auto-vi-collection-now-at-the-rockstar-store)).
 - **Not announced:** PS5 upgrade price, euro prices outside the euro area, season passes or paid add-ons.
+- Bought a box with a code? [GTA 6 code-in-box: how to redeem and fix code problems](/glitches/gta-6-physical-edition-code-in-box/).
+- Prices and refunds: [GTA 6 refund: pre-order error and payment failed fixes](/glitches/gta-6-refund-purchase-error/).
 
 Related: [Vintage Vice City Pack](/launch-hub/vintage-vice-city-pack/) · [launch hub](/launch-hub/gta-6-launch-hub/)
 

@@ -21,7 +21,7 @@ updated: 2026-11-18
 status: stub
 publish: true
 spoilers: none
-qa: passed
+qa: live-review
 ---
 
 # Is GTA 6 Out? Yes: Unlock Time in Every Time Zone
@@ -78,7 +78,7 @@ Work through these pages in this order:
 
 ## What not to do
 
-Do not change your console region or use a second account to unlock early. Polygon says the "New Zealand trick" needs a separate account in another region on PS5. PC Gamer is not sure it works. Rockstar, Sony and Microsoft have said nothing to support it, and players on Reddit warn about bans (1News, 18 Nov). An analyst told the BBC it may break PlayStation or Xbox rules on regional accounts. We do not recommend it. 
+Do not change your console region or use a second account to unlock early. Polygon says the "New Zealand trick" needs a separate account in another region on PS5. PC Gamer is not sure it works. Rockstar, Sony and Microsoft have said nothing to support it, and players on Reddit warn about bans (1News, 18 Nov). An analyst told the BBC it may break PlayStation or Xbox rules on regional accounts. We do not recommend it. Read the risks: [GTA 6 New Zealand trick: does it work? real risks](/launch-hub/gta-6-new-zealand-trick/). 
 
 ## What players are saying
 

@@ -9,6 +9,8 @@ category: glitches
 description: "GTA 6 needs a PS5 system update before you play. Exact steps to check your version and install 26.07-14.23.00, plus fixes if it fails."
 sources:
   - https://x.com/PS_Support_US/status/2122863683881619685
+  - https://x.com/PS_Support_US/status/2122617494447751245
+  - https://x.com/RockstarGames/status/2122883242105684394
   - https://www.playstation.com/en-us/support/hardware/ps5/system-software-info/
   - https://www.playstation.com/en-us/support/hardware/ps5/system-software/
   - https://www.playstation.com/en-us/support/games/gta-vi-support/
@@ -21,13 +23,13 @@ updated: 2026-11-18
 status: prelaunch
 publish: true
 spoilers: none
-qa: passed
+qa: live-review
 ---
 
 # GTA 6 PS5 Update Required (14.23.00): How to Install
 
 > - **Quick answer:** PlayStation Support says a PS5 system software update is **required before playing GTA VI**. Install it before midnight on 19 Nov. The current version on PlayStation's update page is **26.07-14.23.00**.
-> - **Do this:** Settings > System > System Software > System Software Update and Settings > Update System Software. It is about 1.3 GB (Push Square).
+> - **Do this:** Settings > System > System Software > System Software Update and Settings > Update System Software. Push Square reports about 1.3 GB; Sony gives no size.
 > - **Watch out:** pre-loading the game does not install this update. Sony normally gives a grace period, but press reports say there is none this time.
 
 **Words used on this page.** *System software* is the PS5's own operating system, like the "brain" of the console. *Firmware* is another name for it. A *version number* like 26.07-14.23.00 tells you which update you have. *Safe Mode* is a special start-up menu for fixing problems. *USB drive* is a small stick you plug in to carry files.
@@ -36,7 +38,9 @@ qa: passed
 
 - On 17 Nov at 8:25 pm ET (02:25 CET on 18 Nov), the official PlayStation Support US account posted: "Sony Interactive has issued a PS5 system software update that is required before playing Grand Theft Auto VI. Players should download this update prior to midnight on November 19..." ([post](https://x.com/PS_Support_US/status/2122863683881619685))
 - PlayStation's own update page lists **26.07-14.23.00** as the newest version. Its only note is "We've made some security fixes to the system software." ([PlayStation update list](https://www.playstation.com/en-us/support/hardware/ps5/system-software-info/))
-- The support post does not print the version number. News sites (Push Square, tbreak) match the post to 26.07-14.23.00. So: **install the newest version your PS5 offers. Today that is 26.07-14.23.00.**
+- Rockstar shared the same PlayStation Support post on its own X account at 03:43 CET on 18 Nov ([Rockstar repost](https://x.com/RockstarGames/status/2122883242105684394)).
+- On 17 Nov at 10:07 CET, PlayStation Support US posted: "PS5 system software update 26.07-14.23.00 is available now" ([post](https://x.com/PS_Support_US/status/2122617494447751245)). We checked PlayStation's update list again at 12:50 CET on 18 Nov: **26.07-14.23.00** is still the newest version.
+- The "required" post itself does not print the version number. News sites (Push Square, tbreak) match the post to 26.07-14.23.00. So: **install the newest version your PS5 offers. Today that is 26.07-14.23.00.**
 - If a newer version appears later, install that one. We will update this page.
 
 <blockquote class="twitter-tweet"><a href="https://x.com/PS_Support_US/status/2122863683881619685"></a></blockquote>
@@ -139,6 +143,7 @@ We have no source for an Xbox requirement, so we say nothing about it. See [GTA 
 
 | Date | What changed |
 |---|---|
+| 2026-11-18 13:05 CET | Added Rockstar's repost and PlayStation Support's 17 Nov post naming 26.07-14.23.00. Re-checked PlayStation's update list (12:50 CET). Size marked as reported. |
 | 2026-11-18 | Page created from PlayStation Support's post and PlayStation's update list. |
 
 ---

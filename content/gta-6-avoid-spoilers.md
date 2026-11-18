@@ -9,7 +9,7 @@ category: beginner
 description: "Avoid GTA 6 spoilers while New Zealand plays first: mute words on X, YouTube, Reddit, PS5 and Xbox, with a safe list of words to mute."
 sources:
   - https://www.theverge.com/22878708/twitter-mute-tweets-word-name-tag-how-to
-  - https://www.reddit.com/r/GTA6/
+  - https://www.reddit.com/r/GTA6/comments/1xisug9/release_day_plan_regarding_spoilersnsfw/
   - https://x.com/ViceBeatHQ/status/2122351487841960328
   - https://x.com/monstraem/status/2123010199761871018
   - https://x.com/BuiltByNath/status/2122273223299436773
@@ -29,7 +29,7 @@ qa: pending
 
 > - **Quick answer:** Mute words on X now: **Settings and privacy > Privacy and safety > Mute and block > Muted words**. Add "GTA 6 ending", "GTA VI ending" and "GTA 6 spoilers".
 > - **Why now:** New Zealand unlocked at **12:00 CET on 18 Nov**. Slovenia unlocks at **00:00 CET on 19 Nov**. That is 12 hours of people posting.
-> - **Muted words are not perfect.** X may still show them in search. The safest plan is to stay off social media until you have played.
+> - **Muted words are not perfect.** They hide posts with the exact words you add, but not in search results (GameSpot). Stay off social media until you have played.
 
 **Words used on this page.** A *spoiler* is something that ruins a surprise in a story. *Mute* means you stop seeing certain posts, and nobody is told. *Muted words* is the X feature that hides posts with words you choose. *Timeline* is the list of posts you scroll.
 
@@ -48,7 +48,7 @@ qa: pending
 9. Pick how long: forever, 24 hours, 7 days or 30 days.
 10. Click **Save**. Repeat for the next phrase.
 
-(Path as described in The Verge's guide. X's menus can change a little between website, iPhone and Android.)
+(Path as described in The Verge's guide and GameSpot's guide of 17 Nov 2026; last checked 18 Nov 2026. X's menus can change a little between website, iPhone and Android.)
 
 ![X Muted words screen with the plus button](TODO: image:gta-6-avoid-spoilers-step-1 — menu screen, X: Settings and privacy > Privacy and safety > Mute and block > Muted words, our own illustration)
 *Caption: Menu screen. Muted words lives under Mute and block.*
@@ -101,7 +101,7 @@ Reddit has no keyword filter (GameSpot). The best tool is to mute whole communit
 
 GameSpot says to mute r/GTA6, r/GTA, r/GrandTheftAutoV, r/PS5, r/XboxSeriesX and r/gaming for now. Muted communities are removed from your Home and Popular feeds, recommendations and notifications.
 
-**r/GTA6's own rules:** the subreddit pins a post called "Release Day Plan Regarding Spoilers/NSFW". Its rules say discussion of story or plotline leaks is removed, and posting leaked footage or files gets a ban. We did not find a spoiler tag on the page, so we do not say there is one. ([r/GTA6](https://www.reddit.com/r/GTA6/))
+**r/GTA6's own rules:** r/GTA6 does not ban launch-day talk. Its pinned post says story posts need spoiler tags and spoiler-free titles for the first few weeks, and posts without the right tags may be removed. If you want zero spoilers, do not browse the sub until you have played. ([r/GTA6 pinned post, 29 Oct 2026](https://www.reddit.com/r/GTA6/comments/1xisug9/release_day_plan_regarding_spoilersnsfw/))
 
 ![Reddit three-dot menu with Mute subreddit](TODO: image:gta-6-avoid-spoilers-step-4 — step screenshot, our own illustration of the Reddit three-dot menu with Mute r/GTA6 highlighted)
 *Caption: Step screenshot. Mute the subreddit from its three-dot menu.*
@@ -126,7 +126,7 @@ We could not open an official Xbox page for this. Digital Trends says the path i
 ## Other ways to stay safe
 
 1. **Do not open game replies and live streams.** People talk in them.
-2. **Look at Reddit rules.** r/GTA6 pins a "Release Day Plan Regarding Spoilers/NSFW" post. Its rules also say discussion of story or plotline leaks is removed.
+2. **Know Reddit's rules.** r/GTA6 does not ban launch-day talk. Its pinned post says story posts need spoiler tags and spoiler-free titles for the first few weeks. If you want zero spoilers, do not browse the sub until you have played ([pinned post](https://www.reddit.com/r/GTA6/comments/1xisug9/release_day_plan_regarding_spoilersnsfw/)).
 3. **Leave group chats** that talk about the game until you finish.
 4. **Pre-load and set an alarm** for your own midnight. See [GTA 6 release time](/launch-hub/release-time/).
 5. **Do not use the New Zealand trick just to beat spoilers.** See [the New Zealand trick risks](/launch-hub/gta-6-new-zealand-trick/).
@@ -150,7 +150,7 @@ We could not open an official Xbox page for this. Digital Trends says the path i
 Use Muted words. Go to Settings and privacy > Privacy and safety > Mute and block > Muted words, click the plus icon and add phrases.
 
 ### Will muting words hide everything?
-No. X can still show muted words in search, and spelling changes can slip through.
+No. Muted words hide posts that contain the exact words you add, in the places you pick (Home timeline, Notifications). GameSpot says they do not filter search results. A post that spells it differently can still get through, so the safest plan is to stay off social media until you have played.
 
 ### When can people post spoilers?
 From the New Zealand unlock at 12:00 CET on 18 Nov. Your own midnight is later.
@@ -159,9 +159,9 @@ From the New Zealand unlock at 12:00 CET on 18 Nov. Your own midnight is later.
 
 | Date | What changed |
 |---|---|
+| 2026-11-18 13:00 CET | QA fixes: r/GTA6 rules now match the pinned post; muted-words limits now cite GameSpot. |
 | 2026-11-18 12:50 CET | Added YouTube, Reddit, PS5 and Xbox steps and a longer mute-word list. |
 | 2026-11-18 | Page created. |
-| 2026-11-18 12:50 CET | Added YouTube, Reddit, PS5 and Xbox steps and a longer mute-word list. |
 
 ---
 *Unofficial fan site, not affiliated with Rockstar Games or Take-Two.*

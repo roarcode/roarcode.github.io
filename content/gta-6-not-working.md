@@ -16,11 +16,13 @@ sources:
   - https://www.playstation.com/en-us/support/hardware/safe-mode-playstation/
   - https://support.rockstargames.com/
   - https://news.xbox.com/en-us/2026/11/10/grand-theft-auto-6-comes-to-xbox-cloud-gaming-november-19/
+  - https://insider-gaming.com/is-grand-theft-auto-6-down-gta-6-issues-explained/
+  - https://x.com/PS_Support_US/status/2122863683881619685
 updated: 2026-11-18
 status: stub
 publish: true
 spoilers: none
-qa: passed
+qa: live-review
 ---
 
 # GTA 6 Not Working? Servers Down Check and 7 Fixes
@@ -38,7 +40,7 @@ qa: passed
 3. On Xbox, open **[Xbox status](https://support.xbox.com/en-US/xbox-live-status)**.
 4. If any page shows a problem, stop. Nothing you change on your console fixes a server problem. Try again later.
 
-> **We will update this when Rockstar confirms:** when we looked, the Rockstar status page (stamped 17 Nov 2026, 5:30 PM UTC) listed GTA Online, Red Dead Online and Rockstar's online services, but **no row for GTA VI**. Rockstar may add one. Until then, a green Rockstar page does not prove that GTA VI is fine. Any launch-day outage, error message or "known issue" from Rockstar is **not announced yet**.
+> **Status check, 18 Nov 2026 at 12:50 CET:** the [Xbox status page](https://support.xbox.com/en-US/xbox-live-status) showed no problems. PlayStation's US status page showed no alerts, and its Europe page showed only an older Russia-only alert from 11 Nov. The Rockstar status page did not load for us, so check it yourself. Insider Gaming wrote on 18 Nov that GTA 6 had no performance or network problems at the time it wrote. Rockstar has not posted any GTA VI "known issues" list or fix yet ([Insider Gaming](https://insider-gaming.com/is-grand-theft-auto-6-down-gta-6-issues-explained/)).
 
 ![the three status pages side by side with green ticks](TODO: image:gta-6-not-working-step-1 — diagram, our own art: three cards named Rockstar, PlayStation, Xbox with a green tick and a red cross example)
 *Caption: Diagram. Check these three pages before you change anything.*
@@ -56,6 +58,7 @@ qa: passed
    - PS5: **Settings > Network > Connection Status > Test Internet Connection** (PlayStation support).
    - Xbox: press the **Xbox button**, then **Profile & system > Settings > General > Network settings > Test network connection** (general Xbox menu path, check on your console).
 7. **Install updates.** PS5: **Settings > System > System Software > System Software Update and Settings**. Xbox: let the console finish any update it asks for.
+   - **Required for GTA 6:** PlayStation says a PS5 system update must be installed before you play. See [GTA 6 PS5 update required (14.23.00): how to install](/glitches/gta-6-ps5-system-update-required/).
 
 ![PS5 Restart option in the Power menu](TODO: image:gta-6-not-working-step-2 — menu screen, PS5: PS button > Power with Restart PS5 highlighted)
 *Caption: Menu screen. Restart your PS5 from the Power menu.*
@@ -68,6 +71,8 @@ qa: passed
 - **PS5:** see [GTA 6 PS5 fixes](/glitches/gta-6-ps5-fixes/). It has the Safe Mode steps.
 - **Xbox:** see [GTA 6 Xbox fixes](/glitches/gta-6-xbox-fixes/).
 - **Who to ask:** PlayStation says Rockstar Support handles gameplay problems, patches and bugs. PlayStation Support handles game launch issues, download issues and code issues. Use [Rockstar Support](https://support.rockstargames.com/) for the game itself.
+
+Related: [GTA 6 PS5 fixes](/glitches/gta-6-ps5-fixes/) · [GTA 6 Xbox fixes](/glitches/gta-6-xbox-fixes/) · [GTA 6 download stuck](/glitches/gta-6-download-stuck/) · [GTA 6 Xbox service outage message: what to do](/glitches/gta-6-xbox-service-outage-message/)
 
 <!-- What players are saying: add real embeds from content/inbox/ -->
 
@@ -84,6 +89,13 @@ Xbox One streams GTA 6 through Xbox Cloud Gaming. It starts at 1:00 AM ET on 19 
 
 ### Does GTA 6 need to be online?
 Not announced on any page we checked. The PlayStation Store lists it as a single-player game. We will update this when Rockstar confirms.
+
+## Updated
+
+| Date | What changed |
+|---|---|
+| 2026-11-18 13:10 CET | New status check (12:50 CET). Added the required PS5 system update under fix 7 and a Related line. |
+| 2026-11-18 | Page created. |
 
 ---
 *Unofficial fan site, not affiliated with Rockstar Games or Take-Two.*

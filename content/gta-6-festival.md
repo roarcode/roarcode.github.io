@@ -18,7 +18,7 @@ sources:
 updated: 2026-11-18
 status: prelaunch
 spoilers: none
-qa: passed
+qa: live-review
 ---
 
 # GTA 6 Festival Miami: Date, Lineup, Tickets (2026)
@@ -92,7 +92,7 @@ A livestream is **not announced** on the pages we checked (18 Nov). We will add 
 - **Way in:** the entry is on NW 5th Avenue (Miami and Beaches).
 - **Alcohol:** only for guests 21 and older (Miami and Beaches).
 
-Related: GTA 6 A Night in Vice City (Heat game) · [GTA 6 radio stations and album](/launch-hub/radio-stations/) · [launch hub](/launch-hub/gta-6-launch-hub/)
+Related: [GTA 6 A Night in Vice City (Heat game)](/launch-hub/gta-6-night-in-vice-city/) · [GTA 6 radio stations and album](/launch-hub/radio-stations/) · [launch hub](/launch-hub/gta-6-launch-hub/)
 
 <!-- What players are saying: add real embeds from content/inbox/ -->
 

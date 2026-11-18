@@ -16,6 +16,7 @@ sources:
   - https://www.techradar.com/gaming/why-no-40fps-mode-for-gta-6-rockstar-says-the-complexity-of-simulating-and-rendering-our-world-requires-it-to-carefully-balance-how-we-spend-every-millisecond-of-both-the-central-processor-and-the-graphics-processor
   - https://www.digitalfoundry.net/features/gta-6-an-extended-look-analysis-perhaps-the-most-impressive-showcase-weve-ever-seen-in-real-time-rendering
   - https://www.theverge.com/games/1030749/rockstar-gta-6-30fps-ps5-pro-pssr-ray-tracing
+  - https://www.digitalfoundry.net/reviews/grand-theft-auto-6-a-landmark-achievement-that-redefines-a-console-generation
   - https://x.com/Pure_PS/status/2122348821019775397
   - https://x.com/WantedLevelgg/status/2122130221734469666
   - https://x.com/Pirat_Nation/status/2122630827355840566
@@ -24,13 +25,13 @@ updated: 2026-11-18
 status: prelaunch
 publish: true
 spoilers: none
-qa: passed
+qa: live-review
 ---
 
 # GTA 6 Performance Mode: Is There 60 FPS on PS5 Pro?
 
-> - **Quick answer:** **No performance mode or 60 FPS is announced.** Rockstar says GTA VI is "targeting 30 frames per second" on every console (Game Informer).
-> - **PS5 Pro gets:** sharper picture with PSSR and ray-traced shadows. Not more frames.
+> - **Quick answer:** **No performance mode or 60 FPS.** Rockstar targets 30 FPS on every console, and TechRadar says there are no graphics modes on PS5 or Xbox.
+> - **PS5 Pro gets:** a sharper picture and ray-traced shadows. Digital Foundry's review (18 Nov) measured a steady 30 FPS on Pro and dips to the mid-20s on base PS5.
 > - **Careful with tools** that promise 60 or 120 FPS. They are unofficial. We do not link them.
 
 **Words used on this page.** *FPS* means frames per second, how many pictures the game draws each second. *Performance mode* is a setting that trades looks for more FPS. *PSSR* is PS5 Pro's way of making the picture sharper. *Ray-traced shadows* are shadows drawn with light-ray maths. *Frame generation* means a tool invents extra pictures.
@@ -59,6 +60,26 @@ qa: passed
 - On 17 Nov, Dexerto reported Digital Foundry's Richard Leadbetter saying a 40 FPS mode would still need a "huge amount of optimization or cutbacks" to reach 25 ms per frame, and that "30 FPS makes sense". ([Dexerto, 17 Nov 2026](https://www.dexerto.com/gta/gta-6-running-at-30-fps-makes-sense-experts-say-after-rockstars-confirmation-3428936/))
 
 > **Rumour / unconfirmed:** Digital Foundry wrote that, "according to reports from those speaking to Rockstar", higher frame-rate modes "will be considered for post-launch updates". Rockstar has not said this itself. Source: https://www.digitalfoundry.net/features/gta-6-an-extended-look-analysis-perhaps-the-most-impressive-showcase-weve-ever-seen-in-real-time-rendering
+
+## Digital Foundry's tech review (18 Nov 2026)
+
+Digital Foundry (DF) tests how games run. Its review by John Linneman went up on 18 Nov. It covers **PS5 and PS5 Pro**. It does not cover Xbox yet. ([Digital Foundry review](https://www.digitalfoundry.net/reviews/grand-theft-auto-6-a-landmark-achievement-that-redefines-a-console-generation))
+
+| What DF checked | PS5 | PS5 Pro |
+|---|---|---|
+| Frame rate | Mostly **30 FPS**. Small dips in fast driving. Drops to the **mid-20s** are possible in long fights with explosions. | A locked **30 FPS** with perfect frame pacing (every frame arrives on time). |
+| Base resolution | **1440p** (2560x1440) | **1440p** (2560x1440) |
+| Final picture | Normal upscaling. Softer, with less sharp detail far away. | **PSSR** upscaling. DF says it looks a lot like 4K. |
+| Ray tracing | Ray-traced lighting (global illumination) and reflections | The same, **plus ray-traced shadows** |
+
+- DF calls 30 FPS "a deliberate design decision" so the game can simulate a busy world.
+- DF says HDR highlights go above **1500 nits** (a measure of brightness). That matters only if your TV supports HDR.
+- **Xbox:** not in this review. We will add DF's Xbox numbers when they publish them.
+
+**Words in the table.** *Resolution* is how many dots make up the picture. *1440p* is fewer dots than 4K. *Upscaling* means the console makes a smaller picture bigger to fit your TV. *Frame pacing* means the frames arrive at even gaps, so motion looks smooth.
+
+![PS5 vs PS5 Pro comparison diagram from Digital Foundry's numbers](TODO: image:gta-6-performance-mode-step-4 — diagram, our own art: two columns PS5 and PS5 Pro, both 1440p base, Pro with PSSR to 4K and RT shadows, PS5 with dips to mid-20s)
+*Caption: Diagram. Digital Foundry's PS5 and PS5 Pro results, drawn by us.*
 
 ## Why players argue
 
@@ -95,10 +116,13 @@ Some posts say a free tool can turn a 30 FPS console picture into 60 or 120 FPS 
 ## FAQ
 
 ### Does GTA 6 have a performance mode?
-Not announced. Rockstar targets 30 FPS on every console.
+No. TechRadar says GTA 6 has no graphics modes on PS5 or Xbox Series X|S. Rockstar targets 30 FPS on every console.
+
+### Why does GTA 6 drop below 30 FPS on my PS5?
+Digital Foundry saw small dips on base PS5 during fast driving, and drops to the mid-20s in long fights with explosions. It is the game, not your console. No fix is announced.
 
 ### Does PS5 Pro run GTA 6 at 60 FPS?
-Not announced. PS5 Pro adds PSSR and ray-traced shadows.
+No. PS5 Pro runs at 30 FPS. Digital Foundry measured a locked 30 FPS on Pro, with a sharper picture and ray-traced shadows.
 
 ### Can I get 60 FPS on Xbox?
 No Xbox performance mode is announced. Xbox Cloud Gaming uses Series S graphics settings.
@@ -110,6 +134,7 @@ That is your choice. This page only reports what is confirmed.
 
 | Date | What changed |
 |---|---|
+| 2026-11-18 13:05 CET | Added Digital Foundry's tech review results for PS5 and PS5 Pro, and TechRadar's note that there are no graphics modes. |
 | 2026-11-18 | Page created from Rockstar's statement via Game Informer. |
 
 ---

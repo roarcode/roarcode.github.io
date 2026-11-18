@@ -23,7 +23,7 @@ sources:
 updated: 2026-11-18
 status: prelaunch
 spoilers: none
-qa: passed
+qa: live-review
 ---
 
 # GTA 6 Trailers: All Official Videos and Dates (2026)
@@ -69,8 +69,8 @@ Rockstar's GTA VI site lists these four as its main videos.
 
 | Video | Date | What it is about | Link |
 |---|---|---|---|
-| A Night in Vice City | 9 Nov 2026 | The Miami Heat GTA 6 basketball night | [YouTube](https://www.youtube.com/watch?v=Rj2Jnbt-5p4) · our page |
-| Grand Theft Auto VI: The Festival | 10 Nov 2026 | Ticket lottery reminder for the Miami festival | [YouTube](https://www.youtube.com/watch?v=AvBcfBrBl60) · our page |
+| A Night in Vice City | 9 Nov 2026 | The Miami Heat GTA 6 basketball night | [YouTube](https://www.youtube.com/watch?v=Rj2Jnbt-5p4) · [our page](/launch-hub/gta-6-night-in-vice-city/) |
+| Grand Theft Auto VI: The Festival | 10 Nov 2026 | Ticket lottery reminder for the Miami festival | [YouTube](https://www.youtube.com/watch?v=AvBcfBrBl60) · [our page](/launch-hub/gta-6-festival/) |
 | Pre-Load Now | 10 Nov 2026 | Pre-load is open; song "Blood In Your Eyes" by Tove Lo | [YouTube](https://www.youtube.com/watch?v=_yl5ELcmugI) · [our pre-load page](/launch-hub/preload-size/) |
 
 **Launch Gallery:** on 5 Nov 2026 Rockstar posted a set of new screenshots on its site ([Rockstar Newswire](https://www.rockstargames.com/newswire/article/39ak81277255o9/explore-the-grand-theft-auto-vi-launch-gallery)). We link to them and do not copy them.

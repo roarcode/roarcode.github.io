@@ -8,6 +8,8 @@ slug: ps5-settings
 category: pre-launch
 description: "GTA 6 targets 30 FPS on PS5 and PS5 Pro. See what PS5 Pro adds, exact menu steps for HDR and storage, and what is not announced yet."
 sources:
+  - https://www.digitalfoundry.net/reviews/grand-theft-auto-6-a-landmark-achievement-that-redefines-a-console-generation
+  - https://www.techradar.com/gaming/why-no-40fps-mode-for-gta-6-rockstar-says-the-complexity-of-simulating-and-rendering-our-world-requires-it-to-carefully-balance-how-we-spend-every-millisecond-of-both-the-central-processor-and-the-graphics-processor
   - https://gameinformer.com/2026/11/10/grand-theft-auto-vi-will-run-at-30-fps-on-all-consoles-but-ps5-pro-will-feature-improved
   - https://www.gamesradar.com/games/grand-theft-auto/gta-6-wont-run-at-60fps-even-on-ps5-pro-but-sonys-console-does-have-an-exclusive-ray-traced-shadows-and-pssr/
   - https://www.theverge.com/games/1030749/rockstar-gta-6-30fps-ps5-pro-pssr-ray-tracing
@@ -21,7 +23,7 @@ sources:
 updated: 2026-11-18
 status: prelaunch
 spoilers: none
-qa: passed
+qa: live-review
 ---
 
 # GTA 6 on PS5 and PS5 Pro: What Is Confirmed (2026)
@@ -37,8 +39,8 @@ qa: passed
 | Topic | Confirmed | Source |
 |---|---|---|
 | Frame rate | "Targeting 30 frames per second" on current consoles | Rockstar blog, 10 Nov, via Game Informer, GamesRadar, The Verge |
-| Modes (performance / quality) | None announced | GamesRadar, Tom's Hardware |
-| Resolution | Not announced | Tom's Hardware |
+| Modes (performance / quality) | None. TechRadar says there are no graphics modes on PS5 or Xbox (18 Nov). | [TechRadar](https://www.techradar.com/gaming/why-no-40fps-mode-for-gta-6-rockstar-says-the-complexity-of-simulating-and-rendering-our-world-requires-it-to-carefully-balance-how-we-spend-every-millisecond-of-both-the-central-processor-and-the-graphics-processor) |
+| Resolution | Not announced by Rockstar. Digital Foundry measured a 1440p base on PS5 and PS5 Pro (18 Nov). | [Digital Foundry](https://www.digitalfoundry.net/reviews/grand-theft-auto-6-a-landmark-achievement-that-redefines-a-console-generation) |
 | PS5 Pro | PSSR (sharper picture) and ray-traced shadows, "only available on PlayStation 5 Pro". A compatible display is needed. | Game Informer, PlayStation |
 | Controller | DualSense haptics and adaptive triggers, adjustable in accessibility settings | Rockstar via GamesRadar, PlayStation Blog |
 | Sound | Tempest 3D Audio | PlayStation Blog |
@@ -54,7 +56,8 @@ qa: passed
 | DualSense haptics, Tempest 3D Audio | Yes | Yes |
 | PSSR sharper picture | No | Yes |
 | Ray-traced shadows | No | Yes |
-| Graphics modes | Not announced | Not announced |
+| Graphics modes | None (TechRadar) | None (TechRadar) |
+| Measured by Digital Foundry | Mostly 30 FPS, dips to mid-20s in big explosions | Locked 30 FPS, PSSR picture close to 4K |
 
 ![PS5 versus PS5 Pro feature comparison card](TODO: image:ps5-settings-step-1 — diagram, our own art: two columns, PS5 and PS5 Pro, with ticks for PSSR and ray-traced shadows)
 *Caption: Diagram. What PS5 Pro adds in GTA 6.*
@@ -99,10 +102,10 @@ qa: passed
 
 ## Not announced (we will update at launch)
 
-- Performance mode on PS5 Pro
-- Resolution on PS5 and PS5 Pro
 - HDR, motion blur, field-of-view and camera options in the game
 - Launch-day update size
+
+Frame rate details: [GTA 6 performance mode: is there 60 FPS on PS5 Pro?](/launch-hub/gta-6-performance-mode/).
 
 ## What players are saying
 

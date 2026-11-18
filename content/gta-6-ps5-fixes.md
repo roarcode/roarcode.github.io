@@ -19,7 +19,7 @@ updated: 2026-11-18
 status: stub
 publish: true
 spoilers: none
-qa: passed
+qa: live-review
 ---
 
 # GTA 6 PS5 Fixes: 9 Steps When It Won't Start or Load
@@ -39,6 +39,7 @@ qa: passed
 5. **Turn on Console Sharing and Offline Play** if someone else's account owns the game. Go to **Settings > Users and Accounts > Other > Console Sharing and Offline Play**, then select **Enable**.
 6. **Restore licenses.** On PS5 this is under **Settings > Users and Accounts > Other > Restore Licenses** (general PS5 menu path, check on your console).
 7. **Update the system software.** Go to **Settings > System > System Software > System Software Update and Settings**.
+   - **Required for GTA 6:** PlayStation says a PS5 system update must be installed before you play. See [GTA 6 PS5 update required (14.23.00): how to install](/glitches/gta-6-ps5-system-update-required/).
 8. **Delete and re-download.** In **Game Library**, highlight GTA VI, press the **Options button**, select **Delete**. Then download it again. A network cable is better than Wi-Fi.
 9. **Rebuild the database in Safe Mode.** Steps below.
 
@@ -69,7 +70,7 @@ qa: passed
 - **Gameplay problems, patches and bugs:** [Rockstar Support](https://support.rockstargames.com/). PlayStation's GTA VI page sends these there.
 - **Known GTA 6 PS5 bugs and patch notes:** not announced yet. We will update this page when Rockstar confirms them.
 
-Related: [GTA 6 download stuck](/glitches/gta-6-download-stuck/) · [GTA 6 not working](/glitches/gta-6-not-working/) · [PS5 and PS5 Pro: what is confirmed](/launch-hub/ps5-settings/)
+Related: [GTA 6 download stuck](/glitches/gta-6-download-stuck/) · [GTA 6 not working](/glitches/gta-6-not-working/) · [PS5 and PS5 Pro: what is confirmed](/launch-hub/ps5-settings/) · [GTA 6 performance mode: is there 60 FPS on PS5 Pro?](/launch-hub/gta-6-performance-mode/)
 
 <!-- What players are saying: add real embeds from content/inbox/ -->
 

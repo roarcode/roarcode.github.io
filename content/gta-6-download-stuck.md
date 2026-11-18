@@ -23,7 +23,7 @@ updated: 2026-11-18
 status: stub
 publish: true
 spoilers: none
-qa: passed
+qa: live-review
 ---
 
 # GTA 6 Download Stuck? 8 Fixes for PS5 and Xbox (2026)
@@ -79,6 +79,7 @@ Watch the number for 10 minutes. If the percent or the GB number goes up, even s
 - **Right account.** Use the account that bought the game or entered the box code.
 - **Status pages.** [PlayStation Network status](https://status.playstation.com) and [Xbox status](https://support.xbox.com/en-US/xbox-live-status). If you see an alert, wait.
 - **System software.** PS5: **Settings > System > System Software > System Software Update and Settings**.
+  - **Required for GTA 6:** PlayStation says a PS5 system update must be installed before you play. See [GTA 6 PS5 update required (14.23.00): how to install](/glitches/gta-6-ps5-system-update-required/).
 
 ![storage bar diagram showing 212 GB free space needed](TODO: image:gta-6-download-stuck-step-3 — diagram, our own art: a storage bar with 212 GB free highlighted and a tick)
 *Caption: Diagram. You need 212 GB free before the download can finish.*
