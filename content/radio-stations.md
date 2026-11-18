@@ -25,7 +25,7 @@ sources:
 updated: 2026-11-18
 status: prelaunch
 spoilers: none
-qa: live-review
+qa: passed
 ---
 
 # GTA 6 Radio Stations: 6 Previewed Stations (2026)
