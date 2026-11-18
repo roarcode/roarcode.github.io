@@ -1113,5 +1113,53 @@
     "bytes": 41176,
     "alt": "Illustration of the PS5 path Profile > Trophies, with a game trophy list that uses placeholder rows and no real trophy names. Not an in-game screenshot.",
     "type": "menu-mock"
+  },
+  "gta-6-first-person-mode-step-1": {
+    "file": "gta-6-first-person-mode-step-1.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 30302,
+    "alt": "Three boxes: Standing still (yes, until you move), Aiming (yes, with guns that have sights), Driving (only with the phone out).",
+    "type": "info-cards"
+  },
+  "gta-6-first-person-mode-step-2": {
+    "file": "gta-6-first-person-mode-step-2.webp",
+    "width": 1200,
+    "height": 736,
+    "bytes": 32320,
+    "alt": "Controller diagram with the left trigger (L2 on PS5, LT on Xbox) and the right stick (R3) highlighted.",
+    "type": "controller"
+  },
+  "gta-6-first-person-mode-step-3": {
+    "file": "gta-6-first-person-mode-step-3.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 27226,
+    "alt": "Three boxes joined by arrows: drive a car, press D-pad up to take out the phone, first-person view while the phone is out.",
+    "type": "info-cards"
+  },
+  "gta-6-how-to-scan-cars-step-1": {
+    "file": "gta-6-how-to-scan-cars-step-1.webp",
+    "width": 1200,
+    "height": 736,
+    "bytes": 31378,
+    "alt": "Controller diagram with D-pad up and the R1 / RB shoulder button highlighted, for scanning cars with the WAiNK app.",
+    "type": "controller"
+  },
+  "gta-6-how-to-scan-cars-step-2": {
+    "file": "gta-6-how-to-scan-cars-step-2.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 32912,
+    "alt": "Four boxes showing what a WAiNK car scan tells you: tool needed, sell value, register cost and tracker type.",
+    "type": "info-cards"
+  },
+  "gta-6-how-to-scan-cars-step-3": {
+    "file": "gta-6-how-to-scan-cars-step-3.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 28100,
+    "alt": "Illustrated menu with Progress open and the Vehicles row highlighted. Not an in-game screenshot.",
+    "type": "menu-mock"
   }
 }

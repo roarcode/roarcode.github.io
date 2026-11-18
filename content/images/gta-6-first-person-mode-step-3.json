@@ -1,0 +1,17 @@
+{
+  "type": "info-cards",
+  "alt": "Three boxes joined by arrows: drive a car, press D-pad up to take out the phone, first-person view while the phone is out.",
+  "data": {
+    "category": "beginner",
+    "title": "First-person in a car: phone out",
+    "layout": "flow",
+    "cols": 3,
+    "card_height": 250,
+    "cards": [
+      { "title": "1. Drive a car", "body": "Get in and start driving.", "status": "none" },
+      { "title": "2. D-pad up", "body": "Take out your phone.", "status": "none" },
+      { "title": "3. First-person", "body": "Only while the phone is out.", "status": "none" }
+    ],
+    "note": "As reported by PowerPyx, 18 Nov 2026. Not tested by us."
+  }
+}

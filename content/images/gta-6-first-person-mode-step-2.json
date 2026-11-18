@@ -1,0 +1,12 @@
+{
+  "type": "controller",
+  "alt": "Controller diagram with the left trigger (L2 on PS5, LT on Xbox) and the right stick (R3) highlighted.",
+  "data": {
+    "category": "beginner",
+    "title": "Hold L2 (LT), then press R3",
+    "banner": "Our diagram, not a game screenshot",
+    "controllers": [{ "label": "Stand still: hold L2 / LT, press the right stick", "l": "L2 / LT", "r": "R2 / RT" }],
+    "highlight": ["left-shoulder", "right-stick"],
+    "note": "Buttons as reported by PowerPyx, 18 Nov 2026. VGC says hold L2, then press L3 and R3."
+  }
+}

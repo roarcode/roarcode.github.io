@@ -1,0 +1,17 @@
+{
+  "type": "info-cards",
+  "alt": "Four boxes showing what a WAiNK car scan tells you: tool needed, sell value, register cost and tracker type.",
+  "data": {
+    "category": "vehicles",
+    "title": "What a car scan shows",
+    "cols": 2,
+    "card_height": 170,
+    "cards": [
+      { "title": "Tool needed", "body": "Which tool you need to steal it.", "status": "none" },
+      { "title": "Sell value", "body": "What the car is worth if you sell it.", "status": "none" },
+      { "title": "Register cost", "body": "What it costs to make it your own car.", "status": "none" },
+      { "title": "Tracker", "body": "None, standard or advanced.", "status": "none" }
+    ],
+    "note": "From GamesRadar and PowerPyx, 18 Nov 2026. Our drawing, not a game screenshot."
+  }
+}

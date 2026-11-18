@@ -1,0 +1,12 @@
+{
+  "type": "controller",
+  "alt": "Controller diagram with D-pad up and the R1 / RB shoulder button highlighted, for scanning cars with the WAiNK app.",
+  "data": {
+    "category": "vehicles",
+    "title": "Hold D-pad up, then hold R1 (RB)",
+    "banner": "Our diagram, not a game screenshot",
+    "controllers": [{ "label": "PS5: D-pad up + R1 · Xbox: D-pad up + RB", "l": "L1 / LB", "r": "R1 / RB" }],
+    "highlight": ["dpad-up", "right-shoulder"],
+    "note": "Buttons as reported by PowerPyx, 18 Nov 2026. Not tested by us."
+  }
+}

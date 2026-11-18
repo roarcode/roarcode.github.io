@@ -1,0 +1,15 @@
+{
+  "type": "menu-mock",
+  "alt": "Illustrated menu with Progress open and the Vehicles row highlighted. Not an in-game screenshot.",
+  "data": {
+    "category": "vehicles",
+    "title": "Progress > Vehicles",
+    "panel_title": "Progress",
+    "platform": "PS5: touchpad",
+    "rows": [
+      { "label": "Vehicles", "value": "Cars you scanned", "highlight": true },
+      { "label": "Animals", "value": "Animals you studied" }
+    ],
+    "note": "Menu path as reported by PowerPyx, 18 Nov 2026. Xbox button not announced."
+  }
+}

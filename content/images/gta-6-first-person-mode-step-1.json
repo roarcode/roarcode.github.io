@@ -1,0 +1,16 @@
+{
+  "type": "info-cards",
+  "alt": "Three boxes: Standing still (yes, until you move), Aiming (yes, with guns that have sights), Driving (only with the phone out).",
+  "data": {
+    "category": "beginner",
+    "title": "Where first-person works",
+    "cols": 3,
+    "card_height": 250,
+    "cards": [
+      { "title": "Standing still", "body": "Yes. Walk and it switches off.", "status": "ok" },
+      { "title": "Aiming", "body": "Yes, with guns that have sights.", "status": "ok" },
+      { "title": "Driving", "body": "Only while your phone is out.", "status": "check" }
+    ],
+    "note": "No full first-person mode like GTA 5 (VGC, PowerPyx, Insider Gaming, 18 Nov 2026)."
+  }
+}

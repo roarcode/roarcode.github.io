@@ -19,11 +19,13 @@ sources:
   - https://insider-gaming.com/is-grand-theft-auto-6-down-gta-6-issues-explained/
   - https://x.com/PS_Support_US/status/2122863683881619685
   - https://tech.sportskeeda.com/gaming-news/is-gta-6-right-now-november-2026-server-status-explained
+  - https://x.com/screechys11/status/2123030635963187431
+  - https://x.com/Vicecitydailyvi/status/2123030813016985996
 updated: 2026-11-18
 status: stub
 publish: true
 spoilers: none
-qa: passed
+qa: live-review
 ---
 
 # GTA 6 Not Working? Servers Down Check and 7 Fixes
@@ -41,9 +43,11 @@ qa: passed
 3. On Xbox, open **[Xbox status](https://support.xbox.com/en-US/xbox-live-status)**.
 4. If any page shows a problem, stop. Nothing you change on your console fixes a server problem. Try again later.
 
-> **Status check, 18 Nov 2026 at 12:50 CET:** the [Xbox status page](https://support.xbox.com/en-US/xbox-live-status) showed no problems. PlayStation's US status page showed no alerts, and its Europe page showed only an older Russia-only alert from 11 Nov. The Rockstar status page did not load for us, so check it yourself. Insider Gaming wrote on 18 Nov that GTA 6 had no performance or network problems at the time it wrote. Rockstar has not posted any GTA VI "known issues" list or fix yet ([Insider Gaming](https://insider-gaming.com/is-grand-theft-auto-6-down-gta-6-issues-explained/)).
+> **Status check, 18 Nov 2026 at 13:50 CET:** the [Xbox status page](https://support.xbox.com/en-US/xbox-live-status) showed no problems. PlayStation's US status page showed no alerts, and its Europe page showed only an older Russia-only alert from 11 Nov. The Rockstar status page did not load for us, so check it yourself. Insider Gaming wrote on 18 Nov that GTA 6 had no performance or network problems at the time it wrote. Rockstar has not posted any GTA VI "known issues" list or fix yet ([Insider Gaming](https://insider-gaming.com/is-grand-theft-auto-6-down-gta-6-issues-explained/)).
 
 > **Reports / unconfirmed (18 Nov):** Sportskeeda reports that some players get **stuck on the first loading screen** or see a **network error before the main menu**. It thinks heavy launch traffic is the cause. Rockstar has **not** confirmed an outage or posted a fix. Source: https://tech.sportskeeda.com/gaming-news/is-gta-6-right-now-november-2026-server-status-explained
+
+> **Reports / unconfirmed (18 Nov, 13:40 CET):** more players on X say they get a **"network error"** when they start the game. A GTA fan page on X says a streamer who used the **New Zealand trick** got a network error while the game was **syncing**, live on stream. We do not know if the trick caused it. Rockstar has not said why. Sources: https://x.com/screechys11/status/2123030635963187431 and https://x.com/Vicecitydailyvi/status/2123030813016985996. Used the New Zealand trick? Read the risks in [GTA 6 New Zealand trick: does it work? real risks](/launch-hub/gta-6-new-zealand-trick/).
 
 **Stuck on the loading screen or a network error?** Until Rockstar posts a fix, do this:
 1. Check the three status pages in Step 1.
@@ -84,7 +88,14 @@ qa: passed
 
 Related: [GTA 6 PS5 fixes](/glitches/gta-6-ps5-fixes/) · [GTA 6 Xbox fixes](/glitches/gta-6-xbox-fixes/) · [GTA 6 download stuck](/glitches/gta-6-download-stuck/) · [GTA 6 Xbox service outage message: what to do](/glitches/gta-6-xbox-service-outage-message/)
 
-<!-- What players are saying: add real embeds from content/inbox/ -->
+## What players are saying
+
+*Public posts, quoted with a link. Player reports are not confirmed facts.*
+
+<blockquote class="twitter-tweet"><a href="https://x.com/screechys11/status/2123030635963187431"></a></blockquote>
+
+> “woke up at 6am and now i cant play GTA 6 because of a "network error"” – @screechys11 on X ([link](https://x.com/screechys11/status/2123030635963187431))
+
 
 ## FAQ
 
@@ -104,6 +115,7 @@ Not announced on any page we checked. The PlayStation Store lists it as a single
 
 | Date | What changed |
 |---|---|
+| 2026-11-18 13:50 CET | Added new player reports of a "network error" at start (one linked to the New Zealand trick), marked unconfirmed. Status pages re-checked at 13:50 CET: no new alerts. No GTA VI post from @RockstarSupport. |
 | 2026-11-18 13:15 CET | Added unconfirmed reports of loading-screen and network errors, with safe steps to try. Re-checked @RockstarSupport: no GTA VI known-issues post yet. |
 | 2026-11-18 13:10 CET | New status check (12:50 CET). Added the required PS5 system update under fix 7 and a Related line. |
 | 2026-11-18 | Page created. |
