@@ -14,11 +14,15 @@ sources:
   - https://www.estadao.com.br/tecmundo/ciberseguranca/dezenas-de-sites-falsos-de-gta-6-tentam-roubar-gamers-veja-dominios/
   - https://www.playstation.com/en-us/support/games/gta-vi-support/
   - https://x.com/gtaspotter_en/status/2123043671696154775
+  - https://www.malwarebytes.com/blog/threat-intel/2026/08/fake-gta-6-extended-look-and-demo-sites-deliver-an-infostealer
+  - https://www.malwarebytes.com/blog/scams/2026/09/fake-gta-6-leaked-copy-drains-your-crypto-wallet
+  - https://www.cynet.com/blog/download-gta6-for-free-inside-the-malware-trap/
+  - https://www.techradar.com/vpn/vpn-privacy-security/fake-gta-6-pc-downloads-are-spreading-malware-through-dark-web-scam-bundle-nordvpn-warns
 updated: 2026-11-18
 status: live
 publish: true
 spoilers: none
-qa: passed
+qa: live-review
 ---
 
 # GTA 6 Scam Sites: 5 Signs a Page Is Fake (2026)
@@ -94,6 +98,21 @@ Avast named these as risky (as reported by Estadão). **Do not visit them.** The
 
 New fake pages appear all the time. A page not on this list can still be fake.
 
+## What a fake "GTA 6 PC download" really puts on your computer
+
+Security companies opened these fake downloads to see what is inside. It was never the game. A *stealer* is a program that secretly copies your saved passwords and logins.
+
+| Who checked | What the fake file did | Source |
+|---|---|---|
+| Malwarebytes (Aug 2026) | Fake "GTA 6 demo" sites gave out a file of only **1.1 MB**. It was a password stealer | [Malwarebytes](https://www.malwarebytes.com/blog/threat-intel/2026/08/fake-gta-6-extended-look-and-demo-sites-deliver-an-infostealer) |
+| Malwarebytes (Sep 2026) | A fake "leaked copy" shop tried to empty visitors' crypto wallets | [Malwarebytes](https://www.malwarebytes.com/blog/scams/2026/09/fake-gta-6-leaked-copy-drains-your-crypto-wallet) |
+| Cynet | A "free PC download" ZIP held a program under **1 MB** that steals passwords, game logins and crypto | [Cynet](https://www.cynet.com/blog/download-gta6-for-free-inside-the-malware-trap/) |
+| NordVPN (16 Nov 2026) | Criminals sell a kit with fake PC downloads and a fake "keygen" that steals logins | [TechRadar](https://www.techradar.com/vpn/vpn-privacy-security/fake-gta-6-pc-downloads-are-spreading-malware-through-dark-web-scam-bundle-nordvpn-warns) |
+
+**Easy test:** a big game like GTA 6 is far, far bigger than a few MB. Malwarebytes says a 1.1 MB file "is nowhere near enough" to hold a modern game, so it cannot be GTA 6.
+
+Never open a GTA 6 installer, crack or keygen on a PC. If you already did, use a different, clean device to change your passwords, then run a virus scan.
+
 ## I already typed my password. What now?
 
 1. Change that password on the real site right away.
@@ -107,7 +126,7 @@ New fake pages appear all the time. A page not on this list can still be fake.
 No. GTA 6 is a paid game on PS5 and Xbox Series X|S. "Free downloads" are scams.
 
 ### Is there a GTA 6 PC download?
-No. Rockstar has not announced a PC version. A PC download is a red flag (Avast).
+No. Rockstar has not announced a PC version. A PC download is a red flag (Avast). Malwarebytes, Cynet and NordVPN found that these files are password stealers, not the game.
 
 ### Did Avast find 200 GTA 6 scam sites?
 Not exactly. It checked more than 200 GTA 6 web addresses and rated about 10% as medium or high risk.
@@ -119,6 +138,7 @@ The PlayStation Store, the Store on Xbox, or a shop you already trust.
 
 | Date | What changed |
 |---|---|
+| 2026-11-18 19:00 CET | Added what fake PC downloads install (Malwarebytes, Cynet, NordVPN via TechRadar). |
 | 2026-11-18 | Page created from Avast's findings as reported by INSERT FUTURE, Eurogamer.de, La Vanguardia and Estadão. |
 
 ---
