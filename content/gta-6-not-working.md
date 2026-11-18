@@ -47,9 +47,9 @@ qa: live-review
 
 > **Status check, 18 Nov 2026 at 13:50 CET:** the [Xbox status page](https://support.xbox.com/en-US/xbox-live-status) showed no problems. PlayStation's US status page showed no alerts, and its Europe page showed only an older Russia-only alert from 11 Nov. The Rockstar status page did not load for us, so check it yourself. Insider Gaming wrote on 18 Nov that GTA 6 had no performance or network problems at the time it wrote. Rockstar has not posted any GTA VI "known issues" list or fix yet ([Insider Gaming](https://insider-gaming.com/is-grand-theft-auto-6-down-gta-6-issues-explained/)).
 
-> **PSN problems, 18 Nov 2026 (Sony now shows an alert):** on Wednesday evening, many PlayStation players reported that they could not sign in or connect. Reports on Downdetector jumped at about **19:05 CET** ([Numerama](https://www.numerama.com/pop-culture/2378315-timing-terrible-le-playstation-network-flanche-a-quelques-heures-de-la-sortie-de-gta-6.html)). Complaints rose in the afternoon and peaked in the evening ([Haberler](https://www.haberler.com/haber/playstation-network-coktu-mu-playstation-psn-20440366-haberi/)).
+> **PSN problems, 18 Nov 2026 (Sony's alert has now cleared):** on Wednesday evening, many PlayStation players reported that they could not sign in or connect. Reports on Downdetector jumped at about **19:05 CET** ([Numerama](https://www.numerama.com/pop-culture/2378315-timing-terrible-le-playstation-network-flanche-a-quelques-heures-de-la-sortie-de-gta-6.html)). Complaints rose in the afternoon and peaked in the evening ([Haberler](https://www.haberler.com/haber/playstation-network-coktu-mu-playstation-psn-20440366-haberi/)).
 >
-> Since **19:58 CET**, [PlayStation's status page](https://status.playstation.com) shows **"Gaming and Social: Degraded"** for PS5 and PS4 in Europe (Slovenia, the UK and Germany included) and in the US. Its message says: "You might have difficulty launching games, apps or network features. We're working to resolve the issue as soon as possible." When we checked at **20:14 CET**, the alert was still there. Sony has not said what caused it, and nothing links it to GTA VI.
+> Since **19:58 CET**, [PlayStation's status page](https://status.playstation.com) shows **"Gaming and Social: Degraded"** for PS5 and PS4 in Europe (Slovenia, the UK and Germany included) and in the US. Its message says: "You might have difficulty launching games, apps or network features. We're working to resolve the issue as soon as possible." When we checked at **20:14 CET**, the alert was still there. When we checked again at **20:38 CET**, the alert was gone for Europe and the US. Sony has not said what caused it, and nothing links it to GTA VI. Still having trouble? Check the status page again for your country.
 >
 > **What to do:**
 > 1. Open [status.playstation.com](https://status.playstation.com) and pick your country.
@@ -127,6 +127,7 @@ Not announced on any page we checked. The PlayStation Store lists it as a single
 
 | Date | What changed |
 |---|---|
+| 2026-11-18 20:38 CET | PSN box: Sony status alert no longer shown at 20:38 CET check (Europe, US). |
 | 2026-11-18 20:15 CET | PSN box: Sony status page now shows "Gaming and Social: Degraded" since 19:58 CET (checked 20:14 CET). Fixed credits (19:05 CET time is from Numerama). |
 | 2026-11-18 19:37 CET | Added evening PSN sign-in/connection reports (Numerama, Haberler), marked as reports. |
 | 2026-11-18 13:50 CET | Added new player reports of a "network error" at start (one linked to the New Zealand trick), marked unconfirmed. Status pages re-checked at 13:50 CET: no new alerts. No GTA VI post from @RockstarSupport. |
