@@ -1,0 +1,24 @@
+{
+  "type": "compare-table",
+  "alt": "Our diagram: Where your cash is safe. Cash in your pocket / You lose it. Cash in the floorboard stash / You keep it. Not a game screenshot.",
+  "data": {
+    "category": "money",
+    "title": "Where your cash is safe",
+    "columns": [
+      "Where",
+      "If you die"
+    ],
+    "rows": [
+      [
+        "Cash in your pocket",
+        "You lose it"
+      ],
+      [
+        "Cash in the floorboard stash",
+        "You keep it"
+      ]
+    ],
+    "note": "Our drawing, not a game screenshot. Sources are on the page.",
+    "banner": "Our diagram, not a game screenshot"
+  }
+}

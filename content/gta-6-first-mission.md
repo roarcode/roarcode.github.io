@@ -41,8 +41,8 @@ draft: true
 | Length | IGN's video of it runs about 15 minutes | IGN |
 | Gold medal goals | None. Beebom says GTA 6 missions do not have them | Beebom |
 
-![map overview with a boat symbol and a plane symbol](TODO: image:gta-6-first-mission-step-1 — diagram, our own art: a simple outline with a boat icon, a camp icon, a plane icon and a dock icon, no game screenshots)
-*Caption: Diagram. The four parts of the mission, in order, drawn by us.*
+![Our diagram: The mission in four parts. Part 1: See the first box below. Part 2: See the second box. Part 3: See the third box. Part 4: See the last box. Not a game screenshot.](TODO: image:gta-6-first-mission-step-1 — diagram, our own art: The mission in four parts, see the spec)
+*Caption: Diagram. The mission has four parts. The details are in the closed boxes on this page. Drawn by us.*
 
 ## Tips that do not spoil anything
 
@@ -53,7 +53,7 @@ draft: true
 
 PS5 buttons are given in the sources. Xbox buttons are **not stated** in the sources we checked.
 
-![controller showing Circle, R2, Square, L3 and R3](TODO: image:gta-6-first-mission-step-2 — diagram, our own art: a PS5 controller with Circle, R2, Square, L3 and R3 labelled Crouch, Grab, Takedown, Focus, Focus)
+![Our diagram: Buttons you will use. Circle: crouch · R2: grab · Square: takedown · L3 / R3: Focus. Not a game screenshot.](TODO: image:gta-6-first-mission-step-2 — diagram, our own art: Buttons you will use, see the spec)
 *Caption: Diagram. The PS5 buttons VGC names for this mission.*
 
 ## Step by step
@@ -80,8 +80,8 @@ VGC says you fly Donnie's plane over the Keys for a while, then land at Brian's 
 Beebom adds a plane tip: if the plane is hit too much, slow down with **L2** and land on the water, then taxi to the nearby dock.
 :::
 
-![mission steps as four checkpoints](TODO: image:gta-6-first-mission-step-3 — diagram, our own art: four connected circles Boat, Camp, Plane, Home with an arrow and the text Sneak, then fly)
-*Caption: Diagram. Four parts of Gone Fishing. No spoilers in the picture.*
+![Our diagram: Sneak first, then act. Crouch: Circle (PS5). Grab, then takedown: R2, then Square. Focus Mode: click L3 and R3. Not a game screenshot.](TODO: image:gta-6-first-mission-step-3 — diagram, our own art: Sneak first, then act, see the spec)
+*Caption: Diagram. Spoiler-free sneak tips from this page, drawn by us.*
 
 ## After the mission
 

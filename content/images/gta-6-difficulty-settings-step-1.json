@@ -1,0 +1,21 @@
+{
+  "type": "menu-mock",
+  "alt": "Our diagram: Settings: Aiming. Aiming: Look here. Difficulty: No Easy, Medium or Hard. Not a game screenshot.",
+  "data": {
+    "category": "beginner",
+    "title": "Settings: Aiming",
+    "panel_title": "Settings",
+    "rows": [
+      {
+        "label": "Aiming",
+        "value": "Look here",
+        "highlight": true
+      },
+      {
+        "label": "Difficulty",
+        "value": "No Easy, Medium or Hard"
+      }
+    ],
+    "note": "Our illustration. Menu names may differ at launch."
+  }
+}

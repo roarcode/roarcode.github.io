@@ -1,0 +1,24 @@
+{
+  "type": "info-cards",
+  "alt": "Our diagram: Fishing raises Focus. Fishing: Time on the water. Focus: Goes up. Not a game screenshot.",
+  "data": {
+    "category": "beginner",
+    "title": "Fishing raises Focus",
+    "cols": 2,
+    "card_height": 220,
+    "cards": [
+      {
+        "title": "Fishing",
+        "body": "Time on the water.",
+        "status": "none"
+      },
+      {
+        "title": "Focus",
+        "body": "Goes up.",
+        "status": "ok"
+      }
+    ],
+    "note": "Our drawing, not a game screenshot. Sources are on the page.",
+    "banner": "Our diagram, not a game screenshot"
+  }
+}

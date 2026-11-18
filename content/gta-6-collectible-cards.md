@@ -43,7 +43,7 @@ draft: true
 
 Bloxodes updated its list of 125 found cards on 18 Nov 2026. We cannot say how many are still hidden. The number will grow.
 
-![480 cards split into 18 sets, with 15 highlighted](TODO: image:gta-6-collectible-cards-step-1 — diagram, our own art: 18 small boxes, 15 highlighted, with the labels 480 cards, 18 sets, 15 needed for 100%)
+![Our diagram: Card sets. Cards in the game: 480. Sets: 18. Sets needed for 100%: 15. Not a game screenshot.](TODO: image:gta-6-collectible-cards-step-1 — diagram, our own art: Card sets, see the spec)
 *Caption: Diagram. 18 sets, but you only need 15 for 100%.*
 
 ## How sets and colours work
@@ -65,7 +65,7 @@ Bloxodes says each colour version of a card counts as its own card toward its se
 4. You cannot buy cards and there are no packs (Bloxodes).
 5. Some cards can be found in more than one place (Bloxodes).
 
-![yellow phone box and toolbox icons](TODO: image:gta-6-collectible-cards-step-2 — diagram, our own art: a yellow phone box, a toolbox, a shelf and a wall board, labelled Where cards hide)
+![Our diagram: Where cards hide. Phone box: Yellow phone boxes. Toolbox: Check them. Shelf: Look on shelves. Wall board: Look at boards. Not a game screenshot.](TODO: image:gta-6-collectible-cards-step-2 — diagram, our own art: Where cards hide, see the spec)
 *Caption: Diagram. Where Bloxodes says cards often hide.*
 
 ## Missable cards
@@ -80,7 +80,7 @@ PowerPyx says some locations close once the story moves on. GameSpot's tips page
 
 PowerPyx publishes one page for each card set, with locations as they are found. Many entries still show question marks. Bloxodes has a tracker with locations for the 125 cards found by 18 Nov. We link to them, not copy them, because they are updated all the time.
 
-![menu path Progress, Collections, Collectible Cards](TODO: image:gta-6-collectible-cards-step-3 — menu screen, our own illustration: a menu with Progress highlighted, then Collections, then Collectible Cards)
+![Our diagram: Progress > Collections > Collectible Cards. Progress: Open this first. Collections: Then this. Collectible Cards: Your sets. Not a game screenshot.](TODO: image:gta-6-collectible-cards-step-3 — diagram, our own art: Progress > Collections > Collectible Cards, see the spec)
 *Caption: Menu screen. Progress, Collections, Collectible Cards, drawn by us.*
 
 ## FAQ

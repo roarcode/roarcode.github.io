@@ -1,0 +1,25 @@
+{
+  "type": "step-card",
+  "alt": "Our diagram: Inside the building. Staircase. Outside hallway: Head west. Locked door: At the end. Not a game screenshot.",
+  "data": {
+    "category": "collectibles",
+    "title": "Inside the building",
+    "cols": 3,
+    "card_height": 230,
+    "steps": [
+      {
+        "title": "Staircase"
+      },
+      {
+        "title": "Outside hallway",
+        "body": "Head west."
+      },
+      {
+        "title": "Locked door",
+        "body": "At the end."
+      }
+    ],
+    "note": "Our drawing, not a game screenshot. Sources are on the page.",
+    "banner": "Our diagram, not a game screenshot"
+  }
+}

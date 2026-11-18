@@ -33,8 +33,8 @@ draft: true
 
 PC Gamer says Mile Zero Air Station is in **Mariana County, on Goose Key**, in the **southwest corner** of the map. It is on the big bridges to the southern keys. PC Gamer says it is a bit of a trip by car, boat or aircraft, but not very far from the first house you can use in Key Lento.
 
-![map with a pin in the far southwest and a line from Key Lento](TODO: image:gta-6-military-base-mile-zero-step-1 — map screen, our own illustration: a rough map with a loose circle in the bottom-left corner labelled Mile Zero Air Station and a dotted line from a start area, no exact pin)
-*Caption: Map screen. The base sits in the far southwest, drawn by us from PC Gamer's description.*
+![Our diagram: Roughly where it is. Mile Zero Air Station: In the far southwest. Start area: Head there from Key Lento. Not a game screenshot.](TODO: image:gta-6-military-base-mile-zero-step-1 — diagram, our own art: Roughly where it is, see the spec)
+*Caption: Diagram. The base sits in the far southwest, drawn by us from PC Gamer's description.*
 
 ## What is inside?
 
@@ -59,7 +59,7 @@ PC Gamer says this is the easiest way to steal a tank or get a combat jet.
 
 Think before you go. Save first.
 
-![shield with a warning triangle and five stars](TODO: image:gta-6-military-base-mile-zero-step-2 — diagram, our own art: a gate icon with a warning triangle and five stars labelled Seen on base means a gunfight)
+![Our diagram: Seen on base = gunfight. Seen on the base: Four or five stars at once, with air support and tanks (GameSpot). Easier way in: The stunt-jump entry (PC Gamer). Not a game screenshot.](TODO: image:gta-6-military-base-mile-zero-step-2 — diagram, our own art: Seen on base = gunfight, see the spec)
 *Caption: Diagram. Getting spotted at the base starts a big chase.*
 
 ## PC Gamer's easy way in
@@ -73,7 +73,7 @@ PC Gamer's tip is a vehicle at speed. We have not tested it ourselves.
 3. Aim at the dirt mound by the fence.
 4. Go over it at speed.
 
-![dirt mound and fence at the base](TODO: image:gta-6-military-base-mile-zero-step-3 — diagram, our own art: a side view of a car on a ramp-like mound jumping over a fence, labelled Stunt jump entry)
+![Our diagram: Stunt jump entry. Dirt mound: Drive at it. Fence: Jump over it. Not a game screenshot.](TODO: image:gta-6-military-base-mile-zero-step-3 — diagram, our own art: Stunt jump entry, see the spec)
 *Caption: Diagram. The jump over the fence, drawn by us from PC Gamer's description.*
 
 ## FAQ

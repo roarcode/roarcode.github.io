@@ -1,0 +1,26 @@
+{
+  "type": "step-card",
+  "alt": "Our diagram: Three habits that help. Scan cars: Scan as you go. Save often: Keep spare slots. Count card sets: Track your 15. Not a game screenshot.",
+  "data": {
+    "category": "collectibles",
+    "title": "Three habits that help",
+    "cols": 3,
+    "card_height": 230,
+    "steps": [
+      {
+        "title": "Scan cars",
+        "body": "Scan as you go."
+      },
+      {
+        "title": "Save often",
+        "body": "Keep spare slots."
+      },
+      {
+        "title": "Count card sets",
+        "body": "Track your 15."
+      }
+    ],
+    "note": "Our drawing, not a game screenshot. Sources are on the page.",
+    "banner": "Our diagram, not a game screenshot"
+  }
+}

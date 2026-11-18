@@ -1,0 +1,26 @@
+{
+  "type": "step-card",
+  "alt": "Our diagram: Back door, then office. Back door: Pick it. Office: Find the panel. Alarm panel: Switch it off. Not a game screenshot.",
+  "data": {
+    "category": "beginner",
+    "title": "Back door, then office",
+    "cols": 3,
+    "card_height": 230,
+    "steps": [
+      {
+        "title": "Back door",
+        "body": "Pick it."
+      },
+      {
+        "title": "Office",
+        "body": "Find the panel."
+      },
+      {
+        "title": "Alarm panel",
+        "body": "Switch it off."
+      }
+    ],
+    "note": "Simplified. Not the game's map.",
+    "banner": "Our diagram, not a game screenshot"
+  }
+}

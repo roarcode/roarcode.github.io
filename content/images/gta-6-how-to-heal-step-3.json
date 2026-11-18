@@ -1,0 +1,30 @@
+{
+  "type": "info-cards",
+  "alt": "Our diagram: Healing items weaken with use. Use 1: Works well. Use 2: Works less well. Use 3: Weaker again. Not a game screenshot.",
+  "data": {
+    "category": "beginner",
+    "title": "Healing items weaken with use",
+    "layout": "flow",
+    "cols": 3,
+    "card_height": 210,
+    "cards": [
+      {
+        "title": "Use 1",
+        "body": "Works well.",
+        "status": "none"
+      },
+      {
+        "title": "Use 2",
+        "body": "Works less well.",
+        "status": "none"
+      },
+      {
+        "title": "Use 3",
+        "body": "Weaker again.",
+        "status": "none"
+      }
+    ],
+    "note": "Fix: use cover instead of spamming items. Our drawing, not a game screenshot.",
+    "banner": "Our diagram, not a game screenshot"
+  }
+}

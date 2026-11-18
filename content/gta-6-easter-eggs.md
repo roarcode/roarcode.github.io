@@ -53,7 +53,7 @@ GameSpot says a real egg sits atop the tallest tower in Vice City. The player wh
 GameSpot says Bigfoot is at Gulley Marsh and is unmissable because of a particular mission. GameRant separately says he can be found south of Cottonmouth Lake as soon as the first mission is done.
 :::
 
-![map with five small pins numbered 1 to 5, no exact spots](TODO: image:gta-6-easter-eggs-step-1 — diagram, our own art: a rough Leonida outline with five numbered loose circles, no exact pins, labelled Easter eggs found so far)
+![Our diagram: Easter eggs found so far. Egg 1: Open box 1. Egg 2: Open box 2. Egg 3: Open box 3. Egg 4: Open box 4. Egg 5: Open box 5. Not a game screenshot.](TODO: image:gta-6-easter-eggs-step-1 — diagram, our own art: Easter eggs found so far, see the spec)
 *Caption: Diagram. Five easter eggs in broad areas, drawn by us.*
 
 ## How to hunt for easter eggs
@@ -63,14 +63,14 @@ GameSpot says Bigfoot is at Gulley Marsh and is unmissable because of a particul
 3. Use the map to see which buildings can be entered (VGC says darker blue buildings have an inside).
 4. Take your time. GameSpot says it has only just begun to gather them.
 
-![book, shop shelf and a speech bubble](TODO: image:gta-6-easter-eggs-step-2 — diagram, our own art: a book, a shop shelf and a speech bubble, labelled Where eggs hide: books, shop items, dialogue)
+![Our diagram: Where eggs hide. Books: Read what you find. Shop items: Look closely. Dialogue: Listen. Not a game screenshot.](TODO: image:gta-6-easter-eggs-step-2 — diagram, our own art: Where eggs hide, see the spec)
 *Caption: Diagram. GameSpot says eggs hide in books, store items and dialogue.*
 
 ## What about other claims?
 
 Players have posted many other secrets. We leave them out until an outlet or several independent clips back them up. We would rather be right than first.
 
-![magnifying glass over a question mark](TODO: image:gta-6-easter-eggs-step-3 — diagram, our own art: a magnifying glass over a question mark labelled Needs a second source)
+![Our diagram: Needs a second source. One report: Not enough yet. Two sources: We list it as confirmed. Not a game screenshot.](TODO: image:gta-6-easter-eggs-step-3 — diagram, our own art: Needs a second source, see the spec)
 *Caption: Diagram. Single posts stay off the list until a reputable source backs them.*
 
 ## FAQ

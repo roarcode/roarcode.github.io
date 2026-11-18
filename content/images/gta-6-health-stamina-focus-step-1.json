@@ -1,0 +1,29 @@
+{
+  "type": "info-cards",
+  "alt": "Our diagram: What trains each stat. Health: Gym work, such as lifting weights. Stamina: Running and cardio. Focus: Fishing raises it. Gains stay permanent. Not a game screenshot.",
+  "data": {
+    "category": "beginner",
+    "title": "What trains each stat",
+    "cols": 3,
+    "card_height": 240,
+    "cards": [
+      {
+        "title": "Health",
+        "body": "Gym work, such as lifting weights.",
+        "status": "none"
+      },
+      {
+        "title": "Stamina",
+        "body": "Running and cardio.",
+        "status": "none"
+      },
+      {
+        "title": "Focus",
+        "body": "Fishing raises it. Gains stay permanent.",
+        "status": "none"
+      }
+    ],
+    "note": "From GameSpot's tips, 18 Nov 2026. Our drawing, not a game screenshot.",
+    "banner": "Our diagram, not a game screenshot"
+  }
+}

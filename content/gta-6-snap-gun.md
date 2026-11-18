@@ -37,7 +37,7 @@ PC Gamer's steps:
 3. Use the **left stick** to find the lock's **sweet spot**.
 4. Press the **right trigger** until the meter fills (R2 on PS5, RT on Xbox).
 
-![controller with left stick and right trigger highlighted](TODO: image:gta-6-snap-gun-step-1 — diagram, our own art: a controller with the left stick and right trigger highlighted and a lock with a sweet spot dial)
+![Our diagram: Picking a lock. Move the left stick, then find the sweet spot. Not a game screenshot.](TODO: image:gta-6-snap-gun-step-1 — diagram, our own art: Picking a lock, see the spec)
 *Caption: Diagram. Left stick finds the spot, right trigger fills the meter, from PC Gamer.*
 
 ## When to use it
@@ -46,7 +46,7 @@ GameSpot says the snap gun lets Jason and Lucia break locks without triggering t
 
 But PC Gamer warns that the alarm is still active. It can still be set off by kicking open other doors, breaking display cases or a store worker.
 
-![back door of a shop and an alarm panel in the office](TODO: image:gta-6-snap-gun-step-2 — diagram, our own art: a shop floor plan with a back door, an office and a white alarm panel, with an arrow Back door then office)
+![Our diagram: Back door, then office. Back door: Pick it. Office: Find the panel. Alarm panel: Switch it off. Not a game screenshot.](TODO: image:gta-6-snap-gun-step-2 — diagram, our own art: Back door, then office, see the spec)
 *Caption: Diagram. Back door, then the office, then switch off the alarm.*
 
 For money ideas see [how to make money fast in GTA 6](/money/gta-6-how-to-make-money-fast/).
@@ -59,7 +59,7 @@ PC Gamer says you get the snap gun from **Yasmani** in Chapter 3, after you fini
 
 PC Gamer says the snap gun is locked behind story progress like the slim jim and the key cloner, so you cannot use it to make earlier missions easier.
 
-![timeline: kick doors early, snap gun later](TODO: image:gta-6-snap-gun-step-3 — diagram, our own art: a simple timeline with Early game Kick the door, Later Snap gun, no chapter numbers)
+![Our diagram: Early and later. Early game: Kick the door. Later: Use the snap gun. Not a game screenshot.](TODO: image:gta-6-snap-gun-step-3 — diagram, our own art: Early and later, see the spec)
 *Caption: Diagram. Early on you kick doors. Later you get the snap gun.*
 
 ## FAQ

@@ -1,0 +1,19 @@
+{
+  "type": "controller",
+  "alt": "Our diagram: Buttons you will use. L2: talk or aim · Square: threaten or fight · Triangle: pick up · X: jump. Not a game screenshot.",
+  "data": {
+    "category": "missions",
+    "title": "Buttons you will use",
+    "banner": "Our diagram, not a game screenshot",
+    "controllers": [
+      {
+        "label": "PS5 buttons",
+        "l": "L2",
+        "r": "R2"
+      }
+    ],
+    "highlight": [],
+    "callout": "L2: talk or aim · Square: threaten or fight · Triangle: pick up · X: jump",
+    "note": "Buttons as listed on the page. Xbox names are not confirmed."
+  }
+}

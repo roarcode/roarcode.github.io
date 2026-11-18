@@ -39,7 +39,7 @@ draft: true
 
 GameSpot's mods list is suppressors, magazines, foregrips, barrels and optics for first person.
 
-![weapon with suppressor, magazine, grip, barrel and scope labelled](TODO: image:gta-6-what-to-spend-money-on-step-1 — diagram, our own art: a simple gun outline with five labels Suppressor, Magazine, Foregrip, Barrel, Optics)
+![Our diagram: Weapon mods. Suppressor. Magazine. Foregrip. Barrel. Optics. Not a game screenshot.](TODO: image:gta-6-what-to-spend-money-on-step-1 — diagram, our own art: Weapon mods, see the spec)
 *Caption: Diagram. The five mods GameSpot calls great early buys.*
 
 GameSpot's tips page agrees. It says the two most important attachments are **sights** and **silencers**. A gun with a sight can snap into first person if you click the right stick. Iron sights cannot do that. The tips page says a silencer helps because police come when someone reports gunshots.
@@ -54,7 +54,7 @@ GameSpot says the number one thing not to overspend on is **clothes**. Jason and
 
 GameSpot says buying too many guns is not wise early either, because you can keep free guns found on defeated enemies. It says there are also dozens of free legendary weapons from side content and story missions.
 
-![shopping list with ticks and crosses](TODO: image:gta-6-what-to-spend-money-on-step-2 — diagram, our own art: a list with ticks for Mods, Garage, Savings, Register one car you love and crosses for Lots of clothes, Lots of guns)
+![Our diagram: Worth it, or not. Mods: Worth it. Garage: Worth it. Savings: Worth it. One car you love: Register one. Lots of clothes: Skip. Lots of guns: Skip. Not a game screenshot.](TODO: image:gta-6-what-to-spend-money-on-step-2 — diagram, our own art: Worth it, or not, see the spec)
 *Caption: Diagram. Buy and skip list from GameSpot.*
 
 ## Simple order to follow
@@ -65,7 +65,7 @@ GameSpot says buying too many guns is not wise early either, because you can kee
 4. Put some money into the BuckMe savings account once it is set up. Keep enough for shopping (our own advice).
 5. Register only a car you really want to keep (GameSpot).
 
-![coins going into savings, a garage and a gun mod](TODO: image:gta-6-what-to-spend-money-on-step-3 — diagram, our own art: a coin stack with arrows to Mods, Garage, Savings and Registration, in that order)
+![Our diagram: Spend in this order. Mods. Garage. Savings. Registration. Not a game screenshot.](TODO: image:gta-6-what-to-spend-money-on-step-3 — diagram, our own art: Spend in this order, see the spec)
 *Caption: Diagram. A simple order for your first cash.*
 
 ## FAQ

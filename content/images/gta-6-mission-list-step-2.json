@@ -1,0 +1,39 @@
+{
+  "type": "info-cards",
+  "alt": "Our diagram: Use the list by chapter. Chapter 1: Tick off. Chapter 2: Tick off. Chapter 3: Tick off. Chapter 4: Tick off. Chapter 5: Tick off. Not a game screenshot.",
+  "data": {
+    "category": "missions",
+    "title": "Use the list by chapter",
+    "cols": 5,
+    "card_height": 180,
+    "cards": [
+      {
+        "title": "Chapter 1",
+        "body": "Tick off.",
+        "status": "none"
+      },
+      {
+        "title": "Chapter 2",
+        "body": "Tick off.",
+        "status": "none"
+      },
+      {
+        "title": "Chapter 3",
+        "body": "Tick off.",
+        "status": "none"
+      },
+      {
+        "title": "Chapter 4",
+        "body": "Tick off.",
+        "status": "none"
+      },
+      {
+        "title": "Chapter 5",
+        "body": "Tick off.",
+        "status": "none"
+      }
+    ],
+    "note": "No mission titles in this picture. Our drawing.",
+    "banner": "Our diagram, not a game screenshot"
+  }
+}

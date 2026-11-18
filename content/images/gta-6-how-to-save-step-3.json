@@ -1,0 +1,15 @@
+{
+  "type": "save-slots",
+  "alt": "Our diagram: Spread your 15 save slots. Try: chapter start, chapter end, before a choice, free roam (16 boxes). Not a game screenshot.",
+  "data": {
+    "category": "beginner",
+    "title": "Spread your 15 save slots",
+    "slots": 16,
+    "cols": 4,
+    "autosave_index": 0,
+    "autosave_label": "Autosave",
+    "callout": "Try: chapter start, chapter end, before a choice, free roam",
+    "note": "15 manual slots plus one autosave (KeenGamer). The use of each slot is our idea.",
+    "banner": "Our diagram, not a game screenshot"
+  }
+}

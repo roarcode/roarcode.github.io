@@ -1,0 +1,39 @@
+{
+  "type": "info-cards",
+  "alt": "Our diagram: Weapon mods. Suppressor. Magazine. Foregrip. Barrel. Optics. Not a game screenshot.",
+  "data": {
+    "category": "money",
+    "title": "Weapon mods",
+    "cols": 3,
+    "card_height": 190,
+    "cards": [
+      {
+        "title": "Suppressor",
+        "body": "",
+        "status": "none"
+      },
+      {
+        "title": "Magazine",
+        "body": "",
+        "status": "none"
+      },
+      {
+        "title": "Foregrip",
+        "body": "",
+        "status": "none"
+      },
+      {
+        "title": "Barrel",
+        "body": "",
+        "status": "none"
+      },
+      {
+        "title": "Optics",
+        "body": "",
+        "status": "none"
+      }
+    ],
+    "note": "Mod types as listed by GameSpot, 18 Nov 2026. Our drawing, not a game screenshot.",
+    "banner": "Our diagram, not a game screenshot"
+  }
+}

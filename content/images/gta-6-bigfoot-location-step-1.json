@@ -1,0 +1,28 @@
+{
+  "type": "compare-table",
+  "alt": "Our diagram: Where outlets put Bigfoot. Insider Gaming / Cottonmouth Lake, just below Hamlet. GameRant / South of Cottonmouth Lake. Both / Near Cottonmouth Lake, in the south. Not a game screenshot.",
+  "data": {
+    "category": "collectibles",
+    "title": "Where outlets put Bigfoot",
+    "columns": [
+      "Outlet",
+      "Area"
+    ],
+    "rows": [
+      [
+        "Insider Gaming",
+        "Cottonmouth Lake, just below Hamlet"
+      ],
+      [
+        "GameRant",
+        "South of Cottonmouth Lake"
+      ],
+      [
+        "Both",
+        "Near Cottonmouth Lake, in the south"
+      ]
+    ],
+    "note": "Outlets do not give the same spot. Our table, no exact pin, not a game screenshot.",
+    "banner": "Our diagram, not a game screenshot"
+  }
+}

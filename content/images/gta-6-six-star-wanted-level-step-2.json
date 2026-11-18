@@ -1,0 +1,27 @@
+{
+  "type": "compare-table",
+  "alt": "Our diagram: Two routes to six stars. Long chase / Evaded police for about 20 minutes / GameSpot. Mass destruction / Stole a tank and blew things up / PC Gamer. Not a game screenshot.",
+  "data": {
+    "category": "beginner",
+    "title": "Two routes to six stars",
+    "columns": [
+      "Route",
+      "What they did",
+      "Source"
+    ],
+    "rows": [
+      [
+        "Long chase",
+        "Evaded police for about 20 minutes",
+        "GameSpot"
+      ],
+      [
+        "Mass destruction",
+        "Stole a tank and blew things up",
+        "PC Gamer"
+      ]
+    ],
+    "note": "Two outlets, two methods. We have not tested either.",
+    "banner": "Our diagram, not a game screenshot"
+  }
+}

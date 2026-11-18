@@ -1,0 +1,36 @@
+{
+  "type": "compare-table",
+  "alt": "Our diagram: Hours per day to finish. 60 hours (story) / 30 days / 15 days / 8 days. 100 hours (with side jobs) / 50 days / 25 days / 13 days. 200 hours (everything) / 100 days / 50 days / 25 days. Not a game screenshot.",
+  "data": {
+    "category": "beginner",
+    "title": "Hours per day to finish",
+    "columns": [
+      "Goal",
+      "2 h a day",
+      "4 h a day",
+      "8 h a day"
+    ],
+    "rows": [
+      [
+        "60 hours (story)",
+        "30 days",
+        "15 days",
+        "8 days"
+      ],
+      [
+        "100 hours (with side jobs)",
+        "50 days",
+        "25 days",
+        "13 days"
+      ],
+      [
+        "200 hours (everything)",
+        "100 days",
+        "50 days",
+        "25 days"
+      ]
+    ],
+    "note": "A rough planner: our own maths from the outlets' hour counts, rounded up.",
+    "banner": "Our diagram, not a game screenshot"
+  }
+}

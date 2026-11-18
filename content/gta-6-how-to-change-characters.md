@@ -36,7 +36,7 @@ draft: true
 
 VGC names only the D-pad direction and gives no separate Xbox button. The D-pad is the same on both consoles.
 
-![controller with D-pad right highlighted and two portraits](TODO: image:gta-6-how-to-change-characters-step-1 — diagram, our own art: a controller with D-pad right highlighted and two blank silhouettes labelled Jason and Lucia)
+![Our diagram: D-pad right to swap. Open the swap menu with D-pad right. Not a game screenshot.](TODO: image:gta-6-how-to-change-characters-step-1 — diagram, our own art: D-pad right to swap, see the spec)
 *Caption: Diagram. D-pad right opens the character swap, from VGC.*
 
 ## When does swapping unlock?
@@ -53,7 +53,7 @@ The first time you play Lucia in the open world is after the end of Chapter 1. K
 
 VGC says a grey name means that character is unavailable. This only happens with an in-game reason, such as them being on another mission. VGC also says that after you swap, the character you left sometimes calls a RydeMe and leaves, and that can briefly grey out the swap menu.
 
-![swap menu with one name greyed out](TODO: image:gta-6-how-to-change-characters-step-2 — menu screen, our own illustration: a two-name menu with one name greyed out and a note Busy or unavailable)
+![Our diagram: Swap menu. Jason: Available. Lucia: Busy or unavailable. Not a game screenshot.](TODO: image:gta-6-how-to-change-characters-step-2 — diagram, our own art: Swap menu, see the spec)
 *Caption: Menu screen. A greyed-out name means busy, drawn by us from VGC's description.*
 
 ## Swapping as a shortcut
@@ -62,7 +62,7 @@ GameSpot says swapping is the quickest and cheapest way to cross the map. The ch
 
 GameSpot also says that if you go to a gym together, both characters work out no matter who you control.
 
-![player far from home swapping to the character at the safehouse](TODO: image:gta-6-how-to-change-characters-step-3 — diagram, our own art: a map with a far-away character, a home icon with the other character, and a swap arrow between them)
+![Our diagram: Swap to skip the trip. You are far from home. Swap: Switch to your partner. Now at the safehouse: No driving needed. Not a game screenshot.](TODO: image:gta-6-how-to-change-characters-step-3 — diagram, our own art: Swap to skip the trip, see the spec)
 *Caption: Diagram. Swapping is a free way to get back near home.*
 
 ## FAQ

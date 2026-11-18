@@ -38,7 +38,7 @@ draft: true
 
 PowerPyx says to study every new animal you meet.
 
-![controller with L1, D-pad up and R1 labelled](TODO: image:gta-6-how-to-study-animals-step-1 — diagram, our own art: a controller with L1 Open wheel, D-pad up Zoom and R1 or RB Study highlighted, plus a binoculars icon)
+![Our diagram: Study an animal. Open the wheel, zoom with D-pad up, hold R1 / RB to study. Not a game screenshot.](TODO: image:gta-6-how-to-study-animals-step-1 — diagram, our own art: Study an animal, see the spec)
 *Caption: Diagram. Wheel, zoom, hold R1 or RB, from PowerPyx and Beebom.*
 
 ## How many do you need?
@@ -58,7 +58,7 @@ PowerPyx says that unlike Red Dead Redemption 2, you do **not** have to hunt or 
 2. Go to **Progress**.
 3. Choose **Animals** (PowerPyx).
 
-![menu path Progress then Animals](TODO: image:gta-6-how-to-study-animals-step-2 — menu screen, our own illustration: a menu with Progress highlighted and Animals underneath with a counter, not an in-game screenshot)
+![Our diagram: Progress > Animals. Progress: Open. Animals: Studied so far. Not a game screenshot.](TODO: image:gta-6-how-to-study-animals-step-2 — diagram, our own art: Progress > Animals, see the spec)
 *Caption: Menu screen. Progress, then Animals, drawn by us.*
 
 ## Tips
@@ -67,7 +67,7 @@ PowerPyx says that unlike Red Dead Redemption 2, you do **not** have to hunt or 
 - Study every new breed of dog and cat you see, because they count one by one (PowerPyx).
 - Combine it with scanning cars. See [how to scan cars in GTA 6](/cars/gta-6-how-to-scan-cars/).
 
-![progress bar from 0 to 100 animals](TODO: image:gta-6-how-to-study-animals-step-3 — diagram, our own art: a progress bar with markers at 0 and 100 labelled Animals needed, with a smaller note of 255 total per PowerPyx)
+![Our diagram: Animals for 100%. Needed for 100%: 100. Total in game (PowerPyx): 255. Not a game screenshot.](TODO: image:gta-6-how-to-study-animals-step-3 — diagram, our own art: Animals for 100%, see the spec)
 *Caption: Diagram. 100 animals fills the bar for 100% (PowerPyx).*
 
 ## FAQ

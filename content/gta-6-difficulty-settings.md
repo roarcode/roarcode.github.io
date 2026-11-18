@@ -38,7 +38,7 @@ GameSpot also says you can still change how hard it feels yourself:
 2. Change the **aiming controls** to what suits you (GameSpot).
 3. After you finish the campaign once, cheat codes unlock, and they can make the game easier or harder (GameSpot).
 
-![settings menu with an aiming section highlighted](TODO: image:gta-6-difficulty-settings-step-1 — menu screen, our own illustration: a settings menu with an Aiming section highlighted and a note No Easy Medium Hard)
+![Our diagram: Settings: Aiming. Aiming: Look here. Difficulty: No Easy, Medium or Hard. Not a game screenshot.](TODO: image:gta-6-difficulty-settings-step-1 — diagram, our own art: Settings: Aiming, see the spec)
 *Caption: Menu screen. Aiming settings are the confirmed way to change how it feels, drawn by us.*
 
 ## What early accessibility reports list
@@ -58,7 +58,7 @@ Can I Play That, a site about accessible gaming, says Rockstar has not given rev
 
 Can I Play That says there are three default controller presets and it could not find confirmation that you can remap buttons. It says sprinting moved to **L3**, which can be changed.
 
-![three icons: damage toggle, tap assist, high contrast](TODO: image:gta-6-difficulty-settings-step-2 — diagram, our own art: three cards Easier fights, Tap assist, High contrast, with the note Early reports)
+![Our diagram: Early reports. Easier fights: A damage option. Tap assist: Helps with button taps. High contrast: Easier to read. Not a game screenshot.](TODO: image:gta-6-difficulty-settings-step-2 — diagram, our own art: Early reports, see the spec)
 *Caption: Diagram. Three accessibility options early reports list, drawn by us.*
 
 ## Steps to make GTA 6 easier
@@ -69,7 +69,7 @@ Can I Play That says there are three default controller presets and it could not
 4. Turn on tap assists if button mashing is hard for you (Can I Play That).
 5. We have not tested these ourselves. Names of menu items may differ.
 
-![checklist of four settings to turn on](TODO: image:gta-6-difficulty-settings-step-3 — diagram, our own art: a checklist with four ticks Reduce damage, Aim assist, Drive-by help, Tap assist, with the note Names may differ)
+![Our diagram: Four settings to turn on. Reduce damage: Turn on. Aim assist: Turn on. Drive-by help: Turn on. Tap assist: Turn on. Not a game screenshot.](TODO: image:gta-6-difficulty-settings-step-3 — diagram, our own art: Four settings to turn on, see the spec)
 *Caption: Diagram. Four settings to try, from early reports. Menu names may differ.*
 
 ## FAQ

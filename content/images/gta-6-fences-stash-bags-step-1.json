@@ -1,0 +1,30 @@
+{
+  "type": "info-cards",
+  "alt": "Our diagram: Loot a fence takes. Narcotics: Bags of drugs. Jewelry: Necklaces and rings. Marked bills: Banded cash. Not a game screenshot.",
+  "data": {
+    "category": "money",
+    "title": "Loot a fence takes",
+    "layout": "flow",
+    "cols": 3,
+    "card_height": 230,
+    "cards": [
+      {
+        "title": "Narcotics",
+        "body": "Bags of drugs.",
+        "status": "none"
+      },
+      {
+        "title": "Jewelry",
+        "body": "Necklaces and rings.",
+        "status": "none"
+      },
+      {
+        "title": "Marked bills",
+        "body": "Banded cash.",
+        "status": "none"
+      }
+    ],
+    "note": "All go to a fence for cash. Our drawing, not a game screenshot.",
+    "banner": "Our diagram, not a game screenshot"
+  }
+}

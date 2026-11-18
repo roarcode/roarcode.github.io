@@ -1,0 +1,19 @@
+{
+  "type": "controller",
+  "alt": "Our diagram: Open the pause menu. Press Options (PS5) or Menu (Xbox), then choose Game. Not a game screenshot.",
+  "data": {
+    "category": "beginner",
+    "title": "Open the pause menu",
+    "banner": "Our diagram, not a game screenshot",
+    "controllers": [
+      {
+        "label": "PS5: Options · Xbox: Menu",
+        "l": "L1 / LB",
+        "r": "R1 / RB"
+      }
+    ],
+    "highlight": [],
+    "callout": "Press Options (PS5) or Menu (Xbox), then choose Game.",
+    "note": "Menu names as reported by KeenGamer, 18 Nov 2026. Not tested by us."
+  }
+}

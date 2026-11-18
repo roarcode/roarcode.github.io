@@ -1,0 +1,24 @@
+{
+  "type": "info-cards",
+  "alt": "Our diagram: More to find?. One sighting: Both outlets describe it. More?: Not confirmed. Not a game screenshot.",
+  "data": {
+    "category": "collectibles",
+    "title": "More to find?",
+    "cols": 2,
+    "card_height": 220,
+    "cards": [
+      {
+        "title": "One sighting",
+        "body": "Both outlets describe it.",
+        "status": "none"
+      },
+      {
+        "title": "More?",
+        "body": "Not confirmed.",
+        "status": "none"
+      }
+    ],
+    "note": "Our drawing. We will update if more is confirmed.",
+    "banner": "Our diagram, not a game screenshot"
+  }
+}

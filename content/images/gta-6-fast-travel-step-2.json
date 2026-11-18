@@ -1,0 +1,32 @@
+{
+  "type": "compare-table",
+  "alt": "Our diagram: Three ways across the map. RydeMe / Costs money / You pay per ride. Bus or train / Cheap / Wait for the schedule. Swap character / Free / Other character must be free. Not a game screenshot.",
+  "data": {
+    "category": "beginner",
+    "title": "Three ways across the map",
+    "columns": [
+      "Option",
+      "Cost",
+      "Catch"
+    ],
+    "rows": [
+      [
+        "RydeMe",
+        "Costs money",
+        "You pay per ride"
+      ],
+      [
+        "Bus or train",
+        "Cheap",
+        "Wait for the schedule"
+      ],
+      [
+        "Swap character",
+        "Free",
+        "Other character must be free"
+      ]
+    ],
+    "note": "Our drawing, not a game screenshot.",
+    "banner": "Our diagram, not a game screenshot"
+  }
+}

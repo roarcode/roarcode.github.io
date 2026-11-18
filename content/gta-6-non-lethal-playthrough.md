@@ -33,7 +33,7 @@ draft: true
 
 GameSpot says that in GTA 6, shooting the **head or heart** kills an enemy, while shooting **joints and limbs** injures them. A **red** hit marker means your target is dead. A **yellow** one means they are injured and out of the fight for the rest of the shootout.
 
-![red hit marker means dead, yellow means injured](TODO: image:gta-6-non-lethal-playthrough-step-1 — diagram, our own art: a person outline with head and heart marked red and arms and legs marked yellow, with a legend Red dead, Yellow injured)
+![Our diagram: Hit markers. Red / Head or heart / Dead. Yellow / Arms or legs / Injured. Not a game screenshot.](TODO: image:gta-6-non-lethal-playthrough-step-1 — diagram, our own art: Hit markers, see the spec)
 *Caption: Diagram. Red means dead, yellow means injured, from GameSpot's tips.*
 
 ## Vehicles and helicopters
@@ -48,7 +48,7 @@ Games.gg says the Criminal Profile System tracks how professionally or unnecessa
 
 PC Gamer says the criminal profile is effectively the game's version of Red Dead Redemption 2's karma system.
 
-![meter from professional to violent](TODO: image:gta-6-non-lethal-playthrough-step-2 — diagram, our own art: a slider from Professional to Violent with two arrows to Partner acts and Police react)
+![Our diagram: Criminal profile. Professional: Fewer kills. Violent: More kills. Effects: Partner acts differently. Police react. Not a game screenshot.](TODO: image:gta-6-non-lethal-playthrough-step-2 — diagram, our own art: Criminal profile, see the spec)
 *Caption: Diagram. The criminal profile slider, drawn from GameSpot, Games.gg and PC Gamer.*
 
 ## Tips for a gentle run
@@ -59,7 +59,7 @@ PC Gamer says the criminal profile is effectively the game's version of Red Dead
 4. Keep your violence to what you must do in missions (GameSpot's experience).
 5. Games.gg says to avoid starting trouble just because you have a weapon out.
 
-![tyre being shot with a yellow marker](TODO: image:gta-6-non-lethal-playthrough-step-3 — diagram, our own art: a car with a tyre highlighted and a yellow hit marker, and a helicopter retreating arrow)
+![Our diagram: Stop a chase without killing. Shoot a tyre: A yellow marker shows an injury, not a kill. Car stops: The chase slows down. Helicopter backs off: Our drawing, as described on the page. Not a game screenshot.](TODO: image:gta-6-non-lethal-playthrough-step-3 — diagram, our own art: Stop a chase without killing, see the spec)
 *Caption: Diagram. Shoot a tyre or two to stop a chasing car.*
 
 ## FAQ

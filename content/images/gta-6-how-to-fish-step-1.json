@@ -1,0 +1,23 @@
+{
+  "type": "menu-mock",
+  "alt": "Our diagram: Weapon wheel: Equipment > Fishing Rod. Equipment: Open this tab. Fishing Rod: Select it. Not a game screenshot.",
+  "data": {
+    "category": "beginner",
+    "title": "Weapon wheel: Equipment > Fishing Rod",
+    "panel_title": "Weapon wheel",
+    "platform": "L1 / LB",
+    "rows": [
+      {
+        "label": "Equipment",
+        "value": "Open this tab",
+        "highlight": true
+      },
+      {
+        "label": "Fishing Rod",
+        "value": "Select it",
+        "highlight": true
+      }
+    ],
+    "note": "Our illustration, not a screenshot. Wheel button as reported on the page."
+  }
+}

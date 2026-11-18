@@ -1,0 +1,26 @@
+{
+  "type": "step-card",
+  "alt": "Our diagram: Where to look. Pay 'n' Spray: On one side. Light-blue building: In the middle. Top Fun Drones: On the other side. Not a game screenshot.",
+  "data": {
+    "category": "collectibles",
+    "title": "Where to look",
+    "cols": 3,
+    "card_height": 230,
+    "steps": [
+      {
+        "title": "Pay 'n' Spray",
+        "body": "On one side."
+      },
+      {
+        "title": "Light-blue building",
+        "body": "In the middle."
+      },
+      {
+        "title": "Top Fun Drones",
+        "body": "On the other side."
+      }
+    ],
+    "note": "Simplified. Not the game's map and not a screenshot.",
+    "banner": "Our diagram, not a game screenshot"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "info-cards",
+  "alt": "Our diagram: Early and later. Early game: Kick the door. Later: Use the snap gun. Not a game screenshot.",
+  "data": {
+    "category": "beginner",
+    "title": "Early and later",
+    "layout": "flow",
+    "cols": 2,
+    "card_height": 210,
+    "cards": [
+      {
+        "title": "Early game",
+        "body": "Kick the door.",
+        "status": "none"
+      },
+      {
+        "title": "Later",
+        "body": "Use the snap gun.",
+        "status": "none"
+      }
+    ],
+    "note": "No chapter numbers here on purpose. Our drawing.",
+    "banner": "Our diagram, not a game screenshot"
+  }
+}

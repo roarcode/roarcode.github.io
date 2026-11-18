@@ -1,0 +1,29 @@
+{
+  "type": "info-cards",
+  "alt": "Our diagram: Three kinds of car. Locked: Press interact to try the door. Alarmed: An alarm brings attention. Keyless: Needs a later tool. Not a game screenshot.",
+  "data": {
+    "category": "vehicles",
+    "title": "Three kinds of car",
+    "cols": 3,
+    "card_height": 240,
+    "cards": [
+      {
+        "title": "Locked",
+        "body": "Press interact to try the door.",
+        "status": "none"
+      },
+      {
+        "title": "Alarmed",
+        "body": "An alarm brings attention.",
+        "status": "no"
+      },
+      {
+        "title": "Keyless",
+        "body": "Needs a later tool.",
+        "status": "none"
+      }
+    ],
+    "note": "Our drawing, not a game screenshot. Sources are on the page.",
+    "banner": "Our diagram, not a game screenshot"
+  }
+}

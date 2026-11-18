@@ -1,0 +1,19 @@
+{
+  "type": "controller",
+  "alt": "Our diagram: Pass a bag to your partner. D-pad right, then Circle / B. Not a game screenshot.",
+  "data": {
+    "category": "money",
+    "title": "Pass a bag to your partner",
+    "banner": "Our diagram, not a game screenshot",
+    "controllers": [
+      {
+        "label": "D-pad right, then Circle (PS5) / B (Xbox)",
+        "l": "L1 / LB",
+        "r": "R1 / RB"
+      }
+    ],
+    "highlight": [],
+    "callout": "D-pad right, then Circle / B.",
+    "note": "Buttons as reported on the page. Not tested by us."
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "info-cards",
+  "alt": "Our diagram: Seen on base = gunfight. Seen on the base: Four or five stars at once, with air support and tanks (GameSpot). Easier way in: The stunt-jump entry (PC Gamer). Not a game screenshot.",
+  "data": {
+    "category": "vehicles",
+    "title": "Seen on base = gunfight",
+    "cols": 2,
+    "card_height": 220,
+    "cards": [
+      {
+        "title": "Seen on the base",
+        "body": "Four or five stars at once, with air support and tanks (GameSpot).",
+        "status": "no"
+      },
+      {
+        "title": "Easier way in",
+        "body": "The stunt-jump entry (PC Gamer).",
+        "status": "check"
+      }
+    ],
+    "note": "Our drawing, not a game screenshot. Sources are on the page.",
+    "banner": "Our diagram, not a game screenshot"
+  }
+}

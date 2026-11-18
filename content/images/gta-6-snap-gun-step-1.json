@@ -1,0 +1,22 @@
+{
+  "type": "controller",
+  "alt": "Our diagram: Picking a lock. Move the left stick, then find the sweet spot. Not a game screenshot.",
+  "data": {
+    "category": "beginner",
+    "title": "Picking a lock",
+    "banner": "Our diagram, not a game screenshot",
+    "controllers": [
+      {
+        "label": "Left stick + right trigger",
+        "l": "L1 / LB",
+        "r": "R2 / RT"
+      }
+    ],
+    "highlight": [
+      "left-stick",
+      "right-shoulder"
+    ],
+    "callout": "Move the left stick, then find the sweet spot.",
+    "note": "Buttons as reported on the page. Not tested by us."
+  }
+}

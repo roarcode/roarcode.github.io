@@ -1,0 +1,44 @@
+{
+  "type": "info-cards",
+  "alt": "Our diagram: Six ways police find you. Appearance: Wear a hat. Outfit: Change clothes. Weapon: Put it away. Vehicle: Swap your car. CCTV: Destroy cameras. Partner: Split up. Not a game screenshot.",
+  "data": {
+    "category": "beginner",
+    "title": "Six ways police find you",
+    "cols": 3,
+    "card_height": 190,
+    "cards": [
+      {
+        "title": "Appearance",
+        "body": "Wear a hat.",
+        "status": "none"
+      },
+      {
+        "title": "Outfit",
+        "body": "Change clothes.",
+        "status": "none"
+      },
+      {
+        "title": "Weapon",
+        "body": "Put it away.",
+        "status": "none"
+      },
+      {
+        "title": "Vehicle",
+        "body": "Swap your car.",
+        "status": "none"
+      },
+      {
+        "title": "CCTV",
+        "body": "Destroy cameras.",
+        "status": "none"
+      },
+      {
+        "title": "Partner",
+        "body": "Split up.",
+        "status": "none"
+      }
+    ],
+    "note": "Our drawing, not a game screenshot. Sources are on the page.",
+    "banner": "Our diagram, not a game screenshot"
+  }
+}

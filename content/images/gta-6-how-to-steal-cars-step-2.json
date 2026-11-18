@@ -1,0 +1,26 @@
+{
+  "type": "step-card",
+  "alt": "Our diagram: Tools in the order you get them. Smash and hotwire: Available from the start. Slim jim: Comes later. Key cloner: Comes later still. Not a game screenshot.",
+  "data": {
+    "category": "vehicles",
+    "title": "Tools in the order you get them",
+    "cols": 3,
+    "card_height": 230,
+    "steps": [
+      {
+        "title": "Smash and hotwire",
+        "body": "Available from the start."
+      },
+      {
+        "title": "Slim jim",
+        "body": "Comes later."
+      },
+      {
+        "title": "Key cloner",
+        "body": "Comes later still."
+      }
+    ],
+    "note": "No chapter numbers here on purpose. Sources are on the page.",
+    "banner": "Our diagram, not a game screenshot"
+  }
+}

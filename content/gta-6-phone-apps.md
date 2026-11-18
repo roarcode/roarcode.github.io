@@ -45,8 +45,8 @@ draft: true
 
 Beebom says some of these were confirmed through Rockstar previews before launch. Others, like WAiNK and RydeMe, you can see working in the game guides from GameSpot and VGC.
 
-![phone with seven app icons labelled](TODO: image:gta-6-phone-apps-step-1 — phone screen, our own illustration: a phone with seven simple icons WAiNK, RydeMe, BuckMe, Scooter Bros, Snapmatic, Fitness, On Demand, not Rockstar's real icons)
-*Caption: Phone screen. The seven confirmed apps, with our own icons.*
+![Our diagram: Seven phone apps. WAiNK. RydeMe. BuckMe. Scooter Bros. Snapmatic. Fitness. On Demand. Not a game screenshot.](TODO: image:gta-6-phone-apps-step-1 — diagram, our own art: Seven phone apps, see the spec)
+*Caption: Diagram. The seven confirmed apps, with our own icons.*
 
 ## Shortcuts and tips
 
@@ -56,7 +56,7 @@ Beebom says some of these were confirmed through Rockstar previews before launch
 4. Use RydeMe for fast travel. VGC says skipping a ride costs $100 on top of the fare.
 5. Registered cars can be called with Scooter Bros (GameSpot).
 
-![D-pad up for phone, D-pad up then Square for reminders](TODO: image:gta-6-phone-apps-step-2 — diagram, our own art: a controller with D-pad up highlighted, an arrow to a phone, and a second arrow with Square or X for reminders)
+![Our diagram: Phone and reminders. D-pad up, then Square (PS5) or X (Xbox) for reminders. Not a game screenshot.](TODO: image:gta-6-phone-apps-step-2 — diagram, our own art: Phone and reminders, see the spec)
 *Caption: Diagram. D-pad up opens the phone. Then Square or X opens reminders.*
 
 ## Apps we left out
@@ -67,7 +67,7 @@ Beebom lists many more apps and websites that people expect, but it marks them a
 
 GameSpot says the phone reminders are worth checking when you do not know what to do next. VGC says RydeMe needs a bank account before it works, so it comes a little later in the story.
 
-![reminder list with a story icon and a side mission icon](TODO: image:gta-6-phone-apps-step-3 — diagram, our own art: a reminder list with items Article, Post, Text, Call, with an arrow to a side mission icon)
+![Our diagram: Reminders. Article. Post. Text. Call. Not a game screenshot.](TODO: image:gta-6-phone-apps-step-3 — diagram, our own art: Reminders, see the spec)
 *Caption: Diagram. Reminders can lead to side missions, per GameSpot.*
 
 ## FAQ

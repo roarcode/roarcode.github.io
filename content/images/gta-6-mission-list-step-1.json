@@ -1,0 +1,33 @@
+{
+  "type": "bar-chart",
+  "alt": "Our diagram: Missions per chapter. Chapter 1: 22. Chapter 2: 11. Chapter 3: 26. Chapter 4: 25. Chapter 5: 7. Not a game screenshot.",
+  "data": {
+    "category": "missions",
+    "title": "Missions per chapter",
+    "bars": [
+      {
+        "label": "Chapter 1",
+        "value": 22
+      },
+      {
+        "label": "Chapter 2",
+        "value": 11
+      },
+      {
+        "label": "Chapter 3",
+        "value": 26
+      },
+      {
+        "label": "Chapter 4",
+        "value": 25
+      },
+      {
+        "label": "Chapter 5",
+        "value": 7
+      }
+    ],
+    "max": 26,
+    "note": "91 story missions in total (PC Gamer). No titles here on purpose.",
+    "banner": "Our diagram, not a game screenshot"
+  }
+}

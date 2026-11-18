@@ -1,0 +1,26 @@
+{
+  "type": "step-card",
+  "alt": "Our diagram: Spend in this order. Mods. Garage. Savings. Registration. Not a game screenshot.",
+  "data": {
+    "category": "money",
+    "title": "Spend in this order",
+    "cols": 4,
+    "card_height": 210,
+    "steps": [
+      {
+        "title": "Mods"
+      },
+      {
+        "title": "Garage"
+      },
+      {
+        "title": "Savings"
+      },
+      {
+        "title": "Registration"
+      }
+    ],
+    "note": "Our drawing, not a game screenshot. Sources are on the page.",
+    "banner": "Our diagram, not a game screenshot"
+  }
+}

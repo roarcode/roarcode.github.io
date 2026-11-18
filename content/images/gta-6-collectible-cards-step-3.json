@@ -1,0 +1,27 @@
+{
+  "type": "menu-mock",
+  "alt": "Our diagram: Progress > Collections > Collectible Cards. Progress: Open this first. Collections: Then this. Collectible Cards: Your sets. Not a game screenshot.",
+  "data": {
+    "category": "collectibles",
+    "title": "Progress > Collections > Collectible Cards",
+    "panel_title": "Progress",
+    "platform": "Menu",
+    "rows": [
+      {
+        "label": "Progress",
+        "value": "Open this first",
+        "highlight": true
+      },
+      {
+        "label": "Collections",
+        "value": "Then this",
+        "highlight": true
+      },
+      {
+        "label": "Collectible Cards",
+        "value": "Your sets"
+      }
+    ],
+    "note": "Menu path as reported on the page. Our illustration."
+  }
+}

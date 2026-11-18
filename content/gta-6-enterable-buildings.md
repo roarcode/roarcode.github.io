@@ -40,8 +40,8 @@ VGC says that on the world map most buildings are blue, in two shades:
 
 VGC says you can use this to explore the hundreds of interiors in Leonida.
 
-![map with dark blue and light blue buildings and a legend](TODO: image:gta-6-enterable-buildings-step-1 — map screen, our own illustration: a block of buildings, some dark blue marked Can enter and some light blue marked No way in)
-*Caption: Map screen. Dark blue buildings have an inside, drawn by us from VGC's tip.*
+![Our diagram: Building colours on the map. Dark blue: You can enter. Light blue: No way in. Not a game screenshot.](TODO: image:gta-6-enterable-buildings-step-1 — diagram, our own art: Building colours on the map, see the spec)
+*Caption: Diagram. Dark blue buildings have an inside, drawn by us from VGC's tip.*
 
 ## Step 2: look at the minimap
 
@@ -56,7 +56,7 @@ VGC says you can use this to explore the hundreds of interiors in Leonida.
 2. Look at the door.
 3. **White** means you can enter. **Red** means it is alarmed (VGC).
 
-![door shown white and door shown red in Focus Mode](TODO: image:gta-6-enterable-buildings-step-2 — diagram, our own art: two doors, one white with a tick and one red with an alarm bell, labelled Focus Mode)
+![Our diagram: Door colours in Focus Mode. White door: Safe to use. Red door: Alarm will go off. Not a game screenshot.](TODO: image:gta-6-enterable-buildings-step-2 — diagram, our own art: Door colours in Focus Mode, see the spec)
 *Caption: Diagram. White door is fine. Red door sets off an alarm.*
 
 ## Floor plans
@@ -67,7 +67,7 @@ GameSpot says that if you open your map while you are inside a building you can 
 
 GameSpot's robbery guide says that, with a lock tool you unlock later in the story, you can sneak in through a back door without setting off the alarm. For money ideas see [how to make money fast in GTA 6](/money/gta-6-how-to-make-money-fast/).
 
-![minimap with white door line and hidden staircase icon](TODO: image:gta-6-enterable-buildings-step-3 — diagram, our own art: a minimap circle with a white line at a door and a small staircase symbol in a back room)
+![Our diagram: Back-door route. Find the white door line: Look on the minimap. Go in the back: Skip the front. Look for stairs: A staircase may be hidden. Not a game screenshot.](TODO: image:gta-6-enterable-buildings-step-3 — diagram, our own art: Back-door route, see the spec)
 *Caption: Diagram. The white line shows the door. Hidden rooms show up when you get close.*
 
 ## FAQ

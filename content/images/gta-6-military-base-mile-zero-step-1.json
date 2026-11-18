@@ -1,0 +1,24 @@
+{
+  "type": "info-cards",
+  "alt": "Our diagram: Roughly where it is. Mile Zero Air Station: In the far southwest. Start area: Head there from Key Lento. Not a game screenshot.",
+  "data": {
+    "category": "vehicles",
+    "title": "Roughly where it is",
+    "cols": 2,
+    "card_height": 220,
+    "cards": [
+      {
+        "title": "Mile Zero Air Station",
+        "body": "In the far southwest.",
+        "status": "none"
+      },
+      {
+        "title": "Start area",
+        "body": "Head there from Key Lento.",
+        "status": "none"
+      }
+    ],
+    "note": "A rough description, not an exact pin or the game's map. Sources are on the page.",
+    "banner": "Our diagram, not a game screenshot"
+  }
+}

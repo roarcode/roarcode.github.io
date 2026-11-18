@@ -1,0 +1,21 @@
+{
+  "type": "controller",
+  "alt": "Our diagram: Gym: press fast, release slow. Press both triggers fast, release slowly. Not a game screenshot.",
+  "data": {
+    "category": "beginner",
+    "title": "Gym: press fast, release slow",
+    "banner": "Our diagram, not a game screenshot",
+    "controllers": [
+      {
+        "label": "Both triggers: press fast, let go slowly",
+        "l": "L2 / LT",
+        "r": "R2 / RT"
+      }
+    ],
+    "highlight": [
+      "shoulders"
+    ],
+    "callout": "Press both triggers fast, release slowly.",
+    "note": "As described by GameSpot, 18 Nov 2026. Not tested by us."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "type": "step-card",
+  "alt": "Our diagram: Fishing in five steps. Cast: L2 then R2. Wait. Hook: R2. Pull: Left stick, opposite way. Reel: Right stick. Not a game screenshot.",
+  "data": {
+    "category": "beginner",
+    "title": "Fishing in five steps",
+    "cols": 5,
+    "card_height": 250,
+    "steps": [
+      {
+        "title": "Cast",
+        "body": "L2 then R2."
+      },
+      {
+        "title": "Wait"
+      },
+      {
+        "title": "Hook",
+        "body": "R2."
+      },
+      {
+        "title": "Pull",
+        "body": "Left stick, opposite way."
+      },
+      {
+        "title": "Reel",
+        "body": "Right stick."
+      }
+    ],
+    "note": "Buttons as reported on the page. Our drawing.",
+    "banner": "Our diagram, not a game screenshot"
+  }
+}

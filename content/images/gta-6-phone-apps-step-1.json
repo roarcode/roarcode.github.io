@@ -1,0 +1,49 @@
+{
+  "type": "info-cards",
+  "alt": "Our diagram: Seven phone apps. WAiNK. RydeMe. BuckMe. Scooter Bros. Snapmatic. Fitness. On Demand. Not a game screenshot.",
+  "data": {
+    "category": "beginner",
+    "title": "Seven phone apps",
+    "cols": 4,
+    "card_height": 170,
+    "cards": [
+      {
+        "title": "WAiNK",
+        "body": "",
+        "status": "none"
+      },
+      {
+        "title": "RydeMe",
+        "body": "",
+        "status": "none"
+      },
+      {
+        "title": "BuckMe",
+        "body": "",
+        "status": "none"
+      },
+      {
+        "title": "Scooter Bros",
+        "body": "",
+        "status": "none"
+      },
+      {
+        "title": "Snapmatic",
+        "body": "",
+        "status": "none"
+      },
+      {
+        "title": "Fitness",
+        "body": "",
+        "status": "none"
+      },
+      {
+        "title": "On Demand",
+        "body": "",
+        "status": "none"
+      }
+    ],
+    "note": "Names only. Not Rockstar's real icons.",
+    "banner": "Our diagram, not a game screenshot"
+  }
+}

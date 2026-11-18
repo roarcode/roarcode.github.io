@@ -1,0 +1,29 @@
+{
+  "type": "info-cards",
+  "alt": "Our diagram: Shop security levels. Low: Easier job, smaller take. Medium: In between. High: Harder job, bigger take. Not a game screenshot.",
+  "data": {
+    "category": "money",
+    "title": "Shop security levels",
+    "cols": 3,
+    "card_height": 230,
+    "cards": [
+      {
+        "title": "Low",
+        "body": "Easier job, smaller take.",
+        "status": "none"
+      },
+      {
+        "title": "Medium",
+        "body": "In between.",
+        "status": "none"
+      },
+      {
+        "title": "High",
+        "body": "Harder job, bigger take.",
+        "status": "none"
+      }
+    ],
+    "note": "Press Triangle (PS5) or Y (Xbox) to invite your partner. Our illustration.",
+    "banner": "Our diagram, not a game screenshot"
+  }
+}

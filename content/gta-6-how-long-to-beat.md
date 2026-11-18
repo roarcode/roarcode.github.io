@@ -41,7 +41,7 @@ draft: true
 | Story plus side jobs | 90 to 100 hours (some GameSpot staff) | GameSpot |
 | Everything, including collectibles and scans | Over 200 hours | VGC and GameSpot |
 
-![bar chart of GTA 6 hours: story, story plus side jobs, everything](TODO: image:gta-6-how-long-to-beat-step-1 — diagram, our own art: three horizontal bars labelled About 60-65 h story, 90-100+ h with side jobs, 200+ h everything, each with the outlet name)
+![Our diagram: How long is GTA 6? Hours by goal. Story only (VGC): About 60 h. Story only (GameSpot): 65 h or more. With side jobs (GameSpot): 90-100 h. Everything (VGC and GameSpot): 200 h+. Not a game screenshot.](TODO: image:gta-6-how-long-to-beat-step-1 — diagram, our own art: How long is GTA 6? Hours by goal, see the spec)
 *Caption: Diagram. The hour estimates the outlets gave, drawn by us.*
 
 ## Why the numbers are different
@@ -62,7 +62,7 @@ VGC says the traditional side missions, races and gun ranges come first. Then co
 
 Insider Gaming says you do **not** have to do everything to reach 100%. For example, the checklist asks for 70 challenges, but there are 80 in total.
 
-![checklist icon with a progress bar](TODO: image:gta-6-how-long-to-beat-step-2 — diagram, our own art: a checklist with ticks and a progress bar, no game screenshots)
+![Our diagram: What "100%" means. A checklist: 100% is the game's own checklist. Not literally everything: Some extras may not count. Still over 200 h: Outlets say everything takes 200 h or more. Not a game screenshot.](TODO: image:gta-6-how-long-to-beat-step-2 — diagram, our own art: What "100%" means, see the spec)
 *Caption: Diagram. 100% means the checklist, not literally everything.*
 
 ## How to plan your time
@@ -73,7 +73,7 @@ Insider Gaming says you do **not** have to do everything to reach 100%. For exam
 4. If you want 100%, plan for 200 hours or more.
 5. Save in more than one slot as you go. There is no mission replay: see [Can you replay missions in GTA 6?](/beginner-tips/gta-6-replay-missions/).
 
-![calendar showing hours per day to reach each goal](TODO: image:gta-6-how-long-to-beat-step-3 — diagram, our own art: a simple table of hours per day versus weeks to finish for 60, 100 and 200 hours)
+![Our diagram: Hours per day to finish. 60 hours (story) / 30 days / 15 days / 8 days. 100 hours (with side jobs) / 50 days / 25 days / 13 days. 200 hours (everything) / 100 days / 50 days / 25 days. Not a game screenshot.](TODO: image:gta-6-how-long-to-beat-step-3 — diagram, our own art: Hours per day to finish, see the spec)
 *Caption: Diagram. A rough planner, our own maths from the outlets' hour counts.*
 
 ## FAQ

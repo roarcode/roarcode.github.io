@@ -1,0 +1,27 @@
+{
+  "type": "compare-table",
+  "alt": "Our diagram: Hit markers. Red / Head or heart / Dead. Yellow / Arms or legs / Injured. Not a game screenshot.",
+  "data": {
+    "category": "beginner",
+    "title": "Hit markers",
+    "columns": [
+      "Marker",
+      "Where you hit",
+      "Result"
+    ],
+    "rows": [
+      [
+        "Red",
+        "Head or heart",
+        "Dead"
+      ],
+      [
+        "Yellow",
+        "Arms or legs",
+        "Injured"
+      ]
+    ],
+    "note": "Our drawing, not a game screenshot. Sources are on the page.",
+    "banner": "Our diagram, not a game screenshot"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "info-cards",
+  "alt": "Our diagram: Two ways it can go. Way 1: See the first box below. Way 2: See the second box below. Not a game screenshot.",
+  "data": {
+    "category": "missions",
+    "title": "Two ways it can go",
+    "cols": 2,
+    "card_height": 230,
+    "cards": [
+      {
+        "title": "Way 1",
+        "body": "See the first box below.",
+        "status": "none"
+      },
+      {
+        "title": "Way 2",
+        "body": "See the second box below.",
+        "status": "none"
+      }
+    ],
+    "banner": "No spoilers in this picture",
+    "note": "The result is in the closed boxes. Our drawing."
+  }
+}

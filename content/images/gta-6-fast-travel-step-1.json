@@ -1,0 +1,25 @@
+{
+  "type": "menu-mock",
+  "alt": "Our diagram: RydeMe: three choices. Safehouse: Ride home. Map marker: Ride to your marker. New destination: Pick a place. Not a game screenshot.",
+  "data": {
+    "category": "beginner",
+    "title": "RydeMe: three choices",
+    "panel_title": "RydeMe",
+    "platform": "Phone",
+    "rows": [
+      {
+        "label": "Safehouse",
+        "value": "Ride home"
+      },
+      {
+        "label": "Map marker",
+        "value": "Ride to your marker"
+      },
+      {
+        "label": "New destination",
+        "value": "Pick a place"
+      }
+    ],
+    "note": "Not Rockstar's real app screen. Our illustration."
+  }
+}

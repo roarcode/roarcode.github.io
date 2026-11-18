@@ -1,0 +1,34 @@
+{
+  "type": "info-cards",
+  "alt": "Our diagram: Where cards hide. Phone box: Yellow phone boxes. Toolbox: Check them. Shelf: Look on shelves. Wall board: Look at boards. Not a game screenshot.",
+  "data": {
+    "category": "collectibles",
+    "title": "Where cards hide",
+    "cols": 4,
+    "card_height": 220,
+    "cards": [
+      {
+        "title": "Phone box",
+        "body": "Yellow phone boxes.",
+        "status": "none"
+      },
+      {
+        "title": "Toolbox",
+        "body": "Check them.",
+        "status": "none"
+      },
+      {
+        "title": "Shelf",
+        "body": "Look on shelves.",
+        "status": "none"
+      },
+      {
+        "title": "Wall board",
+        "body": "Look at boards.",
+        "status": "none"
+      }
+    ],
+    "note": "Our drawing, not a game screenshot. Sources are on the page.",
+    "banner": "Our diagram, not a game screenshot"
+  }
+}

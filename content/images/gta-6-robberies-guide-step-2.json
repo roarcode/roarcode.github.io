@@ -1,0 +1,30 @@
+{
+  "type": "step-card",
+  "alt": "Our diagram: Five parts of a robbery. Control crowd. Switch off alarm: White wall panel. Loot. Destroy CCTV. Escape. Not a game screenshot.",
+  "data": {
+    "category": "money",
+    "title": "Five parts of a robbery",
+    "cols": 5,
+    "card_height": 230,
+    "steps": [
+      {
+        "title": "Control crowd"
+      },
+      {
+        "title": "Switch off alarm",
+        "body": "White wall panel."
+      },
+      {
+        "title": "Loot"
+      },
+      {
+        "title": "Destroy CCTV"
+      },
+      {
+        "title": "Escape"
+      }
+    ],
+    "note": "Our drawing, not a game screenshot. Sources are on the page.",
+    "banner": "Our diagram, not a game screenshot"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "step-card",
+  "alt": "Our diagram: Back-door route. Find the white door line: Look on the minimap. Go in the back: Skip the front. Look for stairs: A staircase may be hidden. Not a game screenshot.",
+  "data": {
+    "category": "beginner",
+    "title": "Back-door route",
+    "cols": 3,
+    "card_height": 230,
+    "steps": [
+      {
+        "title": "Find the white door line",
+        "body": "Look on the minimap."
+      },
+      {
+        "title": "Go in the back",
+        "body": "Skip the front."
+      },
+      {
+        "title": "Look for stairs",
+        "body": "A staircase may be hidden."
+      }
+    ],
+    "note": "Our drawing, not a game screenshot. Sources are on the page.",
+    "banner": "Our diagram, not a game screenshot"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "step-card",
+  "alt": "Our diagram: Swap to skip the trip. You are far from home. Swap: Switch to your partner. Now at the safehouse: No driving needed. Not a game screenshot.",
+  "data": {
+    "category": "beginner",
+    "title": "Swap to skip the trip",
+    "cols": 3,
+    "card_height": 230,
+    "steps": [
+      {
+        "title": "You are far from home"
+      },
+      {
+        "title": "Swap",
+        "body": "Switch to your partner."
+      },
+      {
+        "title": "Now at the safehouse",
+        "body": "No driving needed."
+      }
+    ],
+    "note": "Our drawing, not a game screenshot. Sources are on the page.",
+    "banner": "Our diagram, not a game screenshot"
+  }
+}

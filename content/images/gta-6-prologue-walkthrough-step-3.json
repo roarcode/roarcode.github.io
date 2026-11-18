@@ -1,0 +1,25 @@
+{
+  "type": "info-cards",
+  "alt": "Our diagram: What comes next. Prologue: You are here. Gone Fishing: Next mission. Not a game screenshot.",
+  "data": {
+    "category": "missions",
+    "title": "What comes next",
+    "layout": "flow",
+    "cols": 2,
+    "card_height": 210,
+    "cards": [
+      {
+        "title": "Prologue",
+        "body": "You are here.",
+        "status": "none"
+      },
+      {
+        "title": "Gone Fishing",
+        "body": "Next mission.",
+        "status": "none"
+      }
+    ],
+    "note": "Our drawing, not a game screenshot.",
+    "banner": "Our diagram, not a game screenshot"
+  }
+}

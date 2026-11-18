@@ -47,7 +47,7 @@ GameSpot's tips for surviving:
 - Leave downtown Vice City. Narrow roads make roadblocks easy for the police. GameSpot says the highway north or west is better.
 - Watch out for armoured vehicles that drive head-on at you (GameSpot).
 
-![timeline: 3 stars, about 10 minutes, 5 stars, 10 to 15 more minutes, 6 stars](TODO: image:gta-6-six-star-wanted-level-step-1 — diagram, our own art: a timeline bar with markers 3 stars, 5 stars after about 10 min, 6 stars after 10-15 more min, labelled GameSpot)
+![Our diagram: Chase timeline. 3 stars: Start the chase. About 10 minutes: Near 5 stars. 10 to 15 more minutes: A notice warns a sixth star is coming. 6 stars: Nearly 20 minutes in total. Not a game screenshot.](TODO: image:gta-6-six-star-wanted-level-step-1 — diagram, our own art: Chase timeline, see the spec)
 *Caption: Diagram. GameSpot's route to six stars, drawn by us.*
 
 ## Route 2: the military route (PC Gamer)
@@ -60,7 +60,7 @@ PC Gamer says the highest star levels are for stealing a passenger jet at an air
 
 The two outlets do not agree on one exact method. Both agree it needs a lot of destruction.
 
-![two routes to six stars side by side: long chase and military base](TODO: image:gta-6-six-star-wanted-level-step-2 — diagram, our own art: two columns Long chase (GameSpot) and Military route (PC Gamer) with a warning triangle between them)
+![Our diagram: Two routes to six stars. Long chase / Evaded police for about 20 minutes / GameSpot. Mass destruction / Stole a tank and blew things up / PC Gamer. Not a game screenshot.](TODO: image:gta-6-six-star-wanted-level-step-2 — diagram, our own art: Two routes to six stars, see the spec)
 *Caption: Diagram. The two routes the outlets found. They are not the same.*
 
 ## What happens at six stars
@@ -70,7 +70,7 @@ The two outlets do not agree on one exact method. Both agree it needs a lot of d
 - Killing that many cops can hurt your criminal profile badly (PC Gamer).
 - GameSpot says the areas involved stay closely watched until you are caught or killed. You need to change your clothes, look and vehicle to go back.
 
-![warning sign: cannot lose six stars](TODO: image:gta-6-six-star-wanted-level-step-3 — diagram, our own art: a six-star icon with a padlock and the text No escape, plus a save icon saying Save first)
+![Our diagram: Six stars: save first. No escape: The sources say you cannot lose six stars. Save first: Make a manual save before you try. Not a game screenshot.](TODO: image:gta-6-six-star-wanted-level-step-3 — diagram, our own art: Six stars: save first, see the spec)
 *Caption: Diagram. Six stars cannot be shaken off, so save first.*
 
 ## FAQ

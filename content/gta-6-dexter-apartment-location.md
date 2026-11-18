@@ -47,8 +47,8 @@ GameSpot's steps:
 GameSpot says the outdoor hallway matches the end of the TV show's intro.
 :::
 
-![map with two icons and a building between them](TODO: image:gta-6-dexter-apartment-location-step-1 — map screen, our own illustration: two icons labelled Pay n Spray and Top Fun Drones with a light-blue building between them, no game screenshots)
-*Caption: Map screen. The building sits between two map icons, drawn by us from GameSpot's steps.*
+![Our diagram: Where to look. Pay 'n' Spray: On one side. Light-blue building: In the middle. Top Fun Drones: On the other side. Not a game screenshot.](TODO: image:gta-6-dexter-apartment-location-step-1 — diagram, our own art: Where to look, see the spec)
+*Caption: Diagram. The building sits between two map icons, drawn by us from GameSpot's steps.*
 
 ## What you can do there
 
@@ -58,14 +58,14 @@ GameSpot says the outdoor hallway matches the end of the TV show's intro.
 
 GameSpot says it saw trash bags by the docks but does not think they are an easter egg.
 
-![staircase, hallway and a locked door](TODO: image:gta-6-dexter-apartment-location-step-2 — diagram, our own art: a staircase, an outside hallway arrow pointing west and a locked door at the end)
+![Our diagram: Inside the building. Staircase. Outside hallway: Head west. Locked door: At the end. Not a game screenshot.](TODO: image:gta-6-dexter-apartment-location-step-2 — diagram, our own art: Inside the building, see the spec)
 *Caption: Diagram. Stairs, then west, then the last door. It is locked.*
 
 ## What GameSpot is not sure about
 
 GameSpot says the boat is the only possible extra egg it found. It says there may be more as players keep looking.
 
-![boat next to a dock](TODO: image:gta-6-dexter-apartment-location-step-3 — diagram, our own art: a simple small motor boat at a dock with the text Possible extra egg, not confirmed)
+![Our diagram: Possible extra egg. A boat at a dock: Mentioned by one outlet. Not confirmed: Needs a second source. Not a game screenshot.](TODO: image:gta-6-dexter-apartment-location-step-3 — diagram, our own art: Possible extra egg, see the spec)
 *Caption: Diagram. The boat is a possible nod, not a confirmed one.*
 
 ## FAQ

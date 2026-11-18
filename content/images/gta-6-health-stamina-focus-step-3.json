@@ -1,0 +1,26 @@
+{
+  "type": "step-card",
+  "alt": "Our diagram: Lock in your gains. Close your fitness ring: Stop when it is closed. Eat a protein bar or shake: This locks in the gains. Gains locked: The window reopens about every in-game day. Not a game screenshot.",
+  "data": {
+    "category": "beginner",
+    "title": "Lock in your gains",
+    "cols": 3,
+    "card_height": 210,
+    "steps": [
+      {
+        "title": "Close your fitness ring",
+        "body": "Stop when it is closed."
+      },
+      {
+        "title": "Eat a protein bar or shake",
+        "body": "This locks in the gains."
+      },
+      {
+        "title": "Gains locked",
+        "body": "The window reopens about every in-game day."
+      }
+    ],
+    "note": "As described by GameSpot, 18 Nov 2026. Our drawing, not a game screenshot.",
+    "banner": "Our diagram, not a game screenshot"
+  }
+}

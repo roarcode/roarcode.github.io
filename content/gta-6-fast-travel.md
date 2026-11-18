@@ -38,8 +38,8 @@ draft: true
 5. Wait for the car to arrive. If you cannot see it, look at the minimap (VGC).
 6. Get in. Ride, pay to go faster, or pay to skip the whole ride.
 
-![phone with RydeMe app open and three choices](TODO: image:gta-6-fast-travel-step-1 — phone screen, our own illustration: a phone with RydeMe and three buttons Safehouse, Map marker, New destination)
-*Caption: Phone screen. The three RydeMe choices, drawn by us.*
+![Our diagram: RydeMe: three choices. Safehouse: Ride home. Map marker: Ride to your marker. New destination: Pick a place. Not a game screenshot.](TODO: image:gta-6-fast-travel-step-1 — diagram, our own art: RydeMe: three choices, see the spec)
+*Caption: Menu screen. The three RydeMe choices, drawn by us.*
 
 VGC says skipping the whole ride costs **$100** on top of the original fee. GameSpot says the same $100 figure and adds that RydeMe feels expensive early on.
 
@@ -58,7 +58,7 @@ GameSpot lists two other ways:
 | Buses and trains | Dozens of stops. They run on a schedule, so you wait. A train system reaches across the whole of Leonida. Public transport is more handy in Vice City than outside it. | GameSpot |
 | Swap characters | Fast and free. The character you are not playing usually waits near your safehouse. | GameSpot |
 
-![three travel options compared: taxi, bus or train, character swap](TODO: image:gta-6-fast-travel-step-2 — diagram, our own art: three cards RydeMe costs money, Bus or train waits for schedule, Swap character free)
+![Our diagram: Three ways across the map. RydeMe / Costs money / You pay per ride. Bus or train / Cheap / Wait for the schedule. Swap character / Free / Other character must be free. Not a game screenshot.](TODO: image:gta-6-fast-travel-step-2 — diagram, our own art: Three ways across the map, see the spec)
 *Caption: Diagram. Three ways to get across the map, drawn by us.*
 
 :::spoiler When can you swap characters? (reveals when the second character becomes playable)
@@ -69,7 +69,7 @@ VGC says you cannot swap right after the first mission. The first time you play 
 
 GameSpot says you cannot "open your map and immediately warp to a point". That is why the three ways above exist.
 
-![map with no warp button and a crossed-out teleport icon](TODO: image:gta-6-fast-travel-step-3 — diagram, our own art: a simple map with a crossed-out teleport icon and arrows pointing to phone, bus stop and character swap)
+![Our diagram: No map warp. Phone: Call RydeMe. Bus stop: Wait for a bus or train. Swap: Switch to your partner. Not a game screenshot.](TODO: image:gta-6-fast-travel-step-3 — diagram, our own art: No map warp, see the spec)
 *Caption: Diagram. No map warp. Use your phone, a stop or a swap instead.*
 
 ## FAQ

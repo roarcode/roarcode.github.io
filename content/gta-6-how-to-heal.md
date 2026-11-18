@@ -41,7 +41,7 @@ draft: true
 
 GameSpot says it has seen no injuries that need special treatment, such as broken legs. Items and food are the answer to everything it has found so far.
 
-![health bar with a solid white line and a pink and orange heart](TODO: image:gta-6-how-to-heal-step-1 — diagram, our own art: a health bar with the solid white line marked, a pink heart pointing to "fills to max" and an orange heart pointing to "boost above max")
+![Our diagram: Two hearts, two limits. Pink heart: Fills your health up to the solid white line. Orange heart: Boosts you above the line for a while. Not a game screenshot.](TODO: image:gta-6-how-to-heal-step-1 — diagram, our own art: Two hearts, two limits, see the spec)
 *Caption: Diagram. Pink heart fills to the line. Orange heart goes past it for a while.*
 
 ## How to use a healing item
@@ -50,7 +50,7 @@ GameSpot says it has seen no injuries that need special treatment, such as broke
 2. While you hold it, press **Square** (Beebom). VGC also names L1 and Square for this.
 3. Xbox buttons for this are **not stated** in the sources we checked.
 
-![controller with L1 and Square highlighted](TODO: image:gta-6-how-to-heal-step-2 — diagram, our own art: a PS5 controller with L1 and Square highlighted, and a note that Xbox buttons are not announced)
+![Our diagram: Hold L1, press Square. Xbox buttons are not announced yet. Not a game screenshot.](TODO: image:gta-6-how-to-heal-step-2 — diagram, our own art: Hold L1, press Square, see the spec)
 *Caption: Diagram. On PS5, hold L1 and press Square to use a healing item.*
 
 :::spoiler Where do you get the first healing item? (reveals an early mission moment)
@@ -67,7 +67,7 @@ Stamina matters too. GameSpot says low stamina makes your health come back more 
 
 GameSpot says that if you take pills in the middle of a gunfight, they slowly work less well. In the end you have to use cover instead.
 
-![pill bottle getting weaker with each use](TODO: image:gta-6-how-to-heal-step-3 — diagram, our own art: three pills in a row getting paler with the label "works less each time", and a wall icon labelled "use cover")
+![Our diagram: Healing items weaken with use. Use 1: Works well. Use 2: Works less well. Use 3: Weaker again. Not a game screenshot.](TODO: image:gta-6-how-to-heal-step-3 — diagram, our own art: Healing items weaken with use, see the spec)
 *Caption: Diagram. Pills get weaker if you keep using them. Cover is the fix.*
 
 ## FAQ

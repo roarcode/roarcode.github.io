@@ -36,7 +36,7 @@ draft: true
 3. Not every list needs to be finished. Some need only part: 70 challenges (of 80 in total) and 100 animals (of over 160) (Insider Gaming).
 4. VGC says all the scan and collect challenges, if you did them all, would push the game past 200 hours.
 
-![checklist with 35 lines and a progress ring](TODO: image:gta-6-100-percent-checklist-step-1 — diagram, our own art: a checklist with many lines and a progress ring labelled 35 tasks, no game screenshots)
+![Our diagram: 100% checklist. Tasks on the checklist: 35. Not a game screenshot.](TODO: image:gta-6-100-percent-checklist-step-1 — diagram, our own art: 100% checklist, see the spec)
 *Caption: Diagram. 35 tasks, per Insider Gaming. Drawn by us.*
 
 ## The list, in three groups (Insider Gaming)
@@ -85,7 +85,7 @@ draft: true
 - Animals: 100
 :::
 
-![three groups: story and tasks, exploration, discovery](TODO: image:gta-6-100-percent-checklist-step-2 — diagram, our own art: three boxes Story and tasks 12 lines, Exploration and activities 20 lines, Discovery 3 lines)
+![Our diagram: Checklist lines by group. Story and tasks: 12 lines. Exploration and activities: 20 lines. Discovery: 3 lines. Not a game screenshot.](TODO: image:gta-6-100-percent-checklist-step-2 — diagram, our own art: Checklist lines by group, see the spec)
 *Caption: Diagram. The three groups of the checklist, with line counts from Insider Gaming.*
 
 ## Tips to get started
@@ -95,7 +95,7 @@ draft: true
 3. Make several manual saves. See [the trophy list](/collectibles/gta-6-trophy-list/).
 4. Count your card sets in Progress, Collections, Collectible Cards (PowerPyx).
 
-![scan, save and card icons in a row](TODO: image:gta-6-100-percent-checklist-step-3 — diagram, our own art: three icons Scan cars, Save often, Count card sets, in a row)
+![Our diagram: Three habits that help. Scan cars: Scan as you go. Save often: Keep spare slots. Count card sets: Track your 15. Not a game screenshot.](TODO: image:gta-6-100-percent-checklist-step-3 — diagram, our own art: Three habits that help, see the spec)
 *Caption: Diagram. Three habits that help with 100%, from our other guides.*
 
 ## FAQ

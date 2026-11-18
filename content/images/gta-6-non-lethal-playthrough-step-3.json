@@ -1,0 +1,26 @@
+{
+  "type": "step-card",
+  "alt": "Our diagram: Stop a chase without killing. Shoot a tyre: A yellow marker shows an injury, not a kill. Car stops: The chase slows down. Helicopter backs off: Our drawing, as described on the page. Not a game screenshot.",
+  "data": {
+    "category": "beginner",
+    "title": "Stop a chase without killing",
+    "cols": 3,
+    "card_height": 230,
+    "steps": [
+      {
+        "title": "Shoot a tyre",
+        "body": "A yellow marker shows an injury, not a kill."
+      },
+      {
+        "title": "Car stops",
+        "body": "The chase slows down."
+      },
+      {
+        "title": "Helicopter backs off",
+        "body": "Our drawing, as described on the page."
+      }
+    ],
+    "note": "Our drawing, not a game screenshot. Sources are on the page.",
+    "banner": "Our diagram, not a game screenshot"
+  }
+}

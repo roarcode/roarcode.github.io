@@ -39,7 +39,7 @@ draft: true
 
 GameSpot says health and stamina gains fade unless you keep doing the activities. A Focus gain is **permanent**.
 
-![three bars Health, Stamina and Focus with a matching activity under each](TODO: image:gta-6-health-stamina-focus-step-1 — diagram, our own art: three bars, Health with a dumbbell, Stamina with a running shoe, Focus with a fishing rod, and a lock icon on Focus for permanent)
+![Our diagram: What trains each stat. Health: Gym work, such as lifting weights. Stamina: Running and cardio. Focus: Fishing raises it. Gains stay permanent. Not a game screenshot.](TODO: image:gta-6-health-stamina-focus-step-1 — diagram, our own art: What trains each stat, see the spec)
 *Caption: Diagram. What trains each stat, from GameSpot's tips.*
 
 ## Quick buffs: eat, sleep, shower
@@ -63,7 +63,7 @@ GameSpot adds that both characters have a fitness app on their phone with an exe
 
 For stamina, GameSpot suggests a gym membership so you can use a treadmill or exercise bike. Keep the cursor in the **pink area**. Its team said there is no gym close to the starting area.
 
-![gym trigger timing: press both fast, release slow](TODO: image:gta-6-health-stamina-focus-step-2 — diagram, our own art: a controller with both triggers highlighted and an arrow showing fast press then slow release, plus a stamina bar)
+![Our diagram: Gym: press fast, release slow. Press both triggers fast, release slowly. Not a game screenshot.](TODO: image:gta-6-health-stamina-focus-step-2 — diagram, our own art: Gym: press fast, release slow, see the spec)
 *Caption: Diagram. Press both triggers fast and let go slowly. This is from GameSpot's description.*
 
 GameSpot also says that if you go to the gym together, both characters work out no matter which one you control.
@@ -76,7 +76,7 @@ GameSpot says to click **both thumbsticks** to turn on Focus Mode. With a gun in
 VGC says you can get a quick Focus buff early by feeding Jason's pet snake. Watch it eat.
 :::
 
-![fitness ring and protein shake for locking in gym gains](TODO: image:gta-6-health-stamina-focus-step-3 — diagram, our own art: a fitness ring closing, an arrow to a protein shake, then a lock icon labelled Lock in your gains)
+![Our diagram: Lock in your gains. Close your fitness ring: Stop when it is closed. Eat a protein bar or shake: This locks in the gains. Gains locked: The window reopens about every in-game day. Not a game screenshot.](TODO: image:gta-6-health-stamina-focus-step-3 — diagram, our own art: Lock in your gains, see the spec)
 *Caption: Diagram. Close your fitness ring, then eat or drink to lock in the gains (GameSpot).*
 
 ## FAQ

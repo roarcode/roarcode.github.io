@@ -1,0 +1,24 @@
+{
+  "type": "info-cards",
+  "alt": "Our diagram: Silencers make less noise. With a silencer: Less noise, so police notice less. Without one: Loud shots can bring a siren. Not a game screenshot.",
+  "data": {
+    "category": "beginner",
+    "title": "Silencers make less noise",
+    "cols": 2,
+    "card_height": 230,
+    "cards": [
+      {
+        "title": "With a silencer",
+        "body": "Less noise, so police notice less.",
+        "status": "ok"
+      },
+      {
+        "title": "Without one",
+        "body": "Loud shots can bring a siren.",
+        "status": "no"
+      }
+    ],
+    "note": "Our drawing, not a game screenshot. Sources are on the page.",
+    "banner": "Our diagram, not a game screenshot"
+  }
+}

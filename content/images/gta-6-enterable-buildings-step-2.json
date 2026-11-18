@@ -1,0 +1,24 @@
+{
+  "type": "info-cards",
+  "alt": "Our diagram: Door colours in Focus Mode. White door: Safe to use. Red door: Alarm will go off. Not a game screenshot.",
+  "data": {
+    "category": "beginner",
+    "title": "Door colours in Focus Mode",
+    "cols": 2,
+    "card_height": 220,
+    "cards": [
+      {
+        "title": "White door",
+        "body": "Safe to use.",
+        "status": "ok"
+      },
+      {
+        "title": "Red door",
+        "body": "Alarm will go off.",
+        "status": "no"
+      }
+    ],
+    "note": "Our drawing, not a game screenshot. Sources are on the page.",
+    "banner": "Our diagram, not a game screenshot"
+  }
+}

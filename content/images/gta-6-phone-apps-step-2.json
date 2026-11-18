@@ -1,0 +1,23 @@
+{
+  "type": "controller",
+  "alt": "Our diagram: Phone and reminders. D-pad up, then Square (PS5) or X (Xbox) for reminders. Not a game screenshot.",
+  "data": {
+    "category": "beginner",
+    "title": "Phone and reminders",
+    "banner": "Our diagram, not a game screenshot",
+    "phone": true,
+    "phone_label": "Phone",
+    "controllers": [
+      {
+        "label": "D-pad up: phone",
+        "l": "L1 / LB",
+        "r": "R1 / RB"
+      }
+    ],
+    "highlight": [
+      "dpad-up"
+    ],
+    "callout": "D-pad up, then Square (PS5) or X (Xbox) for reminders.",
+    "note": "Buttons as reported on the page. Not tested by us."
+  }
+}

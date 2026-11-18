@@ -1,0 +1,23 @@
+{
+  "type": "bar-chart",
+  "alt": "Our diagram: Animals for 100%. Needed for 100%: 100. Total in game (PowerPyx): 255. Not a game screenshot.",
+  "data": {
+    "category": "collectibles",
+    "title": "Animals for 100%",
+    "bars": [
+      {
+        "label": "Needed for 100%",
+        "value": 100,
+        "display": "100"
+      },
+      {
+        "label": "Total in game (PowerPyx)",
+        "value": 255,
+        "display": "255"
+      }
+    ],
+    "max": 255,
+    "note": "100 animals fills the bar for 100% (PowerPyx).",
+    "banner": "Our diagram, not a game screenshot"
+  }
+}

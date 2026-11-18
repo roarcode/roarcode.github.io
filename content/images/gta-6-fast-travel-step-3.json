@@ -1,0 +1,30 @@
+{
+  "type": "info-cards",
+  "alt": "Our diagram: No map warp. Phone: Call RydeMe. Bus stop: Wait for a bus or train. Swap: Switch to your partner. Not a game screenshot.",
+  "data": {
+    "category": "beginner",
+    "title": "No map warp",
+    "layout": "flow",
+    "cols": 3,
+    "card_height": 220,
+    "cards": [
+      {
+        "title": "Phone",
+        "body": "Call RydeMe.",
+        "status": "ok"
+      },
+      {
+        "title": "Bus stop",
+        "body": "Wait for a bus or train.",
+        "status": "ok"
+      },
+      {
+        "title": "Swap",
+        "body": "Switch to your partner.",
+        "status": "ok"
+      }
+    ],
+    "note": "There is no teleport button on the map. Use one of these three instead.",
+    "banner": "Our diagram, not a game screenshot"
+  }
+}

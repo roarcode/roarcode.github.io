@@ -1,0 +1,35 @@
+{
+  "type": "info-cards",
+  "alt": "Our diagram: Reminders. Article. Post. Text. Call. Not a game screenshot.",
+  "data": {
+    "category": "beginner",
+    "title": "Reminders",
+    "layout": "flow",
+    "cols": 4,
+    "card_height": 200,
+    "cards": [
+      {
+        "title": "Article",
+        "body": "",
+        "status": "none"
+      },
+      {
+        "title": "Post",
+        "body": "",
+        "status": "none"
+      },
+      {
+        "title": "Text",
+        "body": "",
+        "status": "none"
+      },
+      {
+        "title": "Call",
+        "body": "",
+        "status": "none"
+      }
+    ],
+    "note": "Reminders can lead to side missions, per GameSpot.",
+    "banner": "Our diagram, not a game screenshot"
+  }
+}

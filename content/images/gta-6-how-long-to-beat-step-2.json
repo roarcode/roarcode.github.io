@@ -1,0 +1,29 @@
+{
+  "type": "info-cards",
+  "alt": "Our diagram: What \"100%\" means. A checklist: 100% is the game's own checklist. Not literally everything: Some extras may not count. Still over 200 h: Outlets say everything takes 200 h or more. Not a game screenshot.",
+  "data": {
+    "category": "beginner",
+    "title": "What \"100%\" means",
+    "cols": 3,
+    "card_height": 210,
+    "cards": [
+      {
+        "title": "A checklist",
+        "body": "100% is the game's own checklist.",
+        "status": "check"
+      },
+      {
+        "title": "Not literally everything",
+        "body": "Some extras may not count.",
+        "status": "no"
+      },
+      {
+        "title": "Still over 200 h",
+        "body": "Outlets say everything takes 200 h or more.",
+        "status": "none"
+      }
+    ],
+    "note": "Our drawing, not a game screenshot. Sources are on the page.",
+    "banner": "Our diagram, not a game screenshot"
+  }
+}

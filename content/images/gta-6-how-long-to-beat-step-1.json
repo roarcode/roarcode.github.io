@@ -1,0 +1,33 @@
+{
+  "type": "bar-chart",
+  "alt": "Our diagram: How long is GTA 6? Hours by goal. Story only (VGC): About 60 h. Story only (GameSpot): 65 h or more. With side jobs (GameSpot): 90-100 h. Everything (VGC and GameSpot): 200 h+. Not a game screenshot.",
+  "data": {
+    "category": "beginner",
+    "title": "How long is GTA 6? Hours by goal",
+    "bars": [
+      {
+        "label": "Story only (VGC)",
+        "value": 60,
+        "display": "About 60 h"
+      },
+      {
+        "label": "Story only (GameSpot)",
+        "value": 65,
+        "display": "65 h or more"
+      },
+      {
+        "label": "With side jobs (GameSpot)",
+        "value": 100,
+        "display": "90-100 h"
+      },
+      {
+        "label": "Everything (VGC and GameSpot)",
+        "value": 200,
+        "display": "200 h+"
+      }
+    ],
+    "max": 200,
+    "banner": "Our chart, not a game screenshot",
+    "note": "Hours as reported by VGC and GameSpot, 18 Nov 2026. Estimates, not measurements."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "type": "info-cards",
+  "alt": "Our diagram: Escape step by step. Leave: Get away. Change: New outfit. Gun away: Holster it. Swap car: Not the one they saw. Split up: Separate from your partner. Not a game screenshot.",
+  "data": {
+    "category": "beginner",
+    "title": "Escape step by step",
+    "layout": "flow",
+    "cols": 5,
+    "card_height": 210,
+    "cards": [
+      {
+        "title": "Leave",
+        "body": "Get away.",
+        "status": "none"
+      },
+      {
+        "title": "Change",
+        "body": "New outfit.",
+        "status": "none"
+      },
+      {
+        "title": "Gun away",
+        "body": "Holster it.",
+        "status": "none"
+      },
+      {
+        "title": "Swap car",
+        "body": "Not the one they saw.",
+        "status": "none"
+      },
+      {
+        "title": "Split up",
+        "body": "Separate from your partner.",
+        "status": "none"
+      }
+    ],
+    "note": "Our drawing, not a game screenshot.",
+    "banner": "Our diagram, not a game screenshot"
+  }
+}

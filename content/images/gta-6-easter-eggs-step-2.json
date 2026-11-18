@@ -1,0 +1,29 @@
+{
+  "type": "info-cards",
+  "alt": "Our diagram: Where eggs hide. Books: Read what you find. Shop items: Look closely. Dialogue: Listen. Not a game screenshot.",
+  "data": {
+    "category": "collectibles",
+    "title": "Where eggs hide",
+    "cols": 3,
+    "card_height": 220,
+    "cards": [
+      {
+        "title": "Books",
+        "body": "Read what you find.",
+        "status": "none"
+      },
+      {
+        "title": "Shop items",
+        "body": "Look closely.",
+        "status": "none"
+      },
+      {
+        "title": "Dialogue",
+        "body": "Listen.",
+        "status": "none"
+      }
+    ],
+    "note": "Our drawing, not a game screenshot. Sources are on the page.",
+    "banner": "Our diagram, not a game screenshot"
+  }
+}

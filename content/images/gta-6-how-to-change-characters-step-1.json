@@ -1,0 +1,19 @@
+{
+  "type": "controller",
+  "alt": "Our diagram: D-pad right to swap. Open the swap menu with D-pad right. Not a game screenshot.",
+  "data": {
+    "category": "beginner",
+    "title": "D-pad right to swap",
+    "banner": "Our diagram, not a game screenshot",
+    "controllers": [
+      {
+        "label": "D-pad right, then pick Jason or Lucia",
+        "l": "L1 / LB",
+        "r": "R1 / RB"
+      }
+    ],
+    "highlight": [],
+    "callout": "Open the swap menu with D-pad right.",
+    "note": "Buttons as reported on the page. Not tested by us."
+  }
+}

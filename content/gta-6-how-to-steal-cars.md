@@ -38,7 +38,7 @@ draft: true
 
 PC Gamer says you can still pull a driver out of a car, but many fight back and you must press a button fast to win. Many drivers are armed.
 
-![car door with three icons: locked, alarmed, keyless](TODO: image:gta-6-how-to-steal-cars-step-1 — diagram, our own art: a car door with three tags Locked, Alarmed (red shield), Keyless, plus the words Press interact)
+![Our diagram: Three kinds of car. Locked: Press interact to try the door. Alarmed: An alarm brings attention. Keyless: Needs a later tool. Not a game screenshot.](TODO: image:gta-6-how-to-steal-cars-step-1 — diagram, our own art: Three kinds of car, see the spec)
 *Caption: Diagram. What the interact prompt tells you, from PC Gamer and GameSpot.*
 
 ## The tools
@@ -61,7 +61,7 @@ PC Gamer says the two fences are Moses, who only buys older, low-end cars, and R
 The two outlets describe the timing in different ways, but both agree on the order: slim jim first, key cloner later. PC Gamer says Cal helps you install the scanning app in Chapter 1.
 :::
 
-![timeline: smash and hotwire, then slim jim, then key cloner](TODO: image:gta-6-how-to-steal-cars-step-2 — diagram, our own art: a timeline with three steps Smash and hotwire (start), Slim jim (later), Key cloner (later still), with no chapter numbers)
+![Our diagram: Tools in the order you get them. Smash and hotwire: Available from the start. Slim jim: Comes later. Key cloner: Comes later still. Not a game screenshot.](TODO: image:gta-6-how-to-steal-cars-step-2 — diagram, our own art: Tools in the order you get them, see the spec)
 *Caption: Diagram. The order you unlock car-theft tools, from PC Gamer and GameSpot.*
 
 ## Trackers: yellow and red
@@ -77,7 +77,7 @@ GameSpot says you can see which tracker you have by the vehicle icons above the 
 
 GameSpot also says that if you leave a tracked stolen car near a mission start, the ping goes out when you leave it. That makes the area a crime zone until your heat is cleared. Ditch it far from where you are going.
 
-![speedometer with a red tracker warning](TODO: image:gta-6-how-to-steal-cars-step-3 — diagram, our own art: a speedometer with a red zone labelled Too slow, tracker pings and a police siren icon)
+![Our diagram: Tracker types and slow driving. Standard (yellow): Police can trace it if you stop for a few seconds (GameSpot). Advanced (red): Pings police if you drop below a speed for about 5 seconds (GameSpot). Check the icons: Vehicle icons above the minimap (GameSpot). Not a game screenshot.](TODO: image:gta-6-how-to-steal-cars-step-3 — diagram, our own art: Tracker types and slow driving, see the spec)
 *Caption: Diagram. Drive fast or a red tracker pings the police, from GameSpot and PC Gamer.*
 
 ## Selling and storing

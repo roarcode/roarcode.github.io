@@ -1,0 +1,29 @@
+{
+  "type": "info-cards",
+  "alt": "Our diagram: Tracker types and slow driving. Standard (yellow): Police can trace it if you stop for a few seconds (GameSpot). Advanced (red): Pings police if you drop below a speed for about 5 seconds (GameSpot). Check the icons: Vehicle icons above the minimap (GameSpot). Not a game screenshot.",
+  "data": {
+    "category": "vehicles",
+    "title": "Tracker types and slow driving",
+    "cols": 3,
+    "card_height": 230,
+    "cards": [
+      {
+        "title": "Standard (yellow)",
+        "body": "Police can trace it if you stop for a few seconds (GameSpot).",
+        "status": "none"
+      },
+      {
+        "title": "Advanced (red)",
+        "body": "Pings police if you drop below a speed for about 5 seconds (GameSpot).",
+        "status": "no"
+      },
+      {
+        "title": "Check the icons",
+        "body": "Vehicle icons above the minimap (GameSpot).",
+        "status": "none"
+      }
+    ],
+    "note": "Our drawing, not a game screenshot. PC Gamer describes trackers a little differently; see the page.",
+    "banner": "Our diagram, not a game screenshot"
+  }
+}

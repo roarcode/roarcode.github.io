@@ -1,18 +1,30 @@
 {
-  "type": "map-annotate",
-  "alt": "Schematic map with a single placeholder start pin. The first mission start point is filled only from the game after launch, with no story details.",
+  "type": "step-card",
+  "alt": "Our diagram: The mission in four parts. Part 1: See the first box below. Part 2: See the second box. Part 3: See the third box. Part 4: See the last box. Not a game screenshot.",
   "data": {
     "category": "missions",
-    "title": "Start point — to be filled",
-    "pins": [
+    "title": "The mission in four parts",
+    "cols": 4,
+    "card_height": 230,
+    "steps": [
       {
-        "x": 42,
-        "y": 48,
-        "kind": "start",
-        "label": "Start — from the game menu"
+        "title": "Part 1",
+        "body": "See the first box below."
+      },
+      {
+        "title": "Part 2",
+        "body": "See the second box."
+      },
+      {
+        "title": "Part 3",
+        "body": "See the third box."
+      },
+      {
+        "title": "Part 4",
+        "body": "See the last box."
       }
     ],
-    "credit": "Original schematic by Leonida Guides.",
-    "note": "Not to scale. Placeholder only. We do not guess a location from trailers."
+    "banner": "No spoilers in this picture",
+    "note": "Details are in the closed boxes on the page. Our drawing, not a game screenshot."
   }
 }

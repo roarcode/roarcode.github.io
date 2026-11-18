@@ -1,25 +1,22 @@
 {
-  "type": "menu-mock",
-  "alt": "Illustration of a pause-menu mission entry with the name left as a placeholder. Not an in-game screenshot.",
+  "type": "controller",
+  "alt": "Our diagram: Buttons you will use. Circle: crouch · R2: grab · Square: takedown · L3 / R3: Focus. Not a game screenshot.",
   "data": {
     "category": "missions",
-    "title": "The name as the game shows it",
-    "panel_title": "Pause menu — illustration",
-    "highlightRow": 1,
-    "rows": [
+    "title": "Buttons you will use",
+    "banner": "Our diagram, not a game screenshot",
+    "controllers": [
       {
-        "label": "Missions",
-        "value": "From the pause menu"
-      },
-      {
-        "label": "Mission name",
-        "value": "To be filled from the game"
-      },
-      {
-        "label": "We do not guess this",
-        "value": "No trailer titles"
+        "label": "PS5 buttons",
+        "l": "L1",
+        "r": "R1"
       }
     ],
-    "note": "Illustration — not an in-game screenshot. Only the name shown in the game menu will go here."
+    "highlight": [
+      "left-stick",
+      "right-stick"
+    ],
+    "callout": "Circle: crouch · R2: grab · Square: takedown · L3 / R3: Focus",
+    "note": "PS5 buttons as given by VGC, 18 Nov 2026. Not tested by us."
   }
 }

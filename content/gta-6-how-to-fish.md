@@ -36,7 +36,7 @@ draft: true
 4. Use **L2 / R2** (Xbox: **Left / Right Trigger**) to choose the **Fishing Rod**.
 5. Follow the on-screen prompts (Shacknews).
 
-![weapon wheel with Equipment tab and Fishing Rod highlighted](TODO: image:gta-6-how-to-fish-step-1 — menu screen, our own illustration: a circular wheel with the Equipment tab selected and a fishing rod icon highlighted, plus L1 / Left Bumper)
+![Our diagram: Weapon wheel: Equipment > Fishing Rod. Equipment: Open this tab. Fishing Rod: Select it. Not a game screenshot.](TODO: image:gta-6-how-to-fish-step-1 — diagram, our own art: Weapon wheel: Equipment > Fishing Rod, see the spec)
 *Caption: Menu screen. Hold L1, pick Equipment, choose the Fishing Rod, drawn by us.*
 
 ## How to cast, hook and reel
@@ -47,7 +47,7 @@ draft: true
 4. **Tire the fish:** use the **left stick** to pull the opposite way to where it swims (Shacknews).
 5. **Reel in:** when the fish takes a break, **rotate the right stick** (Shacknews).
 
-![five-step strip: cast, wait, hook, pull, reel](TODO: image:gta-6-how-to-fish-step-2 — diagram, our own art: five boxes Cast (L2 then R2), Wait, Hook (R2), Pull opposite (left stick), Reel (right stick))
+![Our diagram: Fishing in five steps. Cast: L2 then R2. Wait. Hook: R2. Pull: Left stick, opposite way. Reel: Right stick. Not a game screenshot.](TODO: image:gta-6-how-to-fish-step-2 — diagram, our own art: Fishing in five steps, see the spec)
 *Caption: Diagram. The five steps of a catch, from Shacknews.*
 
 Shacknews says you can click **L3 or R3** (Left or Right Stick) for Focus to spot places with fish. It says it did not find it hard to hook fish without that tool.
@@ -60,7 +60,7 @@ Shacknews says you start with the **Small Saltwater Lure** and **Small Freshwate
 
 GameSpot says "mindfulness" activities such as fishing and playing pool raise your **Focus**, and a Focus gain is permanent.
 
-![fishing rod with a Focus eye](TODO: image:gta-6-how-to-fish-step-3 — diagram, our own art: a fishing rod with a purple eye icon and the text Fishing raises Focus)
+![Our diagram: Fishing raises Focus. Fishing: Time on the water. Focus: Goes up. Not a game screenshot.](TODO: image:gta-6-how-to-fish-step-3 — diagram, our own art: Fishing raises Focus, see the spec)
 *Caption: Diagram. GameSpot says fishing raises Focus.*
 
 ## FAQ

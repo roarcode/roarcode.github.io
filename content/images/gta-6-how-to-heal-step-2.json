@@ -1,0 +1,21 @@
+{
+  "type": "controller",
+  "alt": "Our diagram: Hold L1, press Square. Xbox buttons are not announced yet. Not a game screenshot.",
+  "data": {
+    "category": "beginner",
+    "title": "Hold L1, press Square",
+    "banner": "Our diagram, not a game screenshot",
+    "controllers": [
+      {
+        "label": "PS5: hold L1 + press Square",
+        "l": "L1",
+        "r": "R1"
+      }
+    ],
+    "highlight": [
+      "left-shoulder"
+    ],
+    "callout": "Xbox buttons are not announced yet.",
+    "note": "PS5 buttons as reported on the page. Not tested by us."
+  }
+}

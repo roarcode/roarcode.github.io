@@ -1,0 +1,40 @@
+{
+  "type": "info-cards",
+  "alt": "Our diagram: Save between chapters. Ch. 1: Save. Ch. 2: Save. Ch. 3: Save. Ch. 4: Save. Ch. 5: Save. Not a game screenshot.",
+  "data": {
+    "category": "missions",
+    "title": "Save between chapters",
+    "layout": "flow",
+    "cols": 5,
+    "card_height": 190,
+    "cards": [
+      {
+        "title": "Ch. 1",
+        "body": "Save.",
+        "status": "none"
+      },
+      {
+        "title": "Ch. 2",
+        "body": "Save.",
+        "status": "none"
+      },
+      {
+        "title": "Ch. 3",
+        "body": "Save.",
+        "status": "none"
+      },
+      {
+        "title": "Ch. 4",
+        "body": "Save.",
+        "status": "none"
+      },
+      {
+        "title": "Ch. 5",
+        "body": "Save.",
+        "status": "none"
+      }
+    ],
+    "note": "Make a manual save at the end of each chapter. Our drawing.",
+    "banner": "Our diagram, not a game screenshot"
+  }
+}

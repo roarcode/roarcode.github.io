@@ -41,7 +41,7 @@ draft: true
 
 PC Gamer says its list has spoilers in mission names and that it left out a few for spoiler reasons. We list only the titles and no summaries.
 
-![five bars of different heights for chapters 1 to 5](TODO: image:gta-6-mission-list-step-1 — diagram, our own art: five bars with heights 22, 11, 26, 25 and 7 labelled Chapter 1 to 5 and the total 91, no chapter names)
+![Our diagram: Missions per chapter. Chapter 1: 22. Chapter 2: 11. Chapter 3: 26. Chapter 4: 25. Chapter 5: 7. Not a game screenshot.](TODO: image:gta-6-mission-list-step-1 — diagram, our own art: Missions per chapter, see the spec)
 *Caption: Diagram. How many story missions each chapter has, from PC Gamer.*
 
 ## The missions
@@ -162,7 +162,7 @@ Chapter 5 is called **Top of the World, Ma** (PC Gamer).
 7. *(hidden by PC Gamer to avoid a big spoiler)*
 :::
 
-![checklist with chapters as sections](TODO: image:gta-6-mission-list-step-2 — diagram, our own art: a checklist page with five headed sections and tick boxes, no mission titles)
+![Our diagram: Use the list by chapter. Chapter 1: Tick off. Chapter 2: Tick off. Chapter 3: Tick off. Chapter 4: Tick off. Chapter 5: Tick off. Not a game screenshot.](TODO: image:gta-6-mission-list-step-2 — diagram, our own art: Use the list by chapter, see the spec)
 *Caption: Diagram. Use the boxes like a checklist as you play.*
 
 ## Good to know
@@ -171,7 +171,7 @@ Chapter 5 is called **Top of the World, Ma** (PC Gamer).
 - Chapter 3 and 4 have the most missions (PC Gamer).
 - There is no mission replay. Read [Can you replay missions in GTA 6?](/beginner-tips/gta-6-replay-missions/).
 
-![save icons between chapters](TODO: image:gta-6-mission-list-step-3 — diagram, our own art: five chapter boxes in a row with a save icon between each and the text Save at the end of each chapter)
+![Our diagram: Save between chapters. Ch. 1: Save. Ch. 2: Save. Ch. 3: Save. Ch. 4: Save. Ch. 5: Save. Not a game screenshot.](TODO: image:gta-6-mission-list-step-3 — diagram, our own art: Save between chapters, see the spec)
 *Caption: Diagram. A save between chapters is a safe habit.*
 
 ## FAQ

@@ -1,0 +1,24 @@
+{
+  "type": "info-cards",
+  "alt": "Our diagram: Needs a second source. One report: Not enough yet. Two sources: We list it as confirmed. Not a game screenshot.",
+  "data": {
+    "category": "collectibles",
+    "title": "Needs a second source",
+    "cols": 2,
+    "card_height": 220,
+    "cards": [
+      {
+        "title": "One report",
+        "body": "Not enough yet.",
+        "status": "none"
+      },
+      {
+        "title": "Two sources",
+        "body": "We list it as confirmed.",
+        "status": "ok"
+      }
+    ],
+    "note": "We only call an egg confirmed when two outlets say so.",
+    "banner": "Our diagram, not a game screenshot"
+  }
+}

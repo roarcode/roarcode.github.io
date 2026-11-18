@@ -34,8 +34,8 @@ GameSpot says to open the map and look at the store's **security level** first. 
 
 GameSpot says that in the starting area, apart from the bank, every shop has a **low** security level. That means no armed guards and few cameras or alarms. Low shops usually need only one character. For Medium or High, robbing as a pair is much easier. GameSpot says you can invite your partner by pressing **Triangle** (PS5) or **Y** (Xbox) on the map icon.
 
-![map icon with Low Medium High security labels](TODO: image:gta-6-robberies-guide-step-1 — map screen, our own illustration: a shop icon with three tags Low, Medium, High and a note Press Triangle or Y to invite your partner)
-*Caption: Map screen. Check the security level before you walk in, drawn by us.*
+![Our diagram: Shop security levels. Low: Easier job, smaller take. Medium: In between. High: Harder job, bigger take. Not a game screenshot.](TODO: image:gta-6-robberies-guide-step-1 — diagram, our own art: Shop security levels, see the spec)
+*Caption: Diagram. Check the security level before you walk in, drawn by us.*
 
 ## The five steps, in order (GameSpot)
 
@@ -45,7 +45,7 @@ GameSpot says that in the starting area, apart from the bank, every shop has a *
 4. **Destroy the CCTV evidence.** Find the security room. GameSpot says you can also shoot cameras first in Focus Mode (click both thumbsticks), but only if you have a silenced weapon.
 5. **Escape.** The cops will be alerted when you leave, but if you destroyed the evidence they have nothing to go on.
 
-![five boxes: crowd, alarm, loot, cameras, escape](TODO: image:gta-6-robberies-guide-step-2 — diagram, our own art: five numbered boxes Control crowd, Switch off alarm, Loot, Destroy CCTV evidence, Escape, with a white wall panel icon next to step 2)
+![Our diagram: Five parts of a robbery. Control crowd. Switch off alarm: White wall panel. Loot. Destroy CCTV. Escape. Not a game screenshot.](TODO: image:gta-6-robberies-guide-step-2 — diagram, our own art: Five parts of a robbery, see the spec)
 *Caption: Diagram. GameSpot's order for a clean robbery.*
 
 GameSpot adds that if a camera spots you and you do not destroy the evidence, the police can identify you when you leave. Being seen does not alert them at once.
@@ -86,7 +86,7 @@ GameSpot's other bank tips:
 GameSpot says vaults cannot be picked or blown open. You wait for an armoured cash truck. When a worker leaves the truck, the vault is open for a short time. GameSpot says to follow a truck you see, or get tips on truck locations from a fence you meet in Chapter 3.
 :::
 
-![bank with truck and back door](TODO: image:gta-6-robberies-guide-step-3 — diagram, our own art: a bank floor plan with a back door, side door, vault and a cash truck outside, no game screenshots)
+![Our diagram: Bank layout (simple). Front: Main way in. Back or side door: Quieter way in. Vault: Where the big cash is. Cash truck: Parked outside. Not a game screenshot.](TODO: image:gta-6-robberies-guide-step-3 — diagram, our own art: Bank layout (simple), see the spec)
 *Caption: Diagram. The parts of a bank job, drawn by us from GameSpot's guide.*
 
 ## Getting away

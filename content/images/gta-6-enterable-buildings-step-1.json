@@ -1,0 +1,24 @@
+{
+  "type": "info-cards",
+  "alt": "Our diagram: Building colours on the map. Dark blue: You can enter. Light blue: No way in. Not a game screenshot.",
+  "data": {
+    "category": "beginner",
+    "title": "Building colours on the map",
+    "cols": 2,
+    "card_height": 220,
+    "cards": [
+      {
+        "title": "Dark blue",
+        "body": "You can enter.",
+        "status": "ok"
+      },
+      {
+        "title": "Light blue",
+        "body": "No way in.",
+        "status": "no"
+      }
+    ],
+    "note": "Our drawing, not the game's map. Sources are on the page.",
+    "banner": "Our diagram, not a game screenshot"
+  }
+}

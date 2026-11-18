@@ -1,0 +1,29 @@
+{
+  "type": "info-cards",
+  "alt": "Our diagram: Early reports. Easier fights: A damage option. Tap assist: Helps with button taps. High contrast: Easier to read. Not a game screenshot.",
+  "data": {
+    "category": "beginner",
+    "title": "Early reports",
+    "cols": 3,
+    "card_height": 230,
+    "cards": [
+      {
+        "title": "Easier fights",
+        "body": "A damage option.",
+        "status": "none"
+      },
+      {
+        "title": "Tap assist",
+        "body": "Helps with button taps.",
+        "status": "none"
+      },
+      {
+        "title": "High contrast",
+        "body": "Easier to read.",
+        "status": "none"
+      }
+    ],
+    "note": "Early reports only. Our drawing.",
+    "banner": "Our diagram, not a game screenshot"
+  }
+}

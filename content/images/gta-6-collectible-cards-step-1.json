@@ -1,0 +1,28 @@
+{
+  "type": "bar-chart",
+  "alt": "Our diagram: Card sets. Cards in the game: 480. Sets: 18. Sets needed for 100%: 15. Not a game screenshot.",
+  "data": {
+    "category": "collectibles",
+    "title": "Card sets",
+    "bars": [
+      {
+        "label": "Cards in the game",
+        "value": 480,
+        "display": "480"
+      },
+      {
+        "label": "Sets",
+        "value": 18,
+        "display": "18"
+      },
+      {
+        "label": "Sets needed for 100%",
+        "value": 15,
+        "display": "15"
+      }
+    ],
+    "max": 480,
+    "note": "Numbers from the page. Our chart, not a game screenshot.",
+    "banner": "Our diagram, not a game screenshot"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "step-card",
+  "alt": "Our diagram: Chase timeline. 3 stars: Start the chase. About 10 minutes: Near 5 stars. 10 to 15 more minutes: A notice warns a sixth star is coming. 6 stars: Nearly 20 minutes in total. Not a game screenshot.",
+  "data": {
+    "category": "beginner",
+    "title": "Chase timeline",
+    "cols": 4,
+    "card_height": 220,
+    "steps": [
+      {
+        "title": "3 stars",
+        "body": "Start the chase."
+      },
+      {
+        "title": "About 10 minutes",
+        "body": "Near 5 stars."
+      },
+      {
+        "title": "10 to 15 more minutes",
+        "body": "A notice warns a sixth star is coming."
+      },
+      {
+        "title": "6 stars",
+        "body": "Nearly 20 minutes in total."
+      }
+    ],
+    "note": "Timings as reported by GameSpot, 18 Nov 2026.",
+    "banner": "Our diagram, not a game screenshot"
+  }
+}

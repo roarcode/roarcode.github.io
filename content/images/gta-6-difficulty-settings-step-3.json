@@ -1,0 +1,34 @@
+{
+  "type": "info-cards",
+  "alt": "Our diagram: Four settings to turn on. Reduce damage: Turn on. Aim assist: Turn on. Drive-by help: Turn on. Tap assist: Turn on. Not a game screenshot.",
+  "data": {
+    "category": "beginner",
+    "title": "Four settings to turn on",
+    "cols": 4,
+    "card_height": 200,
+    "cards": [
+      {
+        "title": "Reduce damage",
+        "body": "Turn on.",
+        "status": "ok"
+      },
+      {
+        "title": "Aim assist",
+        "body": "Turn on.",
+        "status": "ok"
+      },
+      {
+        "title": "Drive-by help",
+        "body": "Turn on.",
+        "status": "ok"
+      },
+      {
+        "title": "Tap assist",
+        "body": "Turn on.",
+        "status": "ok"
+      }
+    ],
+    "note": "Names may differ in the final game. Our drawing.",
+    "banner": "Our diagram, not a game screenshot"
+  }
+}

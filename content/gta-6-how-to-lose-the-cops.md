@@ -45,7 +45,7 @@ GameSpot says the wanted system was reworked. The police do not know where you a
 
 GameSpot says that as long as you deal with all of these **without the cops seeing you do it**, they cannot find you.
 
-![six icons: face, shirt, gun, car, camera, two people, each with a fix](TODO: image:gta-6-how-to-lose-the-cops-step-1 — diagram, our own art: six cards Appearance hat, Outfit change, Weapon put away, Vehicle swap, CCTV destroy, Partner split up)
+![Our diagram: Six ways police find you. Appearance: Wear a hat. Outfit: Change clothes. Weapon: Put it away. Vehicle: Swap your car. CCTV: Destroy cameras. Partner: Split up. Not a game screenshot.](TODO: image:gta-6-how-to-lose-the-cops-step-1 — diagram, our own art: Six ways police find you, see the spec)
 *Caption: Diagram. The six clues and the fix for each, from GameSpot's tips.*
 
 ## Step by step after a crime
@@ -57,7 +57,7 @@ GameSpot says that as long as you deal with all of these **without the cops seei
 5. If you were in a job together, **split up**. GameSpot says the cops then have two moving targets, and if one gets caught the other keeps their loot.
 6. Check that you were not spotted. The police can still see you doing the changes.
 
-![step by step flow: leave, change, hide gun, swap car, split up](TODO: image:gta-6-how-to-lose-the-cops-step-2 — diagram, our own art: a flow chart with five boxes Leave, Change outfit, Gun away, Swap car, Split up)
+![Our diagram: Escape step by step. Leave: Get away. Change: New outfit. Gun away: Holster it. Swap car: Not the one they saw. Split up: Separate from your partner. Not a game screenshot.](TODO: image:gta-6-how-to-lose-the-cops-step-2 — diagram, our own art: Escape step by step, see the spec)
 *Caption: Diagram. A simple order of steps. The clues are GameSpot's. The order is our own.*
 
 ## Camera footage
@@ -72,7 +72,7 @@ VGC says police response is different at night. It says planning crimes for when
 
 GameSpot says police will come if someone reports gunshots, so the quieter you are, the more time you have. It says a silencer helps with that.
 
-![gun with silencer next to a siren icon](TODO: image:gta-6-how-to-lose-the-cops-step-3 — diagram, our own art: a gun with a silencer, a sound wave getting small, and a police siren icon fading)
+![Our diagram: Silencers make less noise. With a silencer: Less noise, so police notice less. Without one: Loud shots can bring a siren. Not a game screenshot.](TODO: image:gta-6-how-to-lose-the-cops-step-3 — diagram, our own art: Silencers make less noise, see the spec)
 *Caption: Diagram. A silencer keeps the noise down so police come later.*
 
 ## FAQ

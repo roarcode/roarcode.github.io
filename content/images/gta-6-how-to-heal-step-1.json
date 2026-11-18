@@ -1,0 +1,24 @@
+{
+  "type": "info-cards",
+  "alt": "Our diagram: Two hearts, two limits. Pink heart: Fills your health up to the solid white line. Orange heart: Boosts you above the line for a while. Not a game screenshot.",
+  "data": {
+    "category": "beginner",
+    "title": "Two hearts, two limits",
+    "cols": 2,
+    "card_height": 230,
+    "cards": [
+      {
+        "title": "Pink heart",
+        "body": "Fills your health up to the solid white line.",
+        "status": "ok"
+      },
+      {
+        "title": "Orange heart",
+        "body": "Boosts you above the line for a while.",
+        "status": "ok"
+      }
+    ],
+    "note": "Our drawing, not a game screenshot. Sources are on the page.",
+    "banner": "Our diagram, not a game screenshot"
+  }
+}

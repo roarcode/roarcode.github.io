@@ -45,8 +45,8 @@ Several outlets say where to look. They are close, but not the same:
 
 So the common idea is the **south marsh and lake area**. If you do not find him at the first place, try the next one.
 
-![map with an area circle in the south and five outlet labels](TODO: image:gta-6-bigfoot-location-step-1 — map screen, our own illustration: a rough map with a loose circle in the south and five small labels, no exact pin, no game screenshot)
-*Caption: Map screen. The area outlets point to. Not an exact pin, drawn by us.*
+![Our diagram: Where outlets put Bigfoot. Insider Gaming / Cottonmouth Lake, just below Hamlet. GameRant / South of Cottonmouth Lake. Both / Near Cottonmouth Lake, in the south. Not a game screenshot.](TODO: image:gta-6-bigfoot-location-step-1 — diagram, our own art: Where outlets put Bigfoot, see the spec)
+*Caption: Diagram. The area outlets point to. Not an exact pin, drawn by us.*
 
 ## When can you go?
 
@@ -61,7 +61,7 @@ Insider Gaming says you will know you are in the right area when you hear a deep
 3. Follow the sound.
 4. Go on foot when the road ends.
 
-![speaker icon with sound waves near a lake](TODO: image:gta-6-bigfoot-location-step-2 — diagram, our own art: a lake outline, a sound wave icon and a footprint trail, marked Listen for a growl)
+![Our diagram: How to look. Go to the lake area. Listen for a growl. Follow the sound. Look for footprints. Not a game screenshot.](TODO: image:gta-6-bigfoot-location-step-2 — diagram, our own art: How to look, see the spec)
 *Caption: Diagram. Listen for the growl as you reach the lake area.*
 
 :::spoiler What happens when you find him? (reveals an easter egg encounter)
@@ -77,7 +77,7 @@ Both GameRant and Insider Gaming say there may be more to this. GameSpot's easte
 - The exact location. The outlets differ (see the table).
 - Whether there is more after this first meeting. GameRant and Insider Gaming say it may be the start of something bigger.
 
-![question mark over a footprint](TODO: image:gta-6-bigfoot-location-step-3 — diagram, our own art: a footprint with a big question mark and the text More to find? Not confirmed)
+![Our diagram: More to find?. One sighting: Both outlets describe it. More?: Not confirmed. Not a game screenshot.](TODO: image:gta-6-bigfoot-location-step-3 — diagram, our own art: More to find?, see the spec)
 *Caption: Diagram. Nobody knows yet whether there is more to find.*
 
 ## FAQ

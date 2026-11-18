@@ -1,0 +1,18 @@
+{
+  "type": "bar-chart",
+  "alt": "Our diagram: 100% checklist. Tasks on the checklist: 35. Not a game screenshot.",
+  "data": {
+    "category": "collectibles",
+    "title": "100% checklist",
+    "bars": [
+      {
+        "label": "Tasks on the checklist",
+        "value": 35,
+        "display": "35"
+      }
+    ],
+    "max": 35,
+    "note": "Count from the page. Our chart, not a game screenshot.",
+    "banner": "Our diagram, not a game screenshot"
+  }
+}

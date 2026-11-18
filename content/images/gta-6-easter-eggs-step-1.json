@@ -1,0 +1,39 @@
+{
+  "type": "info-cards",
+  "alt": "Our diagram: Easter eggs found so far. Egg 1: Open box 1. Egg 2: Open box 2. Egg 3: Open box 3. Egg 4: Open box 4. Egg 5: Open box 5. Not a game screenshot.",
+  "data": {
+    "category": "collectibles",
+    "title": "Easter eggs found so far",
+    "cols": 5,
+    "card_height": 200,
+    "cards": [
+      {
+        "title": "Egg 1",
+        "body": "Open box 1.",
+        "status": "none"
+      },
+      {
+        "title": "Egg 2",
+        "body": "Open box 2.",
+        "status": "none"
+      },
+      {
+        "title": "Egg 3",
+        "body": "Open box 3.",
+        "status": "none"
+      },
+      {
+        "title": "Egg 4",
+        "body": "Open box 4.",
+        "status": "none"
+      },
+      {
+        "title": "Egg 5",
+        "body": "Open box 5.",
+        "status": "none"
+      }
+    ],
+    "note": "No spots and no spoilers here. Details are in the closed boxes below. Our drawing.",
+    "banner": "Our diagram, not a game screenshot"
+  }
+}

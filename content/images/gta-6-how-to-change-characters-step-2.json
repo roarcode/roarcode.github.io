@@ -1,0 +1,21 @@
+{
+  "type": "menu-mock",
+  "alt": "Our diagram: Swap menu. Jason: Available. Lucia: Busy or unavailable. Not a game screenshot.",
+  "data": {
+    "category": "beginner",
+    "title": "Swap menu",
+    "panel_title": "Switch character",
+    "rows": [
+      {
+        "label": "Jason",
+        "value": "Available",
+        "highlight": true
+      },
+      {
+        "label": "Lucia",
+        "value": "Busy or unavailable"
+      }
+    ],
+    "note": "One name can be greyed out. Our illustration."
+  }
+}

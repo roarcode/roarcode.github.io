@@ -44,7 +44,7 @@ GameSpot says most fences buy all three but pay different prices depending on wh
 
 Game8 says robberies reward you heavily with loot you can sell for high money at drop-offs, and that robberies also give you valuables such as unique weapons that come already upgraded.
 
-![three loot icons: bag of drugs, necklace, banded cash](TODO: image:gta-6-fences-stash-bags-step-1 — diagram, our own art: three icons Narcotics, Jewelry, Marked bills each pointing to a Fence box)
+![Our diagram: Loot a fence takes. Narcotics: Bags of drugs. Jewelry: Necklaces and rings. Marked bills: Banded cash. Not a game screenshot.](TODO: image:gta-6-fences-stash-bags-step-1 — diagram, our own art: Loot a fence takes, see the spec)
 *Caption: Diagram. The three kinds of loot you sell to a fence, drawn by us.*
 
 ## How to sell loot
@@ -65,7 +65,7 @@ GameSpot gives two examples. **Yasmani** in Little Cuba pays a high price for je
 - GameSpot says you should expect to fill a bag or two per robbery, unless you only rob small convenience stores.
 - If you rob as a pair, you can **pass a bag**: press **right on the D-pad**, then **Circle** (PS5) or **B** (Xbox) (GameSpot).
 
-![D-pad right then Circle or B to pass a bag](TODO: image:gta-6-fences-stash-bags-step-2 — diagram, our own art: a controller with D-pad right and Circle / B highlighted and an arrow from one character to the other)
+![Our diagram: Pass a bag to your partner. D-pad right, then Circle / B. Not a game screenshot.](TODO: image:gta-6-fences-stash-bags-step-2 — diagram, our own art: Pass a bag to your partner, see the spec)
 *Caption: Diagram. Pass a stash bag: D-pad right, then Circle or B.*
 
 ## Do not lose your loot
@@ -80,7 +80,7 @@ GameSpot's robbery guide says the same about splitting up, and adds that the pol
 
 VGC says that if you die or get arrested, you lose the cash you are carrying. Early on, VGC says there is a spot in Jason's bedroom, under some loose floorboards, where you can stash cash until you get a bank account. VGC says to use it as often as you can.
 
-![cash in pocket versus cash in a stash with a skull icon](TODO: image:gta-6-fences-stash-bags-step-3 — diagram, our own art: two boxes Cash in pocket (lost if you die) and Cash in the floorboard stash (kept), with a skull icon on the first)
+![Our diagram: Where your cash is safe. Cash in your pocket / You lose it. Cash in the floorboard stash / You keep it. Not a game screenshot.](TODO: image:gta-6-fences-stash-bags-step-3 — diagram, our own art: Where your cash is safe, see the spec)
 *Caption: Diagram. Cash on you is lost if you die (VGC). Stashed cash is not.*
 
 ## FAQ

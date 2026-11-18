@@ -1,0 +1,24 @@
+{
+  "type": "info-cards",
+  "alt": "Our diagram: Possible extra egg. A boat at a dock: Mentioned by one outlet. Not confirmed: Needs a second source. Not a game screenshot.",
+  "data": {
+    "category": "collectibles",
+    "title": "Possible extra egg",
+    "cols": 2,
+    "card_height": 220,
+    "cards": [
+      {
+        "title": "A boat at a dock",
+        "body": "Mentioned by one outlet.",
+        "status": "none"
+      },
+      {
+        "title": "Not confirmed",
+        "body": "Needs a second source.",
+        "status": "none"
+      }
+    ],
+    "note": "Our drawing. We will update if it is confirmed.",
+    "banner": "Our diagram, not a game screenshot"
+  }
+}

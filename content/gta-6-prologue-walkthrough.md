@@ -41,7 +41,7 @@ VGC says its walkthroughs try to avoid cutscene spoilers and only describe what 
 | Where it comes in | First in the list of 91 story missions | PC Gamer |
 | Does it have choices? | VGC says the middle part can play out in different ways | VGC |
 
-![controller with L2, Square, Triangle and X labelled](TODO: image:gta-6-prologue-walkthrough-step-1 — diagram, our own art: a PS5 controller with L2 Talk or Aim, Square Threaten or Fight, Triangle Pick up, X Jump, with no game screenshots)
+![Our diagram: Buttons you will use. L2: talk or aim · Square: threaten or fight · Triangle: pick up · X: jump. Not a game screenshot.](TODO: image:gta-6-prologue-walkthrough-step-1 — diagram, our own art: Buttons you will use, see the spec)
 *Caption: Diagram. The PS5 buttons VGC names for the Prologue.*
 
 PS5 buttons are named by VGC. Xbox buttons are **not stated** in the sources we checked.
@@ -70,8 +70,8 @@ VGC says this part can go several ways. If the cops catch you, the mission ends 
 VGC says that in the second part you head to the map marker. At some point dye packs explode and cover Lucia in dye. After that she is arrested, and the playable part of the mission ends.
 :::
 
-![two paths: caught early or escape then go back](TODO: image:gta-6-prologue-walkthrough-step-2 — diagram, our own art: a fork with two arrows Caught by the cops and Got away, both ending at a box Mission ends, no game screenshots)
-*Caption: Diagram. VGC says you can end the chase early or run for the second part.*
+![Our diagram: Two ways it can go. Way 1: See the first box below. Way 2: See the second box below. Not a game screenshot.](TODO: image:gta-6-prologue-walkthrough-step-2 — diagram, our own art: Two ways it can go, see the spec)
+*Caption: Diagram. Two ways it can go. The details are in the closed boxes on this page. Drawn by us.*
 
 ## Tips
 
@@ -79,7 +79,7 @@ VGC says that in the second part you head to the map marker. At some point dye p
 - KeenGamer says manual saving is switched off for the whole prologue. Read [Can you replay missions in GTA 6?](/beginner-tips/gta-6-replay-missions/) for what that means for you.
 - The next mission is Gone Fishing, the first as Jason (VGC).
 
-![arrow from Prologue to Gone Fishing](TODO: image:gta-6-prologue-walkthrough-step-3 — diagram, our own art: a simple arrow from a box Prologue to a box Gone Fishing, labelled Next mission)
+![Our diagram: What comes next. Prologue: You are here. Gone Fishing: Next mission. Not a game screenshot.](TODO: image:gta-6-prologue-walkthrough-step-3 — diagram, our own art: What comes next, see the spec)
 *Caption: Diagram. Gone Fishing follows the Prologue.*
 
 ## FAQ

@@ -1,0 +1,24 @@
+{
+  "type": "info-cards",
+  "alt": "Our diagram: Stunt jump entry. Dirt mound: Drive at it. Fence: Jump over it. Not a game screenshot.",
+  "data": {
+    "category": "vehicles",
+    "title": "Stunt jump entry",
+    "cols": 2,
+    "card_height": 220,
+    "cards": [
+      {
+        "title": "Dirt mound",
+        "body": "Drive at it.",
+        "status": "none"
+      },
+      {
+        "title": "Fence",
+        "body": "Jump over it.",
+        "status": "none"
+      }
+    ],
+    "note": "Our drawing, not a game screenshot. Sources are on the page.",
+    "banner": "Our diagram, not a game screenshot"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "bar-chart",
+  "alt": "Our diagram: Checklist lines by group. Story and tasks: 12 lines. Exploration and activities: 20 lines. Discovery: 3 lines. Not a game screenshot.",
+  "data": {
+    "category": "collectibles",
+    "title": "Checklist lines by group",
+    "bars": [
+      {
+        "label": "Story and tasks",
+        "value": 12,
+        "display": "12 lines"
+      },
+      {
+        "label": "Exploration and activities",
+        "value": 20,
+        "display": "20 lines"
+      },
+      {
+        "label": "Discovery",
+        "value": 3,
+        "display": "3 lines"
+      }
+    ],
+    "max": 35,
+    "note": "Counts from the page. Our chart.",
+    "banner": "Our diagram, not a game screenshot"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "type": "info-cards",
+  "alt": "Our diagram: Worth it, or not. Mods: Worth it. Garage: Worth it. Savings: Worth it. One car you love: Register one. Lots of clothes: Skip. Lots of guns: Skip. Not a game screenshot.",
+  "data": {
+    "category": "money",
+    "title": "Worth it, or not",
+    "cols": 3,
+    "card_height": 190,
+    "cards": [
+      {
+        "title": "Mods",
+        "body": "Worth it.",
+        "status": "ok"
+      },
+      {
+        "title": "Garage",
+        "body": "Worth it.",
+        "status": "ok"
+      },
+      {
+        "title": "Savings",
+        "body": "Worth it.",
+        "status": "ok"
+      },
+      {
+        "title": "One car you love",
+        "body": "Register one.",
+        "status": "ok"
+      },
+      {
+        "title": "Lots of clothes",
+        "body": "Skip.",
+        "status": "no"
+      },
+      {
+        "title": "Lots of guns",
+        "body": "Skip.",
+        "status": "no"
+      }
+    ],
+    "note": "Our drawing. The sources are on the page.",
+    "banner": "Our diagram, not a game screenshot"
+  }
+}

@@ -37,10 +37,10 @@ draft: true
 5. Pick a slot. Choose an empty one, or one you are happy to overwrite.
 6. Confirm, then wait until the save finishes before you quit.
 
-![PS5 Options and Xbox Menu buttons](TODO: image:gta-6-how-to-save-step-1 — diagram, our own art: a controller with the Options button (PS5) and Menu button (Xbox) highlighted)
+![Our diagram: Open the pause menu. Press Options (PS5) or Menu (Xbox), then choose Game. Not a game screenshot.](TODO: image:gta-6-how-to-save-step-1 — diagram, our own art: Open the pause menu, see the spec)
 *Caption: Diagram. Options on PS5 and Menu on Xbox open the pause menu.*
 
-![pause menu path Game then Save then slot](TODO: image:gta-6-how-to-save-step-2 — menu screen, our own illustration: a menu with Game highlighted, then Save, then a list of slots)
+![Our diagram: Pause menu: Game > Save > slot. Game: Open this first. Save: Then choose Save. Slot: Pick a slot. Not a game screenshot.](TODO: image:gta-6-how-to-save-step-2 — diagram, our own art: Pause menu: Game > Save > slot, see the spec)
 *Caption: Menu screen. Game, Save, then a slot, drawn by us.*
 
 KeenGamer says you can do this anywhere in free roam. You do not have to drive home first.
@@ -72,7 +72,7 @@ KeenGamer suggests these save points:
 
 There is no mission replay in GTA 6. Read [Can you replay missions in GTA 6?](/beginner-tips/gta-6-replay-missions/) for what that means.
 
-![row of slots labelled start of chapter, end of chapter, before a choice](TODO: image:gta-6-how-to-save-step-3 — diagram, our own art: 15 slot boxes, some labelled Chapter start, Chapter end, Before a choice, Free roam, plus one separate Autosave box)
+![Our diagram: Spread your 15 save slots. Try: chapter start, chapter end, before a choice, free roam (16 boxes). Not a game screenshot.](TODO: image:gta-6-how-to-save-step-3 — diagram, our own art: Spread your 15 save slots, see the spec)
 *Caption: Diagram. One way to spread your 15 slots, based on KeenGamer's advice.*
 
 ## Saving not working? Check these

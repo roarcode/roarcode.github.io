@@ -1,0 +1,24 @@
+{
+  "type": "info-cards",
+  "alt": "Our diagram: Six stars: save first. No escape: The sources say you cannot lose six stars. Save first: Make a manual save before you try. Not a game screenshot.",
+  "data": {
+    "category": "beginner",
+    "title": "Six stars: save first",
+    "cols": 2,
+    "card_height": 230,
+    "cards": [
+      {
+        "title": "No escape",
+        "body": "The sources say you cannot lose six stars.",
+        "status": "no"
+      },
+      {
+        "title": "Save first",
+        "body": "Make a manual save before you try.",
+        "status": "ok"
+      }
+    ],
+    "note": "Our drawing, not a game screenshot. Sources are on the page.",
+    "banner": "Our diagram, not a game screenshot"
+  }
+}
