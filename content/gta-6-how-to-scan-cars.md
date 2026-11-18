@@ -16,9 +16,8 @@ sources:
 updated: 2026-11-18
 status: live
 publish: true
-draft: true
 spoilers: minor
-qa: pending
+qa: passed
 ---
 
 # GTA 6 How to Scan Cars: WAiNK App in 3 Steps (PS5, Xbox)
@@ -63,7 +62,7 @@ PowerPyx's tip: cheap cars usually have no tracker. Mid-price cars often have a 
 
 ## Scanning for 100% completion
 
-- PowerPyx says the 100% checklist needs **200 of the 277** base model cars to be scanned.
+- PowerPyx says the 100% checklist needs **200 of the 277** base model vehicles (cars, bikes, boats and aircraft) to be scanned.
 - **Boats and aircraft** count too (PowerPyx).
 - Different places have different cars. PowerPyx says slow pickup trucks show up more in the countryside, and supercars more in Vice City.
 - Start early. You will get most of them just by playing.
@@ -97,7 +96,7 @@ A phone app that scans cars. It shows the tool you need, the car's value and the
 No. PowerPyx says scanning is enough.
 
 ### How many cars do I need to scan for 100%?
-PowerPyx says 200 of the 277 base model cars.
+PowerPyx says 200 of the 277 base model vehicles (cars, bikes, boats and aircraft).
 
 ### Where can I see the cars I scanned?
 In the game menu under Progress > Vehicles.

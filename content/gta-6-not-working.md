@@ -25,7 +25,7 @@ updated: 2026-11-18
 status: stub
 publish: true
 spoilers: none
-qa: live-review
+qa: passed
 ---
 
 # GTA 6 Not Working? Servers Down Check and 7 Fixes
@@ -45,9 +45,9 @@ qa: live-review
 
 > **Status check, 18 Nov 2026 at 13:50 CET:** the [Xbox status page](https://support.xbox.com/en-US/xbox-live-status) showed no problems. PlayStation's US status page showed no alerts, and its Europe page showed only an older Russia-only alert from 11 Nov. The Rockstar status page did not load for us, so check it yourself. Insider Gaming wrote on 18 Nov that GTA 6 had no performance or network problems at the time it wrote. Rockstar has not posted any GTA VI "known issues" list or fix yet ([Insider Gaming](https://insider-gaming.com/is-grand-theft-auto-6-down-gta-6-issues-explained/)).
 
-> **Reports / unconfirmed (18 Nov):** Sportskeeda reports that some players get **stuck on the first loading screen** or see a **network error before the main menu**. It thinks heavy launch traffic is the cause. Rockstar has **not** confirmed an outage or posted a fix. Source: https://tech.sportskeeda.com/gaming-news/is-gta-6-right-now-november-2026-server-status-explained
+> **Reports / unconfirmed (18 Nov):** Sportskeeda reports that some players get **stuck on the first loading screen** or see a **network error before the main menu**. It thinks heavy launch traffic is the cause. Rockstar has **not** confirmed an outage or posted a fix. Source: [Sportskeeda](https://tech.sportskeeda.com/gaming-news/is-gta-6-right-now-november-2026-server-status-explained)
 
-> **Reports / unconfirmed (18 Nov, 13:40 CET):** more players on X say they get a **"network error"** when they start the game. A GTA fan page on X says a streamer who used the **New Zealand trick** got a network error while the game was **syncing**, live on stream. We do not know if the trick caused it. Rockstar has not said why. Sources: https://x.com/screechys11/status/2123030635963187431 and https://x.com/Vicecitydailyvi/status/2123030813016985996. Used the New Zealand trick? Read the risks in [GTA 6 New Zealand trick: does it work? real risks](/launch-hub/gta-6-new-zealand-trick/).
+> **Reports / unconfirmed (18 Nov, 13:40 CET):** a player on X says they get a **"network error"** when they start the game. A GTA fan page on X says a streamer who used the **New Zealand trick** got a network error while the game was **syncing**, live on stream. We do not know if the trick caused it. Rockstar has not said why. Sources: [@screechys11 on X](https://x.com/screechys11/status/2123030635963187431), [@Vicecitydailyvi on X](https://x.com/Vicecitydailyvi/status/2123030813016985996). Used the New Zealand trick? Read the risks in [GTA 6 New Zealand trick: does it work? real risks](/launch-hub/gta-6-new-zealand-trick/).
 
 **Stuck on the loading screen or a network error?** Until Rockstar posts a fix, do this:
 1. Check the three status pages in Step 1.

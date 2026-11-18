@@ -14,7 +14,7 @@ updated: 2026-11-18
 status: live
 spoilers: none
 featured: true
-qa: live-review
+qa: passed
 ---
 
 # GTA 6 Launch Hub: Release Time, Fixes and Guides (Live)
@@ -37,6 +37,7 @@ qa: live-review
 - [GTA 6 performance mode: is there 60 FPS on PS5 Pro?](/launch-hub/gta-6-performance-mode/)
 - [How to avoid GTA 6 spoilers: mute words on X](/beginner-tips/gta-6-avoid-spoilers/)
 - [GTA 6 cheats: how to enter them on PS5 and Xbox](/launch-hub/gta-6-cheats/)
+- [GTA 6 review scores: Metacritic 99 and more (spoiler-free)](/launch-hub/gta-6-review-score-roundup/)
 
 ## Something is not working
 
@@ -58,6 +59,7 @@ qa: live-review
 - [GTA 6 on PS5 and PS5 Pro: what is confirmed](/launch-hub/ps5-settings/)
 - [GTA 6 Online: is there multiplayer at launch?](/launch-hub/gta-6-online/)
 - [GTA 6 beginner tips](/launch-hub/beginner-tips/)
+- [Can you replay missions in GTA 6? No, save first](/beginner-tips/gta-6-replay-missions/)
 
 ## The world and the people
 

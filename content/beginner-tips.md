@@ -67,7 +67,7 @@ qa: passed
 
 1. **To lose the police, break line of sight.** Get out of view, then stay out of view until the stars fade. (Worked in earlier GTA games.)
 2. **Keep a fast car close** before you start a risky job. (Earlier GTA games.)
-3. **Save to a new slot before a hard mission.** This is now reported for GTA 6 too: there is no mission replay, so an old save is the only way back (IGN, GameSpot, 18 Nov). During a mission, the pause menu offers **retry, quit or restart** (GameSpot). The save button is **not announced** on official pages.
+3. **Save to a new slot before a hard mission.** This is now reported for GTA 6 too: there is no mission replay, so an old save is the only way back (IGN, GameSpot, 18 Nov). During a mission, the pause menu offers **retry, quit or restart** (GameSpot). The save button is **not announced** on official pages. More: [Can you replay missions in GTA 6?](/beginner-tips/gta-6-replay-missions/)
 4. **Check the pause menu and map before you spend money.** Earlier games hid shops and settings there.
 
 ![map pin set with a fast car near a mission marker](TODO: image:beginner-tips-step-3 — map pin, our own art: a mission marker with a car pin beside it)

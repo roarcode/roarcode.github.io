@@ -28,7 +28,7 @@ updated: 2026-11-18
 status: prelaunch
 publish: true
 spoilers: none
-qa: live-review
+qa: passed
 ---
 
 # GTA 6 Performance Mode: Is There 60 FPS on PS5 Pro?
@@ -63,7 +63,7 @@ qa: live-review
 - That analysis was made on footage from the base PS5. It was not made from a finished game.
 - On 17 Nov, Dexerto reported Digital Foundry's Richard Leadbetter saying a 40 FPS mode would still need a "huge amount of optimization or cutbacks" to reach 25 ms per frame, and that "30 FPS makes sense". ([Dexerto, 17 Nov 2026](https://www.dexerto.com/gta/gta-6-running-at-30-fps-makes-sense-experts-say-after-rockstars-confirmation-3428936/))
 
-> **Rumour / unconfirmed:** Digital Foundry wrote that, "according to reports from those speaking to Rockstar", higher frame-rate modes "will be considered for post-launch updates". Rockstar has not said this itself. Source: https://www.digitalfoundry.net/features/gta-6-an-extended-look-analysis-perhaps-the-most-impressive-showcase-weve-ever-seen-in-real-time-rendering
+> **Rumour / unconfirmed:** Digital Foundry wrote that, "according to reports from those speaking to Rockstar", higher frame-rate modes "will be considered for post-launch updates". Rockstar has not said this itself. Source: [Digital Foundry](https://www.digitalfoundry.net/features/gta-6-an-extended-look-analysis-perhaps-the-most-impressive-showcase-weve-ever-seen-in-real-time-rendering)
 
 **Update 18 Nov:** Kotaku now reports that Rockstar ruled out a 60 or 40 FPS mode on current consoles, PS5 Pro included (see above). So do not wait for one on PS5 or Xbox Series X|S.
 
@@ -122,7 +122,7 @@ PS5: Settings > Screen and Video > Video Output. Look for the options your TV su
 
 Some posts say a free tool can turn a 30 FPS console picture into 60 or 120 FPS on a gaming PC. Pirat_Nation described an open-source app that uses AI frame generation.
 
-> **Rumour / unconfirmed:** a free tool can make GTA VI look like 60 FPS by streaming your PS5 to a PC. We have not tested it. It needs extra hardware, may add input delay and may break platform rules. We do not link or host it. Source: https://x.com/Pirat_Nation/status/2122630827355840566
+> **Rumour / unconfirmed:** a free tool can make GTA VI look like 60 FPS by streaming your PS5 to a PC. We have not tested it. It needs extra hardware, may add input delay and may break platform rules. We do not link or host it. Source: [@Pirat_Nation on X](https://x.com/Pirat_Nation/status/2122630827355840566)
 
 ![Diagram showing a console streaming to a PC with a warning sign](TODO: image:gta-6-performance-mode-step-3 — diagram, our own art: console to PC arrow with a warning triangle and the words Unofficial tool, not tested)
 *Caption: Diagram. Unofficial tools add extra hardware and risk.*

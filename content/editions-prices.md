@@ -38,7 +38,7 @@ sources:
 updated: 2026-11-18
 status: prelaunch
 spoilers: none
-qa: live-review
+qa: passed
 ---
 
 # GTA 6 Editions and Prices: Standard vs Ultimate (2026)
@@ -99,7 +99,7 @@ Rockstar says before 20 Nov. The Xbox Store says before 19 Nov 23:59:59 and Play
 
 **What GTA+ adds in story mode (reported 18 Nov)**
 
-> **Rumour / unconfirmed:** RockstarINTEL and WION report that GTA+ members get story-mode perks in GTA VI: a specially tuned car with its own single-car garage, free public transport and free scooter, bike and Seashark (jet ski) rentals, **10% off** at some shops, and **10% more** money when you sell eligible cars. Both say the car and garage open from **Chapter 3**, and the perks last **only while you pay** for GTA+. WION says you can switch the bonuses off in the game's settings. We could not open Rockstar Support's GTA+ page to check. Sources: https://rockstarintel.com/all-gta-vi-rewards-for-gta-members/ and https://www.wionews.com/technology/pre-ordered-gta-6-rockstar-is-giving-players-free-gta-and-these-extra-rewards-1795001164007
+> **Rumour / unconfirmed:** RockstarINTEL and WION report that GTA+ members get story-mode perks in GTA VI: a specially tuned car with its own single-car garage, free public transport and free scooter, bike and Seashark (jet ski) rentals, **10% off** at some shops, and **10% more** money when you sell eligible cars. Both say the car and garage open from **Chapter 3**, and the perks last **only while you pay** for GTA+. WION says you can switch the bonuses off in the game's settings. We could not open Rockstar Support's GTA+ page to check. Sources: [RockstarINTEL](https://rockstarintel.com/all-gta-vi-rewards-for-gta-members/), [WION](https://www.wionews.com/technology/pre-ordered-gta-6-rockstar-is-giving-players-free-gta-and-these-extra-rewards-1795001164007)
 
 ![PS5 Store page for GTA VI with edition choices](TODO: image:editions-prices-step-2 — step screenshot, PS5: PlayStation Store GTA VI page showing Standard and Ultimate)
 *Caption: Step screenshot. Choose your edition on the PlayStation Store.*

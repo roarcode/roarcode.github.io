@@ -40,7 +40,7 @@ Rockstar posted that you can watch the Heat "trade Miami for Vice City" on ESPN 
 | Arena | Kaseya Center, Miami | NBA.com, ESPN |
 | Doors open | 5:00 PM ET (23:00 CET) | NBA.com |
 | TV | ESPN (US) | Rockstar, ESPN Press Room |
-| More info | [Heat Vice City page on NBA.com](https://www.nba.com/heat/ViceCity) | Rockstar YouTube (HEAT.com/ViceCity leads here) |
+| More info | [Heat Vice City page on NBA.com](https://www.nba.com/heat/ViceCity) | Rockstar YouTube (the HEAT.com Vice City link leads here) |
 
 ![two clocks: 7 PM in Miami and 1 AM in Slovenia](TODO: image:gta-6-night-in-vice-city-step-1 — diagram, our own art: two clocks side by side, 7:00 PM Wed in Miami and 01:00 Thu in Slovenia)
 *Caption: Diagram. Tip-off in Miami is 1 AM the next day in Slovenia.*

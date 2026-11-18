@@ -15,15 +15,14 @@ sources:
 updated: 2026-11-18
 status: live
 publish: true
-draft: true
 spoilers: none
-qa: pending
+qa: passed
 ---
 
 # Does GTA 6 Have First-Person Mode? Not Fully: 3 Ways
 
 > - **Quick answer:** **No full first-person mode.** GTA 6 does not have the GTA 5 mode where you play the whole game through your character's eyes (VGC, PowerPyx, Insider Gaming).
-> - **What works:** a first-person look while **standing still**, while **aiming** some weapons, and while **driving with your phone out** (VGC, PowerPyx).
+> - **What works:** a first-person look while **standing still**, while **aiming** some weapons, and while **driving with your phone out** (PowerPyx; VGC says some vehicles switch to first-person).
 > - **Watch out:** as soon as you walk, the standing first-person view switches off (VGC, PowerPyx).
 
 **Words used on this page.** *First-person* means you see through your character's eyes. *Third-person* means the camera is behind your character, so you see them. *L2 / LT* is the left trigger. *R3* means pressing the right stick down like a button (on Xbox you press the right stick too). *L3* means pressing the left stick down. *Focus* is a meter in GTA 6 that a special mode uses up.

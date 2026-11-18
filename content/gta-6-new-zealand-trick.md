@@ -26,6 +26,10 @@ sources:
   - https://www.windowscentral.com/gaming/xbox/grand-theft-auto-6-launch-new-zealand-changing-region
   - https://www.playstation.com/en-us/legal/psn-terms-of-service.html/
   - https://www.playstation.com/en-us/support/account/check-account-country-region/
+  - https://sports.ndtv.com/us/us-streamers/n3on-gets-trolled-after-temporary-gta-6-ban-becomes-one-of-the-first-to-see-wasted-screen-12344459
+  - https://cybersport.metaratings.ru/news/strimera-n3on-zabanili-v-pryamom-efire-za-popytku-zapustit-gta-6-cherez-akkaunt-novoi-zelandii-672373/
+  - https://tech4gamers.com/playstation-banning-users-gta-6/
+  - https://www.oyungunlugu.com/en/news/gta-6-new-zealand-trick-sparks-psn-ban-claims
 updated: 2026-11-18
 status: prelaunch
 spoilers: none
@@ -111,9 +115,11 @@ You can set it back to your real country.
 
 ## Suspension reports (not confirmed)
 
-> **Rumour / unconfirmed:** a post in Arabic by @MrMrKlNG says players who made New Zealand accounts to play about 13 hours early started to get account suspensions under PlayStation Network terms, with possible loss of access and digital purchases. Sony has not confirmed this. @soflysojoe repeats the claim in English. Source: https://x.com/MrMrKlNG/status/2122654842506432595
+> **Rumour / unconfirmed:** a post in Arabic by @MrMrKlNG says players who made New Zealand accounts to play about 13 hours early started to get account suspensions under PlayStation Network terms, with possible loss of access and digital purchases. Sony has not confirmed this. @soflysojoe repeats the claim in English. Source: [@MrMrKlNG on X](https://x.com/MrMrKlNG/status/2122654842506432595)
 
-> **Rumour / unconfirmed:** on 18 Nov, after the New Zealand unlock, more posts on X claimed that a well-known streamer was banned while using the trick. No company has confirmed any ban. Source: https://x.com/novaraszn/status/2123010204308779138
+> **Reported by news sites, not confirmed by Microsoft or Rockstar (18 Nov):** NDTV reports that the streamer **N3ON** got a **"temporary network problem"** message and then a **temporary ban** while using the New Zealand method live on 18 Nov. Cybersport.ru (Metaratings) says it happened on **Xbox**. Neither says who issued the ban or for how long. Microsoft has not commented. Sources: [NDTV](https://sports.ndtv.com/us/us-streamers/n3on-gets-trolled-after-temporary-gta-6-ban-becomes-one-of-the-first-to-see-wasted-screen-12344459), [Cybersport.ru](https://cybersport.metaratings.ru/news/strimera-n3on-zabanili-v-pryamom-efire-za-popytku-zapustit-gta-6-cherez-akkaunt-novoi-zelandii-672373/), first seen in [a post on X](https://x.com/novaraszn/status/2123010204308779138).
+
+> **Rumour / unconfirmed (PlayStation):** Tech4Gamers and Oyun Günlüğü relay claims that some PSN accounts made in New Zealand were suspended with error code **WS-116331-5**. Both say Sony has not confirmed it, and the suspensions may be linked to suspicious payment methods, not the trick. Sources: [Tech4Gamers](https://tech4gamers.com/playstation-banning-users-gta-6/), [Oyun Günlüğü](https://www.oyungunlugu.com/en/news/gta-6-new-zealand-trick-sparks-psn-ban-claims).
 
 IGN also reports that New Zealand's official tourism board welcomed gamers using the trick. That does not mean Sony or Microsoft allow it.
 
@@ -137,7 +143,7 @@ IGN also reports that New Zealand's official tourism board welcomed gamers using
 Some Xbox players say it worked for them. No company has confirmed it. On PS5 it needs a separate New Zealand account (Polygon).
 
 ### Can I get banned for the New Zealand trick?
-No company has said so. But an analyst told the BBC it may break PlayStation or Xbox rules. That can lead to account limits or losing digital games.
+It can happen. No company has confirmed a ban for this trick. But news sites report that one streamer got a temporary ban on Xbox while trying it on 18 Nov, and Xbox's rules prohibit getting around region limits (RNZ). An analyst told the BBC it may break PlayStation or Xbox rules. That can lead to account limits or losing digital games.
 
 ### What time does GTA 6 unlock in New Zealand?
 00:00 NZDT on Thu 19 Nov 2026. That is 12:00 CET on Wed 18 Nov.
@@ -149,6 +155,7 @@ No company has said so. But an analyst told the BBC it may break PlayStation or 
 
 | Date | What changed |
 |---|---|
+| 2026-11-18 15:15 CET | Ban reports: news coverage of a streamer's temporary Xbox ban and PSN suspension claims (WS-116331-5), all unconfirmed by the companies. FAQ updated. |
 | 2026-11-18 13:00 CET | QA advisories: fixed Xbox source dates, cut an unsourced Xbox claim and removed a how-to post. Added one unconfirmed ban claim from X. |
 | 2026-11-18 | Page created and rewritten at 12:28 CET. |
 
