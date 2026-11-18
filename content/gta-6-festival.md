@@ -19,7 +19,7 @@ sources:
 updated: 2026-11-18
 status: prelaunch
 spoilers: none
-qa: live-review
+qa: passed
 ---
 
 # GTA 6 Festival Miami: Date, Lineup, Tickets (2026)
