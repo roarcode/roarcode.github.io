@@ -14,7 +14,7 @@ updated: 2026-11-18
 status: live
 spoilers: none
 featured: true
-qa: passed
+qa: live-review
 ---
 
 # GTA 6 Launch Hub: Release Time, Fixes and Guides (Live)
@@ -80,6 +80,39 @@ qa: passed
 - [GTA 6 A Night in Vice City: Heat game time in CET](/launch-hub/gta-6-night-in-vice-city/)
 - [GTA 6 Festival Miami: date, lineup, tickets](/launch-hub/gta-6-festival/)
 
+## In-game guides: play GTA 6 better
+
+- [How Long Is GTA 6? Story and 100% Time (2026)](/beginner-tips/gta-6-how-long-to-beat/)
+- [How to Save in GTA 6: Manual Save, Autosave, Slots](/beginner-tips/gta-6-how-to-save/)
+- [How to Heal in GTA 6: Every Way to Get Health Back](/beginner-tips/gta-6-how-to-heal/)
+- [GTA 6 Fast Travel: How It Works (RydeMe, Trains, Swap)](/beginner-tips/gta-6-fast-travel/)
+- [GTA 6 Health, Stamina and Focus: How to Level Them Up](/beginner-tips/gta-6-health-stamina-focus/)
+- [How to Lose the Cops in GTA 6: 6 Clues to Hide](/beginner-tips/gta-6-how-to-lose-the-cops/)
+- [GTA 6 Six-Star Wanted Level: How to Get It (and Survive)](/beginner-tips/gta-6-six-star-wanted-level/)
+- [GTA 6 Robberies: Safe Codes, Alarms and Clean Getaways](/money/gta-6-robberies-guide/)
+- [GTA 6 Fences and Stash Bags: How to Sell Loot Safely](/money/gta-6-fences-stash-bags/)
+- [Can You Play GTA 6 Without Killing Anyone? How It Works](/beginner-tips/gta-6-non-lethal-playthrough/)
+- [GTA 6 Best Things to Spend Money On (and What to Skip)](/money/gta-6-what-to-spend-money-on/)
+- [GTA 6 Enterable Buildings: Dark Blue Means Enter](/beginner-tips/gta-6-enterable-buildings/)
+- [How to Switch Between Jason and Lucia in GTA 6](/beginner-tips/gta-6-how-to-change-characters/)
+- [How to Steal Cars in GTA 6: Slim Jim, Key Cloner, Trackers](/cars/gta-6-how-to-steal-cars/)
+- [How to Fish in GTA 6: Buttons, Lures and Reeling](/beginner-tips/gta-6-how-to-fish/)
+- [GTA 6 Gone Fishing Walkthrough: First Jason Mission](/missions/gta-6-first-mission/)
+- [GTA 6 Military Base: Where Is Mile Zero Air Station?](/cars/gta-6-military-base-mile-zero/)
+- [GTA 6 Difficulty Settings: Is There Easy Mode? (No, But...)](/beginner-tips/gta-6-difficulty-settings/)
+- [GTA 6 How to Study Animals: Binoculars and the Logbook](/collectibles/gta-6-how-to-study-animals/)
+
+## Spoiler guides (each hides details in boxes)
+
+- [GTA 6 Bigfoot Location: Where to Find Him (Spoiler-Light)](/collectibles/gta-6-bigfoot-location/)
+- [GTA 6 Collectible Cards: 480 Cards, 18 Sets, 15 to Finish](/collectibles/gta-6-collectible-cards/)
+- [GTA 6 Easter Eggs: 5 Secrets Found So Far (Spoilers)](/collectibles/gta-6-easter-eggs/)
+- [GTA 6 Dexter's Apartment Location: Washington Island](/collectibles/gta-6-dexter-apartment-location/)
+- [GTA 6 100% Completion Checklist: 35 Tasks (Spoilers)](/collectibles/gta-6-100-percent-checklist/)
+- [GTA 6 Prologue Walkthrough: Buttons and Tips (Spoilers)](/missions/gta-6-prologue-walkthrough/)
+- [GTA 6 Mission List: All 91 Missions by Chapter (Spoilers)](/missions/gta-6-mission-list/)
+- [GTA 6 Snap Gun: How to Get It and How to Use It](/beginner-tips/gta-6-snap-gun/)
+
 ![launch hub diagram: five groups of pages](TODO: image:gta-6-launch-hub-step-1 — diagram, our own art: five boxes named Right now, Not working, Buy and know, World and people, Launch events)
 *Caption: Diagram. The five groups on this page.*
 
@@ -88,7 +121,6 @@ qa: passed
 We add these only after the facts are confirmed. We do not guess.
 
 - GTA 6 error codes: what each one means
-- GTA 6 first mission walkthrough
 - GTA 6 best car early
 
 ![timeline of unlock times from New Zealand to the US East Coast](TODO: image:gta-6-launch-hub-step-2 — diagram, our own art: a timeline with New Zealand 12:00 CET, central Europe 00:00 CET and US East 06:00 CET)
