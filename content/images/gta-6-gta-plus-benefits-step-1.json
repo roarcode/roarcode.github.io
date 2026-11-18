@@ -1,0 +1,17 @@
+{
+  "type": "info-cards",
+  "alt": "Four boxes: a car and garage, travel perks, 10% off in shops, and 10% more cash when selling eligible cars. The four GTA+ perks in GTA 6 story mode.",
+  "data": {
+    "category": "beginner",
+    "title": "The 4 GTA+ perks",
+    "cols": 2,
+    "card_height": 200,
+    "cards": [
+      { "title": "Car and garage", "body": "One car plus a one-car garage.", "status": "check" },
+      { "title": "Getting around", "body": "Free rentals and free public transport.", "status": "check" },
+      { "title": "10% off shops", "body": "Weapons, clothes, hair, tattoos, car mods.", "status": "check" },
+      { "title": "+10% car sales", "body": "More cash for eligible cars you sell.", "status": "check" }
+    ],
+    "note": "Only while you pay for GTA+ (GameSpot, Polygon). Our diagram, not a game screenshot."
+  }
+}

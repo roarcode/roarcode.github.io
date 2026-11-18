@@ -21,11 +21,13 @@ sources:
   - https://tech.sportskeeda.com/gaming-news/is-gta-6-right-now-november-2026-server-status-explained
   - https://x.com/screechys11/status/2123030635963187431
   - https://x.com/Vicecitydailyvi/status/2123030813016985996
+  - https://www.numerama.com/pop-culture/2378315-timing-terrible-le-playstation-network-flanche-a-quelques-heures-de-la-sortie-de-gta-6.html
+  - https://www.haberler.com/haber/playstation-network-coktu-mu-playstation-psn-20440366-haberi/
 updated: 2026-11-18
 status: stub
 publish: true
 spoilers: none
-qa: passed
+qa: live-review
 ---
 
 # GTA 6 Not Working? Servers Down Check and 7 Fixes
@@ -44,6 +46,14 @@ qa: passed
 4. If any page shows a problem, stop. Nothing you change on your console fixes a server problem. Try again later.
 
 > **Status check, 18 Nov 2026 at 13:50 CET:** the [Xbox status page](https://support.xbox.com/en-US/xbox-live-status) showed no problems. PlayStation's US status page showed no alerts, and its Europe page showed only an older Russia-only alert from 11 Nov. The Rockstar status page did not load for us, so check it yourself. Insider Gaming wrote on 18 Nov that GTA 6 had no performance or network problems at the time it wrote. Rockstar has not posted any GTA VI "known issues" list or fix yet ([Insider Gaming](https://insider-gaming.com/is-grand-theft-auto-6-down-gta-6-issues-explained/)).
+
+> **PSN problem reports, 18 Nov 2026 (reports, not confirmed by Sony):** on Wednesday evening, many PlayStation players reported that they could not sign in or connect. Reports on Downdetector jumped at about **19:05 CET**, a few hours before the PS5 unlock ([Numerama](https://www.numerama.com/pop-culture/2378315-timing-terrible-le-playstation-network-flanche-a-quelques-heures-de-la-sortie-de-gta-6.html), [Haberler](https://www.haberler.com/haber/playstation-network-coktu-mu-playstation-psn-20440366-haberi/)). Sony has **not** confirmed an outage. When we checked at **19:40 CET**, [PlayStation's status page](https://status.playstation.com) had no new alert for Europe, the US or Asia, and PlayStation support on X had posted nothing about it.
+>
+> **What to do:**
+> 1. Open [status.playstation.com](https://status.playstation.com) and pick your country.
+> 2. If it shows an alert, wait. PlayStation says to wait when there is an alert.
+> 3. Do **not** delete your pre-loaded game. Deleting it means you have to download the whole game again.
+> 4. Try again in 15 to 30 minutes.
 
 > **Reports / unconfirmed (18 Nov):** Sportskeeda reports that some players get **stuck on the first loading screen** or see a **network error before the main menu**. It thinks heavy launch traffic is the cause. Rockstar has **not** confirmed an outage or posted a fix. Source: [Sportskeeda](https://tech.sportskeeda.com/gaming-news/is-gta-6-right-now-november-2026-server-status-explained)
 
@@ -115,6 +125,7 @@ Not announced on any page we checked. The PlayStation Store lists it as a single
 
 | Date | What changed |
 |---|---|
+| 2026-11-18 19:45 CET | Added evening PSN sign-in/connection reports (Numerama, Haberler), marked as reports. Status pages re-checked at 19:40 CET: no new Sony alert. |
 | 2026-11-18 13:50 CET | Added new player reports of a "network error" at start (one linked to the New Zealand trick), marked unconfirmed. Status pages re-checked at 13:50 CET: no new alerts. No GTA VI post from @RockstarSupport. |
 | 2026-11-18 13:15 CET | Added unconfirmed reports of loading-screen and network errors, with safe steps to try. Re-checked @RockstarSupport: no GTA VI known-issues post yet. |
 | 2026-11-18 13:10 CET | New status check (12:50 CET). Added the required PS5 system update under fix 7 and a Related line. |

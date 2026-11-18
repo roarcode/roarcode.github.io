@@ -1,0 +1,14 @@
+{
+  "type": "step-card",
+  "alt": "Three steps: the free GTA+ month starts, set a reminder 3 days before it ends, then cancel or it renews as a paid month.",
+  "data": {
+    "category": "beginner",
+    "title": "Beat the auto-renew",
+    "steps": [
+      { "title": "Free month starts", "body": "1 month of GTA+ free." },
+      { "title": "Set a reminder", "body": "3 days before it ends." },
+      { "title": "Cancel in time", "body": "Or it renews and you pay." }
+    ],
+    "note": "Our diagram. The free month renews at the normal price (PlayStation Store terms)."
+  }
+}

@@ -1232,5 +1232,29 @@
     "bytes": 23524,
     "alt": "Two cards: the game launch is not affected; we never share leaked clips.",
     "type": "info-cards"
+  },
+  "gta-6-gta-plus-benefits-step-1": {
+    "file": "gta-6-gta-plus-benefits-step-1.webp",
+    "width": 1200,
+    "height": 726,
+    "bytes": 37438,
+    "alt": "Four boxes: a car and garage, travel perks, 10% off in shops, and 10% more cash when selling eligible cars. The four GTA+ perks in GTA 6 story mode.",
+    "type": "info-cards"
+  },
+  "gta-6-gta-plus-benefits-step-2": {
+    "file": "gta-6-gta-plus-benefits-step-2.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 31240,
+    "alt": "Illustration of a pause menu Account tab with the GTA Plus Boosts row switched off. Not an in-game screenshot.",
+    "type": "menu-mock"
+  },
+  "gta-6-gta-plus-benefits-step-3": {
+    "file": "gta-6-gta-plus-benefits-step-3.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 29400,
+    "alt": "Three steps: the free GTA+ month starts, set a reminder 3 days before it ends, then cancel or it renews as a paid month.",
+    "type": "step-card"
   }
 }

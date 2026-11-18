@@ -1,0 +1,16 @@
+{
+  "type": "menu-mock",
+  "alt": "Illustration of a pause menu Account tab with the GTA Plus Boosts row switched off. Not an in-game screenshot.",
+  "data": {
+    "category": "beginner",
+    "title": "Pause menu > Account > GTA Plus Boosts",
+    "panel_title": "Account — illustration",
+    "platform": "PS5 / Xbox",
+    "highlightRow": 1,
+    "rows": [
+      { "label": "Account", "value": "Tab" },
+      { "label": "GTA Plus Boosts", "value": "Off" }
+    ],
+    "note": "Illustration, not an in-game screenshot. Menu path from Polygon, 18 Nov 2026."
+  }
+}
