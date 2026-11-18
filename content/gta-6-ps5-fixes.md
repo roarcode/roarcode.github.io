@@ -15,11 +15,12 @@ sources:
   - https://status.playstation.com
   - https://gameinformer.com/2026/11/10/grand-theft-auto-vi-will-run-at-30-fps-on-all-consoles-but-ps5-pro-will-feature-improved
   - https://support.rockstargames.com/
+  - https://www.playstation.com/en-gb/support/error-codes/ps5/ce-108255-1/
 updated: 2026-11-18
 status: stub
 publish: true
 spoilers: none
-qa: passed
+qa: live-review
 ---
 
 # GTA 6 PS5 Fixes: 9 Steps When It Won't Start or Load
@@ -64,6 +65,22 @@ qa: passed
 ![PS5 Console Sharing and Offline Play setting](TODO: image:gta-6-ps5-fixes-step-3 — menu screen, PS5: Settings > Users and Accounts > Other > Console Sharing and Offline Play with Enable visible)
 *Caption: Menu screen. Turn on Console Sharing and Offline Play.*
 
+## Error CE-108255-1: the game crashed
+
+**What it means:** PlayStation says CE-108255-1 means "Something went wrong with a game or app". In plain words: the game crashed and closed. ([PlayStation: How to fix CE-108255-1](https://www.playstation.com/en-gb/support/error-codes/ps5/ce-108255-1/))
+
+**Reports, not confirmed by Rockstar:** some players on Reddit say they got this code in GTA VI soon after the Europe unlock on 19 Nov ([one Reddit report](https://www.reddit.com/r/GTA6/comments/1xztwwk/ps5_error_ce1082551_in_gta_vi_tried_almost/)). Rockstar and PlayStation have not posted about it for GTA VI.
+
+PlayStation's fixes, easiest first:
+
+1. **Update the game.** In **Game Library**, highlight GTA VI, press the **Options button**, select **Check for Update**.
+2. **Update the PS5.** Go to **Settings > System > System Software > System Software Update and Settings**.
+3. **Delete and reinstall** if it crashes after the game starts. Go to **Settings > Storage**, delete GTA VI, then download it again. The game is big (up to 212 GB), so this takes hours.
+4. **Rebuild the database.** Start the PS5 in Safe Mode, then select **Clear Cache and Rebuild Database > Rebuild Database**. Steps above.
+5. **Last try: reset the PS5.** Back up your saves first, because a reset **erases everything** on the console. Go to **Settings > System > System Software > Reset Options > Reset Your Console**, then install the game again.
+
+If it still crashes, contact [Rockstar Support](https://support.rockstargames.com/) about the game.
+
 ## Still broken?
 
 - **Game launch, download and code problems:** PlayStation Support.
@@ -75,6 +92,9 @@ Related: [GTA 6 download stuck](/glitches/gta-6-download-stuck/) · [GTA 6 not w
 <!-- What players are saying: add real embeds from content/inbox/ -->
 
 ## FAQ
+
+### What is error CE-108255-1 in GTA 6?
+PlayStation says it means a game or app went wrong (a crash). Update the game and PS5 first, then reinstall, then rebuild the database. Steps above.
 
 ### Why won't GTA 6 start on my PS5?
 It may be locked (before midnight local time on 19 Nov), still downloading, on the wrong account or hit by a service problem. Work through the 9 steps.
