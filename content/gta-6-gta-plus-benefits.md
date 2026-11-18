@@ -18,9 +18,8 @@ sources:
     url: https://rockstarreport.com/news/gta-6-gta-plus-story-mode-benefits
 updated: 2026-11-18
 publish: true
-draft: true
 spoilers: minor
-qa: pending
+qa: passed
 ---
 
 # GTA 6 GTA+ Benefits: Free Car, 10% Off and How to Turn Off
