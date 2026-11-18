@@ -18,6 +18,8 @@ sources:
   - https://www.pcgamer.com/games/grand-theft-auto/gta-6-guide/
   - https://www.videogameschronicle.com/news/rockstar-details-grand-theft-auto-6-pre-load-date-and-time-and-file-size/
   - https://www.polygon.com/rockstar-reveals-gta-6-ultimate-edition-contents-and-pre-order-bonuses/
+  - https://x.com/GTASeries/status/2122442660015485258
+  - https://x.com/IGN/status/2122955507992338647
 updated: 2026-11-18
 status: prelaunch
 spoilers: minor
@@ -92,6 +94,14 @@ Rockstar's Ultimate Edition store text names **Gambit Bay, Washington Beach, Wat
 
 ![map pin legend for our future interactive map](TODO: image:map-step-3 — map pin diagram, our own art: pin shapes for shops, garages, collectibles, activities)
 *Caption: Map pin. The icons our interactive map will use.*
+
+## What players are saying
+
+*Public posts, quoted with a link. Player tips are not confirmed facts.*
+
+<blockquote class="twitter-tweet"><a href="https://x.com/GTASeries/status/2122442660015485258"></a></blockquote>
+
+<blockquote class="twitter-tweet"><a href="https://x.com/IGN/status/2122955507992338647"></a></blockquote>
 
 ## FAQ
 

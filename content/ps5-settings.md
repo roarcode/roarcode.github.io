@@ -17,6 +17,7 @@ sources:
   - https://www.playstation.com/en-us/support/games/gta-vi-support/
   - https://www.rockstargames.com/VI/pre-load-now
   - https://news.xbox.com/en-us/2026/11/10/grand-theft-auto-6-comes-to-xbox-cloud-gaming-november-19/
+  - https://x.com/IGN/status/2122811762194199016
 updated: 2026-11-18
 status: prelaunch
 spoilers: none
@@ -102,6 +103,12 @@ qa: live-review
 - Resolution on PS5 and PS5 Pro
 - HDR, motion blur, field-of-view and camera options in the game
 - Launch-day update size
+
+## What players are saying
+
+*Public posts, quoted with a link. Player tips are not confirmed facts.*
+
+<blockquote class="twitter-tweet"><a href="https://x.com/IGN/status/2122811762194199016"></a></blockquote>
 
 ## FAQ
 

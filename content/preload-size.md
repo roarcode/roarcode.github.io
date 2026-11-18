@@ -25,6 +25,8 @@ sources:
   - https://x.com/RockstarGames/status/2120154484244381738
   - https://www.youtube.com/watch?v=_yl5ELcmugI
   - https://x.com/RockstarGames/status/2120909499200421900
+  - https://x.com/PlayStation/status/2122804472543904025
+  - https://x.com/GTASeries/status/2121237153405366311
 updated: 2026-11-18
 status: prelaunch
 spoilers: none
@@ -165,7 +167,13 @@ The final launch-day update size is **not announced**.
 
 Related: [GTA 6 pre-load not starting](/glitches/gta-6-preload-not-starting/) · [GTA 6 download stuck](/glitches/gta-6-download-stuck/) · [launch hub](/launch-hub/gta-6-launch-hub/)
 
-<!-- What players are saying: add real embeds from content/inbox/ -->
+## What players are saying
+
+*Public posts, quoted with a link. Player tips are not confirmed facts.*
+
+<blockquote class="twitter-tweet"><a href="https://x.com/PlayStation/status/2122804472543904025"></a></blockquote>
+
+<blockquote class="twitter-tweet"><a href="https://x.com/GTASeries/status/2121237153405366311"></a></blockquote>
 
 ## FAQ
 

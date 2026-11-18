@@ -21,6 +21,10 @@ sources:
   - https://gtasix.org/en/news/gta6-rockstar-midnight-local-release/
   - https://www.1news.co.nz/2026/11/18/gta-6-how-to-beat-the-download-rush-and-why-gamers-abroad-envy-kiwis/
   - https://www.videogameschronicle.com/news/rockstar-details-grand-theft-auto-6-pre-load-date-and-time-and-file-size/
+  - https://x.com/RockstarGames/status/2120909499200421900
+  - https://x.com/RockstarGames/status/2120909731963527300
+  - https://x.com/PlayStation/status/2121007630923505823
+  - https://x.com/GTASeries/status/2122995684391432613
 updated: 2026-11-18
 status: prelaunch
 spoilers: none
@@ -138,7 +142,17 @@ The Rockstar Support article itself could not be opened for this page, so its wo
 
 Related: [is GTA 6 out](/launch-hub/is-gta-6-out/) · [GTA 6 not working](/glitches/gta-6-not-working/) · [launch hub](/launch-hub/gta-6-launch-hub/)
 
-<!-- What players are saying: add real embeds from content/inbox/ -->
+## What players are saying
+
+*Public posts, quoted with a link. Player tips are not confirmed facts.*
+
+<blockquote class="twitter-tweet"><a href="https://x.com/RockstarGames/status/2120909499200421900"></a></blockquote>
+
+<blockquote class="twitter-tweet"><a href="https://x.com/RockstarGames/status/2120909731963527300"></a></blockquote>
+
+<blockquote class="twitter-tweet"><a href="https://x.com/PlayStation/status/2121007630923505823"></a></blockquote>
+
+<blockquote class="twitter-tweet"><a href="https://x.com/GTASeries/status/2122995684391432613"></a></blockquote>
 
 ## FAQ
 

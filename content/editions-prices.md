@@ -30,6 +30,7 @@ sources:
   - https://www.rockstargames.com/newswire/article/759875393o5253/grand-theft-auto-vi-collection-now-at-the-rockstar-store
   - https://www.forbes.com/sites/brianmazique/2026/10/01/rockstars-400-gta-6-vice-city-collectables-set-revealed---heres-what-you-get/
   - https://www.vice.com/en/article/gta-6-collectors-edition-price-items-pre-order/
+  - https://x.com/IGN/status/2122832446513176806
 updated: 2026-11-18
 status: prelaunch
 spoilers: none
@@ -116,6 +117,12 @@ Rockstar says before 20 Nov. The Xbox Store says before 19 Nov 23:59:59 and Play
 - **Not announced:** PS5 upgrade price, euro prices outside the euro area, season passes or paid add-ons.
 
 Related: [Vintage Vice City Pack](/launch-hub/vintage-vice-city-pack/) · [launch hub](/launch-hub/gta-6-launch-hub/)
+
+## What players are saying
+
+*Public posts, quoted with a link. Player tips are not confirmed facts.*
+
+<blockquote class="twitter-tweet"><a href="https://x.com/IGN/status/2122832446513176806"></a></blockquote>
 
 ## FAQ
 
