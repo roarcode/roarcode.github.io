@@ -19,7 +19,7 @@ updated: 2026-11-18
 status: stub
 publish: true
 spoilers: none
-qa: live-review
+qa: passed
 ---
 
 # GTA 6 Pre-Load Not Starting? 7 Fixes for PS5 and Xbox

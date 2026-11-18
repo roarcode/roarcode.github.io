@@ -21,7 +21,7 @@ sources:
 updated: 2026-11-18
 status: prelaunch
 spoilers: minor
-qa: live-review
+qa: passed
 ---
 
 # GTA 6 Jason and Lucia: Who They Are (No Spoilers)

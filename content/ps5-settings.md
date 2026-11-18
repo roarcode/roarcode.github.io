@@ -27,7 +27,7 @@ sources:
 updated: 2026-11-18
 status: prelaunch
 spoilers: none
-qa: live-review
+qa: passed
 ---
 
 # GTA 6 on PS5 and PS5 Pro: What Is Confirmed (2026)

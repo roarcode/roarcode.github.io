@@ -27,7 +27,7 @@ updated: 2026-11-18
 status: prelaunch
 publish: true
 spoilers: none
-qa: live-review
+qa: passed
 ---
 
 # GTA 6 Performance Mode: Is There 60 FPS on PS5 Pro?

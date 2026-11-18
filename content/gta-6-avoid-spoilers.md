@@ -20,9 +20,8 @@ sources:
 updated: 2026-11-18
 status: prelaunch
 publish: true
-draft: true
 spoilers: none
-qa: pending
+qa: passed
 ---
 
 # How to Avoid GTA 6 Spoilers: Mute Words on X (2026)

@@ -19,8 +19,7 @@ sources:
 updated: 2026-11-18
 status: live
 publish: true
-draft: true
-qa: pending
+qa: passed
 spoilers: major
 ---
 

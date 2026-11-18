@@ -15,7 +15,7 @@ sources:
 updated: 2026-11-18
 status: prelaunch
 spoilers: none
-qa: live-review
+qa: passed
 ---
 
 # GTA 6 Online: Is There Multiplayer at Launch? (2026)
