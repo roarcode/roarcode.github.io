@@ -1,0 +1,29 @@
+{
+  "type": "info-cards",
+  "alt": "A warning diagram: console to PC, with a warning that unofficial 60 or 120 FPS tools are untested.",
+  "data": {
+    "category": "ps5",
+    "title": "Unofficial tools, not tested",
+    "layout": "flow",
+    "cols": 3,
+    "card_height": 230,
+    "cards": [
+      {
+        "title": "Your console",
+        "body": "The game still runs at the announced 30 FPS target.",
+        "status": "none"
+      },
+      {
+        "title": "A PC tool",
+        "body": "Some posts describe AI frame generation from a streamed picture.",
+        "status": "none"
+      },
+      {
+        "title": "Warning",
+        "body": "Unofficial, not tested. May add delay and may break platform rules. We do not link them.",
+        "status": "no"
+      }
+    ],
+    "note": "These tools need extra hardware. We have not tested them."
+  }
+}

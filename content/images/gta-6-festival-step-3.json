@@ -1,0 +1,18 @@
+{
+  "type": "sketch",
+  "alt": "Two simple stage drawings side by side, with music notes and no artist photos.",
+  "data": {
+    "category": "pre-launch",
+    "title": "The festival has two stages",
+    "motif": "stages",
+    "stages": [
+      {
+        "title": "Stage 1"
+      },
+      {
+        "title": "Stage 2"
+      }
+    ],
+    "note": "Original diagram. No artist photos. Rockstar says the artists come from the game and its soundtrack."
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "sketch",
+  "alt": "Diagram ure, ki kaže 00:00 CET v četrtek, 19. 11. 2026, z oznako Slovenija.",
+  "data": {
+    "locale": "sl",
+    "category_label": "Pred izidom",
+    "banner": "Ilustracija — ni posnetek iz igre",
+    "category": "pre-launch",
+    "title": "V Sloveniji ob 00:00 CET",
+    "motif": "clocks",
+    "clocks": [
+      {
+        "hour": 0,
+        "minute": 0,
+        "time": "00:00 CET",
+        "label": "Četrtek, 19. 11. 2026 · Slovenija"
+      }
+    ],
+    "note": "Igra se odklene v četrtek, 19. 11. 2026, ob 00:00 CET, na PS5 in Xbox Series X|S."
+  }
+}

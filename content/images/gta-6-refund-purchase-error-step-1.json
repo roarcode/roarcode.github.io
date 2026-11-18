@@ -1,0 +1,26 @@
+{
+  "type": "menu-mock",
+  "alt": "Illustration of PlayStation Store order details with Request Refund highlighted. Not a store screenshot.",
+  "data": {
+    "category": "glitches",
+    "title": "Request a refund on PlayStation",
+    "panel_title": "Order details — illustration",
+    "platform": "PS5",
+    "highlightRow": 2,
+    "rows": [
+      {
+        "label": "Order History",
+        "value": "Open the purchase"
+      },
+      {
+        "label": "Grand Theft Auto VI",
+        "value": "This order"
+      },
+      {
+        "label": "Request Refund",
+        "value": "Select this if it is offered"
+      }
+    ],
+    "note": "Illustration — not a store screenshot. Refund rules are set by PlayStation. Check the live store and support pages."
+  }
+}

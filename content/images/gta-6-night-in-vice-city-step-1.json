@@ -1,0 +1,24 @@
+{
+  "type": "sketch",
+  "alt": "Two clocks side by side: 7:00 PM Wednesday in Miami and 01:00 Thursday in Slovenia.",
+  "data": {
+    "category": "pre-launch",
+    "title": "Tip-off in two time zones",
+    "motif": "clocks",
+    "clocks": [
+      {
+        "hour": 19,
+        "minute": 0,
+        "time": "7:00 PM Wed",
+        "label": "Miami (ET)"
+      },
+      {
+        "hour": 1,
+        "minute": 0,
+        "time": "01:00 Thu",
+        "label": "Slovenia (CET)"
+      }
+    ],
+    "note": "Wed 18 Nov, 7:00 PM ET is Thu 19 Nov, 01:00 CET."
+  }
+}

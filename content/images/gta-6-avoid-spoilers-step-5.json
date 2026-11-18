@@ -1,0 +1,26 @@
+{
+  "type": "menu-mock",
+  "alt": "Illustration of the PS5 control center with Notifications and Do Not Disturb turned on. Not an in-game screenshot.",
+  "data": {
+    "category": "ps5",
+    "title": "Turn on Do Not Disturb on PS5",
+    "panel_title": "Control center — illustration",
+    "platform": "PS5",
+    "highlightRow": 2,
+    "rows": [
+      {
+        "label": "PS button",
+        "value": "Opens the control center"
+      },
+      {
+        "label": "Notifications",
+        "value": "Select this"
+      },
+      {
+        "label": "Do Not Disturb",
+        "value": "Turned on"
+      }
+    ],
+    "note": "Illustration — not an in-game screenshot. Pop-ups stay off until you log out, restart, or turn the PS5 off. For longer control use Settings > Notifications."
+  }
+}

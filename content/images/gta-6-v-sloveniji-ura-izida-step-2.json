@@ -1,0 +1,29 @@
+{
+  "type": "menu-mock",
+  "alt": "Ilustracija knjižnice iger na PS5 z odštevanjem do odklenitve. Ni posnetek iz igre.",
+  "data": {
+    "locale": "sl",
+    "category_label": "Pred izidom",
+    "banner": "Ilustracija — ni posnetek iz igre",
+    "category": "pre-launch",
+    "title": "Preveri odštevanje na PS5",
+    "panel_title": "Knjižnica iger — ilustracija",
+    "platform": "PS5",
+    "highlightRow": 2,
+    "rows": [
+      {
+        "label": "Grand Theft Auto VI",
+        "value": "Izbrano"
+      },
+      {
+        "label": "Stanje",
+        "value": "Zaklenjeno do polnoči"
+      },
+      {
+        "label": "Ura odklenitve",
+        "value": "Zaupi odštevanju na konzoli"
+      }
+    ],
+    "note": "Ilustracija — ni posnetek iz igre. Pot: Knjižnica iger (Game Library)."
+  }
+}

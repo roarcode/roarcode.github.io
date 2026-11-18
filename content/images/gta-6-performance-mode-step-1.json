@@ -1,0 +1,33 @@
+{
+  "type": "bar-chart",
+  "alt": "A bar chart showing a 30 FPS target for PS5, PS5 Pro, Xbox Series X and Xbox Series S. No 60 FPS or performance mode is announced.",
+  "data": {
+    "category": "ps5",
+    "title": "One frame-rate target for every console",
+    "subtitle": "Rockstar says GTA VI is targeting 30 frames per second on every console (Game Informer).",
+    "max": 30,
+    "bars": [
+      {
+        "label": "PS5",
+        "value": 30,
+        "display": "30 FPS"
+      },
+      {
+        "label": "PS5 Pro",
+        "value": 30,
+        "display": "30 FPS"
+      },
+      {
+        "label": "Xbox Series X",
+        "value": 30,
+        "display": "30 FPS"
+      },
+      {
+        "label": "Xbox Series S",
+        "value": 30,
+        "display": "30 FPS"
+      }
+    ],
+    "note": "No 60 FPS or performance mode is announced. PS5 Pro gets a sharper picture and ray-traced shadows, not more frames."
+  }
+}

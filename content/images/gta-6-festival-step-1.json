@@ -1,0 +1,30 @@
+{
+  "type": "sketch",
+  "alt": "Calendar card for Saturday 21 November 2026 with two clocks: 4:00 PM in Miami and 22:00 in Slovenia.",
+  "data": {
+    "category": "pre-launch",
+    "title": "Doors open Saturday 21 Nov",
+    "motif": "calendar-clocks",
+    "calendar": {
+      "month": "Nov",
+      "day": "21",
+      "weekday": "Saturday",
+      "year": "2026"
+    },
+    "clocks": [
+      {
+        "hour": 16,
+        "minute": 0,
+        "time": "4:00 PM",
+        "label": "Miami (ET)"
+      },
+      {
+        "hour": 22,
+        "minute": 0,
+        "time": "22:00",
+        "label": "Slovenia (CET)"
+      }
+    ],
+    "note": "Doors open at 4:00 PM ET, which is 22:00 CET."
+  }
+}

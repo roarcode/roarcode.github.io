@@ -1,0 +1,26 @@
+{
+  "type": "timezone-chart",
+  "alt": "A timeline from New Zealand at 12:00 CET to Slovenia at 00:00 CET, marking the window to mute spoilers.",
+  "data": {
+    "category": "beginner",
+    "title": "Mute from NZ unlock until your midnight",
+    "axis_label": "Time in CET",
+    "axis_start": "Wed 18 Nov, 12:00",
+    "axis_end": "Thu 19 Nov, 12:00",
+    "subtitle": "Keep muted words on during this gap",
+    "rows": [
+      [
+        "New Zealand unlocks",
+        "Thu 19 Nov, 12:00 AM NZDT",
+        "Wed 18 Nov, 12:00"
+      ],
+      [
+        "Slovenia unlocks",
+        "Thu 19 Nov, 12:00 AM CET",
+        "Thu 19 Nov, 00:00"
+      ]
+    ],
+    "legend": "Each mark is 12:00 AM local time, shown in CET.",
+    "note": "Story talk can spread in the 12 hours after New Zealand unlocks. Mute words before then."
+  }
+}

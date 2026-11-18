@@ -1,0 +1,29 @@
+{
+  "type": "menu-mock",
+  "alt": "Ilustracija nastavitev PS5 pod Shramba, kjer vidiš prosto mesto. Ni posnetek iz igre.",
+  "data": {
+    "locale": "sl",
+    "category_label": "Pred izidom",
+    "banner": "Ilustracija — ni posnetek iz igre",
+    "category": "pre-launch",
+    "title": "Preveri prosto mesto na PS5",
+    "panel_title": "Nastavitve · Shramba — ilustracija",
+    "platform": "PS5",
+    "highlightRow": 2,
+    "rows": [
+      {
+        "label": "Nastavitve",
+        "value": "Settings"
+      },
+      {
+        "label": "Shramba",
+        "value": "Storage"
+      },
+      {
+        "label": "Prosto mesto",
+        "value": "Najmanj 212 GB"
+      }
+    ],
+    "note": "Ilustracija — ni posnetek iz igre. PlayStation svetuje najmanj 212 GB prostora. Za popravke pusti še malo več."
+  }
+}

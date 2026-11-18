@@ -1,0 +1,26 @@
+{
+  "type": "menu-mock",
+  "alt": "Illustration of Xbox Settings > System > Language & location with the Location field highlighted. Not an in-game screenshot.",
+  "data": {
+    "category": "pre-launch",
+    "title": "Where the Xbox location setting lives",
+    "panel_title": "Language & location — illustration",
+    "platform": "Xbox",
+    "highlightRow": 2,
+    "rows": [
+      {
+        "label": "Settings",
+        "value": "System"
+      },
+      {
+        "label": "Language & location",
+        "value": ""
+      },
+      {
+        "label": "Location",
+        "value": "The country field"
+      }
+    ],
+    "note": "Illustration — not an in-game screenshot. This shows where the setting is. We do not recommend changing it to unlock early."
+  }
+}

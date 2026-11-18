@@ -1,0 +1,24 @@
+{
+  "type": "bar-chart",
+  "alt": "A bar chart of Metascores quoted by Insider Gaming on 18 Nov 2026: GTA VI at 99, and GTA IV at 98 as Rockstar's previous high.",
+  "data": {
+    "category": "pre-launch",
+    "title": "Metascores quoted on 18 Nov",
+    "subtitle": "Insider Gaming: Metacritic showed 99 from 100 reviews. Previous Rockstar high: 98 for GTA IV.",
+    "max": 100,
+    "bars": [
+      {
+        "label": "GTA VI (100 reviews, 18 Nov)",
+        "value": 99,
+        "display": "99",
+        "highlight": true
+      },
+      {
+        "label": "GTA IV (previous Rockstar high)",
+        "value": 98,
+        "display": "98"
+      }
+    ],
+    "note": "Scores will move as more reviews arrive. We will update this page. We do not quote review text here."
+  }
+}

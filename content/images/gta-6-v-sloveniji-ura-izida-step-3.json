@@ -1,0 +1,29 @@
+{
+  "type": "menu-mock",
+  "alt": "Ilustracija knjižnice iger na Xboxu z uro izida. Ni posnetek iz igre.",
+  "data": {
+    "locale": "sl",
+    "category_label": "Pred izidom",
+    "banner": "Ilustracija — ni posnetek iz igre",
+    "category": "pre-launch",
+    "title": "Preveri uro izida na Xboxu",
+    "panel_title": "My games & apps > Full library — ilustracija",
+    "platform": "Xbox",
+    "highlightRow": 2,
+    "rows": [
+      {
+        "label": "Grand Theft Auto VI",
+        "value": "Izbrano"
+      },
+      {
+        "label": "Platforma",
+        "value": "Xbox Series X|S"
+      },
+      {
+        "label": "Ura odklenitve",
+        "value": "Zaupi uri na tej strani"
+      }
+    ],
+    "note": "Ilustracija — ni posnetek iz igre. Pot: My games & apps > Full library. Slovenskih oznak nismo mogli preveriti."
+  }
+}

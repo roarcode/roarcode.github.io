@@ -1,0 +1,25 @@
+{
+  "type": "menu-mock",
+  "alt": "Illustration of a pause menu with Settings, Controls and Accessibility marked to be checked after launch. Not an in-game screenshot.",
+  "data": {
+    "category": "ps5",
+    "title": "Where to look once you can play",
+    "panel_title": "Pause menu — illustration",
+    "highlightRow": 1,
+    "rows": [
+      {
+        "label": "Settings",
+        "value": "Open this first"
+      },
+      {
+        "label": "Controls",
+        "value": "To be checked"
+      },
+      {
+        "label": "Accessibility",
+        "value": "To be checked — haptics on PS5"
+      }
+    ],
+    "note": "Illustration — not an in-game screenshot. Exact menu names are not confirmed. We will check on launch day."
+  }
+}

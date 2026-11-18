@@ -1,0 +1,26 @@
+{
+  "type": "menu-mock",
+  "alt": "Illustration of PS5 Console Information with the system software version line visible. Not an in-game screenshot.",
+  "data": {
+    "category": "glitches",
+    "title": "Check your system software version",
+    "panel_title": "Console Information — illustration",
+    "platform": "PS5",
+    "highlightRow": 1,
+    "rows": [
+      {
+        "label": "Console",
+        "value": "PlayStation 5"
+      },
+      {
+        "label": "System software",
+        "value": "Look for 26.07-14.23.00 or newer"
+      },
+      {
+        "label": "Path",
+        "value": "Settings > System > System Software"
+      }
+    ],
+    "note": "Illustration — not an in-game screenshot. If the version is 26.07-14.23.00 or newer, you are done."
+  }
+}

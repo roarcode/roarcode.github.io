@@ -1,0 +1,26 @@
+{
+  "type": "menu-mock",
+  "alt": "Illustration of an Xbox Request a refund page with an item selected. Not a store screenshot.",
+  "data": {
+    "category": "glitches",
+    "title": "Request a refund on Xbox",
+    "panel_title": "Request a refund — illustration",
+    "platform": "Xbox",
+    "highlightRow": 1,
+    "rows": [
+      {
+        "label": "Xbox refund page",
+        "value": "Sign in to your account"
+      },
+      {
+        "label": "Grand Theft Auto VI",
+        "value": "Select this order"
+      },
+      {
+        "label": "Request a refund",
+        "value": "If the page offers it"
+      }
+    ],
+    "note": "Illustration — not a store screenshot. Refund rules are set by Xbox. Use the official refund page."
+  }
+}

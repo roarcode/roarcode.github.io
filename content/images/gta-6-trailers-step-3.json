@@ -1,0 +1,27 @@
+{
+  "type": "sketch",
+  "alt": "Three icon cards: a basketball, a stage, and a download arrow, for the extra official videos from November.",
+  "data": {
+    "category": "pre-launch",
+    "title": "Three extra launch videos",
+    "motif": "icons",
+    "items": [
+      {
+        "icon": "ball",
+        "title": "A Night in Vice City",
+        "body": "Heat game"
+      },
+      {
+        "icon": "stage",
+        "title": "The Festival",
+        "body": "Miami concert"
+      },
+      {
+        "icon": "download",
+        "title": "Pre-Load Now",
+        "body": "Download video"
+      }
+    ],
+    "note": "Original icons. No official video frames."
+  }
+}

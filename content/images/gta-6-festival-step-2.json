@@ -1,0 +1,34 @@
+{
+  "type": "info-cards",
+  "alt": "Four boxes in a row: Sign up, Picked at random, Code by text, Buy up to 2 tickets. The lottery is now closed.",
+  "data": {
+    "category": "pre-launch",
+    "title": "The four ticket steps, now closed",
+    "layout": "flow",
+    "cols": 4,
+    "card_height": 230,
+    "cards": [
+      {
+        "title": "1. Sign up",
+        "body": "Free lottery with a DICE account.",
+        "status": "none"
+      },
+      {
+        "title": "2. Picked at random",
+        "body": "Sign-up closed 10 Nov, 4 PM ET.",
+        "status": "none"
+      },
+      {
+        "title": "3. Code by text",
+        "body": "Winners got a code that evening.",
+        "status": "none"
+      },
+      {
+        "title": "4. Buy up to 2 tickets",
+        "body": "One code, first come, first served.",
+        "status": "none"
+      }
+    ],
+    "note": "The lottery is closed. Tickets were only for winners and cannot be passed on."
+  }
+}

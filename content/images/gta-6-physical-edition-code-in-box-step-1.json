@@ -1,0 +1,26 @@
+{
+  "type": "menu-mock",
+  "alt": "Illustration of a PlayStation Store avatar menu with Redeem Code highlighted. Not an in-game screenshot.",
+  "data": {
+    "category": "pre-launch",
+    "title": "Redeem a boxed code on PlayStation",
+    "panel_title": "Store profile menu — illustration",
+    "platform": "PS5",
+    "highlightRow": 1,
+    "rows": [
+      {
+        "label": "Your avatar",
+        "value": "Open this menu"
+      },
+      {
+        "label": "Redeem Code",
+        "value": "Enter the code here"
+      },
+      {
+        "label": "Then open the game page",
+        "value": "Start the download"
+      }
+    ],
+    "note": "Illustration — not an in-game or store screenshot. Code-in-box copies have a download code, not a disc."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "menu-mock",
+  "alt": "Illustration of a Reddit three-dot menu with Mute r/GTA6 highlighted. Not a screenshot of the live app.",
+  "data": {
+    "category": "beginner",
+    "title": "Mute a subreddit from its menu",
+    "panel_title": "r/GTA6 — illustration",
+    "platform": "Reddit",
+    "highlightRow": 3,
+    "rows": [
+      {
+        "label": "Open Reddit",
+        "value": "Go to the community"
+      },
+      {
+        "label": "Visit the subreddit",
+        "value": "For example r/GTA6"
+      },
+      {
+        "label": "Three-dot menu",
+        "value": "Open this on the community"
+      },
+      {
+        "label": "Mute r/GTA6",
+        "value": "Select and confirm"
+      }
+    ],
+    "note": "Illustration — not a screenshot of Reddit. Muted communities leave your Home and Popular feeds. GameSpot also lists r/GTA, r/GrandTheftAutoV, r/PS5, r/XboxSeriesX and r/gaming."
+  }
+}

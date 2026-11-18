@@ -1,0 +1,29 @@
+{
+  "type": "menu-mock",
+  "alt": "Ilustracija strani Grand Theft Auto VI v knjižnici iger na PS5 z dejanjem Prenesi. Ni posnetek iz igre.",
+  "data": {
+    "locale": "sl",
+    "category_label": "Pred izidom",
+    "banner": "Ilustracija — ni posnetek iz igre",
+    "category": "pre-launch",
+    "title": "Začni predprenos v knjižnici iger",
+    "panel_title": "Knjižnica iger — ilustracija",
+    "platform": "PS5",
+    "highlightRow": 2,
+    "rows": [
+      {
+        "label": "Grand Theft Auto VI",
+        "value": "V knjižnici iger"
+      },
+      {
+        "label": "Velikost",
+        "value": "Do 212 GB"
+      },
+      {
+        "label": "Prenesi",
+        "value": "Download — začni predprenos"
+      }
+    ],
+    "note": "Ilustracija — ni posnetek iz igre. Predprenos je odprt od 10. 11. 2026. Igra ostane zaklenjena do 19. 11. 2026 ob 00:00 CET."
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "info-cards",
+  "alt": "Two boxes labelled Game patch and PS5 system update, both marked as needed.",
+  "data": {
+    "category": "glitches",
+    "title": "Two updates, both needed",
+    "cards": [
+      {
+        "title": "Game patch",
+        "body": "The day-one patch for Grand Theft Auto VI. Check for it from the game's Options menu or the Xbox queue.",
+        "status": "check"
+      },
+      {
+        "title": "PS5 system update",
+        "body": "A separate PS5 system software update is required before you play. It is not the same as the game patch.",
+        "status": "check"
+      }
+    ],
+    "note": "Pre-loading the game does not install the PS5 system update."
+  }
+}

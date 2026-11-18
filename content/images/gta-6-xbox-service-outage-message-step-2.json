@@ -1,0 +1,26 @@
+{
+  "type": "menu-mock",
+  "alt": "Illustration of Xbox Network settings with Go offline highlighted. Not an in-game screenshot.",
+  "data": {
+    "category": "glitches",
+    "title": "Go offline, then back online",
+    "panel_title": "Network settings — illustration",
+    "platform": "Xbox",
+    "highlightRow": 1,
+    "rows": [
+      {
+        "label": "Settings > General",
+        "value": "Network settings"
+      },
+      {
+        "label": "Go offline",
+        "value": "Select this, then go back online"
+      },
+      {
+        "label": "Test network connection",
+        "value": "If it still fails"
+      }
+    ],
+    "note": "Illustration — not an in-game screenshot. Exact names can differ on your console."
+  }
+}

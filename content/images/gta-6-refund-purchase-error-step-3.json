@@ -1,0 +1,32 @@
+{
+  "type": "info-cards",
+  "alt": "Four signposts for who to contact: PlayStation Support, Xbox Support, Xsolla, and the shop you bought from.",
+  "data": {
+    "category": "glitches",
+    "title": "Who to contact",
+    "cols": 2,
+    "card_height": 170,
+    "cards": [
+      {
+        "title": "PlayStation Support",
+        "body": "Digital purchases on the PlayStation Store.",
+        "status": "none"
+      },
+      {
+        "title": "Xbox Support",
+        "body": "Digital purchases on the Xbox / Microsoft Store.",
+        "status": "none"
+      },
+      {
+        "title": "Xsolla",
+        "body": "Orders placed on the Rockstar Store.",
+        "status": "none"
+      },
+      {
+        "title": "Your shop",
+        "body": "Boxed or code-in-box copies bought from a retailer.",
+        "status": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "type": "info-cards",
+  "alt": "Four warning cards: rules, a locked account, no official promise, and spoilers if you wait.",
+  "data": {
+    "category": "pre-launch",
+    "title": "The four risks",
+    "cols": 4,
+    "card_height": 250,
+    "cards": [
+      {
+        "title": "Rules",
+        "body": "Sony and Microsoft have rules on regional accounts and purchases (BBC).",
+        "status": "no"
+      },
+      {
+        "title": "Your account",
+        "body": "Breaking those rules could mean account limits or losing digital games (BBC).",
+        "status": "no"
+      },
+      {
+        "title": "No promise",
+        "body": "Rockstar, Take-Two, Sony and Microsoft have not commented. It may not work.",
+        "status": "check"
+      },
+      {
+        "title": "Spoilers",
+        "body": "People in New Zealand play 12 hours earlier. Story surprises can spread online.",
+        "status": "check"
+      }
+    ],
+    "note": "We do not recommend this. It is not approved."
+  }
+}

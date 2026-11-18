@@ -1,0 +1,32 @@
+{
+  "type": "sketch",
+  "alt": "A timeline from 2023 to 2026 with four plain cards labelled Trailer 1, Trailer 2, Extended Look and Launch Trailer. No screenshots.",
+  "data": {
+    "category": "pre-launch",
+    "title": "The four main official videos",
+    "motif": "timeline",
+    "items": [
+      {
+        "title": "Trailer 1",
+        "date": "5 Dec 2023",
+        "body": "First look"
+      },
+      {
+        "title": "Trailer 2",
+        "date": "6 May 2025",
+        "body": "Second trailer"
+      },
+      {
+        "title": "Extended Look",
+        "date": "27 Aug 2026",
+        "body": "First gameplay"
+      },
+      {
+        "title": "Launch Trailer",
+        "date": "15 Oct 2026",
+        "body": "Launch video"
+      }
+    ],
+    "note": "Original diagram. No official video frames. Watch only on Rockstar's own pages."
+  }
+}

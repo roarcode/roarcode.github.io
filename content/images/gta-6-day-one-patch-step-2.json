@@ -1,0 +1,26 @@
+{
+  "type": "menu-mock",
+  "alt": "Illustration of the Xbox Queue with Grand Theft Auto VI listed. Not an in-game screenshot.",
+  "data": {
+    "category": "glitches",
+    "title": "Check the Xbox download queue",
+    "panel_title": "My games & apps > Queue — illustration",
+    "platform": "Xbox",
+    "highlightRow": 1,
+    "rows": [
+      {
+        "label": "My games & apps",
+        "value": "Manage"
+      },
+      {
+        "label": "Grand Theft Auto VI",
+        "value": "In the queue"
+      },
+      {
+        "label": "Resume if it is paused",
+        "value": "Let the patch finish"
+      }
+    ],
+    "note": "Illustration — not an in-game screenshot. Path: My games & apps > Manage > Queue."
+  }
+}

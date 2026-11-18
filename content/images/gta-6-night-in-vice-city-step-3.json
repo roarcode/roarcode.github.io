@@ -1,0 +1,20 @@
+{
+  "type": "sketch",
+  "alt": "A short timeline for launch night in Slovenia: 00:00 CET game unlock, then 01:00 CET tip-off.",
+  "data": {
+    "category": "pre-launch",
+    "title": "Launch night in Slovenia, hour by hour",
+    "motif": "short-timeline",
+    "items": [
+      {
+        "time": "00:00 CET",
+        "title": "GTA 6 unlocks on PS5 and Xbox Series X|S"
+      },
+      {
+        "time": "01:00 CET",
+        "title": "Heat vs Bucks tip-off in Miami"
+      }
+    ],
+    "note": "ESPN is a US channel. Rockstar did not announce a way to watch outside the US."
+  }
+}

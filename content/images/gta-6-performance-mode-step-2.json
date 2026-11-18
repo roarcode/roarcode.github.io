@@ -1,0 +1,26 @@
+{
+  "type": "menu-mock",
+  "alt": "Illustration of PS5 Settings > Screen and Video > Video Output. Not an in-game screenshot. Exact GTA VI video options are not announced.",
+  "data": {
+    "category": "ps5",
+    "title": "PS5 video settings",
+    "panel_title": "Screen and Video — illustration",
+    "platform": "PS5",
+    "highlightRow": 1,
+    "rows": [
+      {
+        "label": "Settings",
+        "value": "Screen and Video"
+      },
+      {
+        "label": "Video Output",
+        "value": "Use what your TV supports"
+      },
+      {
+        "label": "GTA VI video options",
+        "value": "Not announced yet"
+      }
+    ],
+    "note": "Illustration — not an in-game screenshot. Exact in-game video options are not announced yet."
+  }
+}

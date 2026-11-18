@@ -1,0 +1,29 @@
+{
+  "type": "menu-mock",
+  "alt": "Ilustracija strani slovenske trgovine PlayStation Store z izdajama Standard 79,99 € in Ultimate 99,99 €. Ni posnetek trgovine.",
+  "data": {
+    "locale": "sl",
+    "category_label": "Pred izidom",
+    "banner": "Ilustracija — ni posnetek iz igre",
+    "category": "pre-launch",
+    "title": "Ceni v slovenskem PlayStation Store",
+    "panel_title": "Trgovina PlayStation — ilustracija",
+    "platform": "PS5",
+    "highlightRow": 1,
+    "rows": [
+      {
+        "label": "Grand Theft Auto VI",
+        "value": "PlayStation Store Slovenija"
+      },
+      {
+        "label": "Standard",
+        "value": "79,99 €"
+      },
+      {
+        "label": "Ultimate",
+        "value": "99,99 €  ·  samo digitalno"
+      }
+    ],
+    "note": "Ilustracija — ni posnetek trgovine. Preverjeno 18. 11. 2026. Evrske cene vključujejo DDV."
+  }
+}

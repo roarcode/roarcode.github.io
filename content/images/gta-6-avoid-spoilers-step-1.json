@@ -1,0 +1,26 @@
+{
+  "type": "menu-mock",
+  "alt": "Illustration of X Settings and privacy, showing the path to Muted words under Mute and block. Not a screenshot of the live app.",
+  "data": {
+    "category": "beginner",
+    "title": "Find Muted words on X",
+    "panel_title": "Settings and privacy — illustration",
+    "platform": "X",
+    "highlightRow": 2,
+    "rows": [
+      {
+        "label": "Settings and privacy",
+        "value": "More, in the left menu"
+      },
+      {
+        "label": "Privacy and safety",
+        "value": "Mute and block"
+      },
+      {
+        "label": "Muted words",
+        "value": "Add a phrase here"
+      }
+    ],
+    "note": "Illustration — not a screenshot of X. Menus can differ a little on the website, iPhone and Android."
+  }
+}

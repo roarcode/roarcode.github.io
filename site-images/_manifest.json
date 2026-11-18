@@ -21,7 +21,8 @@
   "height": 675,
   "bytes": 43124,
   "alt": "Schematic map pins: a mission marker with a fast-car pin parked beside it.",
-  "type": "map-annotate"
+  "type": "map-annotate",
+  "credit": "Original schematic by Leonida Guides."
  },
  "editions-prices-step-1": {
   "file": "editions-prices-step-1.webp",
@@ -117,7 +118,8 @@
   "height": 675,
   "bytes": 47418,
   "alt": "Our own sketch with six numbered regions of Leonida. Names are on the guide page. Not to scale and not a real map.",
-  "type": "map-annotate"
+  "type": "map-annotate",
+  "credit": "Original schematic by Leonida Guides."
  },
  "leonida-step-2": {
   "file": "leonida-step-2.webp",
@@ -141,7 +143,8 @@
   "height": 675,
   "bytes": 46442,
   "alt": "Our own sketch with six numbered regions of Leonida, names to be added once confirmed. Not to scale.",
-  "type": "map-annotate"
+  "type": "map-annotate",
+  "credit": "Original schematic by Leonida Guides."
  },
  "map-step-3": {
   "file": "map-step-3.webp",
@@ -149,7 +152,8 @@
   "height": 675,
   "bytes": 40262,
   "alt": "Legend of four pin types planned for our interactive map: shops, garages, collectibles and activities.",
-  "type": "map-annotate"
+  "type": "map-annotate",
+  "credit": "Original schematic by Leonida Guides."
  },
  "platforms-step-1": {
   "file": "platforms-step-1.webp",
@@ -242,10 +246,10 @@
  "release-time-step-1": {
   "file": "release-time-step-1.webp",
   "width": 1200,
-  "height": 1002,
-  "bytes": 74420,
-  "alt": "Table of the unlock order from New Zealand (12:00 CET on Wed 18 Nov) to the US East Coast (06:00 CET on Thu 19 Nov).",
-  "type": "compare-table"
+  "height": 886,
+  "bytes": 65760,
+  "alt": "Chart of the unlock order from New Zealand (12:00 CET on Wed 18 Nov) to the US East Coast (06:00 CET on Thu 19 Nov).",
+  "type": "timezone-chart"
  },
  "release-time-step-4": {
   "file": "release-time-step-4.webp",
@@ -270,5 +274,812 @@
   "bytes": 45908,
   "alt": "Diagram of the Xbox path to the GTA+ offer: Store, profile icon, Offers & credits.",
   "type": "step-card"
+ },
+ "editions-prices-step-2": {
+  "file": "editions-prices-step-2.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 44932,
+  "alt": "Illustration of a store game page listing Standard and Ultimate edition prices. Not an in-game screenshot.",
+  "type": "menu-mock"
+ },
+ "gta-6-best-car-early-step-1": {
+  "file": "gta-6-best-car-early-step-1.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 52886,
+  "alt": "Table of cars Rockstar has named so far: the '55 Vapid Stanier and the '95 Grotti Cheetah, with source and whether they are early in the game marked not tested.",
+  "type": "compare-table"
+ },
+ "gta-6-best-car-early-step-2": {
+  "file": "gta-6-best-car-early-step-2.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 39092,
+  "alt": "Schematic map with a single placeholder pin. The location of the best early car is not published yet.",
+  "type": "map-annotate",
+  "credit": "Original schematic by Leonida Guides."
+ },
+ "gta-6-best-car-early-step-3": {
+  "file": "gta-6-best-car-early-step-3.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 40838,
+  "alt": "Illustration of a car stats panel with values marked not tested. Not an in-game screenshot.",
+  "type": "menu-mock"
+ },
+ "gta-6-cheats-step-1": {
+  "file": "gta-6-cheats-step-1.webp",
+  "width": 1200,
+  "height": 696,
+  "bytes": 40878,
+  "alt": "Three-row table showing that cheat codes, cheat phone numbers, and whether cheats turn off trophies are all not announced.",
+  "type": "compare-table"
+ },
+ "gta-6-cheats-step-2": {
+  "file": "gta-6-cheats-step-2.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 32872,
+  "alt": "Three boxes with arrows showing how a cheat code gets listed: find a public source, test it, then post it with the date and platform.",
+  "type": "info-cards"
+ },
+ "gta-6-cheats-step-3": {
+  "file": "gta-6-cheats-step-3.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 30208,
+  "alt": "Empty table with PS5 and Xbox columns, showing where confirmed cheat codes will be listed.",
+  "type": "compare-table"
+ },
+ "gta-6-download-stuck-step-1": {
+  "file": "gta-6-download-stuck-step-1.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 45884,
+  "alt": "Illustration of PS5 Downloads/Uploads with Grand Theft Auto VI selected and a Pause option. Not an in-game screenshot.",
+  "type": "menu-mock"
+ },
+ "gta-6-download-stuck-step-2": {
+  "file": "gta-6-download-stuck-step-2.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 45866,
+  "alt": "Illustration of the Xbox Queue with Resume installation visible. Not an in-game screenshot.",
+  "type": "menu-mock"
+ },
+ "gta-6-download-stuck-step-3": {
+  "file": "gta-6-download-stuck-step-3.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 37380,
+  "alt": "Storage bar diagram highlighting 212 GB of free space needed, with a tick.",
+  "type": "bar-chart"
+ },
+ "gta-6-error-codes-step-1": {
+  "file": "gta-6-error-codes-step-1.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 46754,
+  "alt": "Illustration of a generic error box with the code line highlighted, showing the part to write down. Not game footage.",
+  "type": "menu-mock"
+ },
+ "gta-6-error-codes-step-2": {
+  "file": "gta-6-error-codes-step-2.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 37872,
+  "alt": "Three boxes with arrows: write the code down, check status pages, then try the fixes.",
+  "type": "info-cards"
+ },
+ "gta-6-error-codes-step-3": {
+  "file": "gta-6-error-codes-step-3.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 38834,
+  "alt": "Two cards pointing to PlayStation error-code pages and Xbox Support, where each platform lists its own codes.",
+  "type": "info-cards"
+ },
+ "gta-6-first-mission-step-1": {
+  "file": "gta-6-first-mission-step-1.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 36540,
+  "alt": "Schematic map with a single placeholder start pin. The first mission start point is filled only from the game after launch, with no story details.",
+  "type": "map-annotate",
+  "credit": "Original schematic by Leonida Guides."
+ },
+ "gta-6-first-mission-step-2": {
+  "file": "gta-6-first-mission-step-2.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 44644,
+  "alt": "Illustration of a pause-menu mission entry with the name left as a placeholder. Not an in-game screenshot.",
+  "type": "menu-mock"
+ },
+ "gta-6-first-mission-step-3": {
+  "file": "gta-6-first-mission-step-3.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 44444,
+  "alt": "Placeholder step card for the first mission's main objective, with no story details.",
+  "type": "step-card"
+ },
+ "gta-6-how-to-make-money-fast-step-1": {
+  "file": "gta-6-how-to-make-money-fast-step-1.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 41626,
+  "alt": "Placeholder table for money methods ranked by money per hour. No payouts have been tested yet.",
+  "type": "compare-table"
+ },
+ "gta-6-how-to-make-money-fast-step-2": {
+  "file": "gta-6-how-to-make-money-fast-step-2.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 36226,
+  "alt": "Schematic map with a single placeholder pin for where a money method starts. Location to be filled after testing, with no story details.",
+  "type": "map-annotate",
+  "credit": "Original schematic by Leonida Guides."
+ },
+ "gta-6-how-to-make-money-fast-step-3": {
+  "file": "gta-6-how-to-make-money-fast-step-3.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 39610,
+  "alt": "Illustration of a cash total panel with before and after values marked not tested. Not an in-game screenshot.",
+  "type": "menu-mock"
+ },
+ "gta-6-launch-hub-step-1": {
+  "file": "gta-6-launch-hub-step-1.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 43948,
+  "alt": "Four boxes named Right now, Not working, Buy and know, and World and people, showing the groups on the launch hub.",
+  "type": "info-cards"
+ },
+ "gta-6-launch-hub-step-2": {
+  "file": "gta-6-launch-hub-step-2.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 44116,
+  "alt": "Timeline of unlock times from New Zealand at 12:00 CET, through central Europe at 00:00 CET, to the US East Coast at 06:00 CET.",
+  "type": "timezone-chart"
+ },
+ "gta-6-launch-hub-step-3": {
+  "file": "gta-6-launch-hub-step-3.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 40806,
+  "alt": "Three cards for the Rockstar, PlayStation and Xbox status pages to check first.",
+  "type": "info-cards"
+ },
+ "gta-6-map-size-step-1": {
+  "file": "gta-6-map-size-step-1.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 45456,
+  "alt": "Bar chart of the two size claims: about 2× GTA 5 and about 3× Red Dead Redemption 2, plus a grey bar marked area not announced.",
+  "type": "bar-chart"
+ },
+ "gta-6-map-size-step-2": {
+  "file": "gta-6-map-size-step-2.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 50930,
+  "alt": "Illustration of the official GTA VI site area where a printable map link would sit. Not a screenshot of the live page.",
+  "type": "menu-mock"
+ },
+ "gta-6-map-size-step-3": {
+  "file": "gta-6-map-size-step-3.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 46494,
+  "alt": "Two-item checklist of what would change the map-size page: a published measurement, or a figure posted by Rockstar.",
+  "type": "info-cards"
+ },
+ "gta-6-not-working-step-1": {
+  "file": "gta-6-not-working-step-1.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 54050,
+  "alt": "Three cards named Rockstar, PlayStation and Xbox, each with a green tick and a red cross example, for checking status pages first.",
+  "type": "info-cards"
+ },
+ "gta-6-not-working-step-2": {
+  "file": "gta-6-not-working-step-2.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 37060,
+  "alt": "Illustration of the PS5 Power menu with Restart PS5 highlighted. Not an in-game screenshot.",
+  "type": "menu-mock"
+ },
+ "gta-6-not-working-step-3": {
+  "file": "gta-6-not-working-step-3.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 41928,
+  "alt": "Illustration of Xbox Network settings with Test network connection highlighted. Not an in-game screenshot.",
+  "type": "menu-mock"
+ },
+ "gta-6-preload-not-starting-step-1": {
+  "file": "gta-6-preload-not-starting-step-1.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 53134,
+  "alt": "Illustration of a PlayStation Store avatar menu with Redeem Code highlighted. Not an in-game screenshot.",
+  "type": "menu-mock"
+ },
+ "gta-6-preload-not-starting-step-2": {
+  "file": "gta-6-preload-not-starting-step-2.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 48910,
+  "alt": "Illustration of PS5 Downloads/Uploads with Grand Theft Auto VI listed. Not an in-game screenshot.",
+  "type": "menu-mock"
+ },
+ "gta-6-preload-not-starting-step-3": {
+  "file": "gta-6-preload-not-starting-step-3.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 40628,
+  "alt": "Illustration of Xbox Full library with Grand Theft Auto VI and an Install action. Not an in-game screenshot.",
+  "type": "menu-mock"
+ },
+ "gta-6-ps5-fixes-step-1": {
+  "file": "gta-6-ps5-fixes-step-1.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 39670,
+  "alt": "Illustration of the PS5 Power menu with Restart PS5 highlighted. Not an in-game screenshot.",
+  "type": "menu-mock"
+ },
+ "gta-6-ps5-fixes-step-2": {
+  "file": "gta-6-ps5-fixes-step-2.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 50008,
+  "alt": "Illustration of the PS5 Safe Mode list with option 6, Clear Cache and Rebuild Database, highlighted. Not an in-game screenshot.",
+  "type": "menu-mock"
+ },
+ "gta-6-ps5-fixes-step-3": {
+  "file": "gta-6-ps5-fixes-step-3.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 49888,
+  "alt": "Illustration of PS5 Console Sharing and Offline Play with Enable visible. Not an in-game screenshot.",
+  "type": "menu-mock"
+ },
+ "gta-6-xbox-fixes-step-1": {
+  "file": "gta-6-xbox-fixes-step-1.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 42252,
+  "alt": "Illustration of Xbox Power Center with Restart console highlighted. Not an in-game screenshot.",
+  "type": "menu-mock"
+ },
+ "gta-6-xbox-fixes-step-2": {
+  "file": "gta-6-xbox-fixes-step-2.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 47274,
+  "alt": "Illustration of the Xbox Queue with Grand Theft Auto VI highlighted and Resume installation. Not an in-game screenshot.",
+  "type": "menu-mock"
+ },
+ "gta-6-xbox-fixes-step-3": {
+  "file": "gta-6-xbox-fixes-step-3.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 48710,
+  "alt": "Illustration of Xbox Storage devices with free space visible. Not an in-game screenshot.",
+  "type": "menu-mock"
+ },
+ "is-gta-6-out-step-1": {
+  "file": "is-gta-6-out-step-1.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 48178,
+  "alt": "World clock diagram showing the unlock moving west: New Zealand at 12:00 CET, central Europe at 00:00 CET, and the US East Coast at 06:00 CET.",
+  "type": "timezone-chart"
+ },
+ "is-gta-6-out-step-2": {
+  "file": "is-gta-6-out-step-2.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 43400,
+  "alt": "Illustration of the PS5 Game Library with the Grand Theft Auto VI tile selected and a countdown. Not an in-game screenshot.",
+  "type": "menu-mock"
+ },
+ "is-gta-6-out-step-3": {
+  "file": "is-gta-6-out-step-3.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 46134,
+  "alt": "Illustration of the Xbox Full library page with Grand Theft Auto VI selected and a release time. Not an in-game screenshot.",
+  "type": "menu-mock"
+ },
+ "jason-lucia-step-1": {
+  "file": "jason-lucia-step-1.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 107448,
+  "alt": "Official marketing key art of the two leads sitting on the hood of a car at sunset, with palmtrees and hotel fronts behind them. Marketing artwork, not a story scene.",
+  "type": "press-still",
+  "credit": "Image: Rockstar Games",
+  "source": "https://www.rockstargames.com/VI/media/artwork-wallpapers"
+ },
+ "map-step-1": {
+  "file": "map-step-1.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 106598,
+  "alt": "Official press screenshot of the Leonida Keys: islands, a long bridge and a seaplane, with a city skyline in the distance. Wide landscape, no story content.",
+  "type": "press-still",
+  "credit": "Image: Rockstar Games",
+  "source": "https://www.rockstargames.com/VI/media/screenshots"
+ },
+ "platforms-step-2": {
+  "file": "platforms-step-2.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 47542,
+  "alt": "Illustration of My games & apps with Grand Theft Auto VI and a Cloud play option. Not an in-game screenshot.",
+  "type": "menu-mock"
+ },
+ "preload-size-step-3": {
+  "file": "preload-size-step-3.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 44260,
+  "alt": "Illustration of a PS5 game page with the Download action highlighted. Not an in-game screenshot.",
+  "type": "menu-mock"
+ },
+ "release-time-step-2": {
+  "file": "release-time-step-2.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 46408,
+  "alt": "Illustration of the PS5 Game Library with Grand Theft Auto VI selected and locked or countdown text. Not an in-game screenshot.",
+  "type": "menu-mock"
+ },
+ "release-time-step-3": {
+  "file": "release-time-step-3.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 47492,
+  "alt": "Illustration of the Xbox Full library page with Grand Theft Auto VI selected and a release time. Not an in-game screenshot.",
+  "type": "menu-mock"
+ },
+ "vintage-vice-city-pack-step-2": {
+  "file": "vintage-vice-city-pack-step-2.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 45944,
+  "alt": "Illustration of a store Editions list with the Vintage Vice City Pack included. Not an in-game screenshot.",
+  "type": "menu-mock"
+ },
+ "gta-6-festival-step-1": {
+  "file": "gta-6-festival-step-1.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 36730,
+  "alt": "Calendar card for Saturday 21 November 2026 with two clocks: 4:00 PM in Miami and 22:00 in Slovenia.",
+  "type": "sketch"
+ },
+ "gta-6-festival-step-2": {
+  "file": "gta-6-festival-step-2.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 45802,
+  "alt": "Four boxes in a row: Sign up, Picked at random, Code by text, Buy up to 2 tickets. The lottery is now closed.",
+  "type": "info-cards"
+ },
+ "gta-6-festival-step-3": {
+  "file": "gta-6-festival-step-3.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 35130,
+  "alt": "Two simple stage drawings side by side, with music notes and no artist photos.",
+  "type": "sketch"
+ },
+ "gta-6-night-in-vice-city-step-1": {
+  "file": "gta-6-night-in-vice-city-step-1.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 36726,
+  "alt": "Two clocks side by side: 7:00 PM Wednesday in Miami and 01:00 Thursday in Slovenia.",
+  "type": "sketch"
+ },
+ "gta-6-night-in-vice-city-step-2": {
+  "file": "gta-6-night-in-vice-city-step-2.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 31022,
+  "alt": "A simple top-down sketch of a pink and blue basketball court with a plain Vice City label in the centre. No team or brand logos.",
+  "type": "sketch"
+ },
+ "gta-6-night-in-vice-city-step-3": {
+  "file": "gta-6-night-in-vice-city-step-3.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 38112,
+  "alt": "A short timeline for launch night in Slovenia: 00:00 CET game unlock, then 01:00 CET tip-off.",
+  "type": "sketch"
+ },
+ "gta-6-trailers-step-1": {
+  "file": "gta-6-trailers-step-1.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 39554,
+  "alt": "A timeline from 2023 to 2026 with four plain cards labelled Trailer 1, Trailer 2, Extended Look and Launch Trailer. No screenshots.",
+  "type": "sketch"
+ },
+ "gta-6-trailers-step-2": {
+  "file": "gta-6-trailers-step-2.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 33822,
+  "alt": "A large play button with a tag saying the newer videos were captured in-game on PS5.",
+  "type": "sketch"
+ },
+ "gta-6-trailers-step-3": {
+  "file": "gta-6-trailers-step-3.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 35002,
+  "alt": "Three icon cards: a basketball, a stage, and a download arrow, for the extra official videos from November.",
+  "type": "sketch"
+ },
+ "gta-6-new-zealand-trick-step-1": {
+  "file": "gta-6-new-zealand-trick-step-1.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 43936,
+  "alt": "A time line with New Zealand at 12:00 CET and Slovenia at 00:00 CET, showing a 12-hour gap.",
+  "type": "timezone-chart"
+ },
+ "gta-6-new-zealand-trick-step-2": {
+  "file": "gta-6-new-zealand-trick-step-2.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 52972,
+  "alt": "Four warning cards: rules, a locked account, no official promise, and spoilers if you wait.",
+  "type": "info-cards"
+ },
+ "gta-6-new-zealand-trick-step-3": {
+  "file": "gta-6-new-zealand-trick-step-3.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 47886,
+  "alt": "Illustration of Xbox Settings > System > Language & location with the Location field highlighted. Not an in-game screenshot.",
+  "type": "menu-mock"
+ },
+ "gta-6-ps5-system-update-required-step-1": {
+  "file": "gta-6-ps5-system-update-required-step-1.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 51190,
+  "alt": "Illustration of PS5 Console Information with the system software version line visible. Not an in-game screenshot.",
+  "type": "menu-mock"
+ },
+ "gta-6-ps5-system-update-required-step-2": {
+  "file": "gta-6-ps5-system-update-required-step-2.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 58870,
+  "alt": "Illustration of PS5 System Software Update and Settings with Update System Software highlighted. Not an in-game screenshot.",
+  "type": "menu-mock"
+ },
+ "gta-6-ps5-system-update-required-step-3": {
+  "file": "gta-6-ps5-system-update-required-step-3.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 38744,
+  "alt": "Diagram of a USB drive folder layout: a PS5 folder, then UPDATE, then the file PS5UPDATE.PUP.",
+  "type": "sketch"
+ },
+ "gta-6-day-one-patch-step-1": {
+  "file": "gta-6-day-one-patch-step-1.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 48598,
+  "alt": "Illustration of a PS5 game library entry for Grand Theft Auto VI with Check for Update in the Options menu. Not an in-game screenshot.",
+  "type": "menu-mock"
+ },
+ "gta-6-day-one-patch-step-2": {
+  "file": "gta-6-day-one-patch-step-2.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 49062,
+  "alt": "Illustration of the Xbox Queue with Grand Theft Auto VI listed. Not an in-game screenshot.",
+  "type": "menu-mock"
+ },
+ "gta-6-day-one-patch-step-3": {
+  "file": "gta-6-day-one-patch-step-3.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 48096,
+  "alt": "Two boxes labelled Game patch and PS5 system update, both marked as needed.",
+  "type": "info-cards"
+ },
+ "gta-6-physical-edition-code-in-box-step-1": {
+  "file": "gta-6-physical-edition-code-in-box-step-1.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 50244,
+  "alt": "Illustration of a PlayStation Store avatar menu with Redeem Code highlighted. Not an in-game screenshot.",
+  "type": "menu-mock"
+ },
+ "gta-6-physical-edition-code-in-box-step-2": {
+  "file": "gta-6-physical-edition-code-in-box-step-2.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 41032,
+  "alt": "Illustration of PlayStation Store Order History with a Grand Theft Auto VI line. Not a store screenshot.",
+  "type": "menu-mock"
+ },
+ "gta-6-physical-edition-code-in-box-step-3": {
+  "file": "gta-6-physical-edition-code-in-box-step-3.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 39932,
+  "alt": "Three boxes: missing code goes to the shop, a Rockstar Store order goes to Xsolla, and an account problem goes to PlayStation Support.",
+  "type": "info-cards"
+ },
+ "gta-6-xbox-service-outage-message-step-1": {
+  "file": "gta-6-xbox-service-outage-message-step-1.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 50866,
+  "alt": "Illustration of an Xbox status page with one service expanded. Not a screenshot of the live status site.",
+  "type": "menu-mock"
+ },
+ "gta-6-xbox-service-outage-message-step-2": {
+  "file": "gta-6-xbox-service-outage-message-step-2.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 46822,
+  "alt": "Illustration of Xbox Network settings with Go offline highlighted. Not an in-game screenshot.",
+  "type": "menu-mock"
+ },
+ "gta-6-xbox-service-outage-message-step-3": {
+  "file": "gta-6-xbox-service-outage-message-step-3.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 40424,
+  "alt": "Illustration of Xbox Power Center with Restart console highlighted. Not an in-game screenshot.",
+  "type": "menu-mock"
+ },
+ "gta-6-pc-release-date-step-1": {
+  "file": "gta-6-pc-release-date-step-1.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 38584,
+  "alt": "Table of platforms: PS5 and Xbox Series X|S are ticked; PC is marked not announced.",
+  "type": "compare-table"
+ },
+ "gta-6-pc-release-date-step-2": {
+  "file": "gta-6-pc-release-date-step-2.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 38940,
+  "alt": "A timeline with 19 November 2026 as a solid launch mark, and a dashed Q1 2027 mark labelled Rumour.",
+  "type": "sketch"
+ },
+ "gta-6-pc-release-date-step-3": {
+  "file": "gta-6-pc-release-date-step-3.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 44664,
+  "alt": "Three icons for the signs that would confirm a PC date: a Rockstar post, a store page, and a listed date.",
+  "type": "info-cards"
+ },
+ "gta-6-refund-purchase-error-step-1": {
+  "file": "gta-6-refund-purchase-error-step-1.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 49506,
+  "alt": "Illustration of PlayStation Store order details with Request Refund highlighted. Not a store screenshot.",
+  "type": "menu-mock"
+ },
+ "gta-6-refund-purchase-error-step-2": {
+  "file": "gta-6-refund-purchase-error-step-2.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 47980,
+  "alt": "Illustration of an Xbox Request a refund page with an item selected. Not a store screenshot.",
+  "type": "menu-mock"
+ },
+ "gta-6-refund-purchase-error-step-3": {
+  "file": "gta-6-refund-purchase-error-step-3.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 38896,
+  "alt": "Four signposts for who to contact: PlayStation Support, Xbox Support, Xsolla, and the shop you bought from.",
+  "type": "info-cards"
+ },
+ "gta-6-avoid-spoilers-step-1": {
+  "file": "gta-6-avoid-spoilers-step-1.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 45328,
+  "alt": "Illustration of X Settings and privacy, showing the path to Muted words under Mute and block. Not a screenshot of the live app.",
+  "type": "menu-mock"
+ },
+ "gta-6-avoid-spoilers-step-2": {
+  "file": "gta-6-avoid-spoilers-step-2.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 50524,
+  "alt": "Illustration of a muted-words list with the starter phrases GTA 6 ending, GTA VI ending and GTA 6 spoilers. Not a screenshot of X.",
+  "type": "menu-mock"
+ },
+ "gta-6-avoid-spoilers-step-3": {
+  "file": "gta-6-avoid-spoilers-step-3.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 49596,
+  "alt": "A timeline from New Zealand at 12:00 CET to Slovenia at 00:00 CET, marking the window to mute spoilers.",
+  "type": "timezone-chart"
+ },
+ "gta-6-cena-v-sloveniji-step-1": {
+  "file": "gta-6-cena-v-sloveniji-step-1.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 42012,
+  "alt": "Dve kartici s cenama: Standard 79,99 € in Ultimate 99,99 €.",
+  "type": "info-cards"
+ },
+ "gta-6-cena-v-sloveniji-step-2": {
+  "file": "gta-6-cena-v-sloveniji-step-2.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 48324,
+  "alt": "Ilustracija strani slovenske trgovine PlayStation Store z izdajama Standard 79,99 € in Ultimate 99,99 €. Ni posnetek trgovine.",
+  "type": "menu-mock"
+ },
+ "gta-6-cena-v-sloveniji-step-3": {
+  "file": "gta-6-cena-v-sloveniji-step-3.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 40896,
+  "alt": "Ilustracija iskanja Grand Theft Auto VI na PS5 in Xboxu z gumbom za nakup Standard ali Ultimate. Ni posnetek iz igre.",
+  "type": "menu-mock"
+ },
+ "gta-6-controls-step-1": {
+  "file": "gta-6-controls-step-1.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 37420,
+  "alt": "A simple DualSense-style controller outline with a banner saying the button map is not announced yet.",
+  "type": "sketch"
+ },
+ "gta-6-controls-step-2": {
+  "file": "gta-6-controls-step-2.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 35270,
+  "alt": "A simple Xbox-style controller outline with a banner saying the button map is not announced yet.",
+  "type": "sketch"
+ },
+ "gta-6-controls-step-3": {
+  "file": "gta-6-controls-step-3.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 45718,
+  "alt": "Illustration of a pause menu with Settings, Controls and Accessibility marked to be checked after launch. Not an in-game screenshot.",
+  "type": "menu-mock"
+ },
+ "gta-6-performance-mode-step-1": {
+  "file": "gta-6-performance-mode-step-1.webp",
+  "width": 1200,
+  "height": 735,
+  "bytes": 50180,
+  "alt": "A bar chart showing a 30 FPS target for PS5, PS5 Pro, Xbox Series X and Xbox Series S. No 60 FPS or performance mode is announced.",
+  "type": "bar-chart"
+ },
+ "gta-6-performance-mode-step-2": {
+  "file": "gta-6-performance-mode-step-2.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 43354,
+  "alt": "Illustration of PS5 Settings > Screen and Video > Video Output. Not an in-game screenshot. Exact GTA VI video options are not announced.",
+  "type": "menu-mock"
+ },
+ "gta-6-performance-mode-step-3": {
+  "file": "gta-6-performance-mode-step-3.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 45008,
+  "alt": "A warning diagram: console to PC, with a warning that unofficial 60 or 120 FPS tools are untested.",
+  "type": "info-cards"
+ },
+ "gta-6-review-score-roundup-step-1": {
+  "file": "gta-6-review-score-roundup-step-1.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 45596,
+  "alt": "A bar chart of Metascores quoted by Insider Gaming on 18 Nov 2026: GTA VI at 99, and GTA IV at 98 as Rockstar's previous high.",
+  "type": "bar-chart"
+ },
+ "gta-6-review-score-roundup-step-2": {
+  "file": "gta-6-review-score-roundup-step-2.webp",
+  "width": 1200,
+  "height": 846,
+  "bytes": 46036,
+  "alt": "A table of six outlet scores seen on OpenCritic on 18 Nov, all out of 10.",
+  "type": "compare-table"
+ },
+ "gta-6-review-score-roundup-step-3": {
+  "file": "gta-6-review-score-roundup-step-3.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 45260,
+  "alt": "A spoiler-free review checklist: read only the score and the first paragraph, mute words on X, and skip story discussion.",
+  "type": "info-cards"
+ },
+ "gta-6-v-sloveniji-ura-izida-step-1": {
+  "file": "gta-6-v-sloveniji-ura-izida-step-1.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 34108,
+  "alt": "Diagram ure, ki kaže 00:00 CET v četrtek, 19. 11. 2026, z oznako Slovenija.",
+  "type": "sketch"
+ },
+ "gta-6-v-sloveniji-ura-izida-step-2": {
+  "file": "gta-6-v-sloveniji-ura-izida-step-2.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 43036,
+  "alt": "Ilustracija knjižnice iger na PS5 z odštevanjem do odklenitve. Ni posnetek iz igre.",
+  "type": "menu-mock"
+ },
+ "gta-6-v-sloveniji-ura-izida-step-3": {
+  "file": "gta-6-v-sloveniji-ura-izida-step-3.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 45948,
+  "alt": "Ilustracija knjižnice iger na Xboxu z uro izida. Ni posnetek iz igre.",
+  "type": "menu-mock"
+ },
+ "gta-6-velikost-prenosa-in-predprenos-step-1": {
+  "file": "gta-6-velikost-prenosa-in-predprenos-step-1.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 44324,
+  "alt": "Ilustracija nastavitev PS5 pod Shramba, kjer vidiš prosto mesto. Ni posnetek iz igre.",
+  "type": "menu-mock"
+ },
+ "gta-6-velikost-prenosa-in-predprenos-step-2": {
+  "file": "gta-6-velikost-prenosa-in-predprenos-step-2.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 48156,
+  "alt": "Ilustracija nastavitev Xbox pod Storage devices s prostim mestom. Ni posnetek iz igre.",
+  "type": "menu-mock"
+ },
+ "gta-6-velikost-prenosa-in-predprenos-step-3": {
+  "file": "gta-6-velikost-prenosa-in-predprenos-step-3.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 47864,
+  "alt": "Ilustracija strani Grand Theft Auto VI v knjižnici iger na PS5 z dejanjem Prenesi. Ni posnetek iz igre.",
+  "type": "menu-mock"
+ },
+ "gta-6-avoid-spoilers-step-4": {
+  "file": "gta-6-avoid-spoilers-step-4.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 57596,
+  "alt": "Illustration of a Reddit three-dot menu with Mute r/GTA6 highlighted. Not a screenshot of the live app.",
+  "type": "menu-mock"
+ },
+ "gta-6-avoid-spoilers-step-5": {
+  "file": "gta-6-avoid-spoilers-step-5.webp",
+  "width": 1200,
+  "height": 675,
+  "bytes": 45930,
+  "alt": "Illustration of the PS5 control center with Notifications and Do Not Disturb turned on. Not an in-game screenshot.",
+  "type": "menu-mock"
  }
 }

@@ -1,0 +1,40 @@
+{
+  "type": "compare-table",
+  "alt": "A table of six outlet scores seen on OpenCritic on 18 Nov, all out of 10.",
+  "data": {
+    "category": "pre-launch",
+    "title": "Six outlet scores on OpenCritic",
+    "subtitle": "Seen on 18 Nov. We did not open each review. Scores are out of 10.",
+    "columns": [
+      "Outlet",
+      "Score"
+    ],
+    "rows": [
+      [
+        "DualShockers",
+        "10"
+      ],
+      [
+        "GameSpew",
+        "10"
+      ],
+      [
+        "Wccftech",
+        "9.6"
+      ],
+      [
+        "GRYOnline.pl",
+        "9.5"
+      ],
+      [
+        "TheSixthAxis",
+        "9"
+      ],
+      [
+        "ZTGD",
+        "9"
+      ]
+    ],
+    "note": "IGN, GameSpot and Eurogamer also published reviews. We have not confirmed their numbers, so we show none."
+  }
+}

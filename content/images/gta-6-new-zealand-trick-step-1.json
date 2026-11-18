@@ -1,0 +1,26 @@
+{
+  "type": "timezone-chart",
+  "alt": "A time line with New Zealand at 12:00 CET and Slovenia at 00:00 CET, showing a 12-hour gap.",
+  "data": {
+    "category": "pre-launch",
+    "title": "A 12-hour gap",
+    "axis_label": "Time in CET",
+    "axis_start": "Wed 18 Nov, 12:00",
+    "axis_end": "Thu 19 Nov, 12:00",
+    "subtitle": "New Zealand first, Slovenia 12 hours later",
+    "rows": [
+      [
+        "New Zealand",
+        "Thu 19 Nov, 12:00 AM NZDT",
+        "Wed 18 Nov, 12:00"
+      ],
+      [
+        "Slovenia",
+        "Thu 19 Nov, 12:00 AM CET",
+        "Thu 19 Nov, 00:00"
+      ]
+    ],
+    "legend": "Each mark is 12:00 AM local time, shown in CET.",
+    "note": "New Zealand unlocks at 12:00 CET on Wed 18 Nov. Slovenia unlocks 12 hours later, at 00:00 CET on Thu 19 Nov."
+  }
+}

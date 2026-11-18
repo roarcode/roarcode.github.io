@@ -1,0 +1,29 @@
+{
+  "type": "menu-mock",
+  "alt": "Ilustracija nastavitev Xbox pod Storage devices s prostim mestom. Ni posnetek iz igre.",
+  "data": {
+    "locale": "sl",
+    "category_label": "Pred izidom",
+    "banner": "Ilustracija — ni posnetek iz igre",
+    "category": "pre-launch",
+    "title": "Preveri prosto mesto na Xboxu",
+    "panel_title": "Settings > System > Storage devices — ilustracija",
+    "platform": "Xbox",
+    "highlightRow": 2,
+    "rows": [
+      {
+        "label": "Settings",
+        "value": "System"
+      },
+      {
+        "label": "Storage devices",
+        "value": "Interna shramba"
+      },
+      {
+        "label": "Prosto mesto",
+        "value": "Najmanj 212 GB"
+      }
+    ],
+    "note": "Ilustracija — ni posnetek iz igre. Slovenskih oznak na Xboxu nismo mogli preveriti, zato poglej napise na svoji konzoli."
+  }
+}

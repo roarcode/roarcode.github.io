@@ -1,0 +1,12 @@
+{
+  "type": "sketch",
+  "alt": "A simple DualSense-style controller outline with a banner saying the button map is not announced yet.",
+  "data": {
+    "category": "ps5",
+    "title": "PS5 button map — not confirmed yet",
+    "motif": "controller",
+    "controller": "ps",
+    "overlay": "Not announced yet",
+    "note": "Original outline, not an official diagram. Haptic feedback on DualSense is confirmed and can be adjusted in accessibility settings."
+  }
+}

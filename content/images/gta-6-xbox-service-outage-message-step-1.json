@@ -1,0 +1,26 @@
+{
+  "type": "menu-mock",
+  "alt": "Illustration of an Xbox status page with one service expanded. Not a screenshot of the live status site.",
+  "data": {
+    "category": "glitches",
+    "title": "Check the Xbox status page",
+    "panel_title": "Xbox status — illustration",
+    "platform": "Xbox",
+    "highlightRow": 1,
+    "rows": [
+      {
+        "label": "Xbox Live Core Services",
+        "value": "Check this row"
+      },
+      {
+        "label": "One service expanded",
+        "value": "Read if it is up or down"
+      },
+      {
+        "label": "Store and games",
+        "value": "Check these too"
+      }
+    ],
+    "note": "Illustration — not a screenshot of the live status page. Open the real Xbox status page before you change settings."
+  }
+}

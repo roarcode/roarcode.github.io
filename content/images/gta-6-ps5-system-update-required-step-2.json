@@ -1,0 +1,26 @@
+{
+  "type": "menu-mock",
+  "alt": "Illustration of PS5 System Software Update and Settings with Update System Software highlighted. Not an in-game screenshot.",
+  "data": {
+    "category": "glitches",
+    "title": "Install the update over the internet",
+    "panel_title": "System Software Update and Settings — illustration",
+    "platform": "PS5",
+    "highlightRow": 1,
+    "rows": [
+      {
+        "label": "Download Update Files Automatically",
+        "value": "Turn on if you want"
+      },
+      {
+        "label": "Update System Software",
+        "value": "Select this"
+      },
+      {
+        "label": "Update Using Internet",
+        "value": "About 1.3 GB"
+      }
+    ],
+    "note": "Illustration — not an in-game screenshot. Path: Settings > System > System Software > System Software Update and Settings. Do not turn the console off while it installs."
+  }
+}

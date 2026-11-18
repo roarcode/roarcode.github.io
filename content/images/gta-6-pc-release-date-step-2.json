@@ -1,0 +1,20 @@
+{
+  "type": "sketch",
+  "alt": "A timeline with 19 November 2026 as a solid launch mark, and a dashed Q1 2027 mark labelled Rumour.",
+  "data": {
+    "category": "pre-launch",
+    "title": "Console launch is set; PC is not",
+    "motif": "short-timeline",
+    "items": [
+      {
+        "time": "19 Nov 2026",
+        "title": "PS5 and Xbox Series X|S launch — confirmed"
+      },
+      {
+        "time": "Q1 2027",
+        "title": "PC date — rumour only, not announced"
+      }
+    ],
+    "note": "The dashed Q1 2027 idea is a rumour. We will only move it to confirmed if Rockstar posts a date."
+  }
+}

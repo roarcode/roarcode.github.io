@@ -1,0 +1,25 @@
+{
+  "type": "info-cards",
+  "alt": "A spoiler-free review checklist: read only the score and the first paragraph, mute words on X, and skip story discussion.",
+  "data": {
+    "category": "pre-launch",
+    "title": "Keep reviews spoiler-free here",
+    "cards": [
+      {
+        "title": "Score only",
+        "body": "If you want zero spoilers, read only the score and the first paragraph.",
+        "status": "ok"
+      },
+      {
+        "title": "Mute words first",
+        "body": "Mute phrases such as GTA 6 ending before you open review posts.",
+        "status": "ok"
+      },
+      {
+        "title": "No review text here",
+        "body": "This page quotes no review body. Full reviews may cover the story.",
+        "status": "ok"
+      }
+    ]
+  }
+}

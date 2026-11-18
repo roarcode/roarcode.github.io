@@ -1,0 +1,26 @@
+{
+  "type": "info-cards",
+  "alt": "Three icons for the signs that would confirm a PC date: a Rockstar post, a store page, and a listed date.",
+  "data": {
+    "category": "pre-launch",
+    "title": "What would confirm a PC date",
+    "cards": [
+      {
+        "title": "A Rockstar post",
+        "body": "Rockstar or Take-Two announces a PC version in their own channels.",
+        "status": "check"
+      },
+      {
+        "title": "A store page",
+        "body": "A PC store listing goes live with the game's name on it.",
+        "status": "check"
+      },
+      {
+        "title": "A listed date",
+        "body": "That announcement or listing includes a date we can check.",
+        "status": "check"
+      }
+    ],
+    "note": "Until then, PC is not announced."
+  }
+}

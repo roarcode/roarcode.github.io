@@ -1,0 +1,32 @@
+{
+  "type": "compare-table",
+  "alt": "Table of platforms: PS5 and Xbox Series X|S are ticked; PC is marked not announced.",
+  "data": {
+    "category": "pre-launch",
+    "title": "Where GTA 6 is confirmed",
+    "columns": [
+      "Platform",
+      "At launch?",
+      "Detail"
+    ],
+    "rows": [
+      [
+        "PS5 and PS5 Pro",
+        "yes Yes",
+        "19 Nov 2026"
+      ],
+      [
+        "Xbox Series X|S",
+        "yes Yes",
+        "19 Nov 2026"
+      ],
+      [
+        "PC",
+        "no Not announced",
+        "No date, no store page"
+      ]
+    ],
+    "highlightColumn": 0,
+    "note": "No PC version has been announced by Rockstar."
+  }
+}

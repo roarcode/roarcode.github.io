@@ -1,0 +1,28 @@
+{
+  "type": "menu-mock",
+  "alt": "Ilustracija iskanja Grand Theft Auto VI na PS5 in Xboxu z gumbom za nakup Standard ali Ultimate. Ni posnetek iz igre.",
+  "data": {
+    "locale": "sl",
+    "category_label": "Pred izidom",
+    "banner": "Ilustracija — ni posnetek iz igre",
+    "category": "pre-launch",
+    "title": "Iskanje in nakup na konzoli",
+    "panel_title": "Iskanje igre — ilustracija",
+    "highlightRow": 2,
+    "rows": [
+      {
+        "label": "Iskanje",
+        "value": "Grand Theft Auto VI"
+      },
+      {
+        "label": "Standard",
+        "value": "79,99 €"
+      },
+      {
+        "label": "Ultimate",
+        "value": "99,99 €  ·  kupi tukaj"
+      }
+    ],
+    "note": "Ilustracija — ni posnetek iz igre ali trgovine. Na Xboxu evrske cene preveri na svoji konzoli."
+  }
+}

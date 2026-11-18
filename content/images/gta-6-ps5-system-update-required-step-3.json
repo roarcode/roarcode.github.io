@@ -1,0 +1,21 @@
+{
+  "type": "sketch",
+  "alt": "Diagram of a USB drive folder layout: a PS5 folder, then UPDATE, then the file PS5UPDATE.PUP.",
+  "data": {
+    "category": "glitches",
+    "title": "USB folder layout PlayStation asks for",
+    "motif": "folders",
+    "items": [
+      {
+        "name": "PS5"
+      },
+      {
+        "name": "UPDATE"
+      },
+      {
+        "name": "PS5UPDATE.PUP"
+      }
+    ],
+    "note": "Capital letters, exact names. Only use the file from PlayStation's official page. Do not pick Reset PS5 (Reinstall System Software)."
+  }
+}

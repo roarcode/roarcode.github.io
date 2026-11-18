@@ -1,0 +1,28 @@
+{
+  "type": "info-cards",
+  "alt": "Three boxes: missing code goes to the shop, a Rockstar Store order goes to Xsolla, and an account problem goes to PlayStation Support.",
+  "data": {
+    "category": "pre-launch",
+    "title": "Who to contact",
+    "layout": "flow",
+    "cols": 3,
+    "card_height": 240,
+    "cards": [
+      {
+        "title": "Missing code",
+        "body": "If the box has no code, go back to the shop you bought it from.",
+        "status": "none"
+      },
+      {
+        "title": "Rockstar Store order",
+        "body": "If you bought it on the Rockstar Store, contact Xsolla.",
+        "status": "none"
+      },
+      {
+        "title": "Account problem",
+        "body": "If the code is fine but the account cannot redeem it, contact PlayStation Support.",
+        "status": "none"
+      }
+    ]
+  }
+}

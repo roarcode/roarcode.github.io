@@ -1,0 +1,26 @@
+{
+  "type": "menu-mock",
+  "alt": "Illustration of PlayStation Store Order History with a Grand Theft Auto VI line. Not a store screenshot.",
+  "data": {
+    "category": "pre-launch",
+    "title": "Find the order in Order History",
+    "panel_title": "Order History — illustration",
+    "platform": "PS5",
+    "highlightRow": 1,
+    "rows": [
+      {
+        "label": "PlayStation Store",
+        "value": "Your account"
+      },
+      {
+        "label": "Grand Theft Auto VI",
+        "value": "In Order History"
+      },
+      {
+        "label": "If it is missing",
+        "value": "See the next steps"
+      }
+    ],
+    "note": "Illustration — not a store screenshot."
+  }
+}

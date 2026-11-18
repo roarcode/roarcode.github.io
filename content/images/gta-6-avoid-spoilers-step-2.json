@@ -1,0 +1,30 @@
+{
+  "type": "menu-mock",
+  "alt": "Illustration of a muted-words list with the starter phrases GTA 6 ending, GTA VI ending and GTA 6 spoilers. Not a screenshot of X.",
+  "data": {
+    "category": "beginner",
+    "title": "A starter list of muted phrases",
+    "panel_title": "Muted words — illustration",
+    "platform": "X",
+    "highlightRow": 0,
+    "rows": [
+      {
+        "label": "GTA 6 ending",
+        "value": "Add this first"
+      },
+      {
+        "label": "GTA VI ending",
+        "value": "Add this too"
+      },
+      {
+        "label": "GTA 6 spoilers",
+        "value": "Add this too"
+      },
+      {
+        "label": "Optional, short timer",
+        "value": "GTA 6 review, #GTA6"
+      }
+    ],
+    "note": "Illustration — not a screenshot of X. Add one phrase at a time. A short mute on #GTA6 hides almost everything about the game."
+  }
+}
