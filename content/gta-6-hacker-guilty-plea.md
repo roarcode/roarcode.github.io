@@ -13,9 +13,8 @@ sources:
   - https://www.oxfordmail.co.uk/news/26734850.gta-6-oxfordshire-hacker-pleads-guilty-just-days-launch/
 updated: 2026-11-18
 publish: true
-draft: true
 spoilers: none
-qa: pending
+qa: passed
 ---
 
 # GTA 6 Hacker Pleads Guilty: Sentence Due 23 November
