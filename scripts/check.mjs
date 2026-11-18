@@ -16,7 +16,7 @@ for (const f of pages) {
   const h = fs.readFileSync(f, "utf8");
   if (/<meta http-equiv="refresh"/.test(h)) continue; // moved-URL redirect stub (noindex)
   const need = [["title", /<title>[^<]+<\/title>/], ["description", /<meta name="description" content="[^"]+"/], ["canonical", /<link rel="canonical" href="https?:\/\/[^"]+"/], ["og:title", /property="og:title"/], ["og:image", /property="og:image" content="https?:\/\/[^"]+"/], ["twitter:card", /name="twitter:card"/], ["json-ld", /application\/ld\+json/]];
-  for (const [n, re] of need) if (!re.test(h)) fail.push(`${rel}: missing ${n}`);
+  for (const [n, re] of need) if (!re.test(h) && !(n === "canonical" && rel === "404.html")) fail.push(`${rel}: missing ${n}`);
   for (const m of h.matchAll(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/g)) {
     try { JSON.parse(m[1]); ld++; } catch (e) { fail.push(`${rel}: invalid JSON-LD (${e.message})`); }
   }

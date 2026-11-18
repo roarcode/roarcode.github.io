@@ -32,6 +32,3 @@ a.badge--category:hover { background: color-mix(in srgb, var(--accent) 20%, var(
 .notice--rumour .notice__title { color: var(--status-rumour); }
 .notice--placeholder { border-style: dashed; border-left-color: var(--brand-orange); }
 
-/* Ad/affiliate placeholder (only in the DOM when ADS_ENABLED=1). Fixed height = no layout shift. */
-.ad-slot { display: grid; place-items: center; min-height: 250px; margin-block: var(--space-6); border: 1px dashed var(--line-2); border-radius: var(--radius-md); background: var(--bg-1); }
-.ad-slot__label { font: var(--fs-100)/1 var(--font-mono); letter-spacing: var(--ls-caps); text-transform: uppercase; color: var(--text-3); }

@@ -45,6 +45,20 @@ eleventyExcludeFromCollections: true
     <p class="empty__title">No guides here yet.</p>
     <p>We publish as soon as there is something verified to say. <a href="{{ '/' | url }}">Browse all categories</a> or <a href="{{ '/search/' | url }}">search</a>.</p>
   </div>
+  {#- Never a dead end: point at guides that already exist. -#}
+  {%- if library.startHere.length %}
+  <section class="section" aria-labelledby="start-h">
+    <header class="section__header">
+      <p class="section__kicker">Live now</p>
+      <h2 class="section__title" id="start-h">Start here: launch guides you can read today</h2>
+    </header>
+    <ol class="update-list">
+      {%- for g in library.startHere %}
+      <li class="update-list__item"><a class="update-list__link" href="{{ g.url | url }}">{{ g.title }}</a> <time class="update-list__time" datetime="{{ g.updatedValue }}">{{ g.updatedLabel }}</time></li>
+      {%- endfor %}
+    </ol>
+  </section>
+  {%- endif %}
   {%- endif %}
 
   {%- set slot = "category-end" %}{% include "partials/ad-slot.njk" %}

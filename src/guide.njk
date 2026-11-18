@@ -71,7 +71,7 @@ eleventyExcludeFromCollections: true
       {%- endif %}
 
       <div class="article__main">
-        <div class="article__body prose">
+        <div class="article__body prose"{% if item.checklist %} data-checklist="{{ item.slug }}"{% endif %}>
           {{ item.html | safe }}
         </div>
 

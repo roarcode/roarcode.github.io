@@ -4,7 +4,7 @@ pageType: home
 permalink: /index.html
 eleventyExcludeFromCollections: true
 ---
-{% from "partials/macros.njk" import guideCard, categoryCard %}
+{% from "partials/macros.njk" import guideCard, categoryCard, spoilerBadge %}
 {#- PLACEHOLDER HOME COPY: Copywriter/Designer to replace headline, lead and imagery. -#}
 <section class="hero{% if not assets.hasHero %} hero--noimg{% endif %}">
   {%- if assets.hasHero %}
@@ -62,9 +62,15 @@ eleventyExcludeFromCollections: true
     <p class="section__meta">Last updated <time datetime="{{ library.lastUpdatedDate }}">{{ library.lastUpdatedLabel }}</time></p>
   </header>
   {%- if library.latest.length %}
-  <div class="grid grid--cards">
-    {%- for g in library.latest %}{{ guideCard(g, true) }}{% endfor %}
-  </div>
+  {#- ALL published guides, newest first (library.latest is sorted by dateModified, ties by title). -#}
+  <ol class="update-list">
+    {%- for g in library.latest %}
+    <li class="update-list__item">
+      <a class="update-list__link" href="{{ g.url | url }}">{{ g.title }}</a>
+      <span class="update-list__meta">{{ spoilerBadge(g.spoilers, g.spoilerLabel, "update-list__badge") }} <span class="update-list__cat">{{ g.category.short }}</span> <time class="update-list__time" datetime="{{ g.updatedValue }}">{{ g.updatedLabel }}</time></span>
+    </li>
+    {%- endfor %}
+  </ol>
   {%- else %}
   <p class="empty">Guides are on the way. Check back at launch.</p>
   {%- endif %}
