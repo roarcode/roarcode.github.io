@@ -48,8 +48,8 @@ draft: true
 
 GameSpot says both Jason and Lucia have their own phone, and that the default apps include Messages, Snapmatic and Scooter Bros.
 
-![Our diagram: Six phone apps named by major outlets. WAiNK. RydeMe. BuckMe. Scooter Bros. Snapmatic. Fitness. Not a game screenshot.](TODO: image:gta-6-phone-apps-step-1 — diagram, our own art: Six phone apps named by major outlets, see the spec)
-*Caption: Diagram. Phone apps named by major outlets, with names only, not Rockstar's icons.*
+![Our diagram: Seven phone apps named by major outlets. WAiNK. RydeMe. BuckMe. Scooter Bros. Snapmatic. Messages. Fitness. Not a game screenshot.](TODO: image:gta-6-phone-apps-step-1 — diagram, our own art: Seven phone apps named by major outlets, see the spec)
+*Caption: Diagram. The seven phone apps named by major outlets, names only, not Rockstar's icons.*
 
 ## Shortcuts and tips
 

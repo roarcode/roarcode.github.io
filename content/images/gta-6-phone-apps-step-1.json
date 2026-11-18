@@ -1,9 +1,9 @@
 {
   "type": "info-cards",
-  "alt": "Our diagram: Six phone apps named by major outlets. WAiNK. RydeMe. BuckMe. Scooter Bros. Snapmatic. Fitness. Not a game screenshot.",
+  "alt": "Our diagram: Seven phone apps named by major outlets. WAiNK. RydeMe. BuckMe. Scooter Bros. Snapmatic. Messages. Fitness. Not a game screenshot.",
   "data": {
     "category": "beginner",
-    "title": "Six phone apps named by major outlets",
+    "title": "Seven phone apps named by major outlets",
     "cols": 4,
     "card_height": 150,
     "cards": [
@@ -33,12 +33,17 @@
         "status": "none"
       },
       {
+        "title": "Messages",
+        "body": "",
+        "status": "none"
+      },
+      {
         "title": "Fitness",
         "body": "",
         "status": "none"
       }
     ],
-    "note": "Named by GameSpot, VGC and IGN (via The Verge). Messages is also on the phone (GameSpot). Names only, not Rockstar's icons.",
+    "note": "Named by GameSpot, VGC and IGN (via The Verge). Names only, not Rockstar's icons.",
     "banner": "Our diagram, not a game screenshot"
   }
 }
