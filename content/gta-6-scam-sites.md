@@ -17,9 +17,8 @@ sources:
 updated: 2026-11-18
 status: live
 publish: true
-draft: true
 spoilers: none
-qa: pending
+qa: passed
 ---
 
 # GTA 6 Scam Sites: 5 Signs a Page Is Fake (2026)
