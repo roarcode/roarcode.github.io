@@ -20,7 +20,7 @@ sources:
 updated: 2026-11-18
 status: prelaunch
 spoilers: none
-qa: live-review
+qa: passed
 ---
 
 # GTA 6 Platforms: PS5, PS5 Pro, Xbox, PC and 30 FPS

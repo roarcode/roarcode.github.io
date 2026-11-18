@@ -17,7 +17,7 @@ updated: 2026-11-18
 status: stub
 publish: true
 spoilers: none
-qa: live-review
+qa: passed
 ---
 
 # GTA 6 Map Size: What Rockstar Actually Said (2026)

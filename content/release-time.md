@@ -28,7 +28,7 @@ sources:
 updated: 2026-11-18
 status: prelaunch
 spoilers: none
-qa: live-review
+qa: passed
 ---
 
 # GTA 6 Release Time: Unlock Times by Time Zone (2026)

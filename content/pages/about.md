@@ -4,7 +4,7 @@ slug: about
 type: page
 description: "Leonida Guides is an unofficial, fan-made GTA VI guides site. Not affiliated with Rockstar Games or Take-Two. How we source and mark rumours."
 updated: 2026-11-18
-qa: live-review
+qa: passed
 ---
 
 **Unofficial fan site. Not affiliated with Rockstar Games or Take-Two Interactive.**

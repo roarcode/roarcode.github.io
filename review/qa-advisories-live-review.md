@@ -1,0 +1,5 @@
+# QA advisories on pages that PASSED (non-blocking)
+1. content/jason-lucia.md and content/gta-6-online.md: "PlayStation's FAQ says 'Grand Theft Auto VI is a single-player experience'". True, but the quote is on https://www.playstation.com/en-us/games/grand-theft-auto-vi/ (and the PS Store pages), NOT on the cited https://www.playstation.com/en-us/support/games/gta-vi-support/. Fix: swap that URL in sources.
+2. content/editions-prices.md: "one per person" for the $399.99 collector's box could not be verified in the Rockstar Newswire text (only "arrives on November 19... while supplies last" was found). Fix: cite the exact line or drop "one per person".
+3. content/beginner-tips.md: "key cloner" and "six-star wanted" are GameSpot-sourced and were verified in GameSpot's Extended Look recap. The gun-limit rumour box cites gtaboom.com (low quality, but clearly labelled rumour).
+4. content/gta-6-not-working.md: the "Rockstar status page (stamped 17 Nov) has no row for GTA VI" note is a dated snapshot; support.rockstargames.com is unreachable from the QA box. Re-check before leaving it in.

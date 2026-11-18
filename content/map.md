@@ -23,7 +23,7 @@ sources:
 updated: 2026-11-18
 status: prelaunch
 spoilers: minor
-qa: live-review
+qa: passed
 ---
 
 # GTA 6 Map: Leonida's Size and 6 Regions (Updated)

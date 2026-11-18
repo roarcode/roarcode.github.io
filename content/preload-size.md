@@ -30,7 +30,7 @@ sources:
 updated: 2026-11-18
 status: prelaunch
 spoilers: none
-qa: live-review
+qa: passed
 ---
 
 # GTA 6 Pre-Load: 212 GB Size, Start Times, Fixes (2026)

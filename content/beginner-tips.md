@@ -19,7 +19,7 @@ sources:
 updated: 2026-11-18
 status: prelaunch
 spoilers: minor
-qa: live-review
+qa: passed
 ---
 
 # GTA 6 Beginner Tips: Start Strong in 2026

@@ -17,7 +17,7 @@ sources:
 updated: 2026-11-18
 status: prelaunch
 spoilers: none
-qa: live-review
+qa: passed
 ---
 
 # GTA 6 Vintage Vice City Pack: How to Get It Before 20 Nov
