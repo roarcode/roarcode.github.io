@@ -8,10 +8,14 @@ slug: gta-6-gta-plus-benefits
 category: beginner
 description: "GTA 6 GTA+ benefits in story mode: a free car and garage, 10% off in shops, free rides and more. The price, how to turn the boosts off, and what you lose if you cancel."
 sources:
-  - https://www.gamespot.com/articles/gta-6-gta-subscription-includes-a-free-supercar-discounts-and-more/
-  - https://in.ign.com/grand-theft-auto-vi/277365/gta-6-how-microtransactions-and-gta-benefits-work
-  - https://www.polygon.com/gta-6-plus-membership-benefits-exclusive-car-garage/
-  - https://rockstarreport.com/news/gta-6-gta-plus-story-mode-benefits
+  - title: "GameSpot: GTA 6's GTA+ Subscription Includes A Free Supercar, Discounts, And More"
+    url: https://www.gamespot.com/articles/gta-6-gta-subscription-includes-a-free-supercar-discounts-and-more/
+  - title: "IGN: GTA 6: How Microtransactions and GTA+ Benefits Work"
+    url: https://in.ign.com/grand-theft-auto-vi/277365/gta-6-how-microtransactions-and-gta-benefits-work
+  - title: "Polygon: GTA 6's Subscription-based Perks are Worrying Players"
+    url: https://www.polygon.com/gta-6-plus-membership-benefits-exclusive-car-garage/
+  - title: "Rockstar Report: GTA+ Brings Subscription Benefits to GTA 6 Story Mode"
+    url: https://rockstarreport.com/news/gta-6-gta-plus-story-mode-benefits
 updated: 2026-11-18
 publish: true
 draft: true
@@ -22,7 +26,7 @@ qa: pending
 # GTA 6 GTA+ Benefits: Free Car, 10% Off and How to Turn Off
 
 > - **Quick answer:** GTA 6 GTA+ benefits in story mode are a **free car and garage**, **10% off** in many shops, **free rides**, and **10% more cash** when you sell some cars (GameSpot, IGN).
-> - **Price:** **$7.99 a month** in the US (Polygon). Pre-order buyers get **1 month free**, then it renews unless you cancel.
+> - **Price:** **$7.99 a month** in the US (Polygon). Pre-order buyers get **1 month free**, then it renews unless you cancel (GameSpot, IGN).
 > - **Catch:** the perks only work **while you pay**. Cancel and you lose them, car included (GameSpot, Polygon).
 
 **Words used on this page.** *GTA+* is Rockstar's monthly club that you pay for. A *perk* is a bonus you get for being in the club. A *garage* is a place in the game where you keep a car. *Fence* means selling stolen things. *Auto-renew* means the club keeps charging you every month until you stop it.
@@ -60,7 +64,7 @@ Want to play the game without the extra help? Polygon says you can switch the bo
 ## Price and the free month
 
 - **Price:** **$7.99 a month** in the US (Polygon). GameSpot says about $8.
-- **Free month:** digital pre-order buyers get **1 month of GTA+ free**. On PS5 you must claim it by **31 March 2027**, and it then renews at the normal price (PlayStation Store terms). See [the Vintage Vice City Pack page](/launch-hub/vintage-vice-city-pack/) for how to claim it.
+- **Free month:** digital pre-order buyers get **1 month of GTA+ free**. On PS5 you must claim it by **31 March 2027**, and it then renews at the normal price ([Rockstar Report](https://rockstarreport.com/news/gta-6-gta-plus-story-mode-benefits), [IGN](https://in.ign.com/grand-theft-auto-vi/277365/gta-6-how-microtransactions-and-gta-benefits-work)). See [the Vintage Vice City Pack page](/launch-hub/vintage-vice-city-pack/) for how to claim it.
 - **If you stop paying:** you lose every perk, including the car and the garage (GameSpot, Polygon).
 
 ## How to stop GTA+ before you are charged
@@ -97,7 +101,8 @@ Yes. Pause menu > Account > GTA Plus Boosts (Polygon).
 
 | Date | What changed |
 |---|---|
-| 2026-11-18 19:50 CET | Page created from GameSpot, IGN, Polygon and Rockstar Report. |
+| 2026-11-18 20:15 CET | QA fixes: PS5 claim date credited to Rockstar Report and IGN, source names fixed. |
+| 2026-11-18 19:38 CET | Page created from GameSpot, IGN, Polygon and Rockstar Report. |
 
 ---
 *Unofficial fan site, not affiliated with Rockstar Games or Take-Two.*
