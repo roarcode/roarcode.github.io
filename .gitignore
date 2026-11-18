@@ -14,3 +14,4 @@ design/node_modules
 node_modules
 node_modules/
 .sources-state.json
+content/inbox/
