@@ -15,8 +15,7 @@ updated: 2026-11-18
 status: live
 publish: true
 spoilers: none
-qa: pending
-draft: true
+qa: passed
 ---
 
 # Can You Play GTA 6 Without Killing Anyone? How It Works

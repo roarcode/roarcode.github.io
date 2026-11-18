@@ -16,8 +16,7 @@ updated: 2026-11-18
 status: live
 publish: true
 spoilers: none
-qa: pending
-draft: true
+qa: passed
 ---
 
 # How to Lose the Cops in GTA 6: 6 Clues to Hide

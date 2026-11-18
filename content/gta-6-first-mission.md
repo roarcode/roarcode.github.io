@@ -17,8 +17,7 @@ updated: 2026-11-18
 status: live
 publish: true
 spoilers: minor
-qa: pending
-draft: true
+qa: passed
 ---
 
 # GTA 6 Gone Fishing Walkthrough: First Jason Mission

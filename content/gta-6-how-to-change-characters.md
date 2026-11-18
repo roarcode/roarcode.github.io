@@ -14,8 +14,7 @@ updated: 2026-11-18
 status: live
 publish: true
 spoilers: minor
-qa: pending
-draft: true
+qa: passed
 ---
 
 # How to Switch Between Jason and Lucia in GTA 6

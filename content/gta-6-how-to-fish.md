@@ -14,8 +14,7 @@ updated: 2026-11-18
 status: live
 publish: true
 spoilers: none
-qa: pending
-draft: true
+qa: passed
 ---
 
 # How to Fish in GTA 6: Buttons, Lures and Reeling

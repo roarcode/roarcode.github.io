@@ -15,8 +15,7 @@ updated: 2026-11-18
 status: live
 publish: true
 spoilers: minor
-qa: pending
-draft: true
+qa: passed
 ---
 
 # How to Steal Cars in GTA 6: Slim Jim, Key Cloner, Trackers

@@ -14,8 +14,7 @@ updated: 2026-11-18
 status: live
 publish: true
 spoilers: none
-qa: pending
-draft: true
+qa: passed
 ---
 
 # GTA 6 Difficulty Settings: Is There Easy Mode? (No, But...)

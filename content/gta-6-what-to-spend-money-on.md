@@ -14,8 +14,7 @@ updated: 2026-11-18
 status: live
 publish: true
 spoilers: minor
-qa: pending
-draft: true
+qa: passed
 ---
 
 # GTA 6 Best Things to Spend Money On (and What to Skip)

@@ -14,8 +14,7 @@ updated: 2026-11-18
 status: live
 publish: true
 spoilers: major
-qa: pending
-draft: true
+qa: passed
 ---
 
 # GTA 6 Mission List: All 91 Missions by Chapter (Spoilers)
