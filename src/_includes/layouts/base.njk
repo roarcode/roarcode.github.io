@@ -33,5 +33,9 @@
       {{ content | safe }}
     </main>
     {% include "partials/footer.njk" %}
+    {#- Analytics: renders NOTHING unless GOATCOUNTER_CODE is set AND this is a real (indexable) build. GoatCounter is cookie-less. -#}
+    {%- if site.analytics.goatcounter and not site.noindex %}
+    <script data-goatcounter="https://{{ site.analytics.goatcounter }}.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+    {%- endif %}
   </body>
 </html>

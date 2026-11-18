@@ -105,6 +105,7 @@ eleventyExcludeFromCollections: true
         <section class="article__sources sources"><h2>Sources &amp; credits</h2><p>No sources listed.</p></section>
         {%- endif %}
 
+        {%- set slot = "article-end" %}{% include "partials/ad-slot.njk" %}
         <p class="article__disclaimer">{{ site.disclaimer }}</p>
       </div>
     </div>

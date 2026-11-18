@@ -34,6 +34,9 @@ jobs:
         env:
           NODE_ENV: production
           SITE_URL: ${{ vars.SITE_URL || format('https://{0}.github.io/{1}', github.repository_owner, github.event.repository.name) }}
+          # Optional repo Actions variables; both are OFF/empty by default (see README).
+          GOATCOUNTER_CODE: ${{ vars.GOATCOUNTER_CODE }}
+          ADS_ENABLED: ${{ vars.ADS_ENABLED }}
           STRICT: "0" # set to "1" to fail the deploy on any invalid content file
         run: npm run build
       - name: Sanity check (SEO tags, JSON-LD, sitemap, search index)

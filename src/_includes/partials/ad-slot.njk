@@ -1,0 +1,9 @@
+{#- Ad / affiliate placeholder. Usage: {% set slot = "article-end" %}{% include "partials/ad-slot.njk" %}
+    Renders NOTHING unless ADS_ENABLED=1. Placeholder only: no ad-network or affiliate code yet.
+    The fixed min-height (see .ad-slot in 30-components.css) reserves space so enabling ads never shifts layout. -#}
+{%- if site.ads.enabled -%}
+<aside class="ad-slot" data-ad-slot="{{ slot or 'default' }}" data-pagefind-ignore aria-label="Advertisement">
+  <!-- AD/AFFILIATE PLACEHOLDER ({{ slot or 'default' }}): paste network or affiliate markup here when approved. -->
+  <span class="ad-slot__label">Advertisement</span>
+</aside>
+{%- endif -%}

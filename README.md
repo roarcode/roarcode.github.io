@@ -65,6 +65,18 @@ Extra keys (e.g. `title_alts`, `status`) are ignored. Invalid files are skipped 
 - **Spoiler text never leaks:** description, OG/Twitter text, JSON-LD, cards, Atom feed and search excerpts are built from the HTML with every `:::spoiler` block removed (feed shows "Spoiler section hidden: <label>"); spoiler bodies are `data-pagefind-ignore`; headings inside spoilers are kept out of the table of contents. An invalid `spoilers:` value is treated as `major`.
 - Header **Show all spoilers** button (appears only with JS): off by default, remembered in `localStorage` (`lg-spoilers`), opens/closes every `details.spoiler`. Code: `src/js/spoilers.js`, styles: `src/css/45-spoilers.css`.
 
+## Leak coverage (early-player finds, datamines)
+
+Template: `content/template-leak.md` (never published; copy it, set `status: live`, remove `publish: false`).
+
+- **Front-matter:** `spoilers: major`, `unconfirmed: true|false` (plus `rumour: true` while unconfirmed so the badge shows), `category: leaks`.
+- **All leak content goes inside one `:::spoiler` block.** Directly before the block put the warning line: `> ⚠️ **LEAK / MAJOR SPOILER: tap only if you want to know**`.
+- **Inside the block, always:** a visible "UNCONFIRMED" label (or "Confirmed by [source], date" once confirmed) and one source credit line: who found it, the date, and a link to the PUBLIC post or article.
+- **Title, `title_alts`, description and Quick answer may be clickbait** ("Players Just Found Something Huge in GTA 6", "The GTA 6 Secret Everyone Is Talking About") but must NOT reveal the leak: no names, places, features, dates or numbers from it.
+- **Hard bans:** no piracy, no leaked files, no download links, no mirrors or torrents, and no links to file hosts (Mega, Google Drive, Dropbox, Discord CDN, MediaFire and the like). Link only to the public post or article. No leaked screenshots or clips; use our own art.
+- Mark anything unconfirmed as unconfirmed. Never state a rumour as fact. Never copy another site's text.
+- All other house rules still apply: `title_alts` (2-3), exactly 3-line Quick answer, at least 3 `TODO: image:` placeholders with captions (our own art only), 8-year-old readability, FAQ, footer line.
+
 ## SEO, OG, search, sitemap
 
 - Every page: `<title>`, description, canonical, Open Graph, Twitter card, robots, JSON-LD `@graph` limited to Article/TechArticle (+ author, publisher, citations), BreadcrumbList on every page and WebSite+SearchAction on home. **No FAQPage / HowTo / other types.** `dateModified`/`datePublished` use exactly the same value as the visible `<time datetime>` (front-matter `updated`/`published`). Each article shows a named author + "AI-assisted, human-reviewed" disclosure. Code: `lib/seo.js`.
@@ -74,6 +86,20 @@ Extra keys (e.g. `title_alts`, `status`) are ignored. Invalid files are skipped 
 - **Search:** Pagefind runs over `_site/` after the build (`npm run index:search`). Only guides/pages (`data-pagefind-body`) are indexed, filtered by category and spoiler level. Header search box = plain GET form to `/search/?q=…` (works without JS); the search page loads Pagefind UI.
 - **SITE_URL** (default `https://REPLACE-ME.example`) drives canonical/OG/sitemap/feed. While it is the placeholder, every page is `noindex` and robots disallows everything. A sub-path (`https://user.github.io/repo`) is supported: all links, CSS-relative fonts, Pagefind and the manifest are prefixed. Switching to the real domain = change `SITE_URL`, rebuild.
 - Optional env: `SITE_NAME`, `TWITTER_HANDLE`, `NOINDEX=1`, `STRICT=1`.
+
+## Analytics (GoatCounter, free, cookie-less) — OFF until a code is set
+
+1. Create a free site at https://www.goatcounter.com/signup (the "code" is the subdomain: `https://<code>.goatcounter.com`).
+2. GitHub repo → Settings → Secrets and variables → Actions → **Variables** → New variable `GOATCOUNTER_CODE` = `<code>`. Re-run the deploy workflow (or push). Locally: `GOATCOUNTER_CODE=<code> npm run build`.
+3. The build then adds one `<script data-goatcounter="https://<code>.goatcounter.com/count" async src="//gc.zgo.at/count.js">` at the end of `<body>`. **Unset (or invalid) = nothing is emitted: no script, no network calls.** It is also suppressed on noindex/placeholder-URL builds. Config: `site.analytics.goatcounter` in `lib/site.js`.
+
+## Ads / affiliate placeholder — OFF by default
+
+`ADS_ENABLED=1` (repo Actions variable `ADS_ENABLED=1`, or env locally) renders empty, labelled, fixed-height `<aside class="ad-slot" data-ad-slot="…">` regions via `src/_includes/partials/ad-slot.njk` (one after each article, one at the end of each category page). Unset = the partial outputs nothing at all. Placeholder only: no ad-network or affiliate code. Paste network markup into the partial's comment spot when approved. Config: `site.ads.enabled` in `lib/site.js`.
+
+## Sources poller (`scripts/poll-sources.mjs`) — not scheduled by the repo
+
+`node scripts/poll-sources.mjs` (`--dry-run`, `--only=newswire,youtube,psn,xbox`) checks Rockstar Newswire (title + link only, rendered once in headless Chrome because the page is client-side), the Rockstar YouTube RSS feed, PlayStation status and Xbox status (last two only when NOT all-green) and writes NEW items to `content/inbox/*.md` with `status: queue`, `source`, `source_url`, `fetched_at`. The build never publishes `content/inbox/`. De-dupe state: `.sources-state.json` (gitignored). robots.txt is fetched and honoured for page fetches (Newswire) with the UA `LeonidaGuidesBot/1.0 (+https://roarcode.github.io)`; the explicitly advertised feeds (YouTube RSS, status JSON/XML) are read like a feed reader (YouTube's robots.txt disallows `/feeds/videos.xml` for generic crawlers; set `ROBOTS_STRICT_FEEDS=1` to enforce it, which skips YouTube). One data request per source per run, 15 s timeouts, per-source try/catch, no Reddit. Schedule it externally, e.g. every 30 minutes.
 
 ## Deploy
 
