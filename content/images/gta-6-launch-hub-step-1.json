@@ -1,10 +1,10 @@
 {
   "type": "info-cards",
-  "alt": "Four boxes named Right now, Not working, Buy and know, and World and people, showing the groups on the launch hub.",
+  "alt": "Five boxes named Right now, Not working, Buy and know, World and people, and Launch events, showing the groups on the launch hub.",
   "data": {
     "category": "pre-launch",
-    "title": "The four groups on this page",
-    "cols": 2,
+    "title": "The five groups on this page",
+    "cols": 3,
     "card_height": 180,
     "cards": [
       {
@@ -25,6 +25,11 @@
       {
         "title": "World and people",
         "body": "The map, the state, and the two leads — spoiler-light.",
+        "status": "none"
+      },
+      {
+        "title": "Launch events",
+        "body": "Trailers, the Heat game night and the Miami festival.",
         "status": "none"
       }
     ]

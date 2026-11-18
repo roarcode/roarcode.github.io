@@ -1,27 +1,14 @@
 {
-  "type": "compare-table",
-  "alt": "Three-row table showing that cheat codes, cheat phone numbers, and whether cheats turn off trophies are all not announced.",
+  "type": "controller",
+  "alt": "Diagram of a controller with the up arrow on the D-pad highlighted and an arrow pointing to a phone, showing that D-pad up opens the in-game phone.",
   "data": {
     "category": "pre-launch",
-    "title": "What is confirmed",
-    "columns": [
-      "Question",
-      "Answer"
-    ],
-    "rows": [
-      [
-        "Does Rockstar list cheat codes for GTA 6?",
-        "Not announced"
-      ],
-      [
-        "Are there cheat phone numbers?",
-        "Not announced"
-      ],
-      [
-        "Do cheats turn off trophies or achievements?",
-        "Not announced"
-      ]
-    ],
-    "note": "Checked 18 Nov 2026. Lists copied from GTA 5 are not confirmed for GTA 6."
+    "title": "Press D-pad up to open the phone",
+    "banner": "Our diagram, not a game screenshot",
+    "controllers": [{ "label": "PS5 and Xbox: D-pad up", "l": "L1 / LB", "r": "R1 / RB" }],
+    "highlight": ["dpad-up"],
+    "phone": true,
+    "phone_label": "Your phone opens",
+    "note": "Steps as reported by PC Gamer, 18 Nov 2026. You must unlock a cheat before you can enter it."
   }
 }

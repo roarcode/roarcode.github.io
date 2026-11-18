@@ -311,25 +311,25 @@
   "gta-6-cheats-step-1": {
     "file": "gta-6-cheats-step-1.webp",
     "width": 1200,
-    "height": 696,
-    "bytes": 40878,
-    "alt": "Three-row table showing that cheat codes, cheat phone numbers, and whether cheats turn off trophies are all not announced.",
-    "type": "compare-table"
+    "height": 787,
+    "bytes": 36690,
+    "alt": "Diagram of a controller with the up arrow on the D-pad highlighted and an arrow pointing to a phone, showing that D-pad up opens the in-game phone.",
+    "type": "controller"
   },
   "gta-6-cheats-step-2": {
     "file": "gta-6-cheats-step-2.webp",
     "width": 1200,
-    "height": 675,
-    "bytes": 32872,
-    "alt": "Three boxes with arrows showing how a cheat code gets listed: find a public source, test it, then post it with the date and platform.",
-    "type": "info-cards"
+    "height": 759,
+    "bytes": 38308,
+    "alt": "Two controllers side by side. On the PS5 controller L1 and R1 are highlighted, on the Xbox controller LB and RB are highlighted.",
+    "type": "controller"
   },
   "gta-6-cheats-step-3": {
     "file": "gta-6-cheats-step-3.webp",
     "width": 1200,
-    "height": 675,
-    "bytes": 30208,
-    "alt": "Empty table with PS5 and Xbox columns, showing where confirmed cheat codes will be listed.",
+    "height": 1100,
+    "bytes": 47518,
+    "alt": "Table of the 9 cheat button codes PC Gamer published, labelled Reported by PC Gamer, not tested by us.",
     "type": "compare-table"
   },
   "gta-6-download-stuck-step-1": {
@@ -434,8 +434,8 @@
     "file": "gta-6-launch-hub-step-1.webp",
     "width": 1200,
     "height": 675,
-    "bytes": 43948,
-    "alt": "Four boxes named Right now, Not working, Buy and know, and World and people, showing the groups on the launch hub.",
+    "bytes": 39456,
+    "alt": "Five boxes named Right now, Not working, Buy and know, World and people, and Launch events, showing the groups on the launch hub.",
     "type": "info-cards"
   },
   "gta-6-launch-hub-step-2": {

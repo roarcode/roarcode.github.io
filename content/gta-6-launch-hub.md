@@ -35,6 +35,7 @@ qa: live-review
 - [GTA 6 day-one patch: 01.002.001 size and how to check](/launch-hub/gta-6-day-one-patch/)
 - [GTA 6 PC release date: is there a PC version?](/launch-hub/gta-6-pc-release-date/)
 - [GTA 6 performance mode: is there 60 FPS on PS5 Pro?](/launch-hub/gta-6-performance-mode/)
+- [How to avoid GTA 6 spoilers: mute words on X](/beginner-tips/gta-6-avoid-spoilers/)
 
 ## Something is not working
 

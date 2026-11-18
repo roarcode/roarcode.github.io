@@ -1,28 +1,15 @@
 {
-  "type": "info-cards",
-  "alt": "Three boxes with arrows showing how a cheat code gets listed: find a public source, test it, then post it with the date and platform.",
+  "type": "controller",
+  "alt": "Two controllers side by side. On the PS5 controller L1 and R1 are highlighted, on the Xbox controller LB and RB are highlighted.",
   "data": {
     "category": "pre-launch",
-    "title": "How a code gets listed",
-    "layout": "flow",
-    "cols": 3,
-    "card_height": 250,
-    "cards": [
-      {
-        "title": "1. Find it",
-        "body": "A public post or a Rockstar announcement.",
-        "status": "none"
-      },
-      {
-        "title": "2. Test it",
-        "body": "We test it on PS5 and Xbox, or see it on video.",
-        "status": "none"
-      },
-      {
-        "title": "3. Post it",
-        "body": "We add the date, platform and source.",
-        "status": "none"
-      }
-    ]
+    "title": "Hold L1 and press R1 (Xbox: LB and RB)",
+    "banner": "Our diagram, not a game screenshot",
+    "controllers": [
+      { "label": "PS5: hold L1, press R1", "l": "L1", "r": "R1" },
+      { "label": "Xbox: hold LB, press RB", "l": "LB", "r": "RB" }
+    ],
+    "highlight": ["shoulders"],
+    "note": "PS5 buttons from PC Gamer, 18 Nov 2026. LB and RB are the same buttons on an Xbox controller."
   }
 }

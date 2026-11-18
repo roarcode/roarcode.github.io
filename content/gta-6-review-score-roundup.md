@@ -89,7 +89,7 @@ The posts below are the outlets' own summaries. They do not reveal the story.
 
 ## Should you read the full reviews?
 
-If you want zero spoilers, read only the score and the first paragraph. Some reviews talk about the story. Mute words on X first. See how to avoid spoilers.
+If you want zero spoilers, read only the score and the first paragraph. Some reviews talk about the story. Mute words on X first. See [how to avoid GTA 6 spoilers](/beginner-tips/gta-6-avoid-spoilers/).
 
 ## FAQ
 

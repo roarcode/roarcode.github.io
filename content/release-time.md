@@ -28,7 +28,7 @@ sources:
 updated: 2026-11-18
 status: prelaunch
 spoilers: none
-qa: passed
+qa: live-review
 ---
 
 # GTA 6 Release Time: Unlock Times by Time Zone (2026)
@@ -140,7 +140,7 @@ The Rockstar Support article itself could not be opened for this page, so its wo
 3. Turn on Auto-Install and Stay Connected to the Internet in Rest Mode if you want your console to finish updates on its own (PlayStation support steps).
 4. Install any day-one update before the unlock moment if one is offered. Its size has not been announced.
 
-Related: [is GTA 6 out](/launch-hub/is-gta-6-out/) · [GTA 6 not working](/glitches/gta-6-not-working/) · [launch hub](/launch-hub/gta-6-launch-hub/)
+Related: [is GTA 6 out](/launch-hub/is-gta-6-out/) · [GTA 6 not working](/glitches/gta-6-not-working/) · [launch hub](/launch-hub/gta-6-launch-hub/) · [How to avoid GTA 6 spoilers: mute words on X](/beginner-tips/gta-6-avoid-spoilers/)
 
 ## What players are saying
 

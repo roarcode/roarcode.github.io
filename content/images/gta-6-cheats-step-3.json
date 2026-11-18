@@ -1,23 +1,22 @@
 {
   "type": "compare-table",
-  "alt": "Empty table with PS5 and Xbox columns, showing where confirmed cheat codes will be listed.",
+  "alt": "Table of the 9 cheat button codes PC Gamer published, labelled Reported by PC Gamer, not tested by us.",
   "data": {
     "category": "pre-launch",
-    "title": "Confirmed codes will go here",
-    "columns": [
-      "Code",
-      "PS5",
-      "Xbox",
-      "Source"
-    ],
+    "title": "Codes reported by PC Gamer",
+    "subtitle": "Reported by PC Gamer, not tested by us",
+    "columns": ["Cheat (PC Gamer's name)", "Code (D-pad arrows)"],
     "rows": [
-      [
-        "No codes listed yet",
-        "—",
-        "—",
-        "—"
-      ]
+      ["$250,000", "↑ → ↓ ← ↑ ← ↓ →"],
+      ["Raise Heat Level", "← ↓ → ↓ ↑ ↓ ↑"],
+      ["Unlimited focus", "↓ ↑ ↑ ↓ ↑ ↓ ↑ ↓ ↑ →"],
+      ["Attack force", "↓ ↑ ← ← → ↓ ↓ ↑ ↓"],
+      ["Exploding balls", "↓ ↑ ← ← → ↓ ↓ ↑ →"],
+      ["Maibatsu Boomazoom (vehicle)", "← ↑ → ↓ ← ← ↑ ←"],
+      ["HVY Bulldozer (vehicle)", "← ↑ → ↓ ← → → ↓"],
+      ["Cycle weather", "↓ → ↑ ↓ → ↑ →"],
+      ["Dollhouse (screen filter)", "↓ ↓ ↑ → → ↑ ← ← ↓ →"]
     ],
-    "note": "We only add a code with the button order, the source and the date."
+    "note": "Source: PC Gamer, 18 Nov 2026. Same arrows on PS5 and Xbox (D-pad). Not tested by us."
   }
 }
