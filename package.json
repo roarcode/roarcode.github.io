@@ -16,6 +16,7 @@
     "preview": "node scripts/preview.mjs",
     "start": "npm run build && npm run preview",
     "check": "node scripts/check.mjs",
+    "verify": "node scripts/verify-output.mjs",
     "index:search": "pagefind --site _site --force-language en --quiet"
   },
   "dependencies": {

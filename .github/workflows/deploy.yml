@@ -30,6 +30,13 @@ jobs:
           node-version: 24
           cache: npm
       - run: npm ci --no-audit --no-fund
+      # OG images are the slowest build step: keep the render cache between runs (key = hash of anything that changes them).
+      - uses: actions/cache@v4
+        with:
+          path: .cache/og
+          key: og-${{ hashFiles('design/og/**', 'design/fonts/**', 'lib/og.js', 'lib/site.js') }}-${{ github.run_id }}
+          restore-keys: |
+            og-${{ hashFiles('design/og/**', 'design/fonts/**', 'lib/og.js', 'lib/site.js') }}-
       - name: Build (Eleventy + Pagefind)
         env:
           NODE_ENV: production
@@ -41,6 +48,10 @@ jobs:
         run: npm run build
       - name: Sanity check (SEO tags, JSON-LD, sitemap, search index)
         run: npm run check
+      - name: Output gate (no TODO / raw markdown / .md links / broken internal links)
+        env:
+          SITE_URL: ${{ vars.SITE_URL || format('https://{0}.github.io/{1}', github.repository_owner, github.event.repository.name) }}
+        run: npm run verify
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
@@ -55,3 +66,23 @@ jobs:
     steps:
       - id: deployment
         uses: actions/deploy-pages@v4
+
+  # Tell search engines about the new deploy (IndexNow + sitemap pings). Never fails the workflow.
+  notify:
+    needs: deploy
+    runs-on: ubuntu-latest
+    continue-on-error: true
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            scripts
+            src/static
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - name: IndexNow + sitemap ping
+        continue-on-error: true
+        env:
+          SITE_URL: ${{ vars.SITE_URL || format('https://{0}.github.io/{1}', github.repository_owner, github.event.repository.name) }}
+        run: node scripts/indexnow.mjs
