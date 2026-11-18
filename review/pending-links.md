@@ -64,3 +64,10 @@ New pages are hidden until SEARCH passes them. Add each line only after its targ
 | 41 | content/beginner-tips.md | FAQ or end of the tips list, new line | `Found a car you like? [GTA 6 how to scan cars with WAiNK](/cars/gta-6-how-to-scan-cars/)` | gta-6-how-to-scan-cars — DONE 2026-11-18 15:50 (released by Copywriter) |
 | 42 | content/gta-6-launch-hub.md | "Buy and know before you play" list, add as last bullet | `- [GTA 6 scam sites: 5 signs a page is fake](/beginner-tips/gta-6-scam-sites/)` | gta-6-scam-sites — DONE 2026-11-18 16:15 (released by Copywriter) |
 | 43 | content/editions-prices.md | "Good to know" section, new bullet | `- Buying safely: [GTA 6 scam sites: 5 signs a page is fake](/beginner-tips/gta-6-scam-sites/).` | gta-6-scam-sites — DONE 2026-11-18 16:15 (released by Copywriter) |
+
+- Added 19:50 by Copywriter (add after SEARCH passes `gta-6-gta-plus-benefits`):
+
+| # | Target live file | Where | Exact markdown to insert | New page slug |
+|---|---|---|---|---|
+| 44 | content/gta-6-launch-hub.md | "Buy and know before you play" list, add as last bullet | `- [GTA 6 GTA+ benefits: free car, 10% off and how to turn off](/beginner-tips/gta-6-gta-plus-benefits/)` | gta-6-gta-plus-benefits |
+| 45 | content/vintage-vice-city-pack.md | "The free GTA+ month (separate bonus)" section, new bullet after "Cost" | `- **What GTA+ gives you in the game:** [GTA 6 GTA+ benefits](/beginner-tips/gta-6-gta-plus-benefits/).` | gta-6-gta-plus-benefits |
