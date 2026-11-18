@@ -138,7 +138,7 @@ Use "not announced" for things nobody has said. Do not name unnamed weapons or v
 
 Hub: `gta-6-launch-hub` (links every published launch page; add a link here whenever you publish a page).
 
-Pre-launch: `is-gta-6-out`, `release-time`, `preload-size`, `launch-night-checklist`, `editions-prices`, `vintage-vice-city-pack`, `platforms`, `ps5-settings`, `map`, `gta-6-map-size`, `leonida`, `jason-lucia`, `gta-6-online`, `radio-stations`, `beginner-tips`.
+Pre-launch: `is-gta-6-out`, `release-time`, `preload-size`, `launch-night-checklist`, `editions-prices`, `vintage-vice-city-pack`, `platforms`, `ps5-settings`, `map`, `gta-6-map-size`, `leonida`, `jason-lucia`, `gta-6-online`, `radio-stations`, `beginner-tips`, `gta-6-trailers`, `gta-6-new-zealand-trick`, `gta-6-festival`, `gta-6-night-in-vice-city`.
 
 Launch-problem pages (category `glitches`): `gta-6-not-working`, `gta-6-download-stuck`, `gta-6-preload-not-starting`, `gta-6-ps5-fixes`, `gta-6-xbox-fixes`.
 
@@ -216,3 +216,17 @@ Real public reactions, tips and fixes from X and forums, shown on launch pages.
 - Changes to a page that is already live get `qa: live-review` (no draft). The page stays up and SEARCH reviews it first. Never take a live page offline.
 - SEARCH is the QA gate. It renders each page in a browser, then either sets `qa: passed` and removes `draft: true`, or writes `review/qa-<slug>.md` with fixes.
 - Writers apply those fixes, keep `qa: pending` and note the fix at the bottom of the review file. Writers never set `qa: passed` or remove `draft: true` themselves.
+
+## 16. Spoiler guides lane (Rok, 18 Nov 2026)
+
+Spoiler guides are a key traffic lane from launch. Write them as soon as there are real, verifiable facts. That means a credible cited source, like an official Rockstar post, a reputable outlet's guide, or several matching player reports with links. Never write from guesses.
+
+- **Types:** ending explainers, mission and boss help, secrets and easter eggs, and who is who (characters).
+- **Front-matter:** `spoilers: major` (endings, twists, late missions, who dies or betrays) or `spoilers: minor` (early missions, easter eggs, side characters). Plus `qa: pending` and `draft: true`, like every new page.
+- **Title and description:** searchable and clicky, but they never spoil anything themselves. Examples: "GTA 6 Ending Explained (Spoilers)", "GTA 6 Final Mission Help: How to Beat It", "GTA 6 Easter Eggs: 12 Secrets Found So Far", "GTA 6 Characters: Who's Who (Spoiler Guide)".
+- **Top of page:** a clear warning line, for example "⚠️ SPOILER WARNING: this guide covers the ending. Tap a box only if you want to know."
+- **Intro and Quick answer:** fun to read and spoiler-free. Say what the page helps with, not what happens.
+- **Details:** every spoiler detail goes inside a `:::spoiler Teaser label` … `:::` block, and the labels never reveal anything ("What happens in the last mission", not who wins). Spoiler-free tips like checkpoints, gear and buttons can sit outside the blocks.
+- **Images:** official Rockstar media only, credited "Image: Rockstar Games" with a source link, or our own diagrams. A story-revealing image goes inside the spoiler block.
+- **Sources:** cite every fact. If facts are thin, keep the page `publish: false` instead of padding it.
+- **Reports to Rok or God Bot:** titles, counts and URLs only. Never spoiler content.

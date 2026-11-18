@@ -15,6 +15,8 @@ sources:
   - https://www.gamesradar.com/games/grand-theft-auto/gta-6-release-time/
   - https://www.polygon.com/gta-6-grand-theft-auto-release-time-pdt-edt/
   - https://www.1news.co.nz/2026/11/18/gta-6-how-to-beat-the-download-rush-and-why-gamers-abroad-envy-kiwis/
+  - https://www.bbc.com/news/articles/cm4gn9xnn1ppo
+  - https://x.com/GTAVICentre/status/2123008326430556371
 updated: 2026-11-18
 status: stub
 publish: true
@@ -76,9 +78,15 @@ Work through these pages in this order:
 
 ## What not to do
 
-Do not change your console region or use a second account to unlock early. Polygon says the "New Zealand trick" needs a separate account in another region on PS5. PC Gamer is not sure it works. Rockstar, Sony and Microsoft have said nothing to support it, and players on Reddit warn about bans (1News, 18 Nov). We do not recommend it.
+Do not change your console region or use a second account to unlock early. Polygon says the "New Zealand trick" needs a separate account in another region on PS5. PC Gamer is not sure it works. Rockstar, Sony and Microsoft have said nothing to support it, and players on Reddit warn about bans (1News, 18 Nov). An analyst told the BBC it may break PlayStation or Xbox rules on regional accounts. We do not recommend it. 
 
-<!-- What players are saying: add real embeds from content/inbox/ -->
+## What players are saying
+
+*Public posts, quoted with a link. Player tips are not confirmed facts.*
+
+<blockquote class="twitter-tweet"><a href="https://x.com/GTAVICentre/status/2123008326430556371"></a></blockquote>
+
+> "GTA VI IS OUT NOW IN NEW ZEALAND!" – @GTAVICentre on X, 18 Nov 2026, 12:00 CET ([link](https://x.com/GTAVICentre/status/2123008326430556371))
 
 ## FAQ
 

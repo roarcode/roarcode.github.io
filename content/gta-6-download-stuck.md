@@ -16,6 +16,9 @@ sources:
   - https://support.xbox.com/en-CA/help/games-apps/game-setup-and-play/view-status-software-install
   - https://www.1news.co.nz/2026/11/18/gta-6-how-to-beat-the-download-rush-and-why-gamers-abroad-envy-kiwis/
   - https://www.videogameschronicle.com/news/rockstar-details-grand-theft-auto-6-pre-load-date-and-time-and-file-size/
+  - https://news.virginmediao2.co.uk/gta-vi-breaks-virgin-media-broadband-records-as-fans-rush-to-pre-load-game/
+  - https://www.thinkbroadband.com/news/gta-vi-results-in-new-peak-traffic-record-for-virgin-media-o2
+  - https://www.bbc.com/news/articles/cm4gn9xnn1ppo
 updated: 2026-11-18
 status: stub
 publish: true
@@ -34,6 +37,8 @@ qa: live-review
 ## First: is it stuck or just slow?
 
 Watch the number for 10 minutes. If the percent or the GB number goes up, even slowly, it is working. Real examples from New Zealand provider Chorus (via 1News, 18 Nov 2026): about 57 minutes on 500 Mbps fibre, about 4.5 hours on 100 Mbps and more than 10 hours on 4G fixed wireless. Rockstar says the size is up to 212 GB (VGC). If the number has not moved for 10 minutes, use the fixes below.
+
+**Busy internet is real.** UK provider Virgin Media O2 says pre-loads on **10 Nov 2026** gave it record traffic: its peak was **3.8%** above the old record, and traffic in the first hour after midnight was **51.6%** higher than a week before (Virgin Media O2 press release, 11 Nov). The London Internet Exchange told the BBC that UK providers such as BT and Virgin Media added capacity before launch. So at unlock time, downloads and updates may be slower than usual. Wait a little before you cancel anything.
 
 ## PS5: 4 fixes from PlayStation's own steps
 

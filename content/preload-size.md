@@ -20,6 +20,11 @@ sources:
   - https://www.1news.co.nz/2026/11/18/gta-6-how-to-beat-the-download-rush-and-why-gamers-abroad-envy-kiwis/
   - https://www.vice.com/en/article/gta-6-second-day-one-patch-ps5-xbox/
   - https://news.xbox.com/en-us/2026/11/10/grand-theft-auto-6-comes-to-xbox-cloud-gaming-november-19/
+  - https://www.rockstargames.com/newswire/article/k4ak9okk485712/grand-theft-auto-vi-pre-load-begins-on-november-10
+  - https://www.rockstargames.com/newswire/article/89834o94713o21/pre-load-grand-theft-auto-vi-now
+  - https://x.com/RockstarGames/status/2120154484244381738
+  - https://www.youtube.com/watch?v=_yl5ELcmugI
+  - https://x.com/RockstarGames/status/2120909499200421900
 updated: 2026-11-18
 status: prelaunch
 spoilers: none
@@ -112,6 +117,12 @@ Bought the boxed version? There is a code inside, not a disc. Enter it first:
 | Xbox One | Streams with Xbox Cloud Gaming from **1 AM ET on 19 Nov** (= 07:00 CET; Series S graphics) | Xbox Wire |
 
 Polygon says about 210 GB. Rockstar says "up to 212 GB". Plan for 212.
+
+**What Rockstar itself said:**
+- 3 Nov: a Newswire post announced that pre-load begins on 10 Nov ([Rockstar Newswire](https://www.rockstargames.com/newswire/article/k4ak9okk485712/grand-theft-auto-vi-pre-load-begins-on-november-10)).
+- 10 Nov: "pre-loading is now available for everyone who has pre-ordered" ([Rockstar on X](https://x.com/RockstarGames/status/2120154484244381738), [Rockstar Newswire](https://www.rockstargames.com/newswire/article/89834o94713o21/pre-load-grand-theft-auto-vi-now)).
+- 10 Nov: buyers of the **code-in-box** version can activate the code and start pre-loading as soon as they get the box ([Pre-Load Now video description, Rockstar YouTube](https://www.youtube.com/watch?v=_yl5ELcmugI)).
+- 12 Nov: code-in-box versions were in shops worldwide ([Rockstar on X](https://x.com/RockstarGames/status/2120909499200421900)).
 
 > **Wrong date warning:** some early reports (for example PCGH, 25 June 2026) gave 12 November for pre-load. Rockstar later confirmed **10 November** (USA Today, 9 Nov). 12 November is the day boxed copies reached shops.
 

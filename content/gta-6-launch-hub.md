@@ -47,7 +47,7 @@ qa: live-review
 - [GTA 6 platforms: PS5, PS5 Pro, Xbox, PC and 30 fps](/launch-hub/platforms/)
 - [GTA 6 on PS5 and PS5 Pro: what is confirmed](/launch-hub/ps5-settings/)
 - [GTA 6 Online: is there multiplayer at launch?](/launch-hub/gta-6-online/)
-- [GTA 6 beginner tips](/beginner-tips/beginner-tips/)
+- [GTA 6 beginner tips](/launch-hub/beginner-tips/)
 
 ## The world and the people
 
@@ -57,8 +57,11 @@ qa: live-review
 - [GTA 6 Jason and Lucia (no spoilers)](/launch-hub/jason-lucia/)
 - [GTA 6 radio stations](/launch-hub/radio-stations/)
 
-![launch hub diagram: four groups of pages](TODO: image:gta-6-launch-hub-step-1 — diagram, our own art: four boxes named Right now, Not working, Buy and know, World and people)
-*Caption: Diagram. The four groups on this page.*
+## Launch events
+
+
+![launch hub diagram: five groups of pages](TODO: image:gta-6-launch-hub-step-1 — diagram, our own art: five boxes named Right now, Not working, Buy and know, World and people, Launch events)
+*Caption: Diagram. The five groups on this page.*
 
 ## Coming soon (not published yet)
 

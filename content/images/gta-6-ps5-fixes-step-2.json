@@ -6,33 +6,21 @@
     "title": "Safe Mode: option 6",
     "panel_title": "Safe Mode — illustration",
     "platform": "PS5",
-    "highlightRow": 5,
+    "highlightRow": 1,
     "rows": [
       {
-        "label": "1  Update System Software",
-        "value": ""
+        "label": "Other Safe Mode options",
+        "value": "Leave these"
       },
       {
-        "label": "2  Change Video Output",
-        "value": ""
+        "label": "6. Clear Cache and Rebuild Database",
+        "value": "Select this"
       },
       {
-        "label": "3  Start Repair",
-        "value": ""
-      },
-      {
-        "label": "4  Troubleshoot Sound",
-        "value": ""
-      },
-      {
-        "label": "5  Reset Video Mode",
-        "value": ""
-      },
-      {
-        "label": "6  Clear Cache and Rebuild Database",
-        "value": "Use this step"
+        "label": "Then: Rebuild Database",
+        "value": "Keeps games and saves"
       }
     ],
-    "note": "Illustration — not an in-game screenshot. Option names follow PlayStation's Safe Mode list. Follow the page for how to enter Safe Mode."
+    "note": "Illustration — not an in-game screenshot. Do not pick Reset PS5 or Reinstall System Software — those delete user data."
   }
 }

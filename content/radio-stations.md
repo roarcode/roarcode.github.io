@@ -14,6 +14,13 @@ sources:
   - https://www.rockstargames.com/newswire/article/7599a881942544/announcing-grand-theft-auto-vi-the-album-coming-november-19
   - https://www.rockstargames.com/newswire/article/39ak8a12395591/grand-theft-auto-vi-original-score-by-justice
   - https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI
+  - https://www.because.tv/rockstar-games-and-justice-announce-grand-theft-auto-vi-original-score/
+  - https://www.gematsu.com/2026/10/grand-theft-auto-vi-original-score-launches-december-11
+  - https://www.youtube.com/watch?v=icy-lhqJhMQ
+  - https://www.youtube.com/watch?v=_yl5ELcmugI
+  - https://x.com/RockstarGames/status/2120172512105357644
+  - https://www.billboard.com/music/music-news/gta-6-album-tracklist-grand-theft-auto-vi-soundtrack-1236382244/
+  - https://www.usatoday.com/story/tech/gaming/2026/11/17/gta-6-soundtrack-tracklist-lana-del-rey-dua-lipa/92809180007/
 updated: 2026-11-18
 status: prelaunch
 spoilers: none
@@ -58,10 +65,13 @@ Source: Game Informer's report on Rockstar's Newswire post, 8 Oct 2026.
 | Release | Date | Source |
 |---|---|---|
 | "Grand Theft Auto VI: The Album" (34 tracks) | 19 Nov 2026 | [Rockstar Newswire](https://www.rockstargames.com/newswire/article/7599a881942544/announcing-grand-theft-auto-vi-the-album-coming-november-19) (title); track count and list via [gta6record.com](https://gta6record.com/newswire) |
-| "Original Score by Justice" | 11 Dec 2026 | [Rockstar Newswire post](https://www.rockstargames.com/newswire/article/39ak8a12395591/grand-theft-auto-vi-original-score-by-justice); the date comes from [gta6record.com](https://gta6record.com/newswire) (we could not open the post text) |
-| Launch trailer song "Flower in a Hurricane" | Heard in the Launch Trailer | Wikipedia (secondary) |
+| "Original Score by Justice" | 11 Dec 2026 (digital, double CD and triple vinyl) | [Rockstar Newswire post](https://www.rockstargames.com/newswire/article/39ak8a12395591/grand-theft-auto-vi-original-score-by-justice); date and formats confirmed by the label [Because Music](https://www.because.tv/rockstar-games-and-justice-announce-grand-theft-auto-vi-original-score/) and [Gematsu](https://www.gematsu.com/2026/10/grand-theft-auto-vi-original-score-launches-december-11) |
+| "Flower in a Hurricane" by Justice, feat. Tame Impala, SZA and King Gizzard & The Lizard Wizard | Song of the Launch Trailer (15 Oct); on the album | [Rockstar YouTube](https://www.youtube.com/watch?v=icy-lhqJhMQ) |
+| "Blood In Your Eyes" by Tove Lo | Song of the Pre-Load Now video (10 Nov); on the album, streaming now | [Rockstar on X](https://x.com/RockstarGames/status/2120172512105357644), [Rockstar YouTube](https://www.youtube.com/watch?v=_yl5ELcmugI) |
 
-Rockstar also says you can listen to the official score and soundtrack and select in-game radio stations on its GTA VI page.
+Rockstar also says you can listen to the official score and soundtrack and select in-game radio stations on its GTA VI page. The album can be pre-saved on music apps and pre-ordered on vinyl or CD at [gtavi-thealbum.com](https://gtavi-thealbum.com) (Rockstar YouTube).
+
+> **Rumour / unconfirmed:** Billboard (14 Nov) and USA Today (17 Nov) published what they say is the full 34-song album list, after vinyl copies showed up early on social media. Billboard says people close to the project confirmed it. Rockstar has not posted the full list itself. Sources: https://www.billboard.com/music/music-news/gta-6-album-tracklist-grand-theft-auto-vi-soundtrack-1236382244/ and https://www.usatoday.com/story/tech/gaming/2026/11/17/gta-6-soundtrack-tracklist-lana-del-rey-dua-lipa/92809180007/
 
 ![album release timeline](TODO: image:radio-stations-step-3 — diagram, our own art: a timeline with 19 Nov (album) and 11 Dec (score))
 *Caption: Diagram. The two music release dates.*

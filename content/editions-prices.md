@@ -25,6 +25,11 @@ sources:
   - https://www.polygon.com/rockstar-reveals-gta-6-ultimate-edition-contents-and-pre-order-bonuses/
   - https://www.gamespot.com/articles/gta-6s-big-reveal-all-the-things-we-learned/
   - https://www.pcgamer.com/games/grand-theft-auto/gta-6-pre-order-editions-standard-ultimate/
+  - https://x.com/RockstarGames/status/2120909499200421900
+  - https://www.rockstargames.com/newswire/article/9k2a49ook82o57/pre-order-the-goodtime-state-vice-city-collection-now-while-supplies-l
+  - https://www.rockstargames.com/newswire/article/759875393o5253/grand-theft-auto-vi-collection-now-at-the-rockstar-store
+  - https://www.forbes.com/sites/brianmazique/2026/10/01/rockstars-400-gta-6-vice-city-collectables-set-revealed---heres-what-you-get/
+  - https://www.vice.com/en/article/gta-6-collectors-edition-price-items-pre-order/
 updated: 2026-11-18
 status: prelaunch
 spoilers: none
@@ -99,14 +104,15 @@ Rockstar says before 20 Nov. The Xbox Store says before 19 Nov 23:59:59 and Play
 
 **Xbox Series X|S:** open the **Microsoft Store**, search **Grand Theft Auto VI**, choose **Standard** or **Ultimate**, then select **Buy** or **Pre-order**.
 
-**Boxed (Standard only):** buy at the Rockstar Store or a shop, open the box, then enter the code on your console store. There is no disc. 
+**Boxed (Standard only):** buy at the Rockstar Store or a shop, open the box, then enter the code on your console store. There is no disc. Rockstar said on 12 Nov that code-in-box versions were in shops worldwide ([Rockstar on X](https://x.com/RockstarGames/status/2120909499200421900)).
 
 **Standard now, Ultimate later?** Yes. Buy the Ultimate Edition Upgrade. On Xbox the upgrade costs the same as the price gap ($20), so you pay the same in total.
 
 ## Good to know
 
 - **No microtransactions at launch:** Rockstar told Kinda Funny this (per GameSpot). The store pages still show "In-game purchases optional". Treat the first as a statement from an interview.
-- **Collector's merch:** a $399.99 Rockstar Store box (merch only, the game is sold separately), per the Rockstar Store listing and Technobezz. Not a game edition.
+- **Collector's merch:** "The Goodtime State – Vice City Collection" is a **$399.99** Rockstar Store box (merch only, **the game is sold separately**). It ships from **19 Nov 2026**, and you can buy **one per person** while supplies last ([Rockstar Newswire, 24 Sep](https://www.rockstargames.com/newswire/article/9k2a49ook82o57/pre-order-the-goodtime-state-vice-city-collection-now-while-supplies-l); Forbes; VICE). Not a game edition.
+- **Other merch:** Rockstar also launched a GTA VI collection at the Rockstar Store on 8 Oct ([Rockstar Newswire](https://www.rockstargames.com/newswire/article/759875393o5253/grand-theft-auto-vi-collection-now-at-the-rockstar-store)).
 - **Not announced:** PS5 upgrade price, euro prices outside the euro area, season passes or paid add-ons.
 
 Related: [Vintage Vice City Pack](/launch-hub/vintage-vice-city-pack/) · [launch hub](/launch-hub/gta-6-launch-hub/)

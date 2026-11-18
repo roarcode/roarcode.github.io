@@ -15,6 +15,8 @@ sources:
   - https://news.xbox.com/en-us/2026/11/10/grand-theft-auto-6-comes-to-xbox-cloud-gaming-november-19/
   - https://www.pcgamer.com/games/grand-theft-auto/gta-6-release-time-date/
   - https://www.vice.com/en/article/gta-6-second-day-one-patch-ps5-xbox/
+  - https://x.com/RockstarSupport/status/2120208353678811256
+  - https://support.rockstargames.com/articles/4bftkEy8Rwv9tV1CRtY77Z
 updated: 2026-11-18
 status: prelaunch
 spoilers: none
@@ -78,6 +80,7 @@ Stuck? See [the download fix steps](/launch-hub/preload-size/).
 1. Check you are signed in to the account that **bought the game or entered the code**.
 2. **PS5, shared console:** open **Settings > Users and Accounts > Other > Console Sharing and Offline Play** and select **Enable**. Then other accounts can play too.
 3. Check your order. **PS5:** sign in, select your avatar, select **Order History**, and check the GTA VI order says successful.
+4. Check your **Rockstar Games account** (your login with Rockstar, separate from PSN or Xbox). Rockstar Support points GTA VI players to its **Returning Player Resources** article, which covers signing in, account access problems and updating your console and games ([Rockstar Support on X](https://x.com/RockstarSupport/status/2120208353678811256), 10 Nov; [the article](https://support.rockstargames.com/articles/4bftkEy8Rwv9tV1CRtY77Z)).
 
 ## Step 5: Controller and picture
 

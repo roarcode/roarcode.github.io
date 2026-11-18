@@ -14,6 +14,8 @@ sources:
   - https://www.xbox.com/en-US/games/store/grand-theft-auto-vi-ultimate-edition-upgrade/9PN4LLBR8RCH
   - https://gameinformer.com/2026/11/10/grand-theft-auto-vi-will-run-at-30-fps-on-all-consoles-but-ps5-pro-will-feature-improved
   - https://support.rockstargames.com/
+  - https://support.rockstargames.com/servicestatus
+  - https://x.com/HarryAyy_/status/2123008728513552863
 updated: 2026-11-18
 status: stub
 publish: true
@@ -66,10 +68,17 @@ You may see advice to clear **persistent storage**. That fix is for **disc** ins
 - **Xbox Support:** downloads, codes, account and store problems.
 - **[Rockstar Support](https://support.rockstargames.com/):** gameplay problems, patches and bugs.
 - **Known GTA 6 Xbox bugs and patch notes:** not announced yet. We will update this page when Rockstar confirms them.
+- **"Service outage" message?** One Xbox player reported this right at the New Zealand unlock (18 Nov, 12:00 CET). It is **one report**, not a confirmed problem. Do step 1 first: check [Xbox status](https://support.xbox.com/en-US/xbox-live-status) and [Rockstar Service Status](https://support.rockstargames.com/servicestatus). Then check step 2: is it past midnight where your console is set?
 
 Related: [GTA 6 download stuck](/glitches/gta-6-download-stuck/) · [GTA 6 not working](/glitches/gta-6-not-working/) · [pre-load not starting](/glitches/gta-6-preload-not-starting/)
 
-<!-- What players are saying: add real embeds from content/inbox/ -->
+## What players are saying
+
+*Public posts, quoted with a link. Player tips are not confirmed facts.*
+
+<blockquote class="twitter-tweet"><a href="https://x.com/HarryAyy_/status/2123008728513552863"></a></blockquote>
+
+> "ANYONE ELSE GETTING A SERVICE OUTAGE MESSAGE ON XBOX FOR GTA 6" – @HarryAyy_ on X, 18 Nov 2026 ([link](https://x.com/HarryAyy_/status/2123008728513552863)). A single player report, not confirmed by Xbox or Rockstar.
 
 ## FAQ
 

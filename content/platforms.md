@@ -15,6 +15,8 @@ sources:
   - https://www.pcgamer.com/games/grand-theft-auto/gta-6-guide/
   - https://www.1news.co.nz/2026/11/18/gta-6-how-to-beat-the-download-rush-and-why-gamers-abroad-envy-kiwis/
   - https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI
+  - https://www.dexerto.com/gta/gta-6-running-at-30-fps-makes-sense-experts-say-after-rockstars-confirmation-3428936/
+  - https://www.tweaktown.com/news/114744/digital-foundry-says-gta-vis-cpu-demands-make-a-40-fps-mode-on-ps5-pro-too-difficult/index.html
 updated: 2026-11-18
 status: prelaunch
 spoilers: none
@@ -50,6 +52,7 @@ qa: live-review
 
 - **30 FPS** is the target on all consoles. Rockstar: "targeting 30 frames per second".
 - **No 40 or 60 FPS mode** is announced.
+- **Why 30?** Digital Foundry (a team that tests game graphics) says the busy world (traffic, crowds, physics) needs about **33 ms per frame**. 40 FPS would leave only 25 ms. This is their analysis, not Rockstar's words (reported by Dexerto and TweakTown).
 - **Resolution:** not announced.
 - **PS5 Pro:** PSSR and ray-traced shadows.
 - **Xbox Cloud Gaming:** uses **Xbox Series S graphics settings**. Xbox says availability, supported devices and features vary by market and device.
