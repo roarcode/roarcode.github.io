@@ -14,7 +14,7 @@ eleventyExcludeFromCollections: true
   <rights>{{ site.disclaimer | xml }}</rights>
 {%- set n = 0 %}
 {%- for g in library.guides %}{% if g.indexable and n < 40 %}{% set n = n + 1 %}
-  <entry>
+  <entry xml:lang="{{ g.lang }}">
     <title>{{ g.title | xml }}</title>
     <link href="{{ g.url | abs }}" rel="alternate" type="text/html"/>
     <id>{{ g.url | abs }}</id>

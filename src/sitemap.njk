@@ -3,15 +3,15 @@ permalink: /sitemap.xml
 eleventyExcludeFromCollections: true
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url><loc>{{ '/' | abs }}</loc><lastmod>{{ library.lastUpdatedDate }}</lastmod></url>
 {%- for c in library.categories %}{% if c.indexable %}
   <url><loc>{{ c.url | abs }}</loc><lastmod>{{ c.lastUpdatedDate or library.lastUpdatedDate }}</lastmod></url>
 {%- endif %}{% endfor %}
 {%- for g in library.guides %}{% if g.indexable %}
-  <url><loc>{{ g.url | abs }}</loc><lastmod>{{ g.updatedValue }}</lastmod></url>
+  <url><loc>{{ g.url | abs }}</loc><lastmod>{{ g.updatedValue }}</lastmod>{% for a in g.alternates %}<xhtml:link rel="alternate" hreflang="{{ a.hreflang }}" href="{{ a.url | abs }}"/>{% endfor %}</url>
 {%- endif %}{% endfor %}
 {%- for p in library.pages %}{% if p.indexable %}
-  <url><loc>{{ p.url | abs }}</loc><lastmod>{{ p.updatedValue }}</lastmod></url>
+  <url><loc>{{ p.url | abs }}</loc><lastmod>{{ p.updatedValue }}</lastmod>{% for a in p.alternates %}<xhtml:link rel="alternate" hreflang="{{ a.hreflang }}" href="{{ a.url | abs }}"/>{% endfor %}</url>
 {%- endif %}{% endfor %}
 </urlset>
