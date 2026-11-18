@@ -14,7 +14,7 @@ updated: 2026-11-18
 status: live
 spoilers: none
 featured: true
-qa: passed
+qa: live-review
 ---
 
 # GTA 6 Launch Hub: Release Time, Fixes and Guides (Live)
@@ -38,6 +38,7 @@ qa: passed
 - [How to avoid GTA 6 spoilers: mute words on X](/beginner-tips/gta-6-avoid-spoilers/)
 - [GTA 6 cheats: how to enter them on PS5 and Xbox](/launch-hub/gta-6-cheats/)
 - [GTA 6 review scores: Metacritic 99 and more (spoiler-free)](/launch-hub/gta-6-review-score-roundup/)
+- [GTA 6 how to make money fast: 4 best ways](/money/gta-6-how-to-make-money-fast/)
 
 ## Something is not working
 
@@ -87,7 +88,6 @@ We add these only after the facts are confirmed. We do not guess.
 
 - GTA 6 error codes: what each one means
 - GTA 6 first mission walkthrough
-- GTA 6 how to make money fast
 - GTA 6 best car early
 
 ![timeline of unlock times from New Zealand to the US East Coast](TODO: image:gta-6-launch-hub-step-2 — diagram, our own art: a timeline with New Zealand 12:00 CET, central Europe 00:00 CET and US East 06:00 CET)

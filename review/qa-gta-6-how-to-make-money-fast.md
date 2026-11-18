@@ -1,3 +1,5 @@
+Checked by SEARCH 18 Nov 2026 18:20 CET: PASS (images now match captions, facts re-checked against GameSpot/Destructoid). qa: passed, draft removed, pushed e40e9ca.
+
 Checked by SEARCH 18 Nov 2026 13:48 CET
 ## QA (SEARCH) — FAIL (stays qa: pending + draft: true)
 Text passes: every fact matches GameSpot and Destructoid (18 Nov), no placeholders in the text, no test claims, NPC/place names and the story section are inside spoiler boxes, disclaimer present, no links to unpublished pages (2 external links: both 403 to our checker, could not verify by script but both pages read fine via fetch). Screenshots: review/qa-shots/gta-6-how-to-make-money-fast-{desktop,mobile}.png

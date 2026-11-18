@@ -51,8 +51,8 @@ New pages are hidden until SEARCH passes them. Add each line only after its targ
 |---|---|---|---|---|
 | 34 | content/gta-6-launch-hub.md | "Buy and know before you play" list, add as last bullet | `- [Can you replay missions in GTA 6? No, save first](/beginner-tips/gta-6-replay-missions/)` | gta-6-replay-missions — DONE 2026-11-18 15:15 (released by Copywriter) |
 | 35 | content/beginner-tips.md | Tip 3 ("Save to a new slot before a hard mission"), append at end of the item | ` More: [Can you replay missions in GTA 6?](/beginner-tips/gta-6-replay-missions/)` | gta-6-replay-missions — DONE 2026-11-18 15:15 (released by Copywriter) |
-| 36 | content/gta-6-launch-hub.md | "Right now" list, add as last bullet; and delete the plain-text line "GTA 6 how to make money fast" from "Coming soon" | `- [GTA 6 how to make money fast: 4 best ways](/money/gta-6-how-to-make-money-fast/)` | gta-6-how-to-make-money-fast |
-| 37 | content/beginner-tips.md | FAQ or end of the tips list, new line | `Need cash? [GTA 6 how to make money fast: 4 best ways](/money/gta-6-how-to-make-money-fast/).` | gta-6-how-to-make-money-fast |
+| 36 | content/gta-6-launch-hub.md | "Right now" list, add as last bullet; and delete the plain-text line "GTA 6 how to make money fast" from "Coming soon" | `- [GTA 6 how to make money fast: 4 best ways](/money/gta-6-how-to-make-money-fast/)` | gta-6-how-to-make-money-fast — DONE 2026-11-18 18:15 (released by Copywriter) |
+| 37 | content/beginner-tips.md | FAQ or end of the tips list, new line | `Need cash? [GTA 6 how to make money fast: 4 best ways](/money/gta-6-how-to-make-money-fast/).` | gta-6-how-to-make-money-fast — DONE 2026-11-18 18:15 (released by Copywriter) |
 
 - Added 13:50 by Copywriter (add after SEARCH passes each page):
 

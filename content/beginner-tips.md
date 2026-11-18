@@ -22,7 +22,7 @@ sources:
 updated: 2026-11-18
 status: prelaunch
 spoilers: minor
-qa: passed
+qa: live-review
 ---
 
 # GTA 6 Beginner Tips: Start Strong in 2026
@@ -84,6 +84,8 @@ We will publish money methods, vehicle guides and collectible maps after launch,
 Want a first-person view? [Does GTA 6 have first-person mode?](/beginner-tips/gta-6-first-person-mode/)
 
 Found a car you like? [GTA 6 how to scan cars with WAiNK](/cars/gta-6-how-to-scan-cars/)
+
+Need cash? [GTA 6 how to make money fast: 4 best ways](/money/gta-6-how-to-make-money-fast/).
 
 ## FAQ
 
