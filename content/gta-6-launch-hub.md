@@ -64,6 +64,7 @@ qa: passed
 - [Does GTA 6 have first-person mode? Not fully: 3 ways](/beginner-tips/gta-6-first-person-mode/)
 - [GTA 6 how to scan cars: WAiNK app in 3 steps](/cars/gta-6-how-to-scan-cars/)
 - [GTA 6 scam sites: 5 signs a page is fake](/beginner-tips/gta-6-scam-sites/)
+- [GTA 6 GTA+ benefits: free car, 10% off and how to turn off](/beginner-tips/gta-6-gta-plus-benefits/)
 
 ## The world and the people
 

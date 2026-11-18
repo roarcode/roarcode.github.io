@@ -92,6 +92,7 @@ The pack is **not ready the moment you start**. PC Gamer says you unlock it by p
 - **Xbox claim window:** redeem within 180 days of your pre-order (Xbox Store listing). One redemption per platform account.
 - **Xbox:** open the Store, select your **profile icon** at the top left, select **Offers & credits**.
 - **Cost:** free for one month, then it renews at the normal price until you cancel.
+- **What GTA+ gives you in the game:** [GTA 6 GTA+ benefits](/beginner-tips/gta-6-gta-plus-benefits/).
 
 ![Xbox Offers and credits menu](TODO: image:vintage-vice-city-pack-step-3 — menu screen, Xbox: Store profile icon > Offers & credits)
 *Caption: Diagram. Where to find the GTA+ offer on Xbox.*
@@ -117,6 +118,7 @@ PC Gamer says the pack appears in the main menu store only after an early story 
 
 | Date | What changed |
 |---|---|
+| 2026-11-18 21:08 CET | Added a link to the GTA+ benefits page. |
 | 2026-11-18 | Added how to claim the pack in the game (PC Gamer) and RockstarINTEL's report on two tropical patterns for linked accounts. |
 
 ---
