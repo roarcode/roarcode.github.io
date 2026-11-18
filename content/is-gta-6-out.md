@@ -21,7 +21,7 @@ updated: 2026-11-18
 status: stub
 publish: true
 spoilers: none
-qa: live-review
+qa: passed
 ---
 
 # Is GTA 6 Out? Yes: Unlock Time in Every Time Zone

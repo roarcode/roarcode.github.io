@@ -16,9 +16,8 @@ sources:
 updated: 2026-11-18
 status: live
 publish: true
-draft: true
 spoilers: none
-qa: pending
+qa: passed
 ---
 
 # Can You Replay Missions in GTA 6? No, Save First

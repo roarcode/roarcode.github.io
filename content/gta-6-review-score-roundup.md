@@ -21,9 +21,8 @@ sources:
 updated: 2026-11-18
 status: prelaunch
 publish: true
-draft: true
 spoilers: none
-qa: pending
+qa: passed
 ---
 
 # GTA 6 Review Scores: Metacritic 99 and More (Spoiler-Free)
