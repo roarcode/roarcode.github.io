@@ -16,6 +16,7 @@ sources:
   - https://support.rockstargames.com/
   - https://support.rockstargames.com/servicestatus
   - https://x.com/HarryAyy_/status/2123008728513552863
+  - https://wccftech.com/grand-theft-auto-vi-amd-fsr-4-xbox-series-s-ray-tracing/
 updated: 2026-11-18
 status: stub
 publish: true
@@ -59,6 +60,23 @@ qa: live-review
 - From 11 Nov, in supported markets, you can buy cloud playtime without Game Pass (Xbox Wire). Availability and features vary by market.
 - Cloud streaming uses Xbox Series S graphics settings (Xbox Wire).
 
+## Series S looks blurry? That is the resolution, not a bug
+
+Wondering why GTA 6 looks softer on **Xbox Series S**? Rockstar explained the numbers on 18 Nov ([Rockstar via Wccftech](https://wccftech.com/grand-theft-auto-vi-amd-fsr-4-xbox-series-s-ray-tracing/)):
+
+- **Series S** starts from a **720p** picture and makes it bigger to **1080p** with AMD FSR 4 (a tool that makes a small picture bigger and smoother).
+- **Series X** starts from **1440p** and makes it bigger to **4K**.
+- Both target **30 FPS** (frames per second, how smooth the picture is).
+
+There is no setting that changes this. Restarting will not change it either. What you can check:
+
+1. Press the **Xbox button**.
+2. Go to **Profile & system > Settings > General > TV & display options** (general Xbox menu path, check on your console).
+3. Check that **Resolution** shows the highest your TV supports.
+4. Turn on **Game Mode** in your TV's picture menu (name varies by TV).
+
+More numbers: [GTA 6 performance mode](/launch-hub/gta-6-performance-mode/).
+
 ## The Blu-ray "persistent storage" fix: skip it
 
 You may see advice to clear **persistent storage**. That fix is for **disc** installs. The boxed GTA 6 has a download code and **no disc**, so it is not needed.
@@ -89,7 +107,16 @@ Check the status page, then the unlock time, the Queue, the network test and fre
 Only through Xbox Cloud Gaming (Xbox Wire).
 
 ### Is there a 60 fps mode on Xbox?
-Not announced. Rockstar targets 30 fps on all consoles (Game Informer).
+No. Rockstar targets 30 fps on all consoles (Game Informer).
+
+### Why does GTA 6 look blurry on Xbox Series S?
+Rockstar says Series S starts at 720p and is made bigger to 1080p. Series X starts at 1440p. It is how the game is built, not a fault.
+
+## Updated
+
+| Date | What changed |
+|---|---|
+| 2026-11-18 13:15 CET | Added a Series S section with Rockstar's resolution numbers (via Wccftech). |
 
 ---
 *Unofficial fan site, not affiliated with Rockstar Games or Take-Two.*

@@ -20,6 +20,10 @@ sources:
   - https://www.rockstargames.com/VI/pre-load-now
   - https://news.xbox.com/en-us/2026/11/10/grand-theft-auto-6-comes-to-xbox-cloud-gaming-november-19/
   - https://x.com/IGN/status/2122811762194199016
+  - https://wccftech.com/grand-theft-auto-vi-amd-fsr-4-xbox-series-s-ray-tracing/
+  - https://x.com/SixthStarGTA/status/2123021775684477299
+  - https://x.com/Nhlangothi__/status/2123021003794124804
+  - https://x.com/MuyiwaOyinloye/status/2123023079806840935
 updated: 2026-11-18
 status: prelaunch
 spoilers: none
@@ -40,7 +44,9 @@ qa: live-review
 |---|---|---|
 | Frame rate | "Targeting 30 frames per second" on current consoles | Rockstar blog, 10 Nov, via Game Informer, GamesRadar, The Verge |
 | Modes (performance / quality) | None. TechRadar says there are no graphics modes on PS5 or Xbox (18 Nov). | [TechRadar](https://www.techradar.com/gaming/why-no-40fps-mode-for-gta-6-rockstar-says-the-complexity-of-simulating-and-rendering-our-world-requires-it-to-carefully-balance-how-we-spend-every-millisecond-of-both-the-central-processor-and-the-graphics-processor) |
-| Resolution | Not announced by Rockstar. Digital Foundry measured a 1440p base on PS5 and PS5 Pro (18 Nov). | [Digital Foundry](https://www.digitalfoundry.net/reviews/grand-theft-auto-6-a-landmark-achievement-that-redefines-a-console-generation) |
+| Resolution | **1440p base** on PS5 and PS5 Pro, made bigger to 4K. Rockstar told Wccftech this on 18 Nov, and Digital Foundry measured the same 1440p base. | [Wccftech](https://wccftech.com/grand-theft-auto-vi-amd-fsr-4-xbox-series-s-ray-tracing/), [Digital Foundry](https://www.digitalfoundry.net/reviews/grand-theft-auto-6-a-landmark-achievement-that-redefines-a-console-generation) |
+| HDR | The game was built for both HDR and SDR (normal TV picture) from the start (Rockstar via Wccftech). | [Wccftech](https://wccftech.com/grand-theft-auto-vi-amd-fsr-4-xbox-series-s-ray-tracing/) |
+| Dark screen corners | The darker corners (a *vignette*) are an art choice. There is **no setting** to turn them off. Rockstar says it fixed a bug that made them too strong at times. | Rockstar via [Wccftech](https://wccftech.com/grand-theft-auto-vi-amd-fsr-4-xbox-series-s-ray-tracing/) |
 | PS5 Pro | PSSR (sharper picture) and ray-traced shadows, "only available on PlayStation 5 Pro". A compatible display is needed. | Game Informer, PlayStation |
 | Controller | DualSense haptics and adaptive triggers, adjustable in accessibility settings | Rockstar via GamesRadar, PlayStation Blog |
 | Sound | Tempest 3D Audio | PlayStation Blog |
@@ -98,11 +104,23 @@ qa: live-review
 ## Xbox Series X|S: what is known
 
 - Xbox Series X and Series S run it natively. Rockstar gave no Xbox-only graphics options.
+- **Resolution (Rockstar via Wccftech, 18 Nov):** Series X starts at **1440p** and goes up to 4K. Series S starts at **720p** and goes up to **1080p** with AMD FSR 4. Both target 30 FPS. More in [GTA 6 performance mode](/launch-hub/gta-6-performance-mode/).
 - **Xbox Cloud Gaming** (streaming) uses **Xbox Series S graphics settings**, per Rockstar and Xbox Wire.
+
+## In-game options: what early players report
+
+Rockstar has not published the full settings menu. Early players in New Zealand are posting what they see. These are **reports, not confirmed facts**.
+
+> **Rumour / unconfirmed:** a stream clip shows a **dismemberment** on/off option, a **blood and gore** level and a **motion blur** setting. Source: https://x.com/SixthStarGTA/status/2123021775684477299
+
+> **Rumour / unconfirmed:** one player says aim assist feels very weak even when it is turned on. Source: https://x.com/MuyiwaOyinloye/status/2123023079806840935
+
+- **HDR tip from a player:** one post says to turn HDR off. That is one person's opinion. Rockstar says the game was made for both HDR and SDR. Our tip: run **Adjust HDR** first (Step 2). Turn HDR off only if the picture still looks wrong on your TV.
 
 ## Not announced (we will update at launch)
 
-- HDR, motion blur, field-of-view and camera options in the game
+- Field-of-view and camera options in the game
+- The full in-game settings menu, confirmed by Rockstar or by our own screenshots
 - Launch-day update size
 
 Frame rate details: [GTA 6 performance mode: is there 60 FPS on PS5 Pro?](/launch-hub/gta-6-performance-mode/).
@@ -112,6 +130,8 @@ Frame rate details: [GTA 6 performance mode: is there 60 FPS on PS5 Pro?](/launc
 *Public posts, quoted with a link. Player tips are not confirmed facts.*
 
 <blockquote class="twitter-tweet"><a href="https://x.com/IGN/status/2122811762194199016"></a></blockquote>
+
+<blockquote class="twitter-tweet"><a href="https://x.com/Nhlangothi__/status/2123021003794124804"></a></blockquote>
 
 ## FAQ
 
@@ -125,7 +145,16 @@ PSSR (sharper picture) and ray-traced shadows.
 At least 212 GB free (PlayStation).
 
 ### Is there a performance mode?
-Not announced.
+No. TechRadar says there are no graphics modes on PS5 or Xbox.
+
+### Can I turn off the dark corners of the screen?
+No. Rockstar says the vignette (darker corners) is an art choice with no toggle.
+
+## Updated
+
+| Date | What changed |
+|---|---|
+| 2026-11-18 13:15 CET | Added Rockstar's resolution and HDR answers (via Wccftech), the no-toggle vignette note, and early player reports about the settings menu. |
 
 ### Can I change the controller buzz?
 Yes. Rockstar says haptics are adjustable in accessibility settings.

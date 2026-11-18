@@ -18,6 +18,7 @@ sources:
   - https://news.xbox.com/en-us/2026/11/10/grand-theft-auto-6-comes-to-xbox-cloud-gaming-november-19/
   - https://insider-gaming.com/is-grand-theft-auto-6-down-gta-6-issues-explained/
   - https://x.com/PS_Support_US/status/2122863683881619685
+  - https://tech.sportskeeda.com/gaming-news/is-gta-6-right-now-november-2026-server-status-explained
 updated: 2026-11-18
 status: stub
 publish: true
@@ -41,6 +42,15 @@ qa: live-review
 4. If any page shows a problem, stop. Nothing you change on your console fixes a server problem. Try again later.
 
 > **Status check, 18 Nov 2026 at 12:50 CET:** the [Xbox status page](https://support.xbox.com/en-US/xbox-live-status) showed no problems. PlayStation's US status page showed no alerts, and its Europe page showed only an older Russia-only alert from 11 Nov. The Rockstar status page did not load for us, so check it yourself. Insider Gaming wrote on 18 Nov that GTA 6 had no performance or network problems at the time it wrote. Rockstar has not posted any GTA VI "known issues" list or fix yet ([Insider Gaming](https://insider-gaming.com/is-grand-theft-auto-6-down-gta-6-issues-explained/)).
+
+> **Reports / unconfirmed (18 Nov):** Sportskeeda reports that some players get **stuck on the first loading screen** or see a **network error before the main menu**. It thinks heavy launch traffic is the cause. Rockstar has **not** confirmed an outage or posted a fix. Source: https://tech.sportskeeda.com/gaming-news/is-gta-6-right-now-november-2026-server-status-explained
+
+**Stuck on the loading screen or a network error?** Until Rockstar posts a fix, do this:
+1. Check the three status pages in Step 1.
+2. Wait a few minutes. Then start the game again.
+3. Do fix 3 below (restart the console).
+4. Do fix 6 below (test your internet).
+5. PS5: make sure the required system update is installed (fix 7).
 
 ![the three status pages side by side with green ticks](TODO: image:gta-6-not-working-step-1 — diagram, our own art: three cards named Rockstar, PlayStation, Xbox with a green tick and a red cross example)
 *Caption: Diagram. Check these three pages before you change anything.*
@@ -94,6 +104,7 @@ Not announced on any page we checked. The PlayStation Store lists it as a single
 
 | Date | What changed |
 |---|---|
+| 2026-11-18 13:15 CET | Added unconfirmed reports of loading-screen and network errors, with safe steps to try. Re-checked @RockstarSupport: no GTA VI known-issues post yet. |
 | 2026-11-18 13:10 CET | New status check (12:50 CET). Added the required PS5 system update under fix 7 and a Related line. |
 | 2026-11-18 | Page created. |
 

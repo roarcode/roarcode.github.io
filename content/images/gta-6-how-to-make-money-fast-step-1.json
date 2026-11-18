@@ -1,27 +1,17 @@
 {
   "type": "compare-table",
-  "alt": "Placeholder table for money methods ranked by money per hour. No payouts have been tested yet.",
+  "alt": "Table of four GTA 6 money methods from GameSpot and Destructoid: gang hideouts, car jobs, treasure dives, stores and banks, with when each opens. No story names.",
   "data": {
     "category": "money",
-    "title": "Methods ranked by money per hour",
-    "subtitle": "No payouts have been published or tested yet. Rows are placeholders.",
-    "columns": [
-      "Rank",
-      "Method",
-      "$ per hour"
-    ],
+    "title": "4 ways to make money fast",
+    "subtitle": "From GameSpot and Destructoid guides, 18 Nov 2026. Not timed by us yet.",
+    "columns": ["#", "Method", "When it opens"],
     "rows": [
-      [
-        "1",
-        "To be tested",
-        "—"
-      ],
-      [
-        "2",
-        "To be tested",
-        "—"
-      ]
+      ["1", "Raid gang hideouts (yellow icons)", "Early"],
+      ["2", "Steal cars for paid jobs (often $10,000+)", "Early, better cars later"],
+      ["3", "Treasure dives", "Fairly early"],
+      ["4", "Big stores, then banks", "Banks about halfway"]
     ],
-    "note": "We publish only numbers from our own timed runs, or from Rockstar. No glitches or copied GTA 5 methods."
+    "note": "No glitches or exploits. Carry under $20,000 cash and bank the rest."
   }
 }

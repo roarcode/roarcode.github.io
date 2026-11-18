@@ -1,0 +1,25 @@
+{
+  "type": "menu-mock",
+  "alt": "Illustration of an in-mission menu with three rows: Retry, Quit and Restart. Not an in-game screenshot.",
+  "data": {
+    "category": "beginner",
+    "title": "Mission going badly?",
+    "panel_title": "In-mission menu \u2014 illustration",
+    "highlightRow": 1,
+    "rows": [
+      {
+        "label": "Retry",
+        "value": "Option"
+      },
+      {
+        "label": "Quit",
+        "value": "Option"
+      },
+      {
+        "label": "Restart",
+        "value": "Option"
+      }
+    ],
+    "note": "Illustration \u2014 not an in-game screenshot. Options as listed by GameSpot, 18 Nov 2026."
+  }
+}

@@ -1,18 +1,16 @@
 {
   "type": "map-annotate",
-  "alt": "Schematic map with a single placeholder pin for where a money method starts. Location to be filled after testing, with no story details.",
+  "alt": "Schematic map with three yellow robbery-spot pins and one fence pin. Not the real map, no place names.",
   "data": {
     "category": "money",
-    "title": "Method start — after testing",
+    "title": "Yellow icons = robbery spots",
     "pins": [
-      {
-        "x": 55,
-        "y": 46,
-        "kind": "money",
-        "label": "Start — after testing"
-      }
+      {"x": 30, "y": 35, "kind": "money", "label": "Robbery spot"},
+      {"x": 62, "y": 28, "kind": "money", "label": "Robbery spot"},
+      {"x": 48, "y": 62, "kind": "money", "label": "Robbery spot"},
+      {"x": 75, "y": 70, "kind": "start", "label": "Fence: sell loot"}
     ],
     "credit": "Original schematic by Leonida Guides.",
-    "note": "Not to scale. Placeholder only. No story locations."
+    "note": "Not to scale. Not the real map. Icon colours as described by GameSpot and Destructoid."
   }
 }

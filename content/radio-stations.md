@@ -21,10 +21,11 @@ sources:
   - https://x.com/RockstarGames/status/2120172512105357644
   - https://www.billboard.com/music/music-news/gta-6-album-tracklist-grand-theft-auto-vi-soundtrack-1236382244/
   - https://www.usatoday.com/story/tech/gaming/2026/11/17/gta-6-soundtrack-tracklist-lana-del-rey-dua-lipa/92809180007/
+  - https://www.digitalfoundry.net/reviews/grand-theft-auto-6-a-landmark-achievement-that-redefines-a-console-generation
 updated: 2026-11-18
 status: prelaunch
 spoilers: none
-qa: passed
+qa: live-review
 ---
 
 # GTA 6 Radio Stations: 6 Previewed Stations (2026)
@@ -71,6 +72,8 @@ Source: Game Informer's report on Rockstar's Newswire post, 8 Oct 2026.
 
 Rockstar also says you can listen to the official score and soundtrack and select in-game radio stations on its GTA VI page. The album can be pre-saved on music apps and pre-ordered on vinyl or CD at [gtavi-thealbum.com](https://gtavi-thealbum.com) (Rockstar YouTube).
 
+**From a review that played the game:** Digital Foundry's review (18 Nov) says the game has original music from artists "such as Justice, Blackpink's Jennie and Dua Lipa", plus several full music stations ([Digital Foundry](https://www.digitalfoundry.net/reviews/grand-theft-auto-6-a-landmark-achievement-that-redefines-a-console-generation)). Song names for Jennie and Dua Lipa are not announced by Rockstar.
+
 > **Rumour / unconfirmed:** Billboard (14 Nov) and USA Today (17 Nov) published what they say is the full 34-song album list, after vinyl copies showed up early on social media. Billboard says people close to the project confirmed it. Rockstar has not posted the full list itself. Sources: https://www.billboard.com/music/music-news/gta-6-album-tracklist-grand-theft-auto-vi-soundtrack-1236382244/ and https://www.usatoday.com/story/tech/gaming/2026/11/17/gta-6-soundtrack-tracklist-lana-del-rey-dua-lipa/92809180007/
 
 ![album release timeline](TODO: image:radio-stations-step-3 — diagram, our own art: a timeline with 19 Nov (album) and 11 Dec (score))
@@ -94,6 +97,12 @@ Yes, with in-game headphones or earbuds linked to your phone.
 
 ### When does the GTA 6 album come out?
 19 November 2026, with 34 tracks.
+
+## Updated
+
+| Date | What changed |
+|---|---|
+| 2026-11-18 13:15 CET | Added Digital Foundry's note on original music from Justice, Jennie and Dua Lipa. |
 
 ---
 *Unofficial fan site, not affiliated with Rockstar Games or Take-Two.*

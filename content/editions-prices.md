@@ -33,6 +33,8 @@ sources:
   - https://www.forbes.com/sites/brianmazique/2026/10/01/rockstars-400-gta-6-vice-city-collectables-set-revealed---heres-what-you-get/
   - https://www.vice.com/en/article/gta-6-collectors-edition-price-items-pre-order/
   - https://x.com/IGN/status/2122832446513176806
+  - https://rockstarintel.com/all-gta-vi-rewards-for-gta-members/
+  - https://www.wionews.com/technology/pre-ordered-gta-6-rockstar-is-giving-players-free-gta-and-these-extra-rewards-1795001164007
 updated: 2026-11-18
 status: prelaunch
 spoilers: none
@@ -95,6 +97,10 @@ Rockstar says before 20 Nov. The Xbox Store says before 19 Nov 23:59:59 and Play
 - After one month it renews monthly at the normal price. Cancel before the next payment date if you do not want it.
 - Boxed copies get the Vintage Vice City Pack, but the free GTA+ month is for **digital** buyers.
 
+**What GTA+ adds in story mode (reported 18 Nov)**
+
+> **Rumour / unconfirmed:** RockstarINTEL and WION report that GTA+ members get story-mode perks in GTA VI: a specially tuned car with its own single-car garage, free public transport and free scooter, bike and Seashark (jet ski) rentals, **10% off** at some shops, and **10% more** money when you sell eligible cars. Both say the car and garage open from **Chapter 3**, and the perks last **only while you pay** for GTA+. WION says you can switch the bonuses off in the game's settings. We could not open Rockstar Support's GTA+ page to check. Sources: https://rockstarintel.com/all-gta-vi-rewards-for-gta-members/ and https://www.wionews.com/technology/pre-ordered-gta-6-rockstar-is-giving-players-free-gta-and-these-extra-rewards-1795001164007
+
 ![PS5 Store page for GTA VI with edition choices](TODO: image:editions-prices-step-2 — step screenshot, PS5: PlayStation Store GTA VI page showing Standard and Ultimate)
 *Caption: Step screenshot. Choose your edition on the PlayStation Store.*
 
@@ -147,6 +153,15 @@ A bonus for buying before 20 November 2026. See the list above.
 
 ### How do I claim the free GTA+ month?
 PS5: use the GTA+ page on PlayStation Store, before 31 March 2027. Xbox: profile icon > Offers & credits.
+
+### Does GTA+ give anything in GTA 6 story mode?
+Reported, not confirmed by us: a tuned car with a garage, free travel and rentals, and 10% shop and car-sale bonuses, while you stay a member. See the GTA+ section above.
+
+## Updated
+
+| Date | What changed |
+|---|---|
+| 2026-11-18 13:15 CET | Added reported GTA+ story-mode perks (RockstarINTEL, WION), marked unconfirmed. |
 
 ---
 *Unofficial fan site, not affiliated with Rockstar Games or Take-Two.*

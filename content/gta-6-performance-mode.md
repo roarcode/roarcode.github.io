@@ -17,6 +17,8 @@ sources:
   - https://www.digitalfoundry.net/features/gta-6-an-extended-look-analysis-perhaps-the-most-impressive-showcase-weve-ever-seen-in-real-time-rendering
   - https://www.theverge.com/games/1030749/rockstar-gta-6-30fps-ps5-pro-pssr-ray-tracing
   - https://www.digitalfoundry.net/reviews/grand-theft-auto-6-a-landmark-achievement-that-redefines-a-console-generation
+  - https://wccftech.com/grand-theft-auto-vi-amd-fsr-4-xbox-series-s-ray-tracing/
+  - https://x.com/OctolusNET/status/2123014138410439151
   - https://x.com/Pure_PS/status/2122348821019775397
   - https://x.com/WantedLevelgg/status/2122130221734469666
   - https://x.com/Pirat_Nation/status/2122630827355840566
@@ -41,7 +43,7 @@ qa: live-review
 - Rockstar says GTA VI "has been fully developed from the ground up" for current consoles, "targeting 30 frames per second" (via Game Informer, 10 Nov).
 - **PS5 Pro:** "improved clarity through PlayStation Spectral Super Resolution (PSSR) and ray-traced shadows only available on PlayStation 5 Pro."
 - **PS5 and PS5 Pro:** high-fidelity haptic feedback on the DualSense, adjustable in accessibility settings, plus Tempest 3D audio and better load times.
-- **Xbox:** Rockstar's post covers Xbox Cloud Gaming on Series S graphics settings and gives no performance numbers for Xbox consoles (Game Informer).
+- **Xbox:** Rockstar's 10 Nov post covers Xbox Cloud Gaming on Series S graphics settings (Game Informer). On 18 Nov, Rockstar gave Wccftech the base resolution for every console (see the table below).
 - **No 60 FPS or performance mode is announced.** See [platforms](/launch-hub/platforms/) and [PS5 settings](/launch-hub/ps5-settings/).
 
 ![Frame rate chart showing 30 FPS target on all consoles](TODO: image:gta-6-performance-mode-step-1 — diagram, our own art: a bar showing 30 FPS target for PS5, PS5 Pro, Xbox Series X and Series S)
@@ -81,6 +83,24 @@ Digital Foundry (DF) tests how games run. Its review by John Linneman went up on
 ![PS5 vs PS5 Pro comparison diagram from Digital Foundry's numbers](TODO: image:gta-6-performance-mode-step-4 — diagram, our own art: two columns PS5 and PS5 Pro, both 1440p base, Pro with PSSR to 4K and RT shadows, PS5 with dips to mid-20s)
 *Caption: Diagram. Digital Foundry's PS5 and PS5 Pro results, drawn by us.*
 
+## Every console: Rockstar's own resolution numbers (18 Nov 2026)
+
+Rockstar answered written questions from Wccftech during the review period. These numbers are Rockstar's words, not a test ([Wccftech, 18 Nov 2026](https://wccftech.com/grand-theft-auto-vi-amd-fsr-4-xbox-series-s-ray-tracing/)).
+
+| Console | Base resolution | Made bigger to | How |
+|---|---|---|---|
+| PS5 | 1440p | 4K | Rockstar's own TAA |
+| Xbox Series X | 1440p | 4K | Rockstar's own TAA |
+| PS5 Pro | 1440p | 4K | PSSR2 |
+| Xbox Series S | **720p** | **1080p** | AMD FSR 4 |
+
+- Every console targets **30 FPS** (Rockstar).
+- Rockstar says ray-traced lighting is on **every** console, including Series S, but it is tuned differently on each one.
+- The menus and on-screen text are drawn at 4K on all consoles.
+- **Why Series S looks softer:** it starts from 720p, half the height of 1440p. So the Series S picture is softer. That is how the game is made, not a fault with your console.
+
+**More words.** *TAA* and *FSR 4* are ways to make a small picture bigger and smoother. *720p* and *1080p* are smaller pictures than 1440p and 4K.
+
 ## Why players argue
 
 - A fan poll-style post on X asked if people would cancel their pre-order over 30 FPS on PS5 Pro (see below).
@@ -107,6 +127,8 @@ Some posts say a free tool can turn a 30 FPS console picture into 60 or 120 FPS 
 
 *Public posts, quoted with a link. Opinions are not facts.*
 
+<blockquote class="twitter-tweet"><a href="https://x.com/OctolusNET/status/2123014138410439151"></a></blockquote>
+
 <blockquote class="twitter-tweet"><a href="https://x.com/Pure_PS/status/2122348821019775397"></a></blockquote>
 
 <blockquote class="twitter-tweet"><a href="https://x.com/WantedLevelgg/status/2122130221734469666"></a></blockquote>
@@ -125,7 +147,10 @@ Digital Foundry saw small dips on base PS5 during fast driving, and drops to the
 No. PS5 Pro runs at 30 FPS. Digital Foundry measured a locked 30 FPS on Pro, with a sharper picture and ray-traced shadows.
 
 ### Can I get 60 FPS on Xbox?
-No Xbox performance mode is announced. Xbox Cloud Gaming uses Series S graphics settings.
+No. Rockstar targets 30 FPS on Xbox Series X and Series S too. Xbox Cloud Gaming uses Series S graphics settings.
+
+### What resolution does GTA 6 run at on Xbox Series S?
+Rockstar told Wccftech that Series S starts at 720p and is made bigger to 1080p with AMD FSR 4. Series X starts at 1440p and goes up to 4K.
 
 ### Should I cancel my pre-order over 30 FPS?
 That is your choice. This page only reports what is confirmed.
@@ -134,6 +159,7 @@ That is your choice. This page only reports what is confirmed.
 
 | Date | What changed |
 |---|---|
+| 2026-11-18 13:15 CET | Added Rockstar's resolution numbers for every console, including Xbox Series S (via Wccftech), and one player post about frame rate. |
 | 2026-11-18 13:05 CET | Added Digital Foundry's tech review results for PS5 and PS5 Pro, and TechRadar's note that there are no graphics modes. |
 | 2026-11-18 | Page created from Rockstar's statement via Game Informer. |
 

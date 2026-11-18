@@ -1,25 +1,16 @@
 {
   "type": "menu-mock",
-  "alt": "Illustration of a cash total panel with before and after values marked not tested. Not an in-game screenshot.",
+  "alt": "Illustration of a cash total next to a BuckMe bank balance, with a note that you can carry up to $20,000 in cash. Not an in-game screenshot.",
   "data": {
     "category": "money",
-    "title": "Cash total after one run",
-    "panel_title": "Cash — illustration",
+    "title": "Bank your cash",
+    "panel_title": "Cash and BuckMe — illustration",
     "highlightRow": 2,
     "rows": [
-      {
-        "label": "Cash before",
-        "value": "Not tested"
-      },
-      {
-        "label": "Cash after",
-        "value": "Not tested"
-      },
-      {
-        "label": "Payout for this run",
-        "value": "To be filled"
-      }
+      {"label": "Cash you carry", "value": "Up to $20,000"},
+      {"label": "BuckMe account", "value": "Safe if you are arrested"},
+      {"label": "Tip", "value": "Deposit at an ATM"}
     ],
-    "note": "Illustration — not an in-game screenshot. We fill this from timed runs, with the date and platform."
+    "note": "Illustration — not an in-game screenshot. Cash limit as reported by Destructoid, 18 Nov 2026."
   }
 }
