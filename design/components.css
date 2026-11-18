@@ -386,3 +386,5 @@ a.chip:hover { color: var(--accent); border-color: var(--accent); }
 .do-dont__list { margin: 0; padding: 0; list-style: none; display: grid; gap: var(--space-2); font-size: var(--fs-300); color: var(--text-1); }
 .do-dont__list li::before { content: "✓"; color: var(--c); font-weight: 700; margin-right: .6em; }
 .do-dont__col--dont .do-dont__list li::before { content: "×"; }
+
+.step__num, .step-badge { font-family: var(--font-body); font-weight: 700; }

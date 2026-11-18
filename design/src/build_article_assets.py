@@ -41,7 +41,7 @@ SUN = f'<linearGradient id="sun" x1="0" y1="0" x2="1" y2="1"><stop offset="0" st
 
 # ---------------- STEPS 1-20 ----------------
 for n in range(1, 21):
-    p = tpath(SYNE, str(n), 44 if n < 10 else 38, 48, 48)
+    p = tpath(INTER, str(n), 46 if n < 10 else 40, 48, 48)
     body = f'<circle cx="48" cy="48" r="44" fill="{C["bg1"]}" stroke="url(#sun)" stroke-width="5"/><circle cx="48" cy="48" r="35" fill="{C["bg3"]}"/><path d="{p}" fill="{C["txt"]}"/>'
     w(f'steps/step-{n:02d}.svg', svg(96, 96, body, f'Step {n}', SUN))
     # solid variant for use on busy backgrounds / images

@@ -311,7 +311,7 @@ hub = head('Money guides','Placeholder category hub for Money guides: filters, s
 (D/'mockup-hub.html').write_text(hub)
 
 # ============================ SEARCH RESULTS ============================
-res = ''.join(f'''<li class="result cat-{c}"><div class="result__meta"><span class="chip">{CATLABEL[c]}</span>{badge(b)}</div><h2 class="result__title"><a href="mockup-guide.html">{t}</a></h2><p class="result__excerpt">{e}</p><span class="result__url">leonidaguides.example/{c}/{t.lower().replace(' ','-').replace('#','')}</span></li>'''
+res = ''.join(f'''<li class="result cat-{c}"><div class="result__meta"><span class="chip">{CATLABEL[c]}</span>{badge(b)}</div><h2 class="result__title"><a href="mockup-guide.html">{t}</a></h2><p class="result__excerpt">{e}</p><span class="result__url">leonidaguides.example/{c}/{__import__('re').sub(r'<[^>]+>','',t).lower().replace(' ','-').replace('#','')}</span></li>'''
   for c,t,e,b in [('money','<mark>Money</mark> Method #1','Lorem ipsum dolor sit amet, early <mark>money</mark> consectetur adipiscing elit.','updated'),
                   ('money','<mark>Money</mark> Method #2','Sed do eiusmod tempor incididunt ut labore, et dolore <mark>money</mark> magna.','rumour'),
                   ('beginner','Beginner Tips Placeholder','Ut enim ad minim veniam, <mark>money</mark> basics quis nostrud exercitation.','official'),
