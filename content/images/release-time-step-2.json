@@ -1,0 +1,26 @@
+{
+  "type": "menu-mock",
+  "alt": "Illustration of the PS5 Game Library with Grand Theft Auto VI selected and locked or countdown text. Not an in-game screenshot.",
+  "data": {
+    "category": "pre-launch",
+    "title": "Check the countdown on PS5",
+    "panel_title": "Game Library — illustration",
+    "platform": "PS5",
+    "highlightRow": 2,
+    "rows": [
+      {
+        "label": "Grand Theft Auto VI",
+        "value": "In your library"
+      },
+      {
+        "label": "Status",
+        "value": "Locked until midnight local"
+      },
+      {
+        "label": "Unlock time",
+        "value": "Shown on this page — trust your console"
+      }
+    ],
+    "note": "Illustration — not an in-game screenshot. If the time differs from our table, trust your console."
+  }
+}

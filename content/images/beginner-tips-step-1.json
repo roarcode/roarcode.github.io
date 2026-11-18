@@ -1,0 +1,11 @@
+{
+  "type": "step-card",
+  "alt": "Diagram of the two PS5 menu paths to check before launch: Settings > Storage and Control Center > Downloads/Uploads, with the 212 GB free-space advice.",
+  "data": {
+    "category": "beginner",
+    "step": 1,
+    "title": "Check storage and downloads first",
+    "body": "PS5 storage: Settings > Storage. PS5 downloads: Control Center > Downloads/Uploads. Keep at least 212 GB free (PlayStation's advice).",
+    "tip": "Xbox path is general. Check the names on your console."
+  }
+}

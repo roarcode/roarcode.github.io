@@ -136,9 +136,15 @@ Use "not announced" for things nobody has said. Do not name unnamed weapons or v
 
 ## 11. Pages in this folder
 
-Pre-launch: `release-time`, `preload-size`, `launch-night-checklist`, `editions-prices`, `vintage-vice-city-pack`, `platforms`, `ps5-settings`, `map`, `leonida`, `jason-lucia`, `gta-6-online`, `radio-stations`, `beginner-tips`.
+Hub: `gta-6-launch-hub` (links every published launch page; add a link here whenever you publish a page).
 
-Templates: `template-mission-walkthrough`, `template-money-method`, `template-collectible-map`, `template-vehicle`, `template-glitch-fix`.
+Pre-launch: `is-gta-6-out`, `release-time`, `preload-size`, `launch-night-checklist`, `editions-prices`, `vintage-vice-city-pack`, `platforms`, `ps5-settings`, `map`, `gta-6-map-size`, `leonida`, `jason-lucia`, `gta-6-online`, `radio-stations`, `beginner-tips`.
+
+Launch-problem pages (category `glitches`): `gta-6-not-working`, `gta-6-download-stuck`, `gta-6-preload-not-starting`, `gta-6-ps5-fixes`, `gta-6-xbox-fixes`.
+
+Held stubs (`publish: false` + `draft: true`, not built): `gta-6-error-codes`, `gta-6-first-mission`, `gta-6-how-to-make-money-fast`, `gta-6-best-car-early`, `gta-6-cheats`.
+
+Templates: `template-mission-walkthrough`, `template-money-method`, `template-collectible-map`, `template-vehicle`, `template-glitch-fix`, `template-leak`.
 
 Files are flat in `content/`. If Lead Engineer prefers the sub-folders (`missions/`, `money/`, `glitches/`, `pages/`, `launch-hub/`), move live guides there and keep the slug the same.
 
@@ -153,3 +159,60 @@ Files are flat in `content/`. If Lead Engineer prefers the sub-folders (`mission
 - [ ] Rumours in `> **Rumour / unconfirmed:**` blocks with a source
 - [ ] Story, secrets and twists only inside `:::spoiler` blocks
 - [ ] FAQ and footer line present
+- [ ] "What players are saying" section added, or the HTML comment placeholder left in (see section 13)
+- [ ] Linked from `gta-6-launch-hub` and `updated:` bumped
+
+## 13. What players are saying
+
+Real public reactions, tips and fixes from X and forums, shown on launch pages.
+
+**Rules**
+1. **Public posts only.** No private groups, DMs or screenshots of private chats.
+2. **Short quotes** (one or two sentences). Always show the **@handle** and a **link** to the post.
+3. **Never invent or reword a quote.** If you cannot open the post, do not use it.
+4. **No personal info.** No real names unless the account is public and the person is the author, no addresses, phone numbers, emails, ages, faces of minors or account details.
+5. **Prefer posts that add something:** a fix that worked, a tip with exact steps, a number, or a genuine reaction. Skip insults, rage-bait, ads and spam.
+6. **Check the claim.** A player tip is not a fact. Say "a player reports" and do not copy it into the guide body as confirmed unless a source or our own test confirms it.
+7. **Spoilers and leaks:** a post that shows story, secrets, mission twists or leaks goes inside a `:::spoiler` block with a warning label, and the page is `spoilers: major` (see the leak template). Never use a post that links to leaked files, piracy or downloads.
+8. **X posts use the official embed**, never a cropped screenshot. The site turns this exact block into an embed:
+
+```
+<blockquote class="twitter-tweet"><a href="https://x.com/HANDLE/status/POST_ID"></a></blockquote>
+```
+
+   Only `x.com` or `twitter.com` status links in this exact shape embed. Anything else is shown as plain text.
+9. **Forum posts** (Reddit, Resetera and similar): quote one or two sentences in a blockquote, then the author's handle and the link. Do not embed screenshots.
+
+**Section shape** (on the page, before `## FAQ`):
+
+```
+## What players are saying
+
+*Public posts, quoted with a link. Player tips are not confirmed facts.*
+
+<blockquote class="twitter-tweet"><a href="https://x.com/HANDLE/status/POST_ID"></a></blockquote>
+
+> "Short quote." – u/handle on Reddit ([link](https://...))
+```
+
+**No real posts yet?** Leave only this comment so nothing empty shows. Replace it when real posts exist in `content/inbox/`:
+
+```
+<!-- What players are saying: add real embeds from content/inbox/ -->
+```
+
+## 14. Stubs, holds and the hub
+
+- `status: stub` means a quick page that will be expanded later.
+- `publish: true` means the facts are confirmed and the page may go live. `publish: false` means held. **The build reads `draft: true`, not `publish`,** so every held page also carries `draft: true`. To release a held page, set `publish: true` and `qa: pending`, and leave `draft: true` in place. SEARCH removes `draft: true` once the page passes QA (see section 15).
+- Held pages are never linked. The hub lists them as plain text under "Coming soon". Add the link when you publish.
+- Use absolute links to other pages, for example `/launch-hub/release-time/`. Links like `release-time.md` break on the built site.
+- Category folders on the built site: `pre-launch` pages live at `/launch-hub/<slug>/`, `glitches` at `/glitches/<slug>/`, `beginner` at `/beginner-tips/<slug>/`.
+
+## 15. QA gate (Rok's rule, 18 Nov 2026)
+
+- Nothing gets published without a QA check.
+- Brand-new pages, and changes to pages that are not live yet, get `qa: pending` AND `draft: true`. They stay offline until SEARCH passes them.
+- Changes to a page that is already live get `qa: live-review` (no draft). The page stays up and SEARCH reviews it first. Never take a live page offline.
+- SEARCH is the QA gate. It renders each page in a browser, then either sets `qa: passed` and removes `draft: true`, or writes `review/qa-<slug>.md` with fixes.
+- Writers apply those fixes, keep `qa: pending` and note the fix at the bottom of the review file. Writers never set `qa: passed` or remove `draft: true` themselves.

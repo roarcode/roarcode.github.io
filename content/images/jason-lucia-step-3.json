@@ -1,0 +1,27 @@
+{
+  "type": "compare-table",
+  "alt": "Table of three systems: switching leads, the six-star wanted level, and the Criminal Profile reputation system.",
+  "data": {
+    "category": "pre-launch",
+    "title": "Three systems to know",
+    "columns": [
+      "System",
+      "What we know"
+    ],
+    "rows": [
+      [
+        "Switching leads",
+        "yes In free roam and in missions (GameSpot, VGC)"
+      ],
+      [
+        "Wanted level",
+        "yes Six-star system (GameSpot)"
+      ],
+      [
+        "Criminal Profile",
+        "partial Described in previews (GameSpot, Wikipedia)"
+      ]
+    ],
+    "note": "Criminal Profile is described in previews and is not confirmed in play."
+  }
+}

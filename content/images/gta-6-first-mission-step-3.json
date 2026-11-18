@@ -1,0 +1,13 @@
+{
+  "type": "step-card",
+  "alt": "Placeholder step card for the first mission's main objective, with no story details.",
+  "data": {
+    "category": "missions",
+    "step": 3,
+    "of": 3,
+    "title": "Main objective — after launch",
+    "body": "We fill this from a real playthrough. The objective marker will be shown with no story reveal.",
+    "tip": "This page stays held until every field can be taken from the game itself.",
+    "tip_label": "Hold"
+  }
+}

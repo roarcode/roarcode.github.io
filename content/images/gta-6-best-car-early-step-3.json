@@ -1,0 +1,29 @@
+{
+  "type": "menu-mock",
+  "alt": "Illustration of a car stats panel with values marked not tested. Not an in-game screenshot.",
+  "data": {
+    "category": "vehicles",
+    "title": "Car stats — after testing",
+    "panel_title": "Vehicle stats — illustration",
+    "highlightRow": 0,
+    "rows": [
+      {
+        "label": "Car",
+        "value": "To be filled after testing"
+      },
+      {
+        "label": "Top speed",
+        "value": "Not tested"
+      },
+      {
+        "label": "Handling",
+        "value": "Not tested"
+      },
+      {
+        "label": "Price",
+        "value": "Not published"
+      }
+    ],
+    "note": "Illustration — not an in-game screenshot. We fill this only from our own tests."
+  }
+}

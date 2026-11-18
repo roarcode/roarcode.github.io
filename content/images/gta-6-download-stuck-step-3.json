@@ -1,0 +1,19 @@
+{
+  "type": "bar-chart",
+  "alt": "Storage bar diagram highlighting 212 GB of free space needed, with a tick.",
+  "data": {
+    "category": "glitches",
+    "title": "Keep 212 GB free",
+    "subtitle": "PlayStation's advice for the pre-load. Check free space before you retry the download.",
+    "max": 212,
+    "bars": [
+      {
+        "label": "Free space needed",
+        "value": 212,
+        "display": "212 GB  ✓",
+        "highlight": true
+      }
+    ],
+    "note": "Leave a little extra for patches. Xbox storage path: Settings > System > Storage devices."
+  }
+}

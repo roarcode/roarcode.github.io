@@ -1,0 +1,25 @@
+{
+  "type": "menu-mock",
+  "alt": "Illustration of a cash total panel with before and after values marked not tested. Not an in-game screenshot.",
+  "data": {
+    "category": "money",
+    "title": "Cash total after one run",
+    "panel_title": "Cash — illustration",
+    "highlightRow": 2,
+    "rows": [
+      {
+        "label": "Cash before",
+        "value": "Not tested"
+      },
+      {
+        "label": "Cash after",
+        "value": "Not tested"
+      },
+      {
+        "label": "Payout for this run",
+        "value": "To be filled"
+      }
+    ],
+    "note": "Illustration — not an in-game screenshot. We fill this from timed runs, with the date and platform."
+  }
+}

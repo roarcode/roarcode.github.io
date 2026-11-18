@@ -7,7 +7,7 @@ name: Build & deploy to GitHub Pages
 on:
   push:
     branches: [main]
-    paths: ["content/**", "design/**", "src/**", "lib/**", "eleventy.config.js", "package*.json", ".github/workflows/deploy.yml"]
+    paths: ["content/**", "site-images/**", "scripts/**", "design/**", "src/**", "lib/**", "eleventy.config.js", "package*.json", ".github/workflows/deploy.yml"]
   workflow_dispatch:
 
 permissions:

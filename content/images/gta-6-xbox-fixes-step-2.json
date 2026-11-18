@@ -1,0 +1,26 @@
+{
+  "type": "menu-mock",
+  "alt": "Illustration of the Xbox Queue with Grand Theft Auto VI highlighted and Resume installation. Not an in-game screenshot.",
+  "data": {
+    "category": "glitches",
+    "title": "Step 5: resume a paused install",
+    "panel_title": "My games & apps > Queue — illustration",
+    "platform": "Xbox",
+    "highlightRow": 2,
+    "rows": [
+      {
+        "label": "Grand Theft Auto VI",
+        "value": "Highlighted"
+      },
+      {
+        "label": "Status",
+        "value": "Paused or waiting"
+      },
+      {
+        "label": "Resume installation",
+        "value": "Select this"
+      }
+    ],
+    "note": "Illustration — not an in-game screenshot. Path: My games & apps > Manage > Queue."
+  }
+}

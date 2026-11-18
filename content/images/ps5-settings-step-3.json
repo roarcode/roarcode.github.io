@@ -1,0 +1,11 @@
+{
+  "type": "step-card",
+  "alt": "Diagram: DualSense haptics and adaptive triggers can be adjusted in accessibility settings.",
+  "data": {
+    "category": "ps5",
+    "step": 3,
+    "title": "Controller feel in GTA 6",
+    "body": "Haptics (the buzz) and adaptive triggers (stiff buttons) are adjustable in accessibility settings. Exact menu names are not announced.",
+    "tip": "Source: Rockstar via GamesRadar, PlayStation Blog."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "menu-mock",
+  "alt": "Illustration of a generic error box with the code line highlighted, showing the part to write down. Not game footage.",
+  "data": {
+    "category": "glitches",
+    "title": "Write the code down",
+    "panel_title": "Error message — illustration",
+    "highlightRow": 1,
+    "rows": [
+      {
+        "label": "Something went wrong",
+        "value": "Example only"
+      },
+      {
+        "label": "Code",
+        "value": "The line to copy, e.g. CE-xxxxx"
+      },
+      {
+        "label": "What to do next",
+        "value": "Check the table on this page"
+      }
+    ],
+    "note": "Illustration — not game footage. Codes starting CE- or NP- on PS5 come from PlayStation, not from the game."
+  }
+}

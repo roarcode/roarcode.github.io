@@ -1,0 +1,10 @@
+{
+  "type": "step-card",
+  "alt": "Diagram of the PS5 menu path to check free space: Home screen, Settings, Storage.",
+  "data": {
+    "category": "pre-launch",
+    "step": 1,
+    "title": "Check free space on PS5",
+    "body": "Home screen > Settings > Storage. Read the free space. Keep at least 212 GB free (PlayStation's advice). Take extra for patches."
+  }
+}

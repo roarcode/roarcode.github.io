@@ -6,12 +6,12 @@ eleventyExcludeFromCollections: true
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>{{ '/' | abs }}</loc><lastmod>{{ library.lastUpdatedDate }}</lastmod></url>
 {%- for c in library.categories %}{% if c.indexable %}
-  <url><loc>{{ c.url | abs }}</loc><lastmod>{{ c.lastUpdatedDate }}</lastmod></url>
+  <url><loc>{{ c.url | abs }}</loc><lastmod>{{ c.lastUpdatedDate or library.lastUpdatedDate }}</lastmod></url>
 {%- endif %}{% endfor %}
 {%- for g in library.guides %}{% if g.indexable %}
-  <url><loc>{{ g.url | abs }}</loc><lastmod>{{ g.updatedDate }}</lastmod></url>
+  <url><loc>{{ g.url | abs }}</loc><lastmod>{{ g.updatedValue }}</lastmod></url>
 {%- endif %}{% endfor %}
 {%- for p in library.pages %}{% if p.indexable %}
-  <url><loc>{{ p.url | abs }}</loc><lastmod>{{ p.updatedDate }}</lastmod></url>
+  <url><loc>{{ p.url | abs }}</loc><lastmod>{{ p.updatedValue }}</lastmod></url>
 {%- endif %}{% endfor %}
 </urlset>

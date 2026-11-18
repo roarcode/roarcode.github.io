@@ -1,0 +1,48 @@
+{
+  "type": "map-annotate",
+  "alt": "Our own sketch with six numbered regions of Leonida, names to be added once confirmed. Not to scale.",
+  "data": {
+    "category": "pre-launch",
+    "title": "Leonida: 6 regions (our sketch)",
+    "pins": [
+      {
+        "x": 18,
+        "y": 62,
+        "kind": "region",
+        "label": "Region 1"
+      },
+      {
+        "x": 40,
+        "y": 40,
+        "kind": "region",
+        "label": "Region 2"
+      },
+      {
+        "x": 62,
+        "y": 30,
+        "kind": "region",
+        "label": "Region 3"
+      },
+      {
+        "x": 78,
+        "y": 55,
+        "kind": "region",
+        "label": "Region 4"
+      },
+      {
+        "x": 52,
+        "y": 72,
+        "kind": "region",
+        "label": "Region 5"
+      },
+      {
+        "x": 28,
+        "y": 28,
+        "kind": "region",
+        "label": "Region 6"
+      }
+    ],
+    "credit": "Original schematic by Leonida Guides.",
+    "note": "Not to scale. Not a real map."
+  }
+}

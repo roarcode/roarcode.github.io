@@ -9,7 +9,7 @@ category: pre-launch
 description: "Your GTA 6 launch night checklist for PS5 and Xbox: space, preload, rest mode, updates, account checks, controller setup and what to do if it won't start."
 sources:
   - https://www.playstation.com/en-us/support/games/gta-vi-support/
-  - https://www.playstation.com/GTAVIfeatures
+  - https://www.playstation.com/en-us/games/grand-theft-auto-vi/
   - https://blog.playstation.com/2026/11/10/pre-load-grand-theft-auto-vi-on-ps5-starting-today/
   - https://gameinformer.com/2026/11/10/grand-theft-auto-vi-will-run-at-30-fps-on-all-consoles-but-ps5-pro-will-feature-improved
   - https://news.xbox.com/en-us/2026/11/10/grand-theft-auto-6-comes-to-xbox-cloud-gaming-november-19/
@@ -18,13 +18,14 @@ sources:
 updated: 2026-11-18
 status: prelaunch
 spoilers: none
+qa: live-review
 ---
 
 # GTA 6 Launch Night Checklist: Be Ready by Midnight
 
-> - **Quick answer:** Do 6 things: finish the pre-load, keep **more than 212 GB** free, update your console, check your account, charge your controller, and look at your countdown.
-> - **Unlock time:** midnight in your time zone on **Thu 19 Nov 2026** (00:00 CET in Slovenia). New Zealand unlocked first, at 12:00 CET on Wed 18 Nov.
-> - **GTA 6 targets 30 FPS** (30 pictures per second) on PS5, PS5 Pro and Xbox Series X|S. No 60 FPS mode is announced, so do not search for one.
+> - **Quick answer:** For your GTA 6 launch night checklist, do 6 things: finish the pre-load, keep **at least 212 GB** free (PlayStation), update your console, check your account, charge your controller, and look at your countdown.
+> - **Unlock time:** midnight in your time zone on **Thu 19 Nov 2026** (00:00 CET in Slovenia). New Zealand unlocks first: 12:00 CET on Wed 18 Nov 2026.
+> - **GTA 6 targets 30 FPS** (30 pictures per second) on PS5, PS5 Pro and Xbox Series X|S. No 60 FPS mode is announced, so you will not find one in the settings.
 
 **Words used on this page.** *Pre-load* means downloading the game early. *Account* is your PlayStation or Xbox profile. *Rest Mode* (PS5) or *Sleep mode* (Xbox) means the console is on at low power.
 
@@ -43,13 +44,13 @@ spoilers: none
 ![PS5 Downloads/Uploads screen with GTA VI finished](TODO: image:launch-night-checklist-step-1 — menu screen, PS5: Control Center > Downloads/Uploads showing the GTA VI download completed)
 *Caption: Menu screen. PS5 Downloads/Uploads with GTA VI finished.*
 
-Stuck? See [the download fix steps](preload-size.md).
+Stuck? See [the download fix steps](/launch-hub/preload-size/).
 
 ## Step 2: Check free space
 
 1. **PS5:** open **Settings > Storage**.
 2. **Xbox:** press the **Xbox button**, open **Profile & system > Settings > System > Storage devices**.
-3. You need **more than 212 GB free** for the game, plus a gap for updates.
+3. Keep **at least 212 GB free** (PlayStation's advice) for the game, plus a gap for updates.
 
 ![storage screen with free space](TODO: image:launch-night-checklist-step-2 — menu screen, PS5 and Xbox storage screens side by side with free space circled)
 *Caption: Menu screen. Where to read your free space on PS5 and Xbox.*
@@ -70,7 +71,7 @@ Stuck? See [the download fix steps](preload-size.md).
 3. Turn on the options to keep your console and your games up to date.
 
 ![PS5 automatic updates settings](TODO: image:launch-night-checklist-step-3 — menu screen, PS5: Automatic Updates with Auto-Install in Rest Mode switched on)
-*Caption: Menu screen. PS5 Automatic Updates with Auto-Install in Rest Mode on.*
+*Caption: Diagram. PS5 Automatic Updates with Auto-Install in Rest Mode on.*
 
 ## Step 4: Check your account
 
@@ -93,14 +94,14 @@ Stuck? See [the download fix steps](preload-size.md).
 4. Servers may be busy. If it will not start, wait 5 minutes and try again before you delete anything.
 5. Do **not** change your region or use a second account to unlock early. Rockstar, Sony and Microsoft have not endorsed it, and it is unconfirmed that it works.
 
-**Xbox One owners:** you stream through Xbox Cloud Gaming from **1 AM ET on 19 Nov**, at Xbox Series S graphics settings. Starting 11 Nov, in supported markets, you can buy cloud playtime without Game Pass (Xbox Wire).
+**Xbox One owners:** you stream through Xbox Cloud Gaming from **1 AM ET on 19 Nov (= 07:00 CET)**, at Xbox Series S graphics settings. Starting 11 Nov, in supported markets, you can buy cloud playtime without Game Pass (Xbox Wire).
 
 ## Quick fixes
 
 | Problem | Do this |
 |---|---|
 | Download stuck | **PS5:** open Downloads/Uploads, select GTA VI, **Pause**, then **Resume**. Still stuck: **Cancel and Delete**, then download again from **Game Library**. **Xbox:** open the **Queue**, highlight GTA VI, press the **Menu button**, pause, then resume. |
-| Not enough space | Free more than 212 GB. Delete or move another game. |
+| Not enough space | Free at least 212 GB. Delete or move another game. |
 | Wrong account | Sign out. Sign in to the account that bought the game. |
 | Box code will not work | Check the code and your region. Ask the shop if the code is missing or unreadable. Ask PlayStation or Xbox Support for code problems. |
 | Bug after launch | Contact Rockstar Support. We will post verified fixes after launch. |
@@ -108,10 +109,14 @@ Stuck? See [the download fix steps](preload-size.md).
 ![checklist graphic with six steps](TODO: image:launch-night-checklist-step-4 — diagram, our own art: a 6-step checklist poster with icons for download, storage, updates, account, controller, countdown)
 *Caption: Diagram. The six launch night steps on one poster.*
 
+Related: [is GTA 6 out](/launch-hub/is-gta-6-out/) · [GTA 6 not working](/glitches/gta-6-not-working/) · [launch hub](/launch-hub/gta-6-launch-hub/)
+
+<!-- What players are saying: add real embeds from content/inbox/ -->
+
 ## FAQ
 
 ### What should I do before GTA 6 unlocks?
-Finish the pre-load, free more than 212 GB, turn on updates, check your account, charge your controller and check your countdown.
+Finish the pre-load, free at least 212 GB, turn on updates, check your account, charge your controller and check your countdown.
 
 ### Do I have to stay up for midnight?
 Only if you want to play at midnight. The game will be ready when you start it.

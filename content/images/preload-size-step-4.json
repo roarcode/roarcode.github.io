@@ -1,0 +1,12 @@
+{
+  "type": "step-card",
+  "alt": "Diagram of the PS5 settings that let a download continue in Rest Mode.",
+  "data": {
+    "category": "pre-launch",
+    "step": 4,
+    "title": "Let the pre-load finish in Rest Mode (PS5)",
+    "body": "Settings > Saved Data and Game/App Settings > Automatic Updates > Auto-Install in Rest Mode. Then Settings > System > Power Saving > Features Available in Rest Mode > Stay Connected to the Internet.",
+    "tip": "Last step: Control Center > Power > Enter Rest Mode.",
+    "tip_label": "Then"
+  }
+}

@@ -6,17 +6,22 @@ title_alts:
   - "GTA 6 Protagonists: What We Know (Spoilers Hidden)"
 slug: jason-lucia
 category: pre-launch
-description: "Two leads, one risky plan. See how Jason and Lucia play, how you switch between them, and what Rockstar shows, with all story details hidden."
+description: "Who Jason and Lucia are, per Rockstar's official profiles. Short, spoiler-light, with story details hidden."
 sources:
-  - https://www.rockstargames.com/VI/lucia
+  - https://www.rockstargames.com/VI/only-in-leonida/jason
+  - https://www.rockstargames.com/VI/only-in-leonida/lucia
+  - https://www.playstation.com/en-us/support/games/gta-vi-support/
+  - https://www.pcgamer.com/games/grand-theft-auto/gta-6-guide/
   - https://www.rockstargames.com/VI
   - https://taketwointeractivesoftwareinc.gcs-web.com/news-releases/news-release-details/rockstar-games-announces-pre-orders-grand-theft-auto-vi/
   - https://mapheist.com/en/news/gta-6-game-informer-cover-story/
   - https://www.gamespot.com/articles/gta-6s-big-reveal-all-the-things-we-learned/
   - https://www.videogameschronicle.com/news/rockstar-reveals-a-swathe-of-new-gta-6-details-ahead-of-the-netflix-extended-look/
+  - https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI
 updated: 2026-11-18
 status: prelaunch
 spoilers: minor
+qa: live-review
 ---
 
 # GTA 6 Jason and Lucia: Who They Are (No Spoilers)
@@ -32,13 +37,17 @@ spoilers: minor
 - **Single-player:** PlayStation's FAQ says "Grand Theft Auto VI is a single-player experience."
 - **Two leads:** you can swap between Jason and Lucia in free roam and during missions. In one example from previews, one drives while the other shoots. (GameSpot, VGC)
 - **Story time:** Rob Nelson's own playthrough, focused on the main story and story-based extras, took about **80 hours** (GameSpot). This is one person's estimate, not a promise.
-- **Romance is optional**, per previews (PC Gamer, Game Informer via Mapheist). They stay partners either way.
-- **Voice cast:** not officially announced by Rockstar. Do not treat press mentions as final.
+- **Relationship:** a story choice. See the spoiler box below.
+- **Voice cast:** we have not verified an official cast list. Do not treat press mentions as final.
 
 ![Jason and Lucia switch screen](TODO: image:jason-lucia-step-1 — menu screen, only after launch: the character switch prompt; before launch use Designer's own art of two silhouettes)
 *Caption: Menu screen. How the switch between Jason and Lucia looks, once we can show it.*
 
 ## The setup, in one line
+
+:::spoiler How the relationship works (reveals a story choice)
+Previews say romance is optional and that the two stay partners either way. Source: GameSpot (primary), PC Gamer and Game Informer via Mapheist (second sources).
+:::
 
 :::spoiler What the trailers revealed about their story (premise only, no ending)
 Rockstar's own setup: Jason and Lucia know the odds are against them. When an "easy score" goes wrong, they end up in the middle of a criminal conspiracy across the state of Leonida. They have to trust each other more than ever. Source: Rockstar and Take-Two press release.
@@ -47,13 +56,13 @@ Rockstar's own setup: Jason and Lucia know the odds are against them. When an "e
 ## Jason Duval
 
 :::spoiler Jason: who he is, from Rockstar's character page (early background)
-Jason grew up around grifters and crooks. He served in the Army after a troubled youth. He ended up in the Keys, working for local drug runners, and wants an easier life. Source: https://www.rockstargames.com/VI/lucia
+Jason grew up around grifters and crooks. He served in the Army after a troubled youth. He ended up in the Keys, working for local drug runners, and wants an easier life. Source: https://www.rockstargames.com/VI/only-in-leonida/jason
 :::
 
 ## Lucia Caminos
 
 :::spoiler Lucia: who she is, from Rockstar's character page (early background)
-Lucia's father taught her to fight when she was little. Fighting for her family got her sent to the Leonida Penitentiary. She is out now, and wants only smart moves from here. She wants the good life her mom has dreamed of since their days in Liberty City. Source: https://www.rockstargames.com/VI/lucia
+Lucia's father taught her to fight when she was little. Fighting for her family got her sent to the Leonida Penitentiary. She is out now, and wants only smart moves from here. She wants the good life her mom has dreamed of since their days in Liberty City. Source: https://www.rockstargames.com/VI/only-in-leonida/lucia
 :::
 
 ![two character cards with names only](TODO: image:jason-lucia-step-2 — diagram, Designer's original art: two blank character cards labelled Jason Duval and Lucia Caminos, no Rockstar art without credit)
@@ -64,7 +73,7 @@ Lucia's father taught her to fight when she was little. Fighting for her family 
 :::spoiler Names and one-line roles from Rockstar's site (no story)
 - **Cal Hampton:** Jason's friend, a conspiracy-minded homebody.
 - **Brian Heder:** a veteran smuggler in the Keys who lets Jason stay in one of his properties.
-- **Raul Bautista:** a bank robber. (PC Gamer spells it "Batista". Wikipedia and previews say "Bautista". We use Bautista and will verify on Rockstar's page.)
+- **Raul Bautista:** a bank robber.
 - **Boobie Ike:** a Vice City local legend with business in real estate, a club and a record label.
 - **Dre'Quan Priest:** a music hustler tied to that label, Only Raw Records.
 - **Real Dimez:** a rap duo, Bae-Luxe and Roxy, signed to the same label.
@@ -74,7 +83,7 @@ Lucia's father taught her to fight when she was little. Fighting for her family 
 
 - **Criminal Profile:** previews describe a reputation system that tracks professional versus needless violence. It is not cleared like wanted stars. (GameSpot, Wikipedia)
 - **Wanted stars return** (six-star system). People react, and call police, if you carry guns in public. (GameSpot)
-- **Not announced:** exact number of missions and endings.
+- Rockstar has not shared more about campaign structure.
 
 ![icons for switching, wanted stars, criminal profile](TODO: image:jason-lucia-step-3 — diagram, our own art: three icons for switching leads, six wanted stars, criminal profile)
 *Caption: Diagram. Three systems tied to Jason and Lucia.*

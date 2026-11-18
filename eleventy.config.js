@@ -45,6 +45,7 @@ export default function (eleventyConfig) {
   eleventyConfig.addWatchTarget("content/");
   eleventyConfig.addWatchTarget("design/");
   eleventyConfig.addWatchTarget("lib/");
+  eleventyConfig.addWatchTarget("site-images/");
   eleventyConfig.addWatchTarget("src/css/");
   eleventyConfig.setServerOptions({ port: 8080, domDiff: false });
   eleventyConfig.setQuietMode(true);
@@ -58,6 +59,10 @@ export default function (eleventyConfig) {
       fs.mkdirSync(path.dirname(dest), { recursive: true });
       fs.copyFileSync(src, dest);
     };
+
+    // in-guide images (rendered by Designer's pipeline into site-images/; _manifest.json lists them)
+    const imgDir = path.join(DIRS.root, "site-images");
+    if (fs.existsSync(imgDir)) for (const f of fs.readdirSync(imgDir)) if (/\.(webp|png|jpe?g|avif|svg)$/i.test(f)) copy(path.join(imgDir, f), path.join(out, "site-images", f));
 
     // favicons + webmanifest at the site root
     for (const [name, src] of assets.favicons) copy(src, path.join(out, name));

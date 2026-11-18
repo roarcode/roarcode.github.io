@@ -1,0 +1,26 @@
+{
+  "type": "menu-mock",
+  "alt": "Illustration of Xbox Network settings with Test network connection highlighted. Not an in-game screenshot.",
+  "data": {
+    "category": "glitches",
+    "title": "Test the Xbox network",
+    "panel_title": "Network settings — illustration",
+    "platform": "Xbox",
+    "highlightRow": 1,
+    "rows": [
+      {
+        "label": "Network",
+        "value": "Connected"
+      },
+      {
+        "label": "Test network connection",
+        "value": "Run this test"
+      },
+      {
+        "label": "Test NAT type",
+        "value": ""
+      }
+    ],
+    "note": "Illustration — not an in-game screenshot. Exact menu names can differ on your console."
+  }
+}

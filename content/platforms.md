@@ -9,7 +9,7 @@ category: pre-launch
 description: "Is GTA 6 on PC, PS4 or Xbox One? Get the exact platform list, the 30 FPS target, PS5 Pro extras and how Xbox One players stream on 19 Nov 2026."
 sources:
   - https://www.rockstargames.com/VI
-  - https://www.playstation.com/GTAVIfeatures
+  - https://www.playstation.com/en-us/games/grand-theft-auto-vi/
   - https://news.xbox.com/en-us/2026/11/10/grand-theft-auto-6-comes-to-xbox-cloud-gaming-november-19/
   - https://gameinformer.com/2026/11/10/grand-theft-auto-vi-will-run-at-30-fps-on-all-consoles-but-ps5-pro-will-feature-improved
   - https://www.pcgamer.com/games/grand-theft-auto/gta-6-guide/
@@ -18,12 +18,13 @@ sources:
 updated: 2026-11-18
 status: prelaunch
 spoilers: none
+qa: live-review
 ---
 
 # GTA 6 Platforms: PS5, PS5 Pro, Xbox, PC and 30 FPS
 
-> - **Quick answer:** GTA 6 launches on **PS5 and Xbox Series X|S only**, on **19 Nov 2026**. It is **not** on PS4. **No PC date or version is announced.**
-> - **Xbox One owners can stream it** with Xbox Cloud Gaming from **1 AM ET on 19 Nov**, at Xbox Series S graphics settings.
+> - **Quick answer:** GTA 6 launches **natively on PS5 and Xbox Series X|S only**, on **19 Nov 2026**. Xbox cloud is separate (below). It is **not** on PS4. **No PC date or version is announced.**
+> - **Xbox One owners can stream it** with Xbox Cloud Gaming from **1 AM ET on 19 Nov (= 07:00 CET)**, at Xbox Series S graphics settings.
 > - **30 FPS target** on every console. **PS5 Pro adds PSSR (sharper picture) and ray-traced shadows.**
 
 **Words used on this page.** *Native* means the game runs on your own console. *Cloud gaming* means the game runs far away and is streamed to you. *FPS* means frames per second.
@@ -36,7 +37,7 @@ spoilers: none
 | PS5 Pro | Yes, native | PSSR and ray-traced shadows, PS5 Pro only | PlayStation, Game Informer |
 | Xbox Series X | Yes, native | Pre-install available | Xbox Wire |
 | Xbox Series S | Yes, native | Pre-install available | Xbox Wire |
-| Xbox One | Stream only | Xbox Cloud Gaming from **1 AM ET, 19 Nov**; Series S graphics | Xbox Wire |
+| Xbox One | Stream only | Xbox Cloud Gaming from **1 AM ET, 19 Nov (= 07:00 CET)**; Series S graphics | Xbox Wire |
 | PS4 | **No** | "It will not be available for PlayStation 4 consoles" | PlayStation |
 | PC | **Not announced** | No date, no platform | PC Gamer, 1News |
 
@@ -51,7 +52,7 @@ spoilers: none
 - **No 40 or 60 FPS mode** is announced.
 - **Resolution:** not announced.
 - **PS5 Pro:** PSSR and ray-traced shadows.
-- **Xbox Cloud Gaming:** uses **Xbox Series S graphics settings**. Rockstar says internet speed and other things can change how it plays.
+- **Xbox Cloud Gaming:** uses **Xbox Series S graphics settings**. Xbox says availability, supported devices and features vary by market and device.
 - **Remote Play:** supported on PlayStation and Xbox.
 
 ## How Xbox One players stream GTA 6
@@ -59,7 +60,7 @@ spoilers: none
 1. Press the **Xbox button** on your controller.
 2. Open the **Microsoft Store** and buy **Grand Theft Auto VI** (Standard or Ultimate). Xbox says the game **must be purchased separately**.
 3. Starting **11 Nov**, in supported markets, you can also buy cloud playtime to stream supported games **without Game Pass** (Xbox Wire).
-4. At **1 AM ET on 19 Nov**, open the game from **My games & apps**.
+4. At **1 AM ET on 19 Nov (= 07:00 CET)**, open the game from **My games & apps**.
 
 Exact menu names for cloud games are not in Xbox's announcement. Check them on your console. Availability and prices vary by country and device.
 
@@ -82,10 +83,10 @@ Not announced. Only an unconfirmed report mentions Q1 2027.
 No.
 
 ### Can I play GTA 6 on Xbox One?
-Only by streaming with Xbox Cloud Gaming from 1 AM ET on 19 November.
+Only by streaming with Xbox Cloud Gaming from 1 AM ET on 19 November (= 07:00 CET).
 
 ### Does GTA 6 run at 60 FPS?
-No. The target is 30 FPS on every console.
+Rockstar is targeting 30 FPS on current consoles. No 60 FPS or performance mode has been announced.
 
 ---
 *Unofficial fan site, not affiliated with Rockstar Games or Take-Two.*

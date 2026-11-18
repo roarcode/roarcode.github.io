@@ -1,0 +1,36 @@
+{
+  "type": "map-annotate",
+  "alt": "Legend of four pin types planned for our interactive map: shops, garages, collectibles and activities.",
+  "data": {
+    "category": "collectibles",
+    "title": "Pin legend for our future map",
+    "pins": [
+      {
+        "x": 20,
+        "y": 50,
+        "kind": "money",
+        "label": "Shops"
+      },
+      {
+        "x": 40,
+        "y": 50,
+        "kind": "vehicle",
+        "label": "Garages"
+      },
+      {
+        "x": 60,
+        "y": 50,
+        "kind": "collect",
+        "label": "Collectibles"
+      },
+      {
+        "x": 80,
+        "y": 50,
+        "kind": "missions",
+        "label": "Activities"
+      }
+    ],
+    "credit": "Original schematic by Leonida Guides.",
+    "note": "Planned icons. Not final."
+  }
+}

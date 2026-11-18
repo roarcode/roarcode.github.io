@@ -1,0 +1,10 @@
+{
+  "type": "step-card",
+  "alt": "Diagram: two playable leads that you can switch between.",
+  "data": {
+    "category": "pre-launch",
+    "step": 2,
+    "title": "Two playable leads",
+    "body": "You can switch between the two leads in free roam and in missions (GameSpot, VGC). The switch button is not announced."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "step-card",
+  "alt": "Diagram of the Xbox path to claim the free GTA+ month: Store, profile icon at top left, Offers & credits.",
+  "data": {
+    "category": "pre-launch",
+    "step": 3,
+    "title": "Claim the free GTA+ month on Xbox",
+    "body": "Open the Store. Select your profile icon at the top left. Select Offers & credits. Claim the offer there.",
+    "tip": "Redeem within 180 days of your pre-order (Xbox Store listing).",
+    "tip_label": "Deadline"
+  }
+}

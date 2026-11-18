@@ -8,13 +8,14 @@ slug: gta-6-online
 category: pre-launch
 description: "Is there GTA 6 Online? Rockstar's PlayStation page says GTA VI is a single-player experience. See what is confirmed, what is a rumour and what to play now."
 sources:
-  - https://www.playstation.com/GTAVIfeatures
+  - https://www.playstation.com/en-us/games/grand-theft-auto-vi/
   - https://gamerant.com/gta-6-online-single-player-rockstar-take-two-comments/
   - https://www.gamespot.com/articles/gta-6s-big-reveal-all-the-things-we-learned/
   - https://www.pcgamer.com/games/grand-theft-auto/gta-6-guide/
 updated: 2026-11-18
 status: prelaunch
 spoilers: none
+qa: live-review
 ---
 
 # GTA 6 Online: Is There Multiplayer at Launch? (2026)
@@ -47,15 +48,15 @@ Do not pay anyone for "early online access". There is none announced.
 
 ## What to do now
 
-1. **Play the campaign** after your region unlocks. See [release time](release-time.md).
-2. **Want online today?** GTA Online in GTA 5 is still supported, per Game Rant. GTA 5 is also part of the GTA+ games library, per Rockstar's press release.
+1. **Play the campaign** after your region unlocks. See [release time](/launch-hub/release-time/).
+2. **Want online now?** GTA Online in GTA 5 is still supported, per Game Rant.
 3. **Check this page after launch.** We will update it the moment Rockstar announces anything.
 
-![bell icon with "we update this page"](TODO: image:gta-6-online-step-2 — diagram, Designer's original art: a simple timeline with a "today: single-player only" marker)
-*Caption: Diagram. Today the game is single-player only.*
+![bell icon with "we update this page"](TODO: image:gta-6-online-step-2 — diagram, Designer's original art: a simple timeline with a "now: single-player only" marker)
+*Caption: Diagram. For now the game is single-player only.*
 
-![GTA+ library card](TODO: image:gta-6-online-step-3 — diagram, our own art: a card reading "GTA+ includes GTA V and other classic Rockstar games", no Rockstar art)
-*Caption: Diagram. GTA+ includes GTA 5 and other classic Rockstar games.*
+![GTA+ library card](TODO: image:gta-6-online-step-3 — diagram, our own art: a card reading "GTA+ is a monthly club with a games library", no Rockstar art)
+*Caption: Diagram. GTA+ is Rockstar's monthly club.*
 
 ## FAQ
 

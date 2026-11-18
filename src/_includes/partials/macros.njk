@@ -9,13 +9,22 @@
 <span class="badge badge--spoiler badge--spoiler-{{ level }}{% if extra %} {{ extra }}{% endif %}" title="Spoiler level: {{ label }}">{{ label }}</span>
 {%- endmacro %}
 
+{#- 16:9 media slot shared by category cards and guide cards. Category art when it exists, otherwise the hero still (cropped) so no card is text-only. -#}
+{% macro cardMedia(c, cls) -%}
+<span class="{{ cls }}" aria-hidden="true"><picture>
+  {%- if c.img %}<source type="image/avif" srcset="{{ ('/assets/img/' + c.img + '-640.avif') | url }}"><img src="{{ ('/assets/img/' + c.img + '-640.webp') | url }}" alt="" width="640" height="360" loading="lazy" decoding="async">
+  {%- else %}<source type="image/avif" srcset="{{ '/assets/img/hero-768.avif' | url }}"><img class="{{ cls }}-fallback" src="{{ '/assets/img/hero-768.webp' | url }}" alt="" width="768" height="432" loading="lazy" decoding="async">{% endif -%}
+</picture></span>
+{%- endmacro %}
+
 {% macro guideCard(g, showCategory) -%}
 <article class="guide-card" style="--accent: var({{ g.category.accentVar }}, var(--x-accent-default))">
   <a class="guide-card__link" href="{{ g.url | url }}">
+    {{ cardMedia(g.category, "guide-card__media") }}
     <div class="guide-card__top">
       {{ spoilerBadge(g.spoilers, g.spoilerLabel, "guide-card__badge") }}
       {%- if showCategory %}<span class="guide-card__badge badge badge--category">{{ g.category.short }}</span>{% endif %}
-      {%- if g.rumour %}<span class="guide-card__badge badge badge--rumour">Rumour</span>{% endif %}
+      {%- if g.rumour %}<span class="guide-card__badge badge badge--rumour">Rumour</span>{% elif g.official %}<span class="guide-card__badge badge badge--official">Official sources</span>{% endif %}
       {%- if g.placeholder %}<span class="guide-card__badge badge badge--placeholder">Placeholder</span>{% endif %}
     </div>
     <h3 class="guide-card__title">{{ g.title }}</h3>
@@ -28,7 +37,7 @@
 {% macro categoryCard(c) -%}
 <article class="category-card" style="--accent: var({{ c.accentVar }}, var(--x-accent-default))">
   <a class="category-card__link" href="{{ c.url | url }}">
-    {%- if c.img %}<span class="category-card__media" aria-hidden="true"><picture><source type="image/avif" srcset="{{ ('/assets/img/' + c.img + '-640.avif') | url }}"><img src="{{ ('/assets/img/' + c.img + '-640.webp') | url }}" alt="" width="640" height="360" loading="lazy" decoding="async"></picture></span>{% endif %}
+    {{ cardMedia(c, "category-card__media") }}
     <span class="category-card__kicker">{{ c.count }} {{ 'guide' if c.count == 1 else 'guides' }}</span>
     <h3 class="category-card__title">{{ c.name }}</h3>
     <p class="category-card__desc">{{ c.description }}</p>

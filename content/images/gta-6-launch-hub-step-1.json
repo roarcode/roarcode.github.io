@@ -1,0 +1,32 @@
+{
+  "type": "info-cards",
+  "alt": "Four boxes named Right now, Not working, Buy and know, and World and people, showing the groups on the launch hub.",
+  "data": {
+    "category": "pre-launch",
+    "title": "The four groups on this page",
+    "cols": 2,
+    "card_height": 180,
+    "cards": [
+      {
+        "title": "Right now",
+        "body": "Is it out, release time, pre-load and launch night.",
+        "status": "none"
+      },
+      {
+        "title": "Not working",
+        "body": "Fixes for downloads, start-up problems and error codes.",
+        "status": "none"
+      },
+      {
+        "title": "Buy and know",
+        "body": "Editions, prices, platforms and the pre-order pack.",
+        "status": "none"
+      },
+      {
+        "title": "World and people",
+        "body": "The map, the state, and the two leads — spoiler-light.",
+        "status": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "compare-table",
+  "alt": "Table: single-player is confirmed; an online mode is not announced.",
+  "data": {
+    "category": "online",
+    "title": "GTA 6 online: what is confirmed",
+    "columns": [
+      "Mode",
+      "Status"
+    ],
+    "rows": [
+      [
+        "Single-player",
+        "yes Confirmed by PlayStation"
+      ],
+      [
+        "Online mode",
+        "partial Not announced"
+      ]
+    ],
+    "note": "No online mode, date or plan has been announced for GTA VI."
+  }
+}

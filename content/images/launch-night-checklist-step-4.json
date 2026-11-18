@@ -1,0 +1,38 @@
+{
+  "type": "compare-table",
+  "alt": "Checklist of six launch night steps: finish the download, keep 212 GB free, turn on updates, check your account, charge your controller, check the countdown.",
+  "data": {
+    "category": "pre-launch",
+    "title": "Launch night: 6 steps",
+    "columns": [
+      "Step",
+      "What to do"
+    ],
+    "rows": [
+      [
+        "1 Download",
+        "Finish the pre-load"
+      ],
+      [
+        "2 Storage",
+        "Keep at least 212 GB free"
+      ],
+      [
+        "3 Updates",
+        "Turn on automatic updates"
+      ],
+      [
+        "4 Account",
+        "Check your account and order"
+      ],
+      [
+        "5 Controller",
+        "Charge it to full"
+      ],
+      [
+        "6 Countdown",
+        "Check the countdown on your console"
+      ]
+    ]
+  }
+}

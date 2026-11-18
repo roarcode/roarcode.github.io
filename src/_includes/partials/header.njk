@@ -9,6 +9,8 @@
       {%- endif -%}
     </a>
 
+    {#- Kit hamburger (design/components.css: .icon-btn.site-header__toggle), shown below 64rem; the category nav becomes its overlay. -#}
+    <button class="icon-btn site-header__toggle" type="button" aria-label="Menu" aria-expanded="false" aria-controls="site-nav" data-nav-toggle><svg class="icon-btn__open" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg><svg class="icon-btn__close" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18"/></svg></button>
     {#- Works with no JS (plain GET form to /search/); the search page boots Pagefind UI. -#}
     <form class="site-search" role="search" action="{{ '/search/' | url }}" method="get">
       <label class="visually-hidden" for="site-search-q">Search guides</label>
@@ -25,7 +27,8 @@
     </button>
   </div>
 
-  <nav class="site-nav" aria-label="Guide categories">
+  <nav class="site-nav" id="site-nav" aria-label="Guide categories">
+    <noscript><style>@media (max-width:63.99rem){.site-nav{display:block!important;position:static!important}.site-header__toggle{display:none!important}.site-nav__list{display:flex!important}}</style></noscript>
     <ul class="site-nav__list container">
       {%- for c in library.navCategories %}
       <li class="site-nav__item">

@@ -1,0 +1,26 @@
+{
+  "type": "menu-mock",
+  "alt": "Illustration of a PS5 game page with the Download action highlighted. Not an in-game screenshot.",
+  "data": {
+    "category": "pre-launch",
+    "title": "Select Download on the game page",
+    "panel_title": "Game page — illustration",
+    "platform": "PS5",
+    "highlightRow": 2,
+    "rows": [
+      {
+        "label": "Grand Theft Auto VI",
+        "value": "PS5"
+      },
+      {
+        "label": "Size",
+        "value": "Up to 212 GB"
+      },
+      {
+        "label": "Download",
+        "value": "Start or resume"
+      }
+    ],
+    "note": "Illustration — not an in-game screenshot. Keep at least 212 GB free (PlayStation's advice)."
+  }
+}

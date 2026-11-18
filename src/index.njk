@@ -33,7 +33,7 @@ eleventyExcludeFromCollections: true
     <h2 class="section__title" id="cats-h">Guides by category</h2>
   </header>
   <div class="grid grid--categories">
-    {%- for c in library.categories %}
+    {%- for c in library.navCategories %}
     {{ categoryCard(c) }}
     {%- endfor %}
   </div>
@@ -53,8 +53,8 @@ eleventyExcludeFromCollections: true
 
 <section class="section container" aria-labelledby="latest-h">
   <header class="section__header">
-    <p class="section__kicker">Fresh</p>
-    <h2 class="section__title" id="latest-h">New &amp; updated</h2>
+    <p class="section__kicker">Newest first</p>
+    <h2 class="section__title" id="latest-h">Latest updates</h2>
     <p class="section__meta">Last updated <time datetime="{{ library.lastUpdatedDate }}">{{ library.lastUpdatedLabel }}</time></p>
   </header>
   {%- if library.latest.length %}

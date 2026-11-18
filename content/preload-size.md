@@ -9,10 +9,11 @@ category: pre-launch
 description: "GTA 6 pre-load is live: up to 212 GB on PS5 and Xbox Series X|S. Start times, download-time estimates, space tips and a fix if the download stalls."
 sources:
   - https://www.playstation.com/en-us/support/games/gta-vi-support/
-  - https://www.playstation.com/GTAVIfeatures
+  - https://www.playstation.com/en-us/games/grand-theft-auto-vi/
   - https://blog.playstation.com/2026/11/10/pre-load-grand-theft-auto-vi-on-ps5-starting-today/
   - https://www.videogameschronicle.com/news/rockstar-details-grand-theft-auto-6-pre-load-date-and-time-and-file-size/
   - https://www.gamesradar.com/games/grand-theft-auto/gta-6-preload-date-times/
+  - https://www.pcgameshardware.de/
   - https://www.usatoday.com/story/tech/gaming/2026/11/09/gta-6-preload-consoles-release-date-file-size/92640419007/
   - https://www.pcgamer.com/games/grand-theft-auto/gta-6-release-time-date/
   - https://www.polygon.com/gta-6-grand-theft-auto-release-time-pdt-edt/
@@ -22,13 +23,14 @@ sources:
 updated: 2026-11-18
 status: prelaunch
 spoilers: none
+qa: live-review
 ---
 
 # GTA 6 Pre-Load: 212 GB Size, Start Times, Fixes (2026)
 
-> - **Quick answer:** GTA 6 needs **up to 212 GB**. PlayStation says to keep **at least 212 GB free** on PS5.
+> - **Quick answer:** The GTA 6 pre-load is **up to 212 GB**. PlayStation says to keep **at least 212 GB free** on PS5.
 > - **Pre-load (downloading the game early) opened on 10 Nov 2026.** Boxed copies have a **download code, not a disc**, and reached shops on **12 Nov**.
-> - **It stays locked until midnight in your time zone on 19 Nov.** Pre-loading does not let you play early. See the [release time table](release-time.md).
+> - **It stays locked until midnight in your time zone on 19 Nov.** Pre-loading does not let you play early. See the [release time table](/launch-hub/release-time/).
 
 **Words used on this page.** *GB* means gigabytes, the size of a file. *Storage* is the space on your console. *Rest Mode* (PS5) and *Sleep mode* (Xbox) keep the console on at low power so it can download.
 
@@ -38,26 +40,26 @@ spoilers: none
 1. Go to the home screen.
 2. Open **Settings**.
 3. Select **Storage**.
-4. Read the free space. You need **more than 212 GB**. Take extra for patches.
+4. Read the free space. Keep **at least 212 GB free** (PlayStation's advice). Take extra for patches.
 
 **Xbox Series X|S** *(general Xbox menu path, check the names on your console)*
 1. Press the **Xbox button** on your controller.
 2. Go to **Profile & system**, then **Settings**.
 3. Select **System**, then **Storage devices**.
-4. Read the free space. You need **more than 212 GB**.
+4. Read the free space. Keep **at least 212 GB free**.
 
 ![PS5 Storage screen showing free space](TODO: image:preload-size-step-1 — menu screen, PS5: Settings > Storage with the free-space bar visible)
-*Caption: Menu screen. The PS5 storage screen showing free space.*
+*Caption: Diagram. The PS5 storage screen showing free space.*
 
 ![Xbox storage devices screen showing free space](TODO: image:preload-size-step-2 — menu screen, Xbox: Settings > System > Storage devices with free space visible)
-*Caption: Menu screen. The Xbox storage screen showing free space.*
+*Caption: Diagram. The Xbox storage screen showing free space.*
 
 ## Step 2: Make room if you are short
 
 1. Pick one old game you do not play.
 2. Delete it, or move it to another storage device.
 3. Check your free space again.
-4. Repeat until you have **more than 212 GB** free.
+4. Repeat until you have **at least 212 GB** free.
 
 PlayStation's own advice is to delete data or move it to a different storage device.
 
@@ -96,7 +98,7 @@ Bought the boxed version? There is a code inside, not a disc. Enter it first:
 3. Keep the console **on or in Sleep mode**, not fully off, so the download can continue.
 
 ![PS5 Rest Mode settings screen with both options on](TODO: image:preload-size-step-4 — menu screen, PS5: Features Available in Rest Mode with Stay Connected to the Internet on)
-*Caption: Menu screen. PS5 Rest Mode settings that let the download continue.*
+*Caption: Diagram. PS5 Rest Mode settings that let the download continue.*
 
 ## The numbers
 
@@ -106,16 +108,16 @@ Bought the boxed version? There is a code inside, not a disc. Enter it first:
 | PS5 start | 00:00 local time on 10 Nov | PlayStation support |
 | Xbox start | 00:00 GMT on 10 Nov (01:00 CET) | VGC, USA Today |
 | Size | Up to 212 GB, depending on your console | Rockstar via VGC, GamesRadar, PC Gamer |
-| Boxed copies | In shops from 12 Nov. A download code, no disc. | Take-Two, PlayStation |
-| Xbox One | Streams with Xbox Cloud Gaming from **1 AM ET on 19 Nov** (Series S graphics) | Xbox Wire |
+| Boxed copies | In shops from 12 Nov. A download code, no disc. | Rockstar announcement via USA Today and VGC; PlayStation |
+| Xbox One | Streams with Xbox Cloud Gaming from **1 AM ET on 19 Nov** (= 07:00 CET; Series S graphics) | Xbox Wire |
 
 Polygon says about 210 GB. Rockstar says "up to 212 GB". Plan for 212.
 
-> **Wrong date warning:** an old press release said pre-load starts on 12 November. That is wrong. Pre-load started on **10 November**. 12 November is the day boxed copies reached shops.
+> **Wrong date warning:** some early reports (for example PCGH, 25 June 2026) gave 12 November for pre-load. Rockstar later confirmed **10 November** (USA Today, 9 Nov). 12 November is the day boxed copies reached shops.
 
 ## How long will it take?
 
-There are no official times. One real example from New Zealand provider Chorus (via 1News, 18 Nov). Your speed will be different.
+There are no official times. One real example from New Zealand provider Chorus (via 1News, 18 Nov). Your speed will be different. Our method check: 212 GB ÷ your speed (calculated). 212 GB at 500 Mbps is about 57 minutes. Real speeds vary.
 
 | Internet | About how long |
 |---|---|
@@ -149,6 +151,10 @@ Who to ask: PlayStation Support or Xbox Support for downloads and codes. Rocksta
 > **Rumour / unconfirmed:** Vice reports that dataminers (people who read game files) found a patch around 13 Nov (about 1 GB) and another from 16 Nov (about 602.5 MB on PS5, 1.6 GB on Xbox), rolling out slowly. Rockstar had published **no patch notes** as of 16 Nov. Source: https://www.vice.com/en/article/gta-6-second-day-one-patch-ps5-xbox/
 
 The final launch-day update size is **not announced**.
+
+Related: [GTA 6 pre-load not starting](/glitches/gta-6-preload-not-starting/) · [GTA 6 download stuck](/glitches/gta-6-download-stuck/) · [launch hub](/launch-hub/gta-6-launch-hub/)
+
+<!-- What players are saying: add real embeds from content/inbox/ -->
 
 ## FAQ
 

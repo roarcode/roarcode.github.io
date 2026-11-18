@@ -18,7 +18,7 @@ eleventyExcludeFromCollections: true
         {#- spoiler level always comes first, at the very top of the article -#}
         {{ spoilerBadge(item.spoilers, item.spoilerLabel, "article__spoiler-level") }}
         <a class="badge badge--category" href="{{ item.category.url | url }}" data-pagefind-ignore>{{ item.category.name }}</a>
-        {%- if item.rumour %}<span class="badge badge--rumour">Rumour — unconfirmed</span>{% endif %}
+        {%- if item.rumour %}<span class="badge badge--rumour">Rumour — unconfirmed</span>{% elif item.official %}<span class="badge badge--official" title="At least one source for this page is an official Rockstar, Take-Two, PlayStation or Xbox page">Official sources</span>{% endif %}
         {%- if item.placeholder %}<span class="badge badge--placeholder">Placeholder</span>{% endif %}
         {%- if item.draft %}<span class="badge badge--placeholder">Draft</span>{% endif %}
       </div>
@@ -93,6 +93,7 @@ eleventyExcludeFromCollections: true
           <ul class="sources__list">
             {%- for s in item.sources %}
             <li class="sources__item">
+              {%- if s.kind %}<span class="sources__kind sources__kind--{{ s.kind }}">{{ s.kindLabel }}</span> {% endif %}
               {%- if s.url %}<a class="sources__link" href="{{ s.url }}" rel="noopener noreferrer nofollow" target="_blank">{{ s.label }}</a>{% else %}<span class="sources__link">{{ s.label }}</span>{% endif %}
               {%- if s.publisher %} <span class="sources__publisher">— {{ s.publisher }}</span>{% endif %}
               {%- if s.note %} <span class="sources__note">({{ s.note }})</span>{% endif %}

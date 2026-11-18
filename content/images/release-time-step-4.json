@@ -1,0 +1,36 @@
+{
+  "type": "compare-table",
+  "alt": "Table: midnight Eastern equals 11 PM Central, 10 PM Mountain, 9 PM Pacific and 06:00 CET.",
+  "data": {
+    "category": "pre-launch",
+    "title": "US unlock: one moment on PlayStation",
+    "columns": [
+      "US time zone",
+      "Local time",
+      "In CET"
+    ],
+    "rows": [
+      [
+        "Pacific (PT)",
+        "Wed 18 Nov, 9:00 PM",
+        "Thu 19 Nov, 06:00"
+      ],
+      [
+        "Mountain (MT, calculated)",
+        "Wed 18 Nov, 10:00 PM",
+        "Thu 19 Nov, 06:00"
+      ],
+      [
+        "Central (CT)",
+        "Wed 18 Nov, 11:00 PM",
+        "Thu 19 Nov, 06:00"
+      ],
+      [
+        "Eastern (ET)",
+        "Thu 19 Nov, 12:00 AM",
+        "Thu 19 Nov, 06:00"
+      ]
+    ],
+    "note": "The US PlayStation Store showed one Eastern moment (PC Gamer, GamesRadar). Xbox is unconfirmed."
+  }
+}

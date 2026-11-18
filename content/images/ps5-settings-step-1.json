@@ -1,0 +1,41 @@
+{
+  "type": "compare-table",
+  "alt": "Table comparing PS5 and PS5 Pro: both target 30 FPS; only PS5 Pro has PSSR and ray-traced shadows; graphics modes are not announced.",
+  "data": {
+    "category": "ps5",
+    "title": "PS5 vs PS5 Pro in GTA 6",
+    "columns": [
+      "Feature",
+      "PS5",
+      "PS5 Pro"
+    ],
+    "rows": [
+      [
+        "Frame-rate target",
+        "30 FPS",
+        "30 FPS"
+      ],
+      [
+        "DualSense haptics, Tempest 3D Audio",
+        "yes Yes",
+        "yes Yes"
+      ],
+      [
+        "PSSR sharper picture",
+        "no No",
+        "yes Yes"
+      ],
+      [
+        "Ray-traced shadows",
+        "no No",
+        "yes Yes"
+      ],
+      [
+        "Graphics modes",
+        "partial Not announced",
+        "partial Not announced"
+      ]
+    ],
+    "highlightColumn": 1
+  }
+}

@@ -17,6 +17,8 @@
   }
 
   btn.hidden = false;
+  // No spoiler blocks on this page: keep the toggle on wide screens only (CSS hides .spoiler-toggle--idle on phones).
+  if (!document.querySelector("details.spoiler")) btn.classList.add("spoiler-toggle--idle");
   // Only touch the blocks when the preference is ON: with OFF the author's default (collapsed) stands.
   if (read()) apply(true); else document.documentElement.setAttribute("data-spoilers", "hidden");
 
@@ -34,4 +36,21 @@
 (function () {
   var toc = document.querySelector("details[data-toc]");
   if (toc && window.matchMedia("(min-width: 64rem)").matches) toc.open = true;
+})();
+
+// Mobile menu (kit hamburger): below 64rem the category nav is an overlay opened by [data-nav-toggle].
+// Without JS the nav stays a visible, scrollable strip (see <noscript> in header.njk).
+(function () {
+  var toggle = document.querySelector("[data-nav-toggle]");
+  var nav = document.getElementById("site-nav");
+  if (!toggle || !nav) return;
+  function set(open) {
+    toggle.setAttribute("aria-expanded", open ? "true" : "false");
+    toggle.setAttribute("aria-label", open ? "Close menu" : "Menu");
+    nav.classList.toggle("site-nav--open", open);
+  }
+  toggle.addEventListener("click", function () { set(toggle.getAttribute("aria-expanded") !== "true"); });
+  document.addEventListener("keydown", function (e) { if (e.key === "Escape" && nav.classList.contains("site-nav--open")) { set(false); toggle.focus(); } });
+  nav.addEventListener("click", function (e) { if (e.target.closest("a")) set(false); });
+  window.matchMedia("(min-width: 64rem)").addEventListener("change", function (m) { if (m.matches) set(false); });
 })();

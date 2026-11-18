@@ -1,0 +1,51 @@
+{
+  "type": "compare-table",
+  "alt": "Table of platforms: native on PS5, PS5 Pro, Xbox Series X and S; Xbox One by cloud streaming only; not on PS4; PC not announced.",
+  "data": {
+    "category": "pre-launch",
+    "title": "Where GTA 6 runs at launch",
+    "columns": [
+      "Platform",
+      "Can you play?",
+      "Detail"
+    ],
+    "rows": [
+      [
+        "PS5",
+        "yes Yes",
+        "Native"
+      ],
+      [
+        "PS5 Pro",
+        "yes Yes",
+        "Native, PSSR and ray-traced shadows"
+      ],
+      [
+        "Xbox Series X",
+        "yes Yes",
+        "Native"
+      ],
+      [
+        "Xbox Series S",
+        "yes Yes",
+        "Native"
+      ],
+      [
+        "Xbox One",
+        "partial Stream only",
+        "Xbox Cloud Gaming from 1 AM ET, 19 Nov (= 07:00 CET)"
+      ],
+      [
+        "PS4",
+        "no No",
+        "Not available"
+      ],
+      [
+        "PC",
+        "partial Not announced",
+        "No date, no platform"
+      ]
+    ],
+    "highlightColumn": 0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "menu-mock",
+  "alt": "Illustration of Xbox Power Center with Restart console highlighted. Not an in-game screenshot.",
+  "data": {
+    "category": "glitches",
+    "title": "Step 3: restart your Xbox",
+    "panel_title": "Power Center — illustration",
+    "platform": "Xbox",
+    "highlightRow": 1,
+    "rows": [
+      {
+        "label": "Turn off console",
+        "value": ""
+      },
+      {
+        "label": "Restart console",
+        "value": "Try this step"
+      },
+      {
+        "label": "Put console to sleep",
+        "value": ""
+      }
+    ],
+    "note": "Illustration — not an in-game screenshot. Open Power Center by holding the Xbox button."
+  }
+}

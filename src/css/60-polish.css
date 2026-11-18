@@ -1,0 +1,76 @@
+/* Design-review fixes: official badge, source kinds, card media, hamburger menu, mobile tables, 44px targets, X embeds, update list.
+   Class names mirror design/components.css (.icon-btn, .site-header__toggle, .badge--official, .guide-card__media). */
+
+/* ---- official / source-kind badges ---- */
+.badge--official { color: var(--status-official); border-color: color-mix(in srgb, var(--status-official) 45%, transparent); background: color-mix(in srgb, var(--status-official) 10%, var(--bg-2)); }
+.badge--official::before { content: "✓"; font-weight: 700; }
+.sources__kind { display: inline-block; margin-right: 6px; padding: 1px 7px; border-radius: var(--radius-pill); border: 1px solid var(--line-2); font: var(--fs-100)/1.5 var(--font-mono); letter-spacing: var(--ls-mono); text-transform: uppercase; color: var(--text-2); vertical-align: 1px; }
+.sources__kind--official { color: var(--status-official); border-color: color-mix(in srgb, var(--status-official) 45%, transparent); }
+.sources__kind--community { color: var(--text-3); border-style: dashed; }
+
+/* ---- card media (16:9 slot on every category and guide card) ---- */
+.guide-card__link { padding: 0 0 var(--space-5); }
+.guide-card__link > :not(.guide-card__media) { padding-inline: var(--space-5); }
+.guide-card__media { display: block; aspect-ratio: 16 / 9; background: var(--bg-3); overflow: hidden; position: relative; }
+.guide-card__media picture, .category-card__media picture { display: block; height: 100%; }
+.guide-card__media img, .category-card__media img { width: 100%; height: 100%; object-fit: cover; }
+.guide-card__media-fallback, .category-card__media-fallback { object-position: 60% 50%; filter: saturate(.85) brightness(.8); }
+.guide-card__media::after, .category-card__media::after { content: ""; position: absolute; inset: 0; background: linear-gradient(0deg, var(--bg-2) 0%, transparent 55%), linear-gradient(135deg, color-mix(in srgb, var(--accent) 28%, transparent), transparent 60%); pointer-events: none; }
+.category-card__media { position: relative; overflow: hidden; }
+
+/* ---- latest updates list ---- */
+.update-list { list-style: none; margin: 0; padding: 0; display: grid; gap: 1px; background: var(--line-1); border: 1px solid var(--line-1); border-radius: var(--radius-md); overflow: hidden; }
+.update-list__item { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: var(--space-2) var(--space-4); padding: var(--space-3) var(--space-4); background: var(--bg-2); min-height: 44px; }
+.update-list__link { color: var(--text-1); font-weight: var(--fw-medium); text-decoration: none; }
+.update-list__link:hover { color: var(--brand-cyan); }
+.update-list__time { font: var(--fs-100)/1.4 var(--font-mono); letter-spacing: var(--ls-mono); color: var(--text-3); text-transform: uppercase; }
+
+/* ---- tap targets >= 44px ---- */
+.site-search__button { width: 44px; height: 44px; right: 0; }
+.site-search--large .site-search__button--text { right: 5px; }
+.site-footer__list a { display: inline-flex; align-items: center; min-height: 44px; padding: 0; }
+.toc__summary { min-height: 44px; display: flex; align-items: center; }
+.brand { min-height: 44px; }
+
+/* ---- mobile menu (kit hamburger) ---- */
+.site-header__toggle { flex: none; display: inline-grid; place-items: center; width: 44px; height: 44px; border-radius: var(--radius-sm); border: 1px solid var(--line-1); background: var(--bg-2); color: var(--text-1); cursor: pointer; padding: 0; }
+.site-header__toggle:hover { border-color: var(--line-3); background: var(--bg-3); }
+.site-header__toggle svg { width: 20px; height: 20px; stroke: currentColor; fill: none; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+.site-header__toggle .icon-btn__close, .site-header__toggle[aria-expanded="true"] .icon-btn__open { display: none; }
+.site-header__toggle[aria-expanded="true"] .icon-btn__close { display: block; }
+@media (max-width: 63.99rem) {
+  .site-nav { display: none; position: absolute; inset: 100% 0 auto 0; z-index: var(--z-nav, 40); border-top: 1px solid var(--line-1); border-bottom: 1px solid var(--line-1); box-shadow: var(--shadow-2, 0 20px 40px rgb(0 0 0 / .5)); max-height: calc(100dvh - var(--header-h, 64px)); overflow: auto; }
+  .site-nav--open { display: block; }
+  .site-nav__list { display: grid; gap: 2px; overflow: visible; padding-block: var(--space-3) var(--space-4); }
+  .site-nav__link { min-height: 48px; border-bottom: 0; border-radius: var(--radius-sm); padding-inline: var(--space-3); font-size: var(--fs-400); color: var(--text-1); }
+  .site-nav__link[aria-current="page"] { background: var(--bg-3); box-shadow: inset 2px 0 0 var(--accent); }
+  .spoiler-toggle--idle { display: none; }
+  .site-search { min-width: 0; max-width: none; }
+}
+@media (min-width: 64rem) { .site-header__toggle { display: none; } }
+
+/* ---- tables: scroll shadows (a visible cue that more is off-screen) + tighter cells on phones ---- */
+.table-wrap {
+  background:
+    linear-gradient(to right, var(--bg-2) 30%, transparent) left center / 40px 100% no-repeat local,
+    linear-gradient(to left, var(--bg-2) 30%, transparent) right center / 40px 100% no-repeat local,
+    radial-gradient(farthest-side at 0 50%, rgb(0 0 0 / .55), transparent) left center / 14px 100% no-repeat scroll,
+    radial-gradient(farthest-side at 100% 50%, rgb(0 0 0 / .55), transparent) right center / 14px 100% no-repeat scroll,
+    var(--bg-2);
+}
+@media (max-width: 39.99rem) {
+  .table th, .table td { padding: var(--space-2) var(--space-3); font-size: var(--fs-200); }
+  .table td:first-child, .table th:first-child { max-width: 9.5rem; }
+}
+
+/* ---- breadcrumbs: separator stays with the previous item, long titles wrap cleanly ---- */
+.breadcrumbs__item { overflow-wrap: anywhere; }
+.breadcrumbs__item + .breadcrumbs__item::before { content: none; }
+.breadcrumbs__item:not(:last-child)::after { content: "/"; margin-left: var(--space-2); color: var(--line-3); }
+
+/* ---- X (Twitter) embeds ---- */
+.x-embed { margin: var(--space-5) 0; max-width: 550px; }
+.x-embed blockquote.twitter-tweet { margin: 0; padding: var(--space-4) var(--space-5); border: 1px solid var(--line-2); border-radius: var(--radius-md); background: var(--bg-2); color: var(--text-2); font-size: var(--fs-300); }
+.x-embed blockquote.twitter-tweet p { margin: 0 0 var(--space-2); }
+.x-embed blockquote.twitter-tweet a { color: var(--brand-cyan); }
+.x-embed iframe { max-width: 100%; }

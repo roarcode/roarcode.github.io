@@ -1,0 +1,26 @@
+{
+  "type": "info-cards",
+  "alt": "Three cards named Rockstar, PlayStation and Xbox, each with a green tick and a red cross example, for checking status pages first.",
+  "data": {
+    "category": "glitches",
+    "title": "Check these three pages first",
+    "cards": [
+      {
+        "title": "Rockstar",
+        "body": "Rockstar status page. Green tick: services up. Red cross: an outage is listed.",
+        "status": "ok"
+      },
+      {
+        "title": "PlayStation",
+        "body": "PlayStation status page. Check if store, accounts or games are marked down.",
+        "status": "ok"
+      },
+      {
+        "title": "Xbox",
+        "body": "Xbox status page. Check live services and store before you change settings.",
+        "status": "no"
+      }
+    ],
+    "note": "The red cross is an example. Open the live status pages — do not go by this diagram alone."
+  }
+}

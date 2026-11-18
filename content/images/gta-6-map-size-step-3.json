@@ -1,0 +1,21 @@
+{
+  "type": "info-cards",
+  "alt": "Two-item checklist of what would change the map-size page: a published measurement, or a figure posted by Rockstar.",
+  "data": {
+    "category": "pre-launch",
+    "title": "What would give us a real number",
+    "cards": [
+      {
+        "title": "A published measurement",
+        "body": "Someone measures the playable area and publishes the method. We will show the method and the date.",
+        "status": "check"
+      },
+      {
+        "title": "A figure from Rockstar",
+        "body": "If Rockstar posts a km or mile figure, we will switch the table to that number.",
+        "status": "check"
+      }
+    ],
+    "note": "Until then, the only official claims are the two ratios on this page."
+  }
+}

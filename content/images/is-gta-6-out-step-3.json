@@ -1,0 +1,26 @@
+{
+  "type": "menu-mock",
+  "alt": "Illustration of the Xbox Full library page with Grand Theft Auto VI selected and a release time. Not an in-game screenshot.",
+  "data": {
+    "category": "pre-launch",
+    "title": "Check the release time on Xbox",
+    "panel_title": "My games & apps > Full library — illustration",
+    "platform": "Xbox",
+    "highlightRow": 2,
+    "rows": [
+      {
+        "label": "Grand Theft Auto VI",
+        "value": "Selected"
+      },
+      {
+        "label": "Platform",
+        "value": "Xbox Series X|S"
+      },
+      {
+        "label": "Unlock time",
+        "value": "Trust the time on this page"
+      }
+    ],
+    "note": "Illustration — not an in-game screenshot. Path: My games & apps > Full library."
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "info-cards",
+  "alt": "Three boxes with arrows: write the code down, check status pages, then try the fixes.",
+  "data": {
+    "category": "glitches",
+    "title": "Write it down, then fix",
+    "layout": "flow",
+    "cols": 3,
+    "card_height": 250,
+    "cards": [
+      {
+        "title": "1. Write the code",
+        "body": "Copy the code line from the error box.",
+        "status": "none"
+      },
+      {
+        "title": "2. Check status",
+        "body": "Open the Rockstar, PlayStation and Xbox status pages.",
+        "status": "none"
+      },
+      {
+        "title": "3. Try the fixes",
+        "body": "Use the general steps, or the PS5 and Xbox fix guides.",
+        "status": "none"
+      }
+    ]
+  }
+}

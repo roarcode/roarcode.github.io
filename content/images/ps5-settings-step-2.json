@@ -1,0 +1,10 @@
+{
+  "type": "step-card",
+  "alt": "Diagram of the PS5 menu path to check free space.",
+  "data": {
+    "category": "ps5",
+    "step": 2,
+    "title": "Check free space on PS5",
+    "body": "Press the PS button, open Settings, select Storage. Check you have at least 212 GB free."
+  }
+}

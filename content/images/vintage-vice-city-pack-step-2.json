@@ -1,0 +1,26 @@
+{
+  "type": "menu-mock",
+  "alt": "Illustration of a store Editions list with the Vintage Vice City Pack included. Not an in-game screenshot.",
+  "data": {
+    "category": "pre-launch",
+    "title": "Editions list with the pack",
+    "panel_title": "Editions — illustration",
+    "platform": "PS5",
+    "highlightRow": 2,
+    "rows": [
+      {
+        "label": "Standard Edition",
+        "value": "The game"
+      },
+      {
+        "label": "Ultimate Edition",
+        "value": "The game + extras"
+      },
+      {
+        "label": "Vintage Vice City Pack",
+        "value": "Included before 20 Nov 2026"
+      }
+    ],
+    "note": "Illustration — not an in-game or store screenshot. Buy or pre-order before 20 Nov 2026 to get the pack."
+  }
+}

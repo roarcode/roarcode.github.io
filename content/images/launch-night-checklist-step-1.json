@@ -1,0 +1,11 @@
+{
+  "type": "step-card",
+  "alt": "Diagram of where to check that the GTA VI download has finished on PS5 and Xbox.",
+  "data": {
+    "category": "pre-launch",
+    "step": 1,
+    "title": "Check the download is finished",
+    "body": "PS5: Control Center > Downloads/Uploads. Xbox: My games & apps > Queue. If GTA VI is still in the queue, it is downloading or paused.",
+    "tip": "Stuck? Pause, then Resume. See the pre-load fix steps."
+  }
+}

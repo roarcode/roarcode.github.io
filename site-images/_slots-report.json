@@ -1,0 +1,434 @@
+{
+ "counts": {
+  "slots": 42,
+  "rendered": 34,
+  "upToDate": 0,
+  "noSpec": 8,
+  "error": 0,
+  "needsScreenshot": 8,
+  "orphans": 0
+ },
+ "rows": [
+  {
+   "id": "beginner-tips-step-1",
+   "file": "beginner-tips.md",
+   "hint": "menu screen, PS5: Settings > Storage and Control Center > Downloads/Uploads",
+   "suggested": "needs-screenshot",
+   "status": "rendered",
+   "spec": "sidecar",
+   "out": "site-images/beginner-tips-step-1.webp",
+   "note": "52 KB"
+  },
+  {
+   "id": "beginner-tips-step-2",
+   "file": "beginner-tips.md",
+   "hint": "diagram, our own art: six stars filling from empty to full with the label \"wanted level\"",
+   "suggested": "step-card",
+   "status": "rendered",
+   "spec": "sidecar",
+   "out": "site-images/beginner-tips-step-2.webp",
+   "note": "35 KB"
+  },
+  {
+   "id": "beginner-tips-step-3",
+   "file": "beginner-tips.md",
+   "hint": "map pin, our own art: a mission marker with a car pin beside it",
+   "suggested": "map-annotate",
+   "status": "rendered",
+   "spec": "sidecar",
+   "out": "site-images/beginner-tips-step-3.webp",
+   "note": "42 KB"
+  },
+  {
+   "id": "editions-prices-step-1",
+   "file": "editions-prices.md",
+   "hint": "diagram, our own art: two cards, Standard and Ultimate, with USD, GBP and EUR prices",
+   "suggested": "step-card",
+   "status": "rendered",
+   "spec": "sidecar",
+   "out": "site-images/editions-prices-step-1.webp",
+   "note": "49 KB"
+  },
+  {
+   "id": "editions-prices-step-2",
+   "file": "editions-prices.md",
+   "hint": "step screenshot, PS5: PlayStation Store GTA VI page showing Standard and Ultimate",
+   "suggested": "needs-screenshot",
+   "status": "no-spec (needs real screenshot or an original diagram)",
+   "spec": "",
+   "out": "",
+   "note": ""
+  },
+  {
+   "id": "editions-prices-step-3",
+   "file": "editions-prices.md",
+   "hint": "menu screen, Xbox: Store profile icon > Offers & credits with the GTA+ month offer",
+   "suggested": "needs-screenshot",
+   "status": "rendered",
+   "spec": "sidecar",
+   "out": "site-images/editions-prices-step-3.webp",
+   "note": "47 KB"
+  },
+  {
+   "id": "gta-6-online-step-1",
+   "file": "gta-6-online.md",
+   "hint": "diagram, our own art: a single-player icon ticked and an \"Online: not announced\" label",
+   "suggested": "step-card",
+   "status": "rendered",
+   "spec": "sidecar",
+   "out": "site-images/gta-6-online-step-1.webp",
+   "note": "32 KB"
+  },
+  {
+   "id": "gta-6-online-step-2",
+   "file": "gta-6-online.md",
+   "hint": "diagram, Designer's original art: a simple timeline with a \"now: single-player only\" marker",
+   "suggested": "step-card",
+   "status": "rendered",
+   "spec": "sidecar",
+   "out": "site-images/gta-6-online-step-2.webp",
+   "note": "35 KB"
+  },
+  {
+   "id": "gta-6-online-step-3",
+   "file": "gta-6-online.md",
+   "hint": "diagram, our own art: a card reading \"GTA+ is a monthly club with a games library\", no Rockstar art",
+   "suggested": "step-card",
+   "status": "rendered",
+   "spec": "sidecar",
+   "out": "site-images/gta-6-online-step-3.webp",
+   "note": "41 KB"
+  },
+  {
+   "id": "jason-lucia-step-1",
+   "file": "jason-lucia.md",
+   "hint": "menu screen, only after launch: the character switch prompt; before launch use Designer's own art of two silhouettes",
+   "suggested": "needs-screenshot",
+   "status": "no-spec (needs real screenshot or an original diagram)",
+   "spec": "",
+   "out": "",
+   "note": ""
+  },
+  {
+   "id": "jason-lucia-step-2",
+   "file": "jason-lucia.md",
+   "hint": "diagram, Designer's original art: two blank character cards labelled Jason Duval and Lucia Caminos, no Rockstar art without credit",
+   "suggested": "step-card",
+   "status": "rendered",
+   "spec": "sidecar",
+   "out": "site-images/jason-lucia-step-2.webp",
+   "note": "37 KB"
+  },
+  {
+   "id": "jason-lucia-step-3",
+   "file": "jason-lucia.md",
+   "hint": "diagram, our own art: three icons for switching leads, six wanted stars, criminal profile",
+   "suggested": "step-card",
+   "status": "rendered",
+   "spec": "sidecar",
+   "out": "site-images/jason-lucia-step-3.webp",
+   "note": "42 KB"
+  },
+  {
+   "id": "launch-night-checklist-step-1",
+   "file": "launch-night-checklist.md",
+   "hint": "menu screen, PS5: Control Center > Downloads/Uploads showing the GTA VI download completed",
+   "suggested": "needs-screenshot",
+   "status": "rendered",
+   "spec": "sidecar",
+   "out": "site-images/launch-night-checklist-step-1.webp",
+   "note": "49 KB"
+  },
+  {
+   "id": "launch-night-checklist-step-2",
+   "file": "launch-night-checklist.md",
+   "hint": "menu screen, PS5 and Xbox storage screens side by side with free space circled",
+   "suggested": "needs-screenshot",
+   "status": "rendered",
+   "spec": "sidecar",
+   "out": "site-images/launch-night-checklist-step-2.webp",
+   "note": "53 KB"
+  },
+  {
+   "id": "launch-night-checklist-step-3",
+   "file": "launch-night-checklist.md",
+   "hint": "menu screen, PS5: Automatic Updates with Auto-Install in Rest Mode switched on",
+   "suggested": "needs-screenshot",
+   "status": "rendered",
+   "spec": "sidecar",
+   "out": "site-images/launch-night-checklist-step-3.webp",
+   "note": "58 KB"
+  },
+  {
+   "id": "launch-night-checklist-step-4",
+   "file": "launch-night-checklist.md",
+   "hint": "diagram, our own art: a 6-step checklist poster with icons for download, storage, updates, account, controller, countdown",
+   "suggested": "step-card",
+   "status": "rendered",
+   "spec": "sidecar",
+   "out": "site-images/launch-night-checklist-step-4.webp",
+   "note": "40 KB"
+  },
+  {
+   "id": "leonida-step-1",
+   "file": "leonida.md",
+   "hint": "diagram, our own art: six coloured blobs numbered 1 to 6 with a key, not copied from fan or leaked maps",
+   "suggested": "step-card",
+   "status": "rendered",
+   "spec": "sidecar",
+   "out": "site-images/leonida-step-1.webp",
+   "note": "46 KB"
+  },
+  {
+   "id": "leonida-step-2",
+   "file": "leonida.md",
+   "hint": "map pin, our own art: nine pins labelled with the place names, positions left blank until the map is known",
+   "suggested": "map-annotate",
+   "status": "rendered",
+   "spec": "sidecar",
+   "out": "site-images/leonida-step-2.webp",
+   "note": "47 KB"
+  },
+  {
+   "id": "leonida-step-3",
+   "file": "leonida.md",
+   "hint": "diagram, our own art: icons for rain, hurricane, bird, alligator with the 170+ species number",
+   "suggested": "step-card",
+   "status": "rendered",
+   "spec": "sidecar",
+   "out": "site-images/leonida-step-3.webp",
+   "note": "45 KB"
+  },
+  {
+   "id": "map-step-1",
+   "file": "map.md",
+   "hint": "step screenshot (own screenshot, credit Rockstar",
+   "suggested": "needs-screenshot",
+   "status": "no-spec (needs real screenshot or an original diagram)",
+   "spec": "",
+   "out": "",
+   "note": ""
+  },
+  {
+   "id": "map-step-2",
+   "file": "map.md",
+   "hint": "diagram, our own art (not the leaked or fan maps",
+   "suggested": "step-card",
+   "status": "rendered",
+   "spec": "sidecar",
+   "out": "site-images/map-step-2.webp",
+   "note": "45 KB"
+  },
+  {
+   "id": "map-step-3",
+   "file": "map.md",
+   "hint": "map pin diagram, our own art: pin shapes for shops, garages, collectibles, activities",
+   "suggested": "map-annotate",
+   "status": "rendered",
+   "spec": "sidecar",
+   "out": "site-images/map-step-3.webp",
+   "note": "39 KB"
+  },
+  {
+   "id": "platforms-step-1",
+   "file": "platforms.md",
+   "hint": "diagram, our own art: a grid of PS5, PS5 Pro, Series X|S, Xbox One (cloud",
+   "suggested": "step-card",
+   "status": "rendered",
+   "spec": "sidecar",
+   "out": "site-images/platforms-step-1.webp",
+   "note": "50 KB"
+  },
+  {
+   "id": "platforms-step-2",
+   "file": "platforms.md",
+   "hint": "menu screen, Xbox: GTA VI in My games & apps with the cloud-play option",
+   "suggested": "needs-screenshot",
+   "status": "no-spec (needs real screenshot or an original diagram)",
+   "spec": "",
+   "out": "",
+   "note": ""
+  },
+  {
+   "id": "platforms-step-3",
+   "file": "platforms.md",
+   "hint": "diagram, our own art: the 12 text languages and the one voice language",
+   "suggested": "step-card",
+   "status": "rendered",
+   "spec": "sidecar",
+   "out": "site-images/platforms-step-3.webp",
+   "note": "53 KB"
+  },
+  {
+   "id": "preload-size-step-1",
+   "file": "preload-size.md",
+   "hint": "menu screen, PS5: Settings > Storage with the free-space bar visible",
+   "suggested": "needs-screenshot",
+   "status": "rendered",
+   "spec": "sidecar",
+   "out": "site-images/preload-size-step-1.webp",
+   "note": "40 KB"
+  },
+  {
+   "id": "preload-size-step-2",
+   "file": "preload-size.md",
+   "hint": "menu screen, Xbox: Settings > System > Storage devices with free space visible",
+   "suggested": "needs-screenshot",
+   "status": "rendered",
+   "spec": "sidecar",
+   "out": "site-images/preload-size-step-2.webp",
+   "note": "47 KB"
+  },
+  {
+   "id": "preload-size-step-3",
+   "file": "preload-size.md",
+   "hint": "step screenshot, PS5: GTA VI page with the Download button highlighted",
+   "suggested": "needs-screenshot",
+   "status": "no-spec (needs real screenshot or an original diagram)",
+   "spec": "",
+   "out": "",
+   "note": ""
+  },
+  {
+   "id": "preload-size-step-4",
+   "file": "preload-size.md",
+   "hint": "menu screen, PS5: Features Available in Rest Mode with Stay Connected to the Internet on",
+   "suggested": "needs-screenshot",
+   "status": "rendered",
+   "spec": "sidecar",
+   "out": "site-images/preload-size-step-4.webp",
+   "note": "59 KB"
+  },
+  {
+   "id": "ps5-settings-step-1",
+   "file": "ps5-settings.md",
+   "hint": "diagram, our own art: two columns, PS5 and PS5 Pro, with ticks for PSSR and ray-traced shadows",
+   "suggested": "step-card",
+   "status": "rendered",
+   "spec": "sidecar",
+   "out": "site-images/ps5-settings-step-1.webp",
+   "note": "42 KB"
+  },
+  {
+   "id": "ps5-settings-step-2",
+   "file": "ps5-settings.md",
+   "hint": "menu screen, PS5: Settings > Storage with free space visible",
+   "suggested": "needs-screenshot",
+   "status": "rendered",
+   "spec": "sidecar",
+   "out": "site-images/ps5-settings-step-2.webp",
+   "note": "34 KB"
+  },
+  {
+   "id": "ps5-settings-step-3",
+   "file": "ps5-settings.md",
+   "hint": "diagram, our own art: a controller outline labelling haptics, adaptive triggers, speaker",
+   "suggested": "step-card",
+   "status": "rendered",
+   "spec": "sidecar",
+   "out": "site-images/ps5-settings-step-3.webp",
+   "note": "44 KB"
+  },
+  {
+   "id": "radio-stations-step-1",
+   "file": "radio-stations.md",
+   "hint": "diagram, Designer's original art: six text-only station cards with genre labels; no Rockstar logos without credit",
+   "suggested": "step-card",
+   "status": "rendered",
+   "spec": "sidecar",
+   "out": "site-images/radio-stations-step-1.webp",
+   "note": "53 KB"
+  },
+  {
+   "id": "radio-stations-step-2",
+   "file": "radio-stations.md",
+   "hint": "diagram, our own art: a phone with earbuds and a \"listen on foot\" label",
+   "suggested": "step-card",
+   "status": "rendered",
+   "spec": "sidecar",
+   "out": "site-images/radio-stations-step-2.webp",
+   "note": "38 KB"
+  },
+  {
+   "id": "radio-stations-step-3",
+   "file": "radio-stations.md",
+   "hint": "diagram, our own art: a timeline with 19 Nov (album",
+   "suggested": "step-card",
+   "status": "rendered",
+   "spec": "sidecar",
+   "out": "site-images/radio-stations-step-3.webp",
+   "note": "31 KB"
+  },
+  {
+   "id": "release-time-step-1",
+   "file": "release-time.md",
+   "hint": "diagram, our own art: a world map with numbered arrows showing the order 1 New Zealand to 14 Mexico",
+   "suggested": "map-annotate",
+   "status": "rendered",
+   "spec": "sidecar",
+   "out": "site-images/release-time-step-1.webp",
+   "note": "73 KB"
+  },
+  {
+   "id": "release-time-step-2",
+   "file": "release-time.md",
+   "hint": "menu screen, PS5: Game Library with the GTA VI tile selected and the locked/countdown text visible",
+   "suggested": "needs-screenshot",
+   "status": "no-spec (needs real screenshot or an original diagram)",
+   "spec": "",
+   "out": "",
+   "note": ""
+  },
+  {
+   "id": "release-time-step-3",
+   "file": "release-time.md",
+   "hint": "menu screen, Xbox: My games & apps > Full library with GTA VI selected",
+   "suggested": "needs-screenshot",
+   "status": "no-spec (needs real screenshot or an original diagram)",
+   "spec": "",
+   "out": "",
+   "note": ""
+  },
+  {
+   "id": "release-time-step-4",
+   "file": "release-time.md",
+   "hint": "diagram, our own art: one clock line showing 9 PM PT, 10 PM MT, 11 PM CT, 12 AM ET, 06:00 CET",
+   "suggested": "step-card",
+   "status": "rendered",
+   "spec": "sidecar",
+   "out": "site-images/release-time-step-4.webp",
+   "note": "53 KB"
+  },
+  {
+   "id": "vintage-vice-city-pack-step-1",
+   "file": "vintage-vice-city-pack.md",
+   "hint": "diagram, Designer's original art: four icons for car, garage, outfits, weapon pattern; no Rockstar art without credit",
+   "suggested": "step-card",
+   "status": "rendered",
+   "spec": "sidecar",
+   "out": "site-images/vintage-vice-city-pack-step-1.webp",
+   "note": "47 KB"
+  },
+  {
+   "id": "vintage-vice-city-pack-step-2",
+   "file": "vintage-vice-city-pack.md",
+   "hint": "step screenshot, PS5: GTA VI page \"Editions\" listing with Vintage Vice City Pack",
+   "suggested": "needs-screenshot",
+   "status": "no-spec (needs real screenshot or an original diagram)",
+   "spec": "",
+   "out": "",
+   "note": ""
+  },
+  {
+   "id": "vintage-vice-city-pack-step-3",
+   "file": "vintage-vice-city-pack.md",
+   "hint": "menu screen, Xbox: Store profile icon > Offers & credits",
+   "suggested": "needs-screenshot",
+   "status": "rendered",
+   "spec": "sidecar",
+   "out": "site-images/vintage-vice-city-pack-step-3.webp",
+   "note": "45 KB"
+  }
+ ],
+ "orphans": []
+}

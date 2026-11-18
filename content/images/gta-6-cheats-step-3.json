@@ -1,0 +1,23 @@
+{
+  "type": "compare-table",
+  "alt": "Empty table with PS5 and Xbox columns, showing where confirmed cheat codes will be listed.",
+  "data": {
+    "category": "pre-launch",
+    "title": "Confirmed codes will go here",
+    "columns": [
+      "Code",
+      "PS5",
+      "Xbox",
+      "Source"
+    ],
+    "rows": [
+      [
+        "No codes listed yet",
+        "—",
+        "—",
+        "—"
+      ]
+    ],
+    "note": "We only add a code with the button order, the source and the date."
+  }
+}

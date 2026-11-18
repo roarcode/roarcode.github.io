@@ -14,14 +14,29 @@ eleventyExcludeFromCollections: true
   <header class="page-header">
     <p class="page-header__kicker">Category</p>
     <h1 class="page-header__title">{{ item.name }}</h1>
-    {%- if item.description %}<p class="page-header__lead">{{ item.description }}</p>{% endif %}
+    {%- if item.intro or item.description %}<p class="page-header__lead">{{ item.intro or item.description }}</p>{% endif %}
     <p class="page-header__meta">
       {{ item.count }} {{ 'guide' if item.count == 1 else 'guides' }}
-      {%- if item.lastUpdated %} · Last updated <time datetime="{{ item.lastUpdatedDate }}">{{ item.lastUpdatedLabel }}</time>{% else %} · Last updated <time datetime="{{ library.lastUpdatedDate }}">{{ library.lastUpdatedLabel }}</time>{% endif %}
+      {%- if item.lastUpdated %} · Last updated <time datetime="{{ item.lastUpdatedDate }}">{{ item.lastUpdatedLabel }}</time>{% endif %}
     </p>
   </header>
 
   {%- if item.guides.length %}
+  {#- Newest first (library sorts by updated). On the Launch Hub the freshest pages get their own labelled block. -#}
+  {%- if item.slug == 'launch-hub' and item.guides.length > 3 %}
+  <section class="section" aria-labelledby="latest-h">
+    <header class="section__header">
+      <h2 class="section__title" id="latest-h">Latest updates</h2>
+      <p class="section__meta">Newest first · last updated <time datetime="{{ item.lastUpdatedDate }}">{{ item.lastUpdatedLabel }}</time></p>
+    </header>
+    <ol class="update-list">
+      {%- for g in item.guides | slice(0, 6) %}{% for x in g %}
+      <li class="update-list__item"><a class="update-list__link" href="{{ x.url | url }}">{{ x.title }}</a> <time class="update-list__time" datetime="{{ x.updatedValue }}">{{ x.updatedLabel }}</time></li>
+      {%- endfor %}{% endfor %}
+    </ol>
+  </section>
+  {%- endif %}
+  <h2 class="visually-hidden" id="guides-h">{{ 'All launch guides' if item.slug == 'launch-hub' else 'Guides in ' + item.name }}</h2>
   <div class="grid grid--cards section">
     {%- for g in item.guides %}{{ guideCard(g, false) }}{% endfor %}
   </div>
@@ -36,7 +51,7 @@ eleventyExcludeFromCollections: true
   <nav class="section hub-links" aria-labelledby="hubs-h">
     <h2 class="section__title" id="hubs-h">Explore other hubs</h2>
     <ul class="hub-links__list">
-      {%- for c in library.categories %}{% if c.slug != item.slug %}
+      {%- for c in library.navCategories %}{% if c.slug != item.slug %}
       <li><a class="hub-links__link" href="{{ c.url | url }}" style="--accent: var({{ c.accentVar }}, var(--x-accent-default))">{{ c.name }}{% if c.count %} <span>({{ c.count }})</span>{% endif %}</a></li>
       {%- endif %}{% endfor %}
     </ul>

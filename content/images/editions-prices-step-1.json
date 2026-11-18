@@ -1,0 +1,36 @@
+{
+  "type": "compare-table",
+  "alt": "Table of GTA 6 prices: Standard $79.99, £69.99, €79.99; Ultimate $99.99, £89.99, €99.99; Ultimate Edition Upgrade $20.00 on the Xbox Store.",
+  "data": {
+    "category": "pre-launch",
+    "title": "GTA 6 editions and prices",
+    "columns": [
+      "Edition",
+      "USD",
+      "GBP",
+      "EUR"
+    ],
+    "rows": [
+      [
+        "Standard",
+        "$79.99",
+        "£69.99",
+        "€79.99"
+      ],
+      [
+        "Ultimate",
+        "$99.99",
+        "£89.99",
+        "€99.99"
+      ],
+      [
+        "Ultimate Edition Upgrade",
+        "$20.00 (Xbox Store)",
+        "£20.00 (Xbox Store)",
+        "not confirmed"
+      ]
+    ],
+    "subtitle": "PS5 and Xbox Series X|S, per store listings",
+    "note": "Euro prices checked on the German, Italian and Portuguese PlayStation Stores. Slovenian store not checked."
+  }
+}

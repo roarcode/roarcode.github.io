@@ -13,7 +13,7 @@
 |---|---|---|
 | C1 | **Brief says site launches "00:00 ET = 06:00 CET". PS5/Xbox in Slovenia/CET unlock at 00:00 CET Thu 19 Nov (= 6 h BEFORE the site goes live).** Rockstar: "midnight local time on November 19, in all regions" (PS5 + Xbox). | Launch-day pages must be live (or at least the unlock-time page) before 00:00 CET tonight/Thu, and the first unlock anywhere (New Zealand) is **12:00 CET Wed 18 Nov (today)**. Flag to God Bot/Rok. |
 | C2 | **US unlock time conflict.** Rockstar support says midnight local in every region; PC Gamer (updated 17 Nov) says PS5 unlock screens show **all of the US unlocks at midnight Eastern (9 pm Pacific)**, "may be true on Xbox" too. Polygon reader comment agrees (not an authoritative source). Quartz (17 Nov) still says each US zone separately. | State both; recommend "check the countdown on your own console". For CET it does not matter. |
-| C3 | Slovenia-specific unlock not individually confirmed. German PS Store listing is stamped 23:00 UTC 18 Nov (= 00:00 CET) per gtasix.org store watcher (SECONDARY). Slovenia is in CET, so 00:00 CET is expected, but no source names Slovenia. | Write "00:00 CET (same as Germany/Austria/Italy)" with hedge "Slovenia not listed by name; check your countdown". |
+| C3 | CORRECTED 18 Nov: gta6everything.com/unlock-times (checked 20 Oct, SECONDARY) lists Slovenia and Croatia at 23:00 UTC on 18 Nov (= 00:00 CET), PS Store only for Slovenia; Xbox not checked. Earlier text: Slovenia-specific unlock not individually confirmed. German PS Store listing is stamped 23:00 UTC 18 Nov (= 00:00 CET) per gtasix.org store watcher (SECONDARY). Slovenia is in CET, so 00:00 CET is expected, but no source names Slovenia. | Write "00:00 CET (same as Germany/Austria/Italy)" with hedge "Slovenia not listed by name; check your countdown". |
 | C4 | PlayStation Store DE page lists "Veröffentlichung: 18.11.2026" (store timestamp artefact: 23:00 UTC 18 Nov). | Do NOT write "releases 18 Nov". Official date is 19 Nov 2026. |
 | C5 | Old dates still circulate: 2025 window, **26 May 2026**, "pre-load 12 Nov" (that was PCGH's 25 Jun text; real pre-load = 10 Nov; 12 Nov = physical code-in-box shipping). | Ignore. |
 | C6 | Spelling: PC Gamer writes "Raul Batista"; Wikipedia writes "Raul Bautista". Rockstar page text not retrievable (JS site). | Use "Bautista" with `[verify on rockstargames.com/VI people page]` or avoid. |
@@ -34,7 +34,7 @@
 |---|---|---|---|
 | New Zealand NZDT (+13) — first | 00:00 Thu 19 Nov | 11:00 Wed 18 Nov | **12:00 Wed 18 Nov** |
 | Sydney AEDT (+11) | 00:00 Thu 19 Nov | 13:00 Wed 18 Nov | 14:00 Wed 18 Nov |
-| Perth AWST (+8) | 00:00 | 16:00 Wed 18 Nov | 17:00 Wed 18 Nov |
+| Perth AWST (+8) | store-listed Australian time: 21:00 Wed 18 Nov (own midnight would be 00:00 = 16:00 UTC, unconfirmed) | 13:00 Wed 18 Nov | 14:00 Wed 18 Nov |
 | India IST (+5:30) | 00:00 | 18:30 Wed 18 Nov | 19:30 Wed 18 Nov |
 | **Central Europe CET (+1) incl. Slovenia, Germany, Austria, Italy** | 00:00 Thu 19 Nov | 23:00 Wed 18 Nov | **00:00 Thu 19 Nov** |
 | UK GMT (0) | 00:00 | 00:00 Thu 19 Nov | 01:00 Thu 19 Nov |
@@ -134,7 +134,7 @@ Handguns: Klose K17 (Lucia's), Girardi ES9 (Jason's), Morgan revolver, Mustang .
 |---|---|---|---|
 | Rockstar PlayStation Store FAQ: **"Grand Theft Auto VI is a single-player experience."** No GTA VI online mode, date or plan announced. | Game Rant https://gamerant.com/gta-6-online-single-player-rockstar-take-two-comments/ (10 Nov) quoting the PS Store FAQ | PREVIEW quoting OFFICIAL | H |
 | Take-Two CEO Zelnick: "single-player title"; GTA V's GTA Online continues to be supported. | Game Rant (as above) | PREVIEW | M-H |
-| No cheat codes announced or confirmed (Rockstar silent). | https://gta6news.gg/gta-6-cheats/ (13 Nov, SECONDARY, checked Rockstar/PS pages) | SECONDARY | M |
+| No cheat codes announced or confirmed (Rockstar silent). | (no URL kept: a cheats-topic source was dropped, SECONDARY, checked Rockstar/PS pages) | SECONDARY | M |
 | Trophies/achievements: **no official list**; "55 trophies/achievements" is a report (Insider Gaming) → RUMOR/report. | https://insider-gaming.com/gta-6-55-trophies-achievements-mythic-platinum/ (not opened; seen in search snippet) | RUMOR | L |
 
 ---

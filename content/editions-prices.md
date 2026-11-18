@@ -16,25 +16,28 @@ sources:
   - https://www.xbox.com/en-US/games/store/grand-theft-auto-vi-ultimate-edition/9nnzsnhlr63l
   - https://www.xbox.com/en-US/games/store/grand-theft-auto-vi-ultimate-edition-upgrade/9pn4llbr8rch
   - https://www.playstation.com/en-us/support/games/gta-vi-support/
-  - https://www.playstation.com/GTAVIfeatures
+  - https://www.playstation.com/en-us/games/grand-theft-auto-vi/
   - https://www.usatoday.com/story/tech/gaming/2026/11/09/gta-6-preload-consoles-release-date-file-size/92640419007/
+  - https://store.rockstargames.com/
   - https://www.technobezz.com/gta-6-editions
   - https://sixstarledger.com/ownership/prices
   - https://www.theverge.com/games/952204/grand-theft-auto-vi-price
   - https://www.polygon.com/rockstar-reveals-gta-6-ultimate-edition-contents-and-pre-order-bonuses/
   - https://www.gamespot.com/articles/gta-6s-big-reveal-all-the-things-we-learned/
+  - https://www.pcgamer.com/games/grand-theft-auto/gta-6-pre-order-editions-standard-ultimate/
 updated: 2026-11-18
 status: prelaunch
 spoilers: none
+qa: live-review
 ---
 
 # GTA 6 Editions and Prices: Standard vs Ultimate (2026)
 
-> - **Quick answer:** **Standard $79.99 / £69.99 / €79.99.** **Ultimate $99.99 / £89.99 / €99.99.** Both are for PS5 and Xbox Series X|S only.
+> - **Quick answer:** GTA 6 editions and prices: **Standard $79.99 / £69.99 / €79.99.** **Ultimate $99.99 / £89.99 / €99.99.** Both are for PS5 and Xbox Series X|S only.
 > - **Ultimate = the game + $20 / £20 of extra items** (cars, guns, clothes, shops). It is not early access. You can add it later with the Ultimate Edition Upgrade ($20 on Xbox).
 > - **Buy before 20 Nov 2026** to get the Vintage Vice City Pack. **Digital buyers also get 1 month of GTA+** (it renews at the normal price until you cancel).
 
-**Words used on this page.** *Edition* is a version of the game you can buy. *Digital* means you download it. *Code-in-box* means a box with a download code inside and **no disc**. *GTA+* is Rockstar's paid club, with a monthly fee.
+**Words used on this page.** *VAT* is a sales tax added to the price in the UK and Europe. *Edition* is a version of the game you can buy. *Digital* means you download it. *Code-in-box* means a box with a download code inside and **no disc**. *GTA+* is Rockstar's paid club, with a monthly fee.
 
 ## Prices
 
@@ -46,7 +49,7 @@ spoilers: none
 
 - **USD:** Rockstar's press release (24 June 2026) and the PlayStation and Xbox US stores.
 - **GBP:** £69.99 is on the UK PlayStation Store. £89.99 and the £20 upgrade come from price trackers that read the UK stores (Six Star Ledger, checked 16 Nov), and from PC Gamer's pre-order guide.
-- **EUR:** €79.99 and €99.99 on the Italian and Portuguese PlayStation Stores, and other euro stores are reported to match. Countries outside the euro have other prices, not listed here.
+- **EUR:** €79.99 and €99.99 on the German, Italian and Portuguese PlayStation Stores. Other euro stores are reported to match. **We did not check the Slovenian store**, so look at your own store page. Countries outside the euro have other prices, not listed here.
 - **PS5 upgrade price:** not announced. The PlayStation listing showed no separate price.
 - US and Canada prices are usually shown before sales tax. UK and euro prices include VAT.
 
@@ -55,30 +58,31 @@ spoilers: none
 
 ## What is in the Ultimate Edition
 
-The Ultimate Edition adds the **Ultimate Edition Upgrade**. The PlayStation and Xbox store pages name these items:
+The Ultimate Edition is the game plus the **Ultimate Edition Upgrade** bundle. The PlayStation and Xbox store pages name these vehicles, weapons, looks and shops:
 
 | Group | Items |
 |---|---|
-| Cars, boat, bike | '95 Grotti Cheetah, Dinka Enduro motorcycle (army colours), Crest Kayak, Shitzu Squalo boat, '67 Vapid Dominator Buggy with the Paradise Garage in Watson Bay |
+| Cars, boat, bike | '95 Grotti Cheetah, Dinka Enduro motorcycle (army colours), Crest Kayak, Shitzu Squalo boat, '67 Vapid Dominator Buggy with the Paradise Garage |
 | Guns | Hawk and Little Morgan revolvers, engraved versions of the Girardi ES9 and Klose K17 pistols |
 | Clothes and looks | Vice City Style outfits, hairstyles and tattoos; Goodtime Gear (Macca the Gator clothes) |
-| Extras | Ganado Retro Build (mods for Jason's pickup), Classic Car Collection, PTT Youngin$ Compound |
+| Extras | Ganado Retro Build (vehicle mods), Classic Car Collection, PTT Youngin$ Compound |
 | Shops only open with Ultimate | Rideout Customs, Sara's Unisex Salon, Stock 305, Electric Fang Tattoo (50+ tattoos), One-Eyed Willie's |
 
 Rockstar says the items are spread across the story, "with new items uncovered behind each chapter". So you do **not** get all of it at the start.
 
 ## Pre-order bonuses
 
-**Vintage Vice City Pack** (both editions). Buy or pre-order **before 20 November 2026**. Per Polygon and The Verge it includes:
+**Vintage Vice City Pack** (both editions). Buy or pre-order **before 20 November 2026**, digital or boxed (The Verge). Per Polygon and The Verge it includes:
 - a '55 Vapid Stanier car
-- a garage near Ocean Beach with a weapon locker and a place to drop off stolen goods
+- a garage with a weapon locker and a place to drop off stolen goods
 - outfits and hairstyles
 - a tropical pattern for weapons
 
-The PlayStation Store text in some regions says "by November 19", so buy before 19 Nov if you can.
+Rockstar says before 20 Nov. The Xbox Store says before 19 Nov 23:59:59 and PlayStation says by 19 Nov. None names a time zone, so buy by the end of 19 Nov, and earlier is safer.
 
 **1 month of GTA+, free, for digital buyers**
-- **PS5:** buy on PlayStation Store, then open the **GTA+** page on the Store and follow the steps. **Claim it by 31 March 2027.** One claim per account. The Ultimate Edition Upgrade bought alone does not count.
+- **PS5:** buy on PlayStation Store, then open the **GTA+** page on the Store and follow the steps. **Claim it by 31 March 2027.**
+- **Xbox claim window:** redeem within 180 days of your pre-order (Xbox Store listing). One redemption per platform account. The Ultimate Edition Upgrade bought alone does not count.
 - **Xbox:** open the Store, select your **profile icon** at the top left, then select **Offers & credits**, and claim it there (Microsoft Store text).
 - After one month it renews monthly at the normal price. Cancel before the next payment date if you do not want it.
 - Boxed copies get the Vintage Vice City Pack, but the free GTA+ month is for **digital** buyers.
@@ -87,7 +91,7 @@ The PlayStation Store text in some regions says "by November 19", so buy before 
 *Caption: Step screenshot. Choose your edition on the PlayStation Store.*
 
 ![Xbox Offers and credits screen with the GTA+ offer](TODO: image:editions-prices-step-3 — menu screen, Xbox: Store profile icon > Offers & credits with the GTA+ month offer)
-*Caption: Menu screen. Where to claim the free GTA+ month on Xbox.*
+*Caption: Diagram. Where to claim the free GTA+ month on Xbox.*
 
 ## How to buy
 
@@ -95,15 +99,17 @@ The PlayStation Store text in some regions says "by November 19", so buy before 
 
 **Xbox Series X|S:** open the **Microsoft Store**, search **Grand Theft Auto VI**, choose **Standard** or **Ultimate**, then select **Buy** or **Pre-order**.
 
-**Boxed (Standard only):** buy at the Rockstar Store or a shop, open the box, then enter the code on your console store. There is no disc. Codes from the PlayStation Store can be tied to your country, so use the right one.
+**Boxed (Standard only):** buy at the Rockstar Store or a shop, open the box, then enter the code on your console store. There is no disc. 
 
 **Standard now, Ultimate later?** Yes. Buy the Ultimate Edition Upgrade. On Xbox the upgrade costs the same as the price gap ($20), so you pay the same in total.
 
 ## Good to know
 
 - **No microtransactions at launch:** Rockstar told Kinda Funny this (per GameSpot). The store pages still show "In-game purchases optional". Treat the first as a statement from an interview.
-- **Collector's merch:** a $399.99 Rockstar Store box (merch only, the game is sold separately), per Technobezz. Not a game edition.
+- **Collector's merch:** a $399.99 Rockstar Store box (merch only, the game is sold separately), per the Rockstar Store listing and Technobezz. Not a game edition.
 - **Not announced:** PS5 upgrade price, euro prices outside the euro area, season passes or paid add-ons.
+
+Related: [Vintage Vice City Pack](/launch-hub/vintage-vice-city-pack/) · [launch hub](/launch-hub/gta-6-launch-hub/)
 
 ## FAQ
 

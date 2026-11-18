@@ -11,7 +11,8 @@
       "prelaunch",
       "news",
       "pre launch"
-    ]
+    ],
+    "intro": "Everything around the 19 Nov 2026 launch: unlock times by time zone, pre-load size, editions and prices, platform facts and a launch-night checklist. Every page names its sources."
   },
   {
     "slug": "missions",
@@ -26,7 +27,8 @@
       "walkthrough",
       "story"
     ],
-    "img": "cat-missions"
+    "img": "cat-missions",
+    "intro": "Mission walkthroughs arrive once the missions are playable. Each will show its spoiler level first, keep story details in click-to-reveal boxes and say which version it was checked on."
   },
   {
     "slug": "money",
@@ -41,7 +43,8 @@
       "earn",
       "earning"
     ],
-    "img": "cat-money"
+    "img": "cat-money",
+    "intro": "Money guides follow launch. We only publish methods that are tested or confirmed by a source, with payout figures, the platform and the date we checked."
   },
   {
     "slug": "collectibles",
@@ -56,7 +59,8 @@
       "map",
       "secrets"
     ],
-    "img": "cat-collectibles"
+    "img": "cat-collectibles",
+    "intro": "Collectible and map guides follow launch: locations with credited sources, checklists and links to official maps. Anything unconfirmed is labelled as a rumour."
   },
   {
     "slug": "cars",
@@ -71,7 +75,8 @@
       "car",
       "best-cars-how-to-get-them"
     ],
-    "img": "cat-vehicles"
+    "img": "cat-vehicles",
+    "intro": "Car and bike guides will say where to find each vehicle, what it costs and how it handles, once players can verify it. Rumoured vehicles are always labelled."
   },
   {
     "slug": "glitches",
@@ -85,7 +90,8 @@
       "bugs",
       "fixes",
       "bug-fixes"
-    ]
+    ],
+    "intro": "Fixes for GTA VI problems on PS5 and Xbox Series X|S: download and pre-load trouble, launch errors and known bugs, with the steps in order and a source for each."
   },
   {
     "slug": "beginner-tips",
@@ -99,7 +105,8 @@
       "beginners",
       "tips-and-tricks",
       "getting-started"
-    ]
+    ],
+    "intro": "Short, sourced tips for your first hours: storage, what to expect from performance and what to check before you start. The spoiler level is shown on every page."
   },
   {
     "slug": "ps5-settings",
@@ -113,7 +120,9 @@
       "best-settings",
       "playstation",
       "ps5-settings-guide"
-    ]
+    ],
+    "intro": "What is known about GTA VI on PS5 and PS5 Pro, from official sources, with the settings steps for your console.",
+    "nav": false
   },
   {
     "slug": "leaks",
@@ -129,6 +138,7 @@
       "rumour",
       "leaks-and-rumors",
       "leaks-rumors"
-    ]
+    ],
+    "intro": "Unconfirmed GTA VI leaks and rumours, kept apart from verified guides. Every page carries a rumour warning, names where it came from and hides spoiler details in click-to-reveal boxes."
   }
 ]

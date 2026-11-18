@@ -1,0 +1,27 @@
+{
+  "type": "compare-table",
+  "alt": "Placeholder table for money methods ranked by money per hour. No payouts have been tested yet.",
+  "data": {
+    "category": "money",
+    "title": "Methods ranked by money per hour",
+    "subtitle": "No payouts have been published or tested yet. Rows are placeholders.",
+    "columns": [
+      "Rank",
+      "Method",
+      "$ per hour"
+    ],
+    "rows": [
+      [
+        "1",
+        "To be tested",
+        "—"
+      ],
+      [
+        "2",
+        "To be tested",
+        "—"
+      ]
+    ],
+    "note": "We publish only numbers from our own timed runs, or from Rockstar. No glitches or copied GTA 5 methods."
+  }
+}

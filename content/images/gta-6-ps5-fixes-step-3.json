@@ -1,0 +1,26 @@
+{
+  "type": "menu-mock",
+  "alt": "Illustration of PS5 Console Sharing and Offline Play with Enable visible. Not an in-game screenshot.",
+  "data": {
+    "category": "glitches",
+    "title": "Turn on Console Sharing and Offline Play",
+    "panel_title": "Users and Accounts — illustration",
+    "platform": "PS5",
+    "highlightRow": 2,
+    "rows": [
+      {
+        "label": "Settings",
+        "value": "Users and Accounts"
+      },
+      {
+        "label": "Other",
+        "value": ""
+      },
+      {
+        "label": "Console Sharing and Offline Play",
+        "value": "Enable"
+      }
+    ],
+    "note": "Illustration — not an in-game screenshot. Path: Settings > Users and Accounts > Other > Console Sharing and Offline Play."
+  }
+}

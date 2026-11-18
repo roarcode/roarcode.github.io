@@ -1,0 +1,61 @@
+{
+  "type": "timezone-chart",
+  "alt": "Chart of the unlock order from New Zealand (12:00 CET on Wed 18 Nov) to the US East Coast (06:00 CET on Thu 19 Nov).",
+  "data": {
+    "category": "pre-launch",
+    "title": "GTA 6 unlock order",
+    "axis_label": "Time in CET",
+    "axis_start": "Wed 18 Nov, 12:00",
+    "axis_end": "Thu 19 Nov, 12:00",
+    "subtitle": "Each mark is local midnight",
+    "rows": [
+      [
+        "New Zealand",
+        "Thu 19 Nov, 12:00 AM",
+        "Wed 18 Nov, 12:00"
+      ],
+      [
+        "Sydney / Melbourne",
+        "Thu 19 Nov, 12:00 AM",
+        "Wed 18 Nov, 14:00"
+      ],
+      [
+        "Japan and South Korea",
+        "Thu 19 Nov, 12:00 AM",
+        "Wed 18 Nov, 16:00"
+      ],
+      [
+        "Singapore and Hong Kong",
+        "Thu 19 Nov, 12:00 AM",
+        "Wed 18 Nov, 17:00"
+      ],
+      [
+        "India",
+        "Thu 19 Nov, 12:00 AM",
+        "Wed 18 Nov, 19:30"
+      ],
+      [
+        "Eastern Europe",
+        "Thu 19 Nov, 12:00 AM",
+        "Wed 18 Nov, 23:00"
+      ],
+      [
+        "Central Europe",
+        "Thu 19 Nov, 12:00 AM",
+        "Thu 19 Nov, 00:00"
+      ],
+      [
+        "UK",
+        "Thu 19 Nov, 12:00 AM",
+        "Thu 19 Nov, 01:00"
+      ],
+      [
+        "US East Coast",
+        "Thu 19 Nov, 12:00 AM",
+        "Thu 19 Nov, 06:00"
+      ]
+    ],
+    "legend": "Each mark is 12:00 AM local time, shown in CET.",
+    "note": "Rockstar's rule is midnight local time. Check your console's countdown. Full table on the page."
+  }
+}

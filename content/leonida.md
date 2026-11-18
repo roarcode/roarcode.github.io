@@ -12,11 +12,14 @@ sources:
   - https://www.rockstargames.com/VI/lucia
   - https://www.pcgamer.com/games/grand-theft-auto/gta-6-guide/
   - https://store.playstation.com/en-us/product/EP1004-PPSA01547_00-GTAVIULTIMATE001
+  - https://mapheist.com/en/news/gta-6-game-informer-cover-story/
   - https://www.forbes.com/sites/brianmazique/2026/10/06/gta-6s-map-is-about-twice-the-size-of-gta-5-with-hurricanes-and-170-animal-species/
   - https://www.usatoday.com/story/tech/gaming/2026/11/09/gta-6-preload-consoles-release-date-file-size/92640419007/
+  - https://www.polygon.com/rockstar-reveals-gta-6-ultimate-edition-contents-and-pre-order-bonuses/
 updated: 2026-11-18
 status: prelaunch
 spoilers: minor
+qa: live-review
 ---
 
 # GTA 6 Leonida Guide: All 6 Regions Explained (2026)
@@ -29,7 +32,7 @@ spoilers: minor
 
 ## What is Leonida?
 
-Leonida is a made-up US state. USA Today calls it the series' take on Florida. Rockstar's tagline is "Vice City, USA. The darkest side of the sunniest place in America." Its nickname is "the Goodtime State". For size, see the [map page](map.md).
+Leonida is a made-up US state. USA Today calls it the series' take on Florida. Rockstar's tagline is "Vice City, USA. The darkest side of the sunniest place in America." Its nickname is "the Goodtime State". For size, see the [map page](/launch-hub/map/).
 
 ## The regions at a glance
 
@@ -42,7 +45,7 @@ Open the box for the names and what each is known for.
 | **Leonida Keys** | A chain of islands. Rockstar's character page puts Jason "in the Keys". | Rockstar, Forbes |
 | **Grassrivers** | A wetland: mangroves and alligators | PC Gamer (quoting Rockstar's site), Forbes |
 | **Port Gellhorn** | A coastal region, called "Leonida's forgotten coast" | PC Gamer (quoting Rockstar's site) |
-| **Ambrosia** | An inland region. Described as a "battle for health and wealth". | PC Gamer (quoting Rockstar's site) |
+| **Ambrosia** | A region described as a "battle for health and wealth". | PC Gamer (quoting Rockstar's site) |
 | **Mount Kalaga National Park** | A national park for hunting, fishing and off-road driving | PC Gamer, PlayStation Store |
 :::
 
@@ -64,14 +67,14 @@ Open the box for the names and what each is known for.
 The store text does not always say which region a place is in, so we have not guessed.
 :::
 
-![map pin set for named places](TODO: image:leonida-step-2 — map pin, our own art: seven pins labelled with the place names, positions left blank until the map is known)
-*Caption: Map pin. The seven named places, to be placed once the real map is known.*
+![map pin set for named places](TODO: image:leonida-step-2 — map pin, our own art: nine pins labelled with the place names, positions left blank until the map is known)
+*Caption: Map pin. The nine named places, to be placed once the real map is known.*
 
 ## Weather, animals and activities
 
-- **Weather:** rain, sun and wind are local and keep going. Hurricanes are in the game. (Game Informer, via Forbes)
-- **Animals:** 170+ species, sorted as Rare, Discoverable and Legendary. 60+ are birds. 30+ are land animals. (Forbes)
-- **Activities named in previews:** base jumping, scuba diving, kayaking, airboats, jet skis, racing on and off road, billiards, hiking dates, gyms, zoos, mini golf. (Forbes)
+- **Weather:** rain, sun and wind are local and keep going. Hurricanes are in the game. (Game Informer cover story, 29 Sep 2026, via Mapheist and Forbes)
+- **Animals:** 170+ species, sorted as Rare, Discoverable and Legendary. (Game Informer cover story via Mapheist). Forbes alone reports 60+ birds and 30+ land animals. We could not re-open that article, so treat the split as reported.
+- **Activities named in previews:** base jumping, scuba diving, kayaking, airboats, jet skis, racing on and off road, billiards, hiking dates, gyms, zoos, mini golf. (Forbes, summarising the Game Informer cover story)
 - **How often hurricanes hit, where to find Legendary animals, and what rewards you get:** not announced.
 
 ## Not announced
@@ -92,7 +95,7 @@ A made-up US state based on Florida. It is where GTA 6 takes place.
 Six. The names are in the spoiler box.
 
 ### Is Vice City the only city?
-No. Vice City is one of six regions.
+Vice City is the only major city Rockstar has named. The other five regions are areas such as wetlands, a national park and the Keys. Rockstar has not listed other cities. (Rockstar's site; Game Informer cover story, via Mapheist)
 
 ### Are there hurricanes in GTA 6?
 Yes. How often is not announced.

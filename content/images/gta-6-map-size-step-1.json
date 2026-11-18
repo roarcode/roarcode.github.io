@@ -1,0 +1,28 @@
+{
+  "type": "bar-chart",
+  "alt": "Bar chart of the two size claims: about 2× GTA 5 and about 3× Red Dead Redemption 2, plus a grey bar marked area not announced.",
+  "data": {
+    "category": "pre-launch",
+    "title": "The claims are ratios",
+    "subtitle": "Rockstar has not published an area in km or miles. Do not mix the two claims into one number.",
+    "max": 3,
+    "bars": [
+      {
+        "label": "About 2× GTA 5's map",
+        "value": 2,
+        "display": "2×  (developer, reported)"
+      },
+      {
+        "label": "About 3× Red Dead Redemption 2's map",
+        "value": 3,
+        "display": "3×  (reported)"
+      },
+      {
+        "label": "Area in km² or miles",
+        "unknown": true,
+        "unknown_label": "Not announced"
+      }
+    ],
+    "note": "Fan estimates you see online are not Rockstar figures. Real measuring starts after launch."
+  }
+}

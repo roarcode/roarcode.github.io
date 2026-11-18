@@ -1,0 +1,46 @@
+{
+  "type": "compare-table",
+  "alt": "Table of the six announced stations with their music and named hosts.",
+  "data": {
+    "category": "pre-launch",
+    "title": "The 6 announced radio stations",
+    "columns": [
+      "Station",
+      "Music",
+      "DJs or hosts"
+    ],
+    "rows": [
+      [
+        "Cocoteo FM",
+        "Modern Latin",
+        "El Martillo and La Gata"
+      ],
+      [
+        "Back Country Radio",
+        "Renegade country",
+        "MW and Delta Dawne"
+      ],
+      [
+        "AfroBank FM",
+        "African music",
+        "Burna and Palmsy"
+      ],
+      [
+        "The Chamber",
+        "Classic metal",
+        "DJ Kerry and DJ Tom"
+      ],
+      [
+        "Flash FM",
+        "Pop",
+        "Robyn and Alex"
+      ],
+      [
+        "Dirty South Classics",
+        "Rap and hip-hop",
+        "Trick and Trina"
+      ]
+    ],
+    "note": "Announced 8 Oct 2026. Source: Game Informer, reporting Rockstar Newswire."
+  }
+}

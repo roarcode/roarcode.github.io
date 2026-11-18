@@ -1,0 +1,26 @@
+{
+  "type": "menu-mock",
+  "alt": "Illustration of PS5 Downloads/Uploads with Grand Theft Auto VI listed. Not an in-game screenshot.",
+  "data": {
+    "category": "glitches",
+    "title": "The download should appear here",
+    "panel_title": "Downloads/Uploads — illustration",
+    "platform": "PS5",
+    "highlightRow": 1,
+    "rows": [
+      {
+        "label": "Control Center",
+        "value": "PS button"
+      },
+      {
+        "label": "Grand Theft Auto VI",
+        "value": "Should be in this list"
+      },
+      {
+        "label": "If it is missing",
+        "value": "Retry the steps on the page"
+      }
+    ],
+    "note": "Illustration — not an in-game screenshot. Path: Control Center > Downloads/Uploads."
+  }
+}

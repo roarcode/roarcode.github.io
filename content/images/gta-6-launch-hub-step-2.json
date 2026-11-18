@@ -1,0 +1,30 @@
+{
+  "type": "timezone-chart",
+  "alt": "Timeline of unlock times from New Zealand at 12:00 CET, through central Europe at 00:00 CET, to the US East Coast at 06:00 CET.",
+  "data": {
+    "category": "pre-launch",
+    "title": "Unlocks time zone by time zone",
+    "axis_label": "Time in CET",
+    "axis_start": "Wed 18 Nov, 12:00",
+    "axis_end": "Thu 19 Nov, 12:00",
+    "rows": [
+      [
+        "New Zealand",
+        "Thu 19 Nov, 12:00 AM",
+        "Wed 18 Nov, 12:00"
+      ],
+      [
+        "Central Europe",
+        "Thu 19 Nov, 12:00 AM",
+        "Thu 19 Nov, 00:00"
+      ],
+      [
+        "US East Coast",
+        "Thu 19 Nov, 12:00 AM",
+        "Thu 19 Nov, 06:00"
+      ]
+    ],
+    "legend": "Each mark is 12:00 AM local time, shown in CET.",
+    "note": "See the release time guide for the full table."
+  }
+}

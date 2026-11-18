@@ -82,6 +82,18 @@ Open one box per region. Each box gives exact steps to find each item.
 - **[Tip with a number.]**
 - **[Tip.]**
 
+<!-- What players are saying: add real embeds from content/inbox/ (rules: README section 13).
+If real posts exist, replace this comment with:
+
+## What players are saying
+
+*Public posts, quoted with a link. Player tips are not confirmed facts.*
+
+<blockquote class="twitter-tweet"><a href="https://x.com/HANDLE/status/POST_ID"></a></blockquote>
+
+Posts that show story, secrets or leaks go inside a :::spoiler block with a warning label.
+If there are no real posts, keep only this comment. -->
+
 ## FAQ
 
 ### How many [collectibles] are in GTA 6?

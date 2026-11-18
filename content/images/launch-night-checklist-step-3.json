@@ -1,0 +1,11 @@
+{
+  "type": "step-card",
+  "alt": "Diagram of the PS5 menu paths that turn on Auto-Install in Rest Mode and Stay Connected to the Internet.",
+  "data": {
+    "category": "pre-launch",
+    "step": 3,
+    "title": "Turn on automatic updates (PS5)",
+    "body": "Settings > Saved Data and Game/App Settings > Automatic Updates > Auto-Install in Rest Mode. Then Settings > System > Power Saving > Features Available in Rest Mode > Stay Connected to the Internet.",
+    "tip": "Official PlayStation steps. Xbox path: check on your console."
+  }
+}

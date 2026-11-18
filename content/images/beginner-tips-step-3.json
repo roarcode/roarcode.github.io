@@ -1,0 +1,24 @@
+{
+  "type": "map-annotate",
+  "alt": "Schematic map pins: a mission marker with a fast-car pin parked beside it.",
+  "data": {
+    "category": "beginner",
+    "title": "Keep a fast car near the mission marker",
+    "pins": [
+      {
+        "x": 35,
+        "y": 50,
+        "kind": "missions",
+        "label": "Mission marker"
+      },
+      {
+        "x": 62,
+        "y": 55,
+        "kind": "vehicle",
+        "label": "Fast car parked close"
+      }
+    ],
+    "credit": "Original schematic by Leonida Guides.",
+    "note": "Illustrative schematic. Tip from earlier GTA games, not confirmed for GTA 6."
+  }
+}

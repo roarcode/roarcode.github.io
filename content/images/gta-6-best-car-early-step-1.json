@@ -1,0 +1,27 @@
+{
+  "type": "compare-table",
+  "alt": "Table of cars Rockstar has named so far: the '55 Vapid Stanier and the '95 Grotti Cheetah, with source and whether they are early in the game marked not tested.",
+  "data": {
+    "category": "vehicles",
+    "title": "Cars Rockstar has named",
+    "subtitle": "Stats, prices and locations are not public yet. We rank cars only after our own tests.",
+    "columns": [
+      "Car",
+      "Where it comes from",
+      "Early in the game?"
+    ],
+    "rows": [
+      [
+        "'55 Vapid Stanier",
+        "Vintage Vice City Pack",
+        "partial Not tested"
+      ],
+      [
+        "'95 Grotti Cheetah",
+        "Ultimate Edition",
+        "partial Spread across the story"
+      ]
+    ],
+    "note": "Rockstar says Ultimate items are spread across the story, so the Cheetah is probably not at the start. Do not treat unnamed vehicles as official."
+  }
+}

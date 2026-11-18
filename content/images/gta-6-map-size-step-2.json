@@ -1,0 +1,26 @@
+{
+  "type": "menu-mock",
+  "alt": "Illustration of the official GTA VI site area where a printable map link would sit. Not a screenshot of the live page.",
+  "data": {
+    "category": "pre-launch",
+    "title": "Where the printable map will be",
+    "panel_title": "Official site — illustration",
+    "platform": "rockstargames.com/VI",
+    "highlightRow": 1,
+    "rows": [
+      {
+        "label": "Grand Theft Auto VI site",
+        "value": "rockstargames.com/VI"
+      },
+      {
+        "label": "Printable map / poster",
+        "value": "Check on launch day"
+      },
+      {
+        "label": "Status",
+        "value": "Goes live 19 Nov 2026 (VGC)"
+      }
+    ],
+    "note": "Illustration — not a screenshot of the official site. Check the live page; do not use this diagram as the download."
+  }
+}

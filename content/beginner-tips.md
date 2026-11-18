@@ -2,53 +2,58 @@
 title: "GTA 6 Beginner Tips: Start Strong in 2026"
 title_alts:
   - "GTA 6 Tips for Beginners: What to Do First (Updated)"
-  - "GTA 6 Beginner Guide: Tips Nobody Tells You"
-  - "GTA 6 First Hour Tips: Confirmed and Series-Standard"
+  - "GTA 6 Beginner Guide: Launch-Night Setup and First Tips"
+  - "GTA 6 First Hour Tips: Reported and Series-Standard"
 slug: beginner-tips
 category: beginner
-description: "GTA 6 beginner tips: launch-night steps for PS5 and Xbox, what previews confirm about police, traffic and switching, and old-GTA habits that may apply."
+description: "GTA 6 beginner tips: launch-night steps for PS5 and Xbox, what previews report about police and switching, and old-GTA habits that may apply."
 sources:
   - https://www.playstation.com/en-us/support/games/gta-vi-support/
-  - https://www.playstation.com/GTAVIfeatures
+  - https://www.playstation.com/en-us/games/grand-theft-auto-vi/
   - https://www.forbes.com/sites/brianmazique/2026/10/06/gta-6s-map-is-about-twice-the-size-of-gta-5-with-hurricanes-and-170-animal-species/
   - https://mapheist.com/en/news/gta-6-game-informer-cover-story/
+  - https://www.gamespot.com/articles/gta-6s-big-reveal-all-the-things-we-learned/
+  - https://www.videogameschronicle.com/news/rockstar-reveals-a-swathe-of-new-gta-6-details-ahead-of-the-netflix-extended-look/
+  - https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI
   - https://gameinformer.com/2026/11/10/grand-theft-auto-vi-will-run-at-30-fps-on-all-consoles-but-ps5-pro-will-feature-improved
 updated: 2026-11-18
 status: prelaunch
-spoilers: none
+spoilers: minor
+qa: live-review
 ---
 
 # GTA 6 Beginner Tips: Start Strong in 2026
 
-> - **Quick answer:** Before you play: **212 GB+ free**, pre-load done, controller charged. In game: expect **30 FPS**, **heavy Vice City traffic** and **six-star wanted levels**.
-> - **Confirmed vs old habits:** tips marked *Confirmed* come from official sources or previews. Tips marked *Based on previous GTA games* may change in GTA 6.
+> - **Quick answer:** Before you play: **at least 212 GB free** (PlayStation), pre-load done, controller charged. In game: Rockstar is targeting **30 FPS**, and previews describe **six-star wanted levels**.
+> - **Three labels:** *Confirmed* = an official source. *Reported* = a reputable outlet or preview. *Based on previous GTA games* = old habits that may change in GTA 6.
 > - **Button names and exact menus are not announced yet.** We will fill them in after launch. We will not guess.
 
-**Words used on this page.** *Wanted level* is how hard the police chase you. *Free roam* is playing outside a mission. *Series-standard* means it was true in earlier GTA games.
+**Words used on this page.** *Wanted level* is how hard the police chase you. *Free roam* is playing outside a mission. *Series-standard* means it was true in earlier GTA games. A *key cloner* and a *slim jim* are car-theft tools: the cloner is for newer cars, the slim jim is for older ones.
 
 ## Before you start (Confirmed)
 
-1. **Free 212 GB+.** PS5: **Settings > Storage**. Xbox: **Xbox button > Profile & system > Settings > System > Storage devices**. See [pre-load steps](preload-size.md).
+1. **Keep at least 212 GB free** (PlayStation's advice). PS5: **Settings > Storage**. Xbox: **Xbox button > Profile & system > Settings > System > Storage devices**. See [pre-load steps](/launch-hub/preload-size/).
 2. **Finish the pre-load.** PS5: **PS button > Downloads/Uploads**. Xbox: **Xbox button > My games & apps > Queue**.
 3. **Turn on Rest Mode downloads (PS5).** **Settings > Saved Data and Game/App Settings > Automatic Updates > Auto-Install in Rest Mode**.
 4. **Share the console?** PS5: **Settings > Users and Accounts > Other > Console Sharing and Offline Play > Enable**.
-5. **Expect 30 FPS.** No performance mode is announced. See [PS5 settings](ps5-settings.md).
+5. **Expect 30 FPS.** No performance mode is announced. See [PS5 settings](/launch-hub/ps5-settings/).
 6. **Change the controller buzz if it is too strong.** Rockstar says haptics are adjustable in accessibility settings.
 
 ![PS5 storage and downloads screens side by side](TODO: image:beginner-tips-step-1 — menu screen, PS5: Settings > Storage and Control Center > Downloads/Uploads)
-*Caption: Menu screen. The two PS5 screens to check before launch.*
+*Caption: Diagram. The two PS5 screens to check before launch.*
 
-## In game: what previews confirm
+## In game: what previews report
 
 | Tip | Why | Source |
 |---|---|---|
-| **Plan escapes in Vice City.** Roads are often busy, and traffic makes it harder to lose the police. | Game Informer preview | Mapheist, citing Game Informer |
+| **Plan escapes in the big city.** *Reported* by Game Informer (via Mapheist): previews describe busy city roads, which can make it harder to lose the police. | Reported by one outlet, not confirmed in play | Mapheist, citing Game Informer |
 | **Use both leads.** You can switch between Jason and Lucia in free roam and in missions. The button is **not announced**. | Previews | GameSpot, VGC |
 | **Watch your wanted stars.** There are six stars. Crimes show under the stars. | Previews | GameSpot |
 | **Do not wave guns around.** People react and call the police if you carry a gun in public. | Previews | GameSpot |
 | **New cars may need a "key cloner".** Older cars may need a slim jim or a smashed window. | Previews | GameSpot, Wikipedia |
 | **Body and looks matter.** Workouts build muscle, food affects weight and bad sleep shows on the face. | Previews | GameSpot, VGC |
-| **Gun limit (reported):** 2 sidearms and 2 long guns. The rest stay in your vehicle. | Previews of the Extended Look. Not yet confirmed in play. | GTA Boom, Hudwire (secondary) |
+
+> **Rumour / unconfirmed:** Two secondary sites report a gun limit of 2 sidearms and 2 long guns, with the rest stored in your vehicle. Not yet confirmed in play and not from Rockstar or a reputable outlet. Source: https://www.gtaboom.com/gta-6-drops-default-lock-on-limits-guns-sprint-l3-204b and https://hudwire.com/gta-6-weapons-carry-limit/
 
 ![diagram of six wanted stars](TODO: image:beginner-tips-step-2 — diagram, our own art: six stars filling from empty to full with the label "wanted level")
 *Caption: Diagram. The six-star wanted level.*
@@ -76,11 +81,8 @@ We will publish money methods, vehicle guides and collectible maps after launch,
 ### Is GTA 6 good for beginners?
 Rockstar has not announced difficulty options. We will update this page after launch.
 
-### Do I need a subscription to play?
-PlayStation lists GTA VI as single-player with offline play enabled. Subscriptions for online features are not announced.
-
 ### What is the first thing to do?
-Check you have 212 GB+ free and that the pre-load is finished.
+Check you have at least 212 GB free and that the pre-load is finished.
 
 ### Can I switch between Jason and Lucia?
 Yes, per previews. The button is not announced.

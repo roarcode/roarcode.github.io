@@ -1,0 +1,23 @@
+{
+  "type": "compare-table",
+  "alt": "Table of two music releases: the album on 19 Nov 2026 and the score on 11 Dec 2026.",
+  "data": {
+    "category": "pre-launch",
+    "title": "Music release dates",
+    "columns": [
+      "Release",
+      "Date"
+    ],
+    "rows": [
+      [
+        "\"Grand Theft Auto VI: The Album\" (34 tracks)",
+        "19 Nov 2026"
+      ],
+      [
+        "\"Original Score by Justice\"",
+        "11 Dec 2026"
+      ]
+    ],
+    "note": "Source: Rockstar Newswire list."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "info-cards",
+  "alt": "Three cards for the Rockstar, PlayStation and Xbox status pages to check first.",
+  "data": {
+    "category": "pre-launch",
+    "title": "The three status pages to check first",
+    "cards": [
+      {
+        "title": "Rockstar",
+        "body": "Rockstar's service status. Check this first if the game will not start.",
+        "status": "ok"
+      },
+      {
+        "title": "PlayStation",
+        "body": "PlayStation status for store, accounts and games.",
+        "status": "ok"
+      },
+      {
+        "title": "Xbox",
+        "body": "Xbox status for live services and the store.",
+        "status": "ok"
+      }
+    ]
+  }
+}

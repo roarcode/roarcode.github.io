@@ -1,22 +1,26 @@
 ---
-title: "GTA 6 Radio Stations: All 6 Stations and Podcasts"
+title: "GTA 6 Radio Stations: 6 Previewed Stations (2026)"
 title_alts:
   - "GTA 6 Radio Stations List: Songs, DJs and Podcasts (2026)"
-  - "All GTA 6 Radio Stations: Genres and DJs (Updated)"
+  - "GTA 6 Radio Stations Previewed: Genres and DJs (Updated)"
   - "GTA 6 Soundtrack: 34 Tracks and 6 Stations Explained"
 slug: radio-stations
 category: pre-launch
-description: "All 6 GTA 6 radio stations with genre and DJs, plus podcasts, the 34-track album and how to listen on foot. Only officially announced stations are listed."
+description: "The 6 previewed GTA 6 radio stations with genre and DJs, plus podcasts, the 34-track album and how to listen on foot. The full list is not announced."
 sources:
   - https://gameinformer.com/2026/10/08/you-can-preview-6-of-the-radio-stations-in-grand-theft-auto-vi-right-now-plus-new
   - https://gta6record.com/newswire
+  - https://www.rockstargames.com/newswire/article/o3982oa93a23k4/the-music-of-grand-theft-auto-vi-in-game-radio-stations
+  - https://www.rockstargames.com/newswire/article/7599a881942544/announcing-grand-theft-auto-vi-the-album-coming-november-19
+  - https://www.rockstargames.com/newswire/article/39ak8a12395591/grand-theft-auto-vi-original-score-by-justice
   - https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI
 updated: 2026-11-18
 status: prelaunch
 spoilers: none
+qa: live-review
 ---
 
-# GTA 6 Radio Stations: All 6 Stations and Podcasts
+# GTA 6 Radio Stations: 6 Previewed Stations (2026)
 
 > - **Quick answer:** Rockstar previewed **6 radio stations** on 8 Oct 2026: Cocoteo FM, Back Country Radio, AfroBank FM, The Chamber, Flash FM and Dirty South Classics.
 > - **Also confirmed:** on-demand **podcasts**, and listening **on foot** with in-game headphones or earbuds linked to your phone.
@@ -24,7 +28,7 @@ spoilers: none
 
 **Words used on this page.** *Station* is a radio channel in the game. *DJ* is the host. *Podcast* is a talk show you pick to play.
 
-## The 6 stations (announced 8 Oct 2026)
+## The 6 previewed stations (announced 8 Oct 2026)
 
 | Station | Music | DJs or hosts named |
 |---|---|---|
@@ -53,8 +57,8 @@ Source: Game Informer's report on Rockstar's Newswire post, 8 Oct 2026.
 
 | Release | Date | Source |
 |---|---|---|
-| "Grand Theft Auto VI: The Album" (34 tracks) | 19 Nov 2026 | Rockstar Newswire list (via gta6record.com index) |
-| "Original Score by Justice" | 11 Dec 2026 | Rockstar Newswire list (via gta6record.com index) |
+| "Grand Theft Auto VI: The Album" (34 tracks) | 19 Nov 2026 | [Rockstar Newswire](https://www.rockstargames.com/newswire/article/7599a881942544/announcing-grand-theft-auto-vi-the-album-coming-november-19) (title); track count and list via [gta6record.com](https://gta6record.com/newswire) |
+| "Original Score by Justice" | 11 Dec 2026 | [Rockstar Newswire post](https://www.rockstargames.com/newswire/article/39ak8a12395591/grand-theft-auto-vi-original-score-by-justice); the date comes from [gta6record.com](https://gta6record.com/newswire) (we could not open the post text) |
 | Launch trailer song "Flower in a Hurricane" | Heard in the Launch Trailer | Wikipedia (secondary) |
 
 Rockstar also says you can listen to the official score and soundtrack and select in-game radio stations on its GTA VI page.

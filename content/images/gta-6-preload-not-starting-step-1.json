@@ -1,0 +1,26 @@
+{
+  "type": "menu-mock",
+  "alt": "Illustration of a PlayStation Store avatar menu with Redeem Code highlighted. Not an in-game screenshot.",
+  "data": {
+    "category": "glitches",
+    "title": "Redeem a boxed code on PlayStation",
+    "panel_title": "Store profile menu — illustration",
+    "platform": "PS5",
+    "highlightRow": 1,
+    "rows": [
+      {
+        "label": "Your avatar (top of the screen)",
+        "value": "Open this menu"
+      },
+      {
+        "label": "Redeem Code",
+        "value": "Enter the code here"
+      },
+      {
+        "label": "Then return to the game page",
+        "value": "Start the download"
+      }
+    ],
+    "note": "Illustration — not an in-game screenshot. Xbox: redeem in the Microsoft Store (names may differ)."
+  }
+}

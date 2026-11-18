@@ -1,0 +1,11 @@
+{
+  "type": "step-card",
+  "alt": "Diagram: one voice language (English) and twelve text languages on PlayStation.",
+  "data": {
+    "category": "pre-launch",
+    "step": 3,
+    "title": "Languages on PlayStation",
+    "body": "Voice: English only. Text: English, French, German, Italian, Korean, Polish, Portuguese (Brazil), Russian, Simplified Chinese, Spanish (Mexico), Spanish (Spain), Traditional Chinese.",
+    "tip": "Slovenian and Croatian are not listed (PlayStation support)."
+  }
+}

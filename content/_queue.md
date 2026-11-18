@@ -7,7 +7,7 @@
 ## Evidence legend
 - **E1** Action Network/Beebom (17 Nov 2026), Google Keyword Planner on "GTA VI / GTA 6 / Grand Theft Auto VI/6": US ≈3.07 M avg monthly searches; Germany ≈1.16 M; UK ≈1.02 M; Poland ≈523 k; Italy ≈518 k; Austria ≈111 k; Croatia ≈35.7 k; Slovenia ≈13.2 k. https://beebom.com/top-50-countries-searching-for-gta-6/ (brand-term demand, not guide-term demand).
 - **E2** 1News (18 Nov): Google Trends "GTA 6 New Zealand trick" +5,000% in a month. https://www.1news.co.nz/2026/11/18/gta-6-how-to-beat-the-download-rush-and-why-gamers-abroad-envy-kiwis/
-- **E3** gta6news.gg (13 Nov, SECONDARY): biggest GTA 6 themes before launch = release timing, cheats, map. https://gta6news.gg/gta-6-cheats/
+- **E3** gta6news.gg (13 Nov, SECONDARY): biggest GTA 6 themes before launch = release timing, cheats, map.
 - **E4** ASOTools app-store keyword data for GTA V (weak, app-store not web): "gta 5 money" and "gta 5 cheat codes online" ≈4,605/mo each; "all cheats for gta v" ≈1,594; "all cheat codes for gta 5" ≈531. https://asotools.io/app-analytics/all-cheats-for-gta-5-v-codes-keyword-monitoring
 - **E7** Big-outlet coverage proxy (Polygon, PC Gamer, Quartz, GamesRadar, Verge, Game Informer, Engadget, Vice) — URLs in `_facts.md`.
 - **E8** Map-size coverage (GameSpot; Rockstar Report SECONDARY).

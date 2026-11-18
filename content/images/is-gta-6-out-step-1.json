@@ -1,0 +1,31 @@
+{
+  "type": "timezone-chart",
+  "alt": "World clock diagram showing the unlock moving west: New Zealand at 12:00 CET, central Europe at 00:00 CET, and the US East Coast at 06:00 CET.",
+  "data": {
+    "category": "pre-launch",
+    "title": "The unlock moves west",
+    "axis_label": "Time in CET",
+    "axis_start": "Wed 18 Nov, 12:00",
+    "axis_end": "Thu 19 Nov, 12:00",
+    "subtitle": "Three marks from the page",
+    "rows": [
+      [
+        "New Zealand",
+        "Thu 19 Nov, 12:00 AM",
+        "Wed 18 Nov, 12:00"
+      ],
+      [
+        "Central Europe",
+        "Thu 19 Nov, 12:00 AM",
+        "Thu 19 Nov, 00:00"
+      ],
+      [
+        "US East Coast",
+        "Thu 19 Nov, 12:00 AM",
+        "Thu 19 Nov, 06:00"
+      ]
+    ],
+    "legend": "Each mark is 12:00 AM local time, shown in CET.",
+    "note": "Full table of zones is on the page. US PlayStation may use one Eastern moment — check your console."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "step-card",
+  "alt": "Diagram of the Xbox menu path to check free space.",
+  "data": {
+    "category": "pre-launch",
+    "step": 2,
+    "title": "Check free space on Xbox",
+    "body": "Xbox button > Profile & system > Settings > System > Storage devices. Read the free space. Keep at least 212 GB free.",
+    "tip": "Xbox path is general. Check the names on your console."
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "menu-mock",
+  "alt": "Illustration of the PS5 Power menu with Restart PS5 highlighted. Not an in-game screenshot.",
+  "data": {
+    "category": "glitches",
+    "title": "Restart your PS5",
+    "panel_title": "Power — illustration",
+    "platform": "PS5",
+    "highlightRow": 1,
+    "rows": [
+      {
+        "label": "Enter Rest Mode",
+        "value": ""
+      },
+      {
+        "label": "Restart PS5",
+        "value": "Try this first"
+      },
+      {
+        "label": "Turn Off PS5",
+        "value": ""
+      }
+    ],
+    "note": "Illustration — not an in-game screenshot. Path: PS button > Power > Restart PS5."
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "menu-mock",
+  "alt": "Illustration of a store game page listing Standard and Ultimate edition prices. Not an in-game screenshot.",
+  "data": {
+    "category": "pre-launch",
+    "title": "Choose Standard or Ultimate",
+    "panel_title": "Game page — illustration",
+    "platform": "PS5",
+    "highlightRow": 2,
+    "rows": [
+      {
+        "label": "Grand Theft Auto VI",
+        "value": "Digital"
+      },
+      {
+        "label": "Standard",
+        "value": "$79.99  ·  £69.99  ·  €79.99"
+      },
+      {
+        "label": "Ultimate",
+        "value": "$99.99  ·  £89.99  ·  €99.99"
+      }
+    ],
+    "note": "Illustration — not an in-game or store screenshot. Prices from official store listings."
+  }
+}

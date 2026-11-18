@@ -1,0 +1,20 @@
+{
+  "type": "info-cards",
+  "alt": "Two cards pointing to PlayStation error-code pages and Xbox Support, where each platform lists its own codes.",
+  "data": {
+    "category": "glitches",
+    "title": "Where the platforms list codes",
+    "cards": [
+      {
+        "title": "PlayStation",
+        "body": "CE- and NP- codes have a page at playstation.com/en-us/support/error-codes/.",
+        "status": "check"
+      },
+      {
+        "title": "Xbox Support",
+        "body": "For Xbox codes, use Xbox Support. Check the wording on your console.",
+        "status": "check"
+      }
+    ]
+  }
+}

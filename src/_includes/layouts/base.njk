@@ -24,6 +24,11 @@
     {%- endfor %}
     <link rel="stylesheet" href="{{ css.file | url }}">
     <script src="{{ '/assets/js/spoilers.js' | url }}" defer></script>
+    {#- X embeds: widgets.js is never in the page. This tiny loader fetches it only when an embed nears the viewport (and never for a closed spoiler). -#}
+    {%- if item and item.hasEmbeds %}
+    <meta name="twitter:widgets:autoload" content="off">
+    <script src="{{ '/assets/js/x-embed.js' | url }}" defer></script>
+    {%- endif %}
     {% block head %}{% endblock %}
   </head>
   <body class="page page--{{ pageType }}">

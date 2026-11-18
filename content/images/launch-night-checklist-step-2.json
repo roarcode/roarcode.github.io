@@ -1,0 +1,11 @@
+{
+  "type": "step-card",
+  "alt": "Diagram of the PS5 and Xbox menu paths to read free storage space, with the 212 GB advice.",
+  "data": {
+    "category": "pre-launch",
+    "step": 2,
+    "title": "Check free space on PS5 and Xbox",
+    "body": "PS5: Settings > Storage. Xbox: Xbox button > Profile & system > Settings > System > Storage devices. Keep at least 212 GB free (PlayStation's advice).",
+    "tip": "Xbox path is general. Check the names on your console."
+  }
+}

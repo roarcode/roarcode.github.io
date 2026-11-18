@@ -1,0 +1,26 @@
+{
+  "type": "menu-mock",
+  "alt": "Illustration of Xbox Full library with Grand Theft Auto VI and an Install action. Not an in-game screenshot.",
+  "data": {
+    "category": "glitches",
+    "title": "Start the Xbox install",
+    "panel_title": "My games & apps > Full library — illustration",
+    "platform": "Xbox",
+    "highlightRow": 2,
+    "rows": [
+      {
+        "label": "Grand Theft Auto VI",
+        "value": "In Full library"
+      },
+      {
+        "label": "Status",
+        "value": "Not installed or paused"
+      },
+      {
+        "label": "Install",
+        "value": "Start the pre-load"
+      }
+    ],
+    "note": "Illustration — not an in-game screenshot."
+  }
+}

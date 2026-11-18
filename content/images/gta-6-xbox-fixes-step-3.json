@@ -1,0 +1,26 @@
+{
+  "type": "menu-mock",
+  "alt": "Illustration of Xbox Storage devices with free space visible. Not an in-game screenshot.",
+  "data": {
+    "category": "glitches",
+    "title": "Step 7: check free space",
+    "panel_title": "Storage devices — illustration",
+    "platform": "Xbox",
+    "highlightRow": 1,
+    "rows": [
+      {
+        "label": "Internal storage",
+        "value": "Read free space here"
+      },
+      {
+        "label": "Free space needed",
+        "value": "At least 212 GB"
+      },
+      {
+        "label": "Seagate or expansion card",
+        "value": "If you use one, check it too"
+      }
+    ],
+    "note": "Illustration — not an in-game screenshot. Path: Settings > System > Storage devices."
+  }
+}

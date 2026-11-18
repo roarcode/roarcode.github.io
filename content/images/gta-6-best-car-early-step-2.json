@@ -1,0 +1,18 @@
+{
+  "type": "map-annotate",
+  "alt": "Schematic map with a single placeholder pin. The location of the best early car is not published yet.",
+  "data": {
+    "category": "vehicles",
+    "title": "Where to find it — not yet published",
+    "pins": [
+      {
+        "x": 48,
+        "y": 52,
+        "kind": "vehicle",
+        "label": "Location after testing"
+      }
+    ],
+    "credit": "Original schematic by Leonida Guides.",
+    "note": "Not to scale. No public location yet. This pin is a placeholder."
+  }
+}

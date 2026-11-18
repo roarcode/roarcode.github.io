@@ -1,0 +1,12 @@
+{
+  "type": "step-card",
+  "alt": "Diagram: the guide names nine places. Their map positions are not known yet, so no map is shown.",
+  "data": {
+    "category": "pre-launch",
+    "step": 2,
+    "title": "Nine named places, no map yet",
+    "body": "The guide lists nine named places. Their positions are not known yet, so we do not draw a map until the real map is public.",
+    "tip": "Names are inside the spoiler box on the guide page.",
+    "tip_label": "Note"
+  }
+}

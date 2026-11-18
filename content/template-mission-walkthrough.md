@@ -91,6 +91,18 @@ HOW TO USE THIS TEMPLATE (delete all comments before publishing)
 |---|---|---|
 | [Fail reason] | [Short reason] | [Short fix] |
 
+<!-- What players are saying: add real embeds from content/inbox/ (rules: README section 13).
+If real posts exist, replace this comment with:
+
+## What players are saying
+
+*Public posts, quoted with a link. Player tips are not confirmed facts.*
+
+<blockquote class="twitter-tweet"><a href="https://x.com/HANDLE/status/POST_ID"></a></blockquote>
+
+Posts that show story, secrets or leaks go inside a :::spoiler block with a warning label.
+If there are no real posts, keep only this comment. -->
+
 ## FAQ
 
 ### How long is [mission name]?

@@ -1,0 +1,26 @@
+{
+  "type": "menu-mock",
+  "alt": "Illustration of My games & apps with Grand Theft Auto VI and a Cloud play option. Not an in-game screenshot.",
+  "data": {
+    "category": "pre-launch",
+    "title": "Start the cloud version on Xbox",
+    "panel_title": "My games & apps — illustration",
+    "platform": "Xbox",
+    "highlightRow": 2,
+    "rows": [
+      {
+        "label": "Grand Theft Auto VI",
+        "value": "In your library"
+      },
+      {
+        "label": "Play on console",
+        "value": "Series X|S"
+      },
+      {
+        "label": "Cloud play",
+        "value": "Xbox One: from 1 AM ET, 19 Nov"
+      }
+    ],
+    "note": "Illustration — not an in-game screenshot. Exact menu names can differ on your console. 1 AM ET is 07:00 CET."
+  }
+}

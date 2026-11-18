@@ -1,0 +1,18 @@
+{
+  "type": "map-annotate",
+  "alt": "Schematic map with a single placeholder start pin. The first mission start point is filled only from the game after launch, with no story details.",
+  "data": {
+    "category": "missions",
+    "title": "Start point — to be filled",
+    "pins": [
+      {
+        "x": 42,
+        "y": 48,
+        "kind": "start",
+        "label": "Start — from the game menu"
+      }
+    ],
+    "credit": "Original schematic by Leonida Guides.",
+    "note": "Not to scale. Placeholder only. We do not guess a location from trailers."
+  }
+}
