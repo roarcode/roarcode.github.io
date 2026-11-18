@@ -1,0 +1,5 @@
+# Cloudflare Pages config (used by `wrangler pages deploy` and read by Pages Git integration).
+# Dashboard build settings:  Build command: npm run build   Output directory: _site   NODE_VERSION=22
+name = "leonida-guides"
+pages_build_output_dir = "_site"
+compatibility_date = "2026-11-01"

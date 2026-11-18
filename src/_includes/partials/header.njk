@@ -1,0 +1,37 @@
+<header class="site-header">
+  <div class="site-header__inner container">
+    <a class="site-header__brand brand" href="{{ '/' | url }}" aria-label="{{ site.name }} — home">
+      {%- if assets.logoWordmark -%}
+        <img class="brand__logo brand__logo--wordmark" src="{{ assets.logoWordmark | url }}" alt="{{ site.name }}" width="211" height="34">
+        <img class="brand__logo brand__logo--icon" src="{{ assets.logoIcon | url }}" alt="" width="34" height="34">
+      {%- else -%}
+        <span class="brand__name">{{ site.name }}</span>
+      {%- endif -%}
+    </a>
+
+    {#- Works with no JS (plain GET form to /search/); the search page boots Pagefind UI. -#}
+    <form class="site-search" role="search" action="{{ '/search/' | url }}" method="get">
+      <label class="visually-hidden" for="site-search-q">Search guides</label>
+      <input class="site-search__input" id="site-search-q" type="search" name="q" placeholder="Search guides…" autocomplete="off" enterkeyhint="search">
+      <button class="site-search__button" type="submit" aria-label="Search">
+        <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" focusable="false"><path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" d="M11 4a7 7 0 1 0 0 14 7 7 0 0 0 0-14Zm9 16-4.2-4.2"/></svg>
+      </button>
+    </form>
+    {#- Progressive enhancement: hidden unless JS runs (assets/js/spoilers.js). Without JS every spoiler is still click-to-reveal. -#}
+    <button class="spoiler-toggle" type="button" hidden aria-pressed="false" data-spoiler-toggle>
+      <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true" focusable="false"><path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M2 12s3.6-7 10-7 10 7 10 7-3.6 7-10 7S2 12 2 12Zm10 3a3 3 0 1 0 0-6 3 3 0 0 0 0 6Z"/><path class="spoiler-toggle__slash" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" d="M4 4l16 16"/></svg>
+      <span class="spoiler-toggle__text">Show all spoilers</span>
+      <span class="spoiler-toggle__state visually-hidden" data-spoiler-state>off</span>
+    </button>
+  </div>
+
+  <nav class="site-nav" aria-label="Guide categories">
+    <ul class="site-nav__list container">
+      {%- for c in library.navCategories %}
+      <li class="site-nav__item">
+        <a class="site-nav__link" href="{{ c.url | url }}" style="--accent: var({{ c.accentVar }}, var(--x-accent-default))"{% if (pageType == 'category' and item.slug == c.slug) or (pageType == 'guide' and item.categorySlug == c.slug) %} aria-current="page"{% endif %}>{{ c.short }}</a>
+      </li>
+      {%- endfor %}
+    </ul>
+  </nav>
+</header>

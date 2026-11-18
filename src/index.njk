@@ -1,0 +1,67 @@
+---
+layout: layouts/base.njk
+pageType: home
+permalink: /index.html
+eleventyExcludeFromCollections: true
+---
+{% from "partials/macros.njk" import guideCard, categoryCard %}
+{#- PLACEHOLDER HOME COPY: Copywriter/Designer to replace headline, lead and imagery. -#}
+<section class="hero{% if not assets.hasHero %} hero--noimg{% endif %}">
+  {%- if assets.hasHero %}
+  {#- Designer's hero art, LCP image: eager + high priority; sizes avoid layout shift -#}
+  <div class="hero__art" aria-hidden="true"><picture>
+    <source type="image/avif" srcset="{{ '/assets/img/hero-768.avif' | url }} 768w, {{ '/assets/img/hero-1280.avif' | url }} 1280w, {{ '/assets/img/hero-1920.avif' | url }} 1920w" sizes="100vw">
+    <source type="image/webp" srcset="{{ '/assets/img/hero-768.webp' | url }} 768w, {{ '/assets/img/hero-1280.webp' | url }} 1280w, {{ '/assets/img/hero-1920.webp' | url }} 1920w" sizes="100vw">
+    <img src="{{ '/assets/img/hero-1280.webp' | url }}" alt="" width="1280" height="720" fetchpriority="high" decoding="async">
+  </picture></div>
+  {%- endif %}
+  <div class="hero__inner container">
+    <p class="hero__eyebrow">Unofficial GTA VI guides</p>
+    <h1 class="hero__title">Every GTA VI guide, <span class="hero__accent">sourced and kept current.</span></h1>
+    <p class="hero__lead">Mission walkthroughs, money methods, collectible maps, the best cars, glitch fixes and PS5 settings. Every guide credits its sources and shows when it was last updated.</p>
+    <form class="hero__search site-search site-search--large" role="search" action="{{ '/search/' | url }}" method="get">
+      <label class="visually-hidden" for="hero-search-q">Search all guides</label>
+      <input class="site-search__input" id="hero-search-q" type="search" name="q" placeholder="Try “money”, “best car” or “PS5 settings”" autocomplete="off" enterkeyhint="search">
+      <button class="site-search__button site-search__button--text" type="submit">Search</button>
+    </form>
+  </div>
+</section>
+
+<section class="section container" aria-labelledby="cats-h">
+  <header class="section__header">
+    <p class="section__kicker">Browse</p>
+    <h2 class="section__title" id="cats-h">Guides by category</h2>
+  </header>
+  <div class="grid grid--categories">
+    {%- for c in library.categories %}
+    {{ categoryCard(c) }}
+    {%- endfor %}
+  </div>
+</section>
+
+{% if library.featured.length %}
+<section class="section container" aria-labelledby="feat-h">
+  <header class="section__header">
+    <p class="section__kicker">Start here</p>
+    <h2 class="section__title" id="feat-h">Featured guides</h2>
+  </header>
+  <div class="grid grid--cards">
+    {%- for g in library.featured %}{{ guideCard(g, true) }}{% endfor %}
+  </div>
+</section>
+{% endif %}
+
+<section class="section container" aria-labelledby="latest-h">
+  <header class="section__header">
+    <p class="section__kicker">Fresh</p>
+    <h2 class="section__title" id="latest-h">New &amp; updated</h2>
+    <p class="section__meta">Last updated <time datetime="{{ library.lastUpdatedDate }}">{{ library.lastUpdatedLabel }}</time></p>
+  </header>
+  {%- if library.latest.length %}
+  <div class="grid grid--cards">
+    {%- for g in library.latest %}{{ guideCard(g, true) }}{% endfor %}
+  </div>
+  {%- else %}
+  <p class="empty">Guides are on the way. Check back at launch.</p>
+  {%- endif %}
+</section>

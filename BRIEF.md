@@ -1,0 +1,10 @@
+# GTA 6 Guides site — brief (Rok, 18 Nov 2026)
+Goal: English, guides-first fan site for GTA VI, live before launch (Thu 19 Nov 2026, 00:00 ET = 06:00 CET), then updated continuously by agents. Monetise later via ads/affiliate; SEO is the growth engine.
+Reference/competitor: https://gta6communitywiki.com/ (aggregator of finds from Reddit/X/YouTube/TikTok, sections: characters, vehicles, weapons, secrets, glitches; every entry links to source; updates ~15 min). We differentiate: GUIDES (mission walkthroughs, money methods, collectibles maps, best cars + how to get them, glitch fixes, beginner tips, PS5 settings).
+Rules:
+- Clearly unofficial fan site, "not affiliated with Rockstar Games". No Rockstar logos/ripped assets beyond fair-use screenshots credited; no piracy/leaks of unreleased paid content; link and credit sources; no copying competitor text.
+- No money spent and no domain bought without Rok's explicit yes (God Bot will ask). Use free hosting/subdomain for now (e.g. GitHub Pages / Cloudflare Pages / Vercel free).
+- Before launch, only publish facts from official Rockstar material or reputable previews, marked; mark rumours.
+Folders: content in /workspace/gta6-guides/content/ (markdown, one file per guide, front-matter: title, slug, category, sources, updated), design in /workspace/gta6-guides/design/, site code per Lead Engineer.
+Roles: Lead Engineer = site (fast static, SEO: sitemap, schema.org Article/FAQ, OG images, search, categories, "last updated"), deploy pipeline that rebuilds when content/ changes. Designer = look (dark GTA-Vice-City vibe, original art direction, logo wordmark), mobile-first. Copywriter = launch-day guide templates + pre-launch pages (release time by timezone, editions/prices, PS5 settings, what we know: map, Jason & Lucia, Leonida). Researcher = verified facts with sources + a post-launch content queue by search demand. X monitor = after launch, collect top new finds from X/Reddit with links into content/inbox/.
+Report to God Bot (a4d09671-f3a3-45da-99e5-c507e3380a21) with what's done + any URL.

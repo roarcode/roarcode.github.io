@@ -1,0 +1,43 @@
+---
+layout: layouts/base.njk
+pageType: category
+pagination:
+  data: library.categories
+  size: 1
+  alias: item
+permalink: "{{ item.path }}/index.html"
+eleventyExcludeFromCollections: true
+---
+{% from "partials/macros.njk" import guideCard, breadcrumbs %}
+<div class="container" style="--accent: var({{ item.accentVar }}, var(--x-accent-default))">
+  {{ breadcrumbs(item | crumbs(pageType)) }}
+  <header class="page-header">
+    <p class="page-header__kicker">Category</p>
+    <h1 class="page-header__title">{{ item.name }}</h1>
+    {%- if item.description %}<p class="page-header__lead">{{ item.description }}</p>{% endif %}
+    <p class="page-header__meta">
+      {{ item.count }} {{ 'guide' if item.count == 1 else 'guides' }}
+      {%- if item.lastUpdated %} · Last updated <time datetime="{{ item.lastUpdatedDate }}">{{ item.lastUpdatedLabel }}</time>{% else %} · Last updated <time datetime="{{ library.lastUpdatedDate }}">{{ library.lastUpdatedLabel }}</time>{% endif %}
+    </p>
+  </header>
+
+  {%- if item.guides.length %}
+  <div class="grid grid--cards section">
+    {%- for g in item.guides %}{{ guideCard(g, false) }}{% endfor %}
+  </div>
+  {%- else %}
+  <div class="empty section">
+    <p class="empty__title">No guides here yet.</p>
+    <p>We publish as soon as there is something verified to say. <a href="{{ '/' | url }}">Browse all categories</a> or <a href="{{ '/search/' | url }}">search</a>.</p>
+  </div>
+  {%- endif %}
+
+  <nav class="section hub-links" aria-labelledby="hubs-h">
+    <h2 class="section__title" id="hubs-h">Explore other hubs</h2>
+    <ul class="hub-links__list">
+      {%- for c in library.categories %}{% if c.slug != item.slug %}
+      <li><a class="hub-links__link" href="{{ c.url | url }}" style="--accent: var({{ c.accentVar }}, var(--x-accent-default))">{{ c.name }}{% if c.count %} <span>({{ c.count }})</span>{% endif %}</a></li>
+      {%- endif %}{% endfor %}
+    </ul>
+  </nav>
+</div>

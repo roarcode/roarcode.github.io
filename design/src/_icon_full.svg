@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" ><defs><linearGradient id="sun" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFC857"/><stop offset=".45" stop-color="#FF8A3D"/><stop offset="1" stop-color="#FF2E93"/></linearGradient>
+<linearGradient id="word" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FF8A3D"/><stop offset="1" stop-color="#FF2E93"/></linearGradient>
+<linearGradient id="tile" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1A1530"/><stop offset="1" stop-color="#07060C"/></linearGradient></defs><rect width="512" height="512" rx="0" fill="url(#tile)"/><g transform="translate(61.44 61.44) scale(0.76)">
+<mask id="mic"><rect width="512" height="512" fill="#fff"/><rect x="60" y="268" width="392" height="6" fill="#000"/><rect x="60" y="290" width="392" height="8" fill="#000"/><rect x="60" y="314" width="392" height="11" fill="#000"/><rect x="60" y="339" width="392" height="13" fill="#000"/><rect x="60" y="366" width="392" height="16" fill="#000"/><rect x="60" y="396" width="392" height="18" fill="#000"/></mask>
+<circle cx="256" cy="250" r="168" fill="url(#sun)" mask="url(#mic)"/>
+<path d="M207.715 169.20000000000002V299.70000000000005H376.785V354.8H135.215V169.20000000000002Z" transform="translate(-9 9)" fill="none" stroke="#19E3F5" stroke-width="10" stroke-linejoin="round"/>
+<path d="M207.715 169.20000000000002V299.70000000000005H376.785V354.8H135.215V169.20000000000002Z" fill="#F4F1FA" stroke="#07060C" stroke-width="6" paint-order="stroke" stroke-linejoin="round"/>
+</g></svg>

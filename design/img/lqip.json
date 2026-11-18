@@ -1,0 +1,32 @@
+{
+ "hero": {
+  "color": "#4a2546",
+  "lqip": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADwAwCdASoYAA4APu1iqU2ppaOiMAgBMB2JZgCdAB6RBHxzbLoiMLMAAP7uoZbC+s28jWOxPb7KeZoeaRajei8l+7SBC/i3e/gQEQgxj/a7vas6KLHgAA==",
+  "w": 1280,
+  "h": 720
+ },
+ "cat-missions": {
+  "color": "#1e2c4b",
+  "lqip": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAAAwBACdASoYAA4APu1iqk2ppaQiMAgBMB2JYgCdMoADTrGpsjx4ApuspAAA/uk7WoJCo9L1S00p0e+M+3fSXIofk9N8y26ANB1VzAAA",
+  "w": 1280,
+  "h": 720
+ },
+ "cat-money": {
+  "color": "#201d35",
+  "lqip": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAACwAwCdASoYAA4APu1iqU2ppaOiMAgBMB2JQBOgA25ik5lxrgYwAAD+cXOJslrUqGK8fXt+1OXoky/IUihCHczyhlAAAA==",
+  "w": 1280,
+  "h": 720
+ },
+ "cat-vehicles": {
+  "color": "#191834",
+  "lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAACQAwCdASoYAA4APu1kqU2ppaQiMAgBMB2JQBOmUACXaGUVXPQwAP7wB+05OS/+7Wp5UZRo7jyomKRsnzPFFIRZmvEH1E0JknkQk/gTSwcAAA==",
+  "w": 1280,
+  "h": 720
+ },
+ "cat-collectibles": {
+  "color": "#3b3b40",
+  "lqip": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAQBACdASoYAA4APu1iqU2ppaQiMAgBMB2JQAALg219e7o6XymIN6nUAAD+5gFQIXIiWhXnsYbYFALr/OX+PgAGKTCqtNsUA9xjOMi6CCNp9f/dPZb9/3pagzF9yO/hhufV6EIgAAA=",
+  "w": 1280,
+  "h": 720
+ }
+}

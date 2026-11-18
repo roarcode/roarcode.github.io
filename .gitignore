@@ -1,0 +1,15 @@
+*.log
+.DS_Store
+.auth_err
+.auth_status
+.cache/
+.device_code.json
+.gh_token
+.poll_auth.log
+.poll_auth.sh
+.venv
+.venv/
+_site/
+design/node_modules
+node_modules
+node_modules/

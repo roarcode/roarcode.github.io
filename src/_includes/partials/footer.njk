@@ -1,0 +1,29 @@
+<footer class="site-footer">
+  <div class="site-footer__inner container">
+    <div class="site-footer__brand">
+      <p class="site-footer__name">{{ site.name }}</p>
+      <p class="site-footer__disclaimer"><strong>{{ site.disclaimer }}</strong> Grand Theft Auto and GTA VI are trademarks of Take-Two Interactive Software, Inc. Guides credit every source we use.</p>
+    </div>
+    <nav class="site-footer__col" aria-label="Guides">
+      <p class="site-footer__heading">Guides</p>
+      <ul class="site-footer__list">
+        {%- for c in library.navCategories %}
+        <li><a href="{{ c.url | url }}">{{ c.name }}</a></li>
+        {%- endfor %}
+      </ul>
+    </nav>
+    <nav class="site-footer__col" aria-label="About">
+      <p class="site-footer__heading">Site</p>
+      <ul class="site-footer__list">
+        <li><a href="{{ '/about/' | url }}">About &amp; disclaimer</a></li>
+        <li><a href="{{ '/search/' | url }}">Search</a></li>
+        <li><a href="{{ '/feed.xml' | url }}">Atom feed</a></li>
+        <li><a href="{{ '/sitemap.xml' | url }}">Sitemap</a></li>
+      </ul>
+    </nav>
+  </div>
+  <div class="site-footer__bar container">
+    <p class="site-footer__meta">Site last updated <time datetime="{{ library.lastUpdatedISO }}">{{ library.lastUpdatedLabel }}</time></p>
+    <p class="site-footer__meta">&copy; {{ site.buildDate.getFullYear() }} {{ site.name }} · Fan-made, not for official use</p>
+  </div>
+</footer>

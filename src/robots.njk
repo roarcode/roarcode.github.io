@@ -1,0 +1,15 @@
+---
+permalink: /robots.txt
+eleventyExcludeFromCollections: true
+---
+{%- if site.noindex -%}
+# Staging / placeholder SITE_URL: block everything until a real SITE_URL is configured.
+User-agent: *
+Disallow: /
+{%- else -%}
+User-agent: *
+Allow: /
+Disallow: /search/
+
+Sitemap: {{ '/sitemap.xml' | abs }}
+{%- endif %}

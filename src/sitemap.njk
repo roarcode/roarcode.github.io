@@ -1,0 +1,17 @@
+---
+permalink: /sitemap.xml
+eleventyExcludeFromCollections: true
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>{{ '/' | abs }}</loc><lastmod>{{ library.lastUpdatedDate }}</lastmod></url>
+{%- for c in library.categories %}{% if c.indexable %}
+  <url><loc>{{ c.url | abs }}</loc><lastmod>{{ c.lastUpdatedDate }}</lastmod></url>
+{%- endif %}{% endfor %}
+{%- for g in library.guides %}{% if g.indexable %}
+  <url><loc>{{ g.url | abs }}</loc><lastmod>{{ g.updatedDate }}</lastmod></url>
+{%- endif %}{% endfor %}
+{%- for p in library.pages %}{% if p.indexable %}
+  <url><loc>{{ p.url | abs }}</loc><lastmod>{{ p.updatedDate }}</lastmod></url>
+{%- endif %}{% endfor %}
+</urlset>

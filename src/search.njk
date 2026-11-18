@@ -1,0 +1,16 @@
+---
+layout: layouts/base.njk
+pageType: search
+permalink: /search/index.html
+eleventyExcludeFromCollections: true
+---
+{% from "partials/macros.njk" import breadcrumbs %}
+<div class="container container--article">
+  {{ breadcrumbs([{name:'Home',url:'/'},{name:'Search',url:'/search/'}]) }}
+  <header class="page-header"><h1 class="page-header__title">Search guides</h1></header>
+  {#- Pagefind UI is loaded by /assets/js/search.js. Only guides/pages tagged data-pagefind-body are indexed. -#}
+  <link rel="stylesheet" href="{{ '/pagefind/pagefind-ui.css' | url }}">
+  <div id="search" class="search-ui" data-bundle="{{ '/pagefind/' | url }}" data-base="{{ '/' | url }}" data-query-param="q"></div>
+  <noscript><p class="empty">Search needs JavaScript. You can <a href="{{ '/' | url }}">browse by category</a> instead.</p></noscript>
+  <script src="{{ '/assets/js/search.js' | url }}" defer></script>
+</div>

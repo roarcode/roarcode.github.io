@@ -1,0 +1,118 @@
+[
+  {
+    "slug": "launch-hub",
+    "name": "Launch Hub",
+    "short": "Launch Hub",
+    "icon": "rocket",
+    "description": "Release time by timezone, editions and prices, and everything we know about Leonida, Jason and Lucia before and around launch.",
+    "aliases": [
+      "launch",
+      "pre-launch",
+      "prelaunch",
+      "news",
+      "pre launch"
+    ]
+  },
+  {
+    "slug": "missions",
+    "name": "Mission Walkthroughs",
+    "short": "Missions",
+    "icon": "target",
+    "description": "Step-by-step GTA VI mission walkthroughs: objectives, gold-medal tips and what to do when you get stuck.",
+    "aliases": [
+      "mission",
+      "mission-walkthroughs",
+      "walkthroughs",
+      "walkthrough",
+      "story"
+    ],
+    "img": "cat-missions"
+  },
+  {
+    "slug": "money",
+    "name": "Money Methods",
+    "short": "Money",
+    "icon": "cash",
+    "description": "The fastest ways to make money in GTA VI: heists, side hustles and repeatable earners, with how much they really pay.",
+    "aliases": [
+      "money-methods",
+      "make-money",
+      "cash",
+      "earn",
+      "earning"
+    ],
+    "img": "cat-money"
+  },
+  {
+    "slug": "collectibles",
+    "name": "Collectibles & Maps",
+    "short": "Collectibles",
+    "icon": "map",
+    "description": "Collectible locations and map guides for Leonida, with checklists and credited finds.",
+    "aliases": [
+      "collectibles-maps",
+      "collectibles-and-maps",
+      "maps",
+      "map",
+      "secrets"
+    ],
+    "img": "cat-collectibles"
+  },
+  {
+    "slug": "cars",
+    "name": "Best Cars",
+    "short": "Cars",
+    "icon": "car",
+    "description": "The best cars and bikes in GTA VI and exactly how to get them: locations, prices and handling notes.",
+    "aliases": [
+      "best-cars",
+      "vehicles",
+      "vehicle",
+      "car",
+      "best-cars-how-to-get-them"
+    ],
+    "img": "cat-vehicles"
+  },
+  {
+    "slug": "glitches",
+    "name": "Glitch Fixes",
+    "short": "Glitches",
+    "icon": "bug",
+    "description": "Known GTA VI bugs and glitches, with fixes and workarounds that actually work.",
+    "aliases": [
+      "glitch-fixes",
+      "glitch",
+      "bugs",
+      "fixes",
+      "bug-fixes"
+    ]
+  },
+  {
+    "slug": "beginner-tips",
+    "name": "Beginner Tips",
+    "short": "Beginner",
+    "icon": "spark",
+    "description": "New to GTA VI? Start here: the beginner tips we wish we knew on day one.",
+    "aliases": [
+      "beginner",
+      "tips",
+      "beginners",
+      "tips-and-tricks",
+      "getting-started"
+    ]
+  },
+  {
+    "slug": "ps5-settings",
+    "name": "PS5 Settings",
+    "short": "PS5 Settings",
+    "icon": "gamepad",
+    "description": "The best PS5 display, performance, audio and controller settings for GTA VI.",
+    "aliases": [
+      "ps5",
+      "settings",
+      "best-settings",
+      "playstation",
+      "ps5-settings-guide"
+    ]
+  }
+]

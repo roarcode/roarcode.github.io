@@ -1,0 +1,121 @@
+---
+layout: layouts/base.njk
+pageType: guide
+pagination:
+  data: library.guides
+  size: 1
+  alias: item
+permalink: "{{ item.path }}/index.html"
+eleventyExcludeFromCollections: true
+---
+{% from "partials/macros.njk" import guideCard, breadcrumbs, spoilerBadge %}
+<div class="container container--article" style="--accent: var({{ item.category.accentVar }}, var(--x-accent-default))">
+  <div data-pagefind-ignore>{{ breadcrumbs(item | crumbs(pageType)) }}</div>
+
+  <article class="article" data-pagefind-body>
+    <header class="article__header">
+      <div class="article__badges">
+        {#- spoiler level always comes first, at the very top of the article -#}
+        {{ spoilerBadge(item.spoilers, item.spoilerLabel, "article__spoiler-level") }}
+        <a class="badge badge--category" href="{{ item.category.url | url }}" data-pagefind-ignore>{{ item.category.name }}</a>
+        {%- if item.rumour %}<span class="badge badge--rumour">Rumour — unconfirmed</span>{% endif %}
+        {%- if item.placeholder %}<span class="badge badge--placeholder">Placeholder</span>{% endif %}
+        {%- if item.draft %}<span class="badge badge--placeholder">Draft</span>{% endif %}
+      </div>
+      <h1 class="article__title" data-pagefind-meta="title">{{ item.title }}</h1>
+      <p class="article__meta">
+        <span class="article__updated">Last updated <time datetime="{{ item.updatedValue }}" data-pagefind-meta="updated[datetime]">{{ item.updatedLabel }}</time></span>
+        <span aria-hidden="true">·</span>
+        <span class="article__published">Published <time datetime="{{ item.publishedValue }}">{{ item.publishedLabel }}</time></span>
+        <span aria-hidden="true">·</span>
+        <span>{{ item.readingMinutes }} min read</span>
+      </p>
+      <p class="article__byline">By <span class="article__author">{{ item.author }}</span> <span class="article__ai" title="Drafted with AI assistance and checked by a human editor before publishing">· {{ site.aiDisclosure }}</span> <a class="article__ai-link" href="{{ '/about/' | url }}">How we work</a></p>
+      {%- if item.hasDescription %}<p class="article__lead">{{ item.description }}</p>{% endif %}
+      {%- if item.answerHtml %}
+      <section class="key-answer" aria-label="Quick answer">
+        <p class="key-answer__label">Quick answer</p>
+        <p class="key-answer__text">{{ item.answerHtml | safe }}</p>
+      </section>
+      {%- endif %}
+      <span hidden data-pagefind-filter="spoilers">{{ item.spoilerLabel }}</span>
+      <span hidden data-pagefind-filter="category">{{ item.category.name }}</span>
+      {%- if item.rumour %}<span hidden data-pagefind-filter="status">Rumour</span>{% endif %}
+    </header>
+
+    {%- if item.rumour %}
+    <aside class="notice notice--rumour" role="note">
+      <p class="notice__title">Rumour — unconfirmed</p>
+      <p>This guide covers information that has <strong>not</strong> been confirmed by Rockstar Games. Treat it as speculation and check the sources below.</p>
+    </aside>
+    {%- endif %}
+    {%- if item.placeholder %}
+    <aside class="notice notice--placeholder" role="note">
+      <p class="notice__title">Placeholder content</p>
+      <p>This page is a structural placeholder and is hidden from search engines until the real guide replaces it.</p>
+    </aside>
+    {%- endif %}
+
+    <div class="article__layout{% if not (item.toc.length > 1) %} article__layout--single{% endif %}">
+      {%- if item.toc.length > 1 %}
+      <aside class="article__toc toc" aria-label="On this page" data-pagefind-ignore>
+        <details class="toc__details" data-toc>
+          <summary class="toc__summary">On this page</summary>
+          <ol class="toc__list">
+            {%- for t in item.toc %}
+            <li class="toc__item toc__item--l{{ t.level }}"><a href="#{{ t.id }}">{{ t.title }}</a></li>
+            {%- endfor %}
+          </ol>
+        </details>
+      </aside>
+      {%- endif %}
+
+      <div class="article__main">
+        <div class="article__body prose">
+          {{ item.html | safe }}
+        </div>
+
+        {%- if item.faq.length %}
+        <section class="article__faq faq" aria-labelledby="faq-h">
+          <h2 id="faq-h">Frequently asked questions</h2>
+          {%- for f in item.faq %}
+          <div class="faq__item">
+            <h3 class="faq__q">{{ f.q }}</h3>
+            <div class="faq__a"><p>{{ f.aHtml | safe }}</p></div>
+          </div>
+          {%- endfor %}
+        </section>
+        {%- endif %}
+
+        {%- if item.sources.length %}
+        <section class="article__sources sources" aria-labelledby="sources-h">
+          <h2 id="sources-h">Sources &amp; credits</h2>
+          <ul class="sources__list">
+            {%- for s in item.sources %}
+            <li class="sources__item">
+              {%- if s.url %}<a class="sources__link" href="{{ s.url }}" rel="noopener noreferrer nofollow" target="_blank">{{ s.label }}</a>{% else %}<span class="sources__link">{{ s.label }}</span>{% endif %}
+              {%- if s.publisher %} <span class="sources__publisher">— {{ s.publisher }}</span>{% endif %}
+              {%- if s.note %} <span class="sources__note">({{ s.note }})</span>{% endif %}
+            </li>
+            {%- endfor %}
+          </ul>
+          <p class="sources__note-all">Credit goes to the original creators and publishers. Spotted a mistake or want credit changed? Tell us via the <a href="{{ '/about/' | url }}">About page</a>.</p>
+        </section>
+        {%- elif not item.placeholder %}
+        <section class="article__sources sources"><h2>Sources &amp; credits</h2><p>No sources listed.</p></section>
+        {%- endif %}
+
+        <p class="article__disclaimer">{{ site.disclaimer }}</p>
+      </div>
+    </div>
+  </article>
+
+  {%- if item.related.length %}
+  <section class="section" aria-labelledby="related-h" data-pagefind-ignore>
+    <header class="section__header"><h2 class="section__title" id="related-h">More {{ item.category.name }}</h2></header>
+    <div class="grid grid--cards">
+      {%- for g in item.related %}{{ guideCard(g, false) }}{% endfor %}
+    </div>
+  </section>
+  {%- endif %}
+</div>

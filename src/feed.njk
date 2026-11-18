@@ -1,0 +1,29 @@
+---
+permalink: /feed.xml
+eleventyExcludeFromCollections: true
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <title>{{ site.name | xml }}</title>
+  <subtitle>{{ site.tagline | xml }}</subtitle>
+  <link href="{{ '/feed.xml' | abs }}" rel="self" type="application/atom+xml"/>
+  <link href="{{ '/' | abs }}" rel="alternate" type="text/html"/>
+  <id>{{ '/' | abs }}</id>
+  <updated>{{ library.lastUpdatedISO }}</updated>
+  <author><name>{{ site.name | xml }}</name></author>
+  <rights>{{ site.disclaimer | xml }}</rights>
+{%- set n = 0 %}
+{%- for g in library.guides %}{% if g.indexable and n < 40 %}{% set n = n + 1 %}
+  <entry>
+    <title>{{ g.title | xml }}</title>
+    <link href="{{ g.url | abs }}" rel="alternate" type="text/html"/>
+    <id>{{ g.url | abs }}</id>
+    <published>{{ g.publishedISO }}</published>
+    <updated>{{ g.updatedISO }}</updated>
+    <category term="{{ g.category.name | xml }}"/>
+    <category term="{{ g.spoilerLabel | xml }}" label="Spoiler level"/>
+    <summary>{{ ("[" + g.spoilerLabel + "] " + g.description) | xml }}</summary>
+    <content type="html"><![CDATA[{{ g.feedHtml | absolutizeHtml | cdata | safe }}]]></content>
+  </entry>
+{%- endif %}{% endfor %}
+</feed>

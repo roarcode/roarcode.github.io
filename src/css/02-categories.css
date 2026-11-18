@@ -1,0 +1,13 @@
+/* Maps site category slugs to the Designer's accent tokens (design/tokens.css).
+   New categories fall back to --x-accent-default. Edit here if the kit renames tokens. */
+:root {
+  --x-accent-default: var(--brand-pink);
+  --cat-launch-hub: var(--brand-cyan);
+  --cat-missions: var(--accent-missions);
+  --cat-money: var(--accent-money);
+  --cat-collectibles: var(--accent-collectibles);
+  --cat-cars: var(--accent-vehicles);
+  --cat-glitches: var(--accent-glitches);
+  --cat-beginner-tips: var(--accent-beginner);
+  --cat-ps5-settings: var(--accent-ps5);
+}

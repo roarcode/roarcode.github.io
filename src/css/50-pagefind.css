@@ -1,0 +1,6 @@
+/* Pagefind default UI themed with the Designer's tokens. */
+.search-ui { --pagefind-ui-scale: .95; --pagefind-ui-primary: var(--brand-pink); --pagefind-ui-text: var(--text-1); --pagefind-ui-background: var(--bg-2); --pagefind-ui-border: var(--line-2); --pagefind-ui-tag: var(--bg-3); --pagefind-ui-border-width: 1px; --pagefind-ui-border-radius: 12px; --pagefind-ui-font: var(--font-body); min-height: 60vh; }
+.search-ui mark { background: none; color: var(--brand-yellow); text-decoration: underline; }
+.search-ui .pagefind-ui__result-link { color: var(--text-1); }
+.search-ui .pagefind-ui__result-excerpt { color: var(--text-2); }
+.search-ui .pagefind-ui__button { background: var(--bg-3); color: var(--text-1); }

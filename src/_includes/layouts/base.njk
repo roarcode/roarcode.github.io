@@ -1,0 +1,37 @@
+<!doctype html>
+{#- Base layout. Markup is semantic + BEM-ish so the Designer's preview.html can be reconciled class by class. -#}
+<html lang="{{ site.lang }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+    <meta name="theme-color" content="#07050f">
+    <meta name="color-scheme" content="dark">
+    {% seoHead pageType, item %}
+    {#- favicons: from design kit if present, otherwise an inline placeholder icon -#}
+    {%- if assets.faviconLinks.length %}
+    {%- for l in assets.faviconLinks %}
+    <link rel="{{ l.rel }}" href="{{ l.href | url }}"{% if l.type %} type="{{ l.type }}"{% endif %}{% if l.sizes %} sizes="{{ l.sizes }}"{% endif %}>
+    {%- endfor %}
+    {%- else %}
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%230b0620'/%3E%3Ccircle cx='16' cy='14' r='7' fill='%23ff2e93'/%3E%3Cpath d='M6 24h20' stroke='%2327e1ff' stroke-width='2'/%3E%3C/svg%3E">
+    {%- endif %}
+    {%- if assets.manifest %}
+    <link rel="manifest" href="{{ ('/' + assets.manifest) | url }}">
+    {%- endif %}
+    <link rel="alternate" type="application/atom+xml" title="{{ site.name }} — new &amp; updated guides" href="{{ '/feed.xml' | url }}">
+    {%- for f in assets.preloadFonts %}
+    <link rel="preload" href="{{ ('/assets/fonts/' + f) | url }}" as="font" type="font/woff2" crossorigin>
+    {%- endfor %}
+    <link rel="stylesheet" href="{{ css.file | url }}">
+    <script src="{{ '/assets/js/spoilers.js' | url }}" defer></script>
+    {% block head %}{% endblock %}
+  </head>
+  <body class="page page--{{ pageType }}">
+    <a class="skip-link" href="#main">Skip to content</a>
+    {% include "partials/header.njk" %}
+    <main id="main" class="site-main" tabindex="-1">
+      {{ content | safe }}
+    </main>
+    {% include "partials/footer.njk" %}
+  </body>
+</html>

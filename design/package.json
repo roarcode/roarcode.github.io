@@ -1,0 +1,4 @@
+{ "name": "leonida-guides-design", "private": true, "type": "module",
+  "description": "Build tooling for the design kit. Unofficial fan site — not affiliated with Rockstar Games.",
+  "scripts": { "build": "bash src/build_all.sh" },
+  "devDependencies": { "@resvg/resvg-js": "^2.6.2", "playwright-core": "^1.50.0" } }
