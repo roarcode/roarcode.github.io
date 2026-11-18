@@ -18,10 +18,14 @@ eleventyExcludeFromCollections: true
   <div class="hero__inner container">
     <p class="hero__eyebrow">Unofficial GTA VI guides</p>
     <h1 class="hero__title">Every GTA VI guide, <span class="hero__accent">sourced and kept current.</span></h1>
-    <p class="hero__lead">Mission walkthroughs, money methods, collectible maps, the best cars, glitch fixes and PS5 settings. Every guide credits its sources and shows when it was last updated.</p>
+    <p class="hero__lead">Launch-day guides: when GTA 6 unlocks in your time zone, how big the pre-load is, what to do if the download or launch fails, and editions and prices. Every guide credits its sources and shows when it was last updated.</p>
+    <p class="hero__cta">
+      <a class="btn btn--primary" href="{{ '/launch-hub/release-time/' | url }}">When does GTA 6 unlock for me?</a>
+      <a class="btn btn--ghost" href="{{ '/launch-hub/' | url }}">Launch Hub</a>
+    </p>
     <form class="hero__search site-search site-search--large" role="search" action="{{ '/search/' | url }}" method="get">
       <label class="visually-hidden" for="hero-search-q">Search all guides</label>
-      <input class="site-search__input" id="hero-search-q" type="search" name="q" placeholder="Try “money”, “best car” or “PS5 settings”" autocomplete="off" enterkeyhint="search">
+      <input class="site-search__input" id="hero-search-q" type="search" name="q" placeholder="Try “release time”, “pre-load” or “download stuck”" autocomplete="off" enterkeyhint="search">
       <button class="site-search__button site-search__button--text" type="submit">Search</button>
     </form>
   </div>

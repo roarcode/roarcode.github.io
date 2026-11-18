@@ -40,7 +40,7 @@
     {{ cardMedia(c, "category-card__media") }}
     <span class="category-card__kicker">{{ c.count }} {{ 'guide' if c.count == 1 else 'guides' }}</span>
     <h3 class="category-card__title">{{ c.name }}</h3>
-    <p class="category-card__desc">{{ c.description }}</p>
+    <p class="category-card__desc">{{ c.description if c.count else (c.intro or c.description) }}</p>
     <span class="category-card__cta" aria-hidden="true">Browse →</span>
   </a>
 </article>

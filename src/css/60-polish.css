@@ -74,3 +74,13 @@
 .x-embed blockquote.twitter-tweet p { margin: 0 0 var(--space-2); }
 .x-embed blockquote.twitter-tweet a { color: var(--brand-cyan); }
 .x-embed iframe { max-width: 100%; }
+
+/* ---- home hero call to action + About label guide ---- */
+.hero__cta { display: flex; flex-wrap: wrap; gap: var(--space-3); margin-top: var(--space-5); }
+.btn { display: inline-flex; align-items: center; justify-content: center; min-height: 48px; padding: 0 var(--space-5); border-radius: var(--radius-pill); font-weight: var(--fw-semibold); font-size: var(--fs-300); text-decoration: none; border: 1px solid transparent; }
+.btn--primary { background: var(--gradient-sunset-h); color: var(--text-on-accent); }
+.btn--primary:hover { color: var(--text-on-accent); filter: brightness(1.08); }
+.btn--ghost { border-color: var(--line-3); color: var(--text-1); background: color-mix(in srgb, var(--bg-1) 70%, transparent); }
+.btn--ghost:hover { border-color: var(--brand-cyan); color: var(--brand-cyan); }
+.label-guide { margin-top: var(--space-6); padding: var(--space-5); border: 1px solid var(--line-1); border-radius: var(--radius-md); background: var(--bg-2); }
+.label-guide__list { margin: var(--space-3) 0 0; padding: 0; list-style: none; display: grid; gap: var(--space-4); font-size: var(--fs-300); color: var(--text-2); }
