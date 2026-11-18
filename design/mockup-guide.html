@@ -3,14 +3,14 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Mission Walkthrough Title Placeholder — Leonida Guides (unofficial fan site)</title>
-<meta name="description" content="Placeholder walkthrough used to demonstrate the guide page layout: table of contents, steps, map block and source credits.">
-<meta name="theme-color" content="#07060c">
+<title>Mission walkthrough title placeholder — Leonida Guides (unofficial fan site)</title>
+<meta name="description" content="Placeholder guide description. Unofficial fan site.">
+<meta name="theme-color" content="#06050d">
 <link rel="icon" href="favicon.svg" type="image/svg+xml"><link rel="icon" href="favicon.ico" sizes="48x48"><link rel="apple-touch-icon" href="apple-touch-icon-180.png"><link rel="manifest" href="site.webmanifest">
-<meta property="og:image" content="og/og-default.png"><meta property="og:title" content="Mission Walkthrough Title Placeholder — Leonida Guides"><meta property="og:description" content="Placeholder walkthrough used to demonstrate the guide page layout: table of contents, steps, map block and source credits.">
-<link rel="preload" href="fonts/Inter-var.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="preload" href="fonts/Syne-var.woff2" as="font" type="font/woff2" crossorigin>
+<meta property="og:image" content="og/og-default.png"><meta property="og:title" content="Mission walkthrough title placeholder — Leonida Guides"><meta property="og:description" content="Placeholder guide description. Unofficial fan site.">
+<link rel="preload" href="fonts/Anton-Regular.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="fonts.css"><link rel="stylesheet" href="tokens.css"><link rel="stylesheet" href="components.css">
+<noscript><style>.spoiler-toggle,.ticker__pause{display:none}</style></noscript>
 </head>
 <body>
 <a class="skip-link" href="#main">Skip to content</a>
@@ -18,26 +18,27 @@
 <header class="site-header">
   <div class="container site-header__inner">
     <a class="site-header__brand" href="mockup-home.html" aria-label="Leonida Guides — home">
-      <img class="site-header__logo site-header__logo--icon" src="logo/icon.svg" width="34" height="34" alt="">
-      <img class="site-header__logo site-header__logo--wordmark" src="logo/wordmark-horizontal.svg" width="190" height="44" alt="Leonida Guides">
+      <img class="site-header__logo" src="logo/icon.svg" width="30" height="30" alt="">
+      <span class="site-header__wordmark" aria-hidden="true">Leonida <span>Guides</span></span>
     </a>
-    <nav class="nav" id="site-nav" aria-label="Primary"><ul class="nav__list"><li><a class="nav__link cat-missions" href="mockup-hub.html" aria-current="page">Missions</a></li><li><a class="nav__link cat-money" href="mockup-hub.html">Money</a></li><li><a class="nav__link cat-collectibles" href="mockup-hub.html">Collectibles</a></li><li><a class="nav__link cat-vehicles" href="mockup-hub.html">Vehicles</a></li><li><a class="nav__link cat-weapons" href="mockup-hub.html">Weapons</a></li><li><a class="nav__link cat-glitches" href="mockup-hub.html">Fixes</a></li><li><a class="nav__link cat-ps5" href="mockup-hub.html">More</a></li></ul></nav>
+    <nav class="nav" id="site-nav" aria-label="Primary"><ul class="nav__list"><li><a class="nav__link cat-missions" href="mockup-hub.html" aria-current="page">Missions</a></li><li><a class="nav__link cat-money" href="mockup-hub.html">Money</a></li><li><a class="nav__link cat-collectibles" href="mockup-hub.html">Collectibles</a></li><li><a class="nav__link cat-vehicles" href="mockup-hub.html">Vehicles</a></li><li><a class="nav__link cat-weapons" href="mockup-hub.html">Weapons</a></li><li><a class="nav__link cat-glitches" href="mockup-hub.html">Fixes</a></li><li><a class="nav__link cat-ps5" href="mockup-hub.html">More topics</a></li></ul></nav>
     <div class="site-header__actions">
-      <button class="icon-btn site-header__search-toggle" type="button" aria-label="Search" aria-expanded="false"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg></button>
-      <button class="icon-btn site-header__toggle" type="button" aria-label="Menu" aria-expanded="false" aria-controls="site-nav"><svg class="icon-btn__open" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg><svg class="icon-btn__close" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18"/></svg></button>
+      <button class="spoiler-toggle" type="button" role="switch" aria-checked="false" data-spoiler-toggle><span class="spoiler-toggle__track" aria-hidden="true"></span><span class="spoiler-toggle__label">Show all spoilers</span><span class="spoiler-toggle__state" data-spoiler-state>Off</span></button>
+      <button class="icon-btn site-header__search-toggle" type="button" aria-label="Search" aria-expanded="false" aria-controls="search-panel"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg></button>
+      <a class="btn btn--cta btn--sm site-header__cta" href="mockup-collectibles.html">Checklists</a>
+      <button class="icon-btn site-header__toggle" type="button" aria-label="Menu" aria-expanded="false" aria-controls="site-nav"><span class="icon-btn__open"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg></span><span class="icon-btn__close"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18"/></svg></span></button>
     </div>
     <div class="site-header__search search" role="search">
       <form class="search__form" action="mockup-search.html">
         <svg class="search__icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
         <input class="search__input" type="search" name="q" placeholder="Search guides…" aria-label="Search guides" autocomplete="off" aria-expanded="false" aria-controls="search-panel">
-        <kbd class="search__kbd">/</kbd>
       </form>
       <div class="search__panel" id="search-panel" hidden>
         <p class="search__group-title label">Guides</p>
         <a class="search__result cat-money" href="mockup-guide.html"><span class="chip">Money</span><span class="search__result-title"><mark>Money</mark> Method #1</span><span class="search__result-excerpt">Lorem ipsum dolor sit amet, consectetur adipiscing.</span></a>
         <a class="search__result cat-money" href="mockup-guide.html"><span class="chip">Money</span><span class="search__result-title"><mark>Money</mark> Method #2</span><span class="search__result-excerpt">Sed do eiusmod tempor incididunt ut labore.</span></a>
         <a class="search__result cat-beginner" href="mockup-guide.html"><span class="chip">Beginner</span><span class="search__result-title">Beginner tips placeholder</span><span class="search__result-excerpt">Early <mark>money</mark> basics, lorem ipsum.</span></a>
-        <p class="search__group-title label">Categories</p>
+        <p class="search__group-title label">Topics</p>
         <a class="search__result cat-money" href="mockup-hub.html"><span class="chip">Hub</span><span class="search__result-title">All <mark>Money</mark> guides</span></a>
         <p class="search__empty" hidden>No guides found. Try a shorter term.</p>
         <div class="search__footer"><span>↑↓ to navigate · Esc to close</span><a href="mockup-search.html">See all results</a></div>
@@ -45,96 +46,91 @@
     </div>
   </div>
 </header>
-
+<div class="read-progress" aria-hidden="true"></div>
 <main id="main" class="cat-missions">
-  <div class="container">
-    <nav class="breadcrumbs" aria-label="Breadcrumb"><ol class="breadcrumbs__list"><li class="breadcrumbs__item"><a class="breadcrumbs__link" href="mockup-home.html">Home</a></li><li class="breadcrumbs__item"><a class="breadcrumbs__link" href="mockup-hub.html">Missions</a></li><li class="breadcrumbs__item" aria-current="page">Mission Walkthrough Title Placeholder</li></ol></nav>
-    <header class="article__header" style="margin-top:1.25rem">
-      <div class="chip-row"><a class="chip cat-missions" href="mockup-hub.html">Missions</a><span class="badge badge--official"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m5 12 5 5 9-10"/></svg>Official source</span><span class="badge badge--rumour"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 8v5M12 17h.01"/><path d="M10.3 4.2 2.8 17.5A2 2 0 0 0 4.5 20.5h15a2 2 0 0 0 1.7-3L13.7 4.2a2 2 0 0 0-3.4 0z"/></svg>Unverified</span></div>
-      <h1 class="article__title">Mission Walkthrough Title Placeholder</h1>
-      <p class="article__lede">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-      <div class="article__meta"><span class="badge badge--updated"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg>Updated 18 Nov 2026</span><span>By the Leonida Guides team</span><span aria-hidden="true">·</span><span>6 min read</span></div>
-    </header>
-    <div class="guide-layout">
-      <div class="guide-layout__toc"><details class="toc" data-collapsible open><summary class="toc__summary">On this page</summary><ol class="toc__list"><li class="toc__item"><a class="toc__link" href="#overview">Overview</a></li><li class="toc__item"><a class="toc__link" href="#before">Before you start</a></li><li class="toc__item"><a class="toc__link" href="#steps">Step-by-step</a></li><li class="toc__item"><a class="toc__link" href="#map">Map &amp; locations</a></li><li class="toc__item"><a class="toc__link" href="#rewards">Rewards &amp; tips</a></li><li class="toc__item"><a class="toc__link" href="#faq">FAQ</a></li><li class="toc__item"><a class="toc__link" href="#sources">Sources</a></li></ol></details></div>
-      <article class="guide-layout__main">
-        <div class="prose">
-          <h2 id="overview" style="margin-top:0;border-top:0;padding-top:0">Overview</h2>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.</p>
-          <dl class="quick-facts"><div class="quick-facts__item"><dt>Difficulty</dt><dd>Placeholder</dd></div><div class="quick-facts__item"><dt>Reward</dt><dd>Placeholder</dd></div><div class="quick-facts__item"><dt>Time</dt><dd>~10 min</dd></div><div class="quick-facts__item"><dt>Platform</dt><dd>PS5 · Xbox</dd></div></dl>
-          <h2 id="before">Before you start</h2>
-          <div class="callout callout--tip"><svg class="callout__icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 18h6M10 21h4M12 3a6 6 0 0 0-3.5 10.9c.6.5 1 1.2 1 2.1h5c0-.9.4-1.6 1-2.1A6 6 0 0 0 12 3z"/></svg><div><span class="callout__title">Tip placeholder</span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Keep tips short and actionable.</div></div>
-          <ul><li>Requirement placeholder one</li><li>Requirement placeholder two</li><li>Requirement placeholder three</li></ul>
-          <h2 id="steps">Step-by-step</h2>
-          <ol class="steps"><li class="step"><span class="step__num" aria-hidden="true"></span><div class="step__body"><h3 class="step__title">Step title placeholder 1</h3><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.</p></div></li><li class="step"><span class="step__num" aria-hidden="true"></span><div class="step__body"><h3 class="step__title">Step title placeholder 2</h3><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.</p></div></li><li class="step"><span class="step__num" aria-hidden="true"></span><div class="step__body"><h3 class="step__title">Step title placeholder 3</h3><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.</p></div></li><li class="step"><span class="step__num" aria-hidden="true"></span><div class="step__body"><h3 class="step__title">Step title placeholder 4</h3><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.</p></div></li></ol>
-          <figure><div class="media-placeholder">Screenshot placeholder · 16:9</div><figcaption>Caption placeholder. Credit: source name (link).</figcaption></figure>
-        </div>
-        <aside class="ad-slot ad-slot--rectangle" aria-label="Advertisement"><span class="ad-slot__label">Advertisement</span><span class="ad-slot__size">300×250 · reserved space</span></aside>
-        <div class="prose">
-          <h2 id="map">Map &amp; locations</h2>
-          <p>Use the filters to show or hide each marker type. Interactive map embed placeholder.</p>
-        </div>
-        <section class="map-embed" aria-label="Interactive map placeholder">
-          <div class="map-embed__toolbar">
-            <p class="map-embed__title"><span>Map · placeholder</span><span>6 markers</span></p>
-            <div class="chip-row chip-row--scroll" role="group" aria-label="Map filters">
-              <button class="chip chip--filter cat-missions" type="button" aria-pressed="true" data-map-filter="mission">Missions</button>
-              <button class="chip chip--filter cat-collectibles" type="button" aria-pressed="true" data-map-filter="collect">Collectibles</button>
-              <button class="chip chip--filter cat-vehicles" type="button" aria-pressed="true" data-map-filter="car">Vehicles</button>
-              <button class="chip chip--filter cat-money" type="button" aria-pressed="true" data-map-filter="money">Money</button>
-            </div>
-          </div>
-          <div class="map-embed__frame">
-            <div class="map-embed__grid"></div>
-            <svg class="map-embed__shape" viewBox="0 0 100 100" preserveAspectRatio="none" aria-hidden="true"><path d="M8 62 C10 40 22 30 34 34 C44 18 62 12 74 22 C90 24 94 44 88 58 C92 74 76 90 58 86 C44 94 20 88 8 62Z"/></svg>
-            <span class="map-embed__pin cat-missions" data-pin-type="mission" style="left:34%;top:40%"></span><span class="map-embed__pin cat-missions" data-pin-type="mission" style="left:62%;top:28%"></span><span class="map-embed__pin cat-collectibles" data-pin-type="collect" style="left:48%;top:66%"></span><span class="map-embed__pin cat-collectibles" data-pin-type="collect" style="left:24%;top:58%"></span><span class="map-embed__pin cat-vehicles" data-pin-type="car" style="left:72%;top:62%"></span><span class="map-embed__pin cat-money" data-pin-type="money" style="left:82%;top:36%"></span>
-            <div class="map-embed__cta"><span>Interactive map loads here (lazy, on tap).</span><a class="btn btn--sm btn--primary" href="#">Open full map</a></div>
-          </div>
-          <div class="map-embed__legend"><span class="map-embed__legend-item cat-missions">Mission</span><span class="map-embed__legend-item cat-collectibles">Collectible</span><span class="map-embed__legend-item cat-vehicles">Vehicle</span><span class="map-embed__legend-item cat-money">Cash</span></div>
-        </section>
-        <div class="prose">
-          <h2 id="rewards">Rewards &amp; tips</h2>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. <span class="badge badge--rumour"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 8v5M12 17h.01"/><path d="M10.3 4.2 2.8 17.5A2 2 0 0 0 4.5 20.5h15a2 2 0 0 0 1.7-3L13.7 4.2a2 2 0 0 0-3.4 0z"/></svg>Unverified</span> <span style="color:var(--text-2)">Claim placeholder that is not yet confirmed.</span></p>
-          <div class="callout callout--warning"><svg class="callout__icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 8v5M12 17h.01"/><path d="M10.3 4.2 2.8 17.5A2 2 0 0 0 4.5 20.5h15a2 2 0 0 0 1.7-3L13.7 4.2a2 2 0 0 0-3.4 0z"/></svg><div><span class="callout__title">Unconfirmed information</span>Items marked “Unverified” come from a single non-official source and may change.</div></div>
-          <h2 id="faq">FAQ</h2>
-          <div>
-            <details class="faq"><summary class="faq__q">Question placeholder one?</summary><p class="faq__a">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p></details>
-            <details class="faq"><summary class="faq__q">Question placeholder two?</summary><p class="faq__a">Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p></details>
-            <details class="faq"><summary class="faq__q">Question placeholder three?</summary><p class="faq__a">Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p></details>
-          </div>
-        </div>
-        <section class="source-credit" id="sources" aria-labelledby="src-title">
-          <h2 class="source-credit__title" id="src-title">Sources &amp; credits</h2>
-          <ul class="source-credit__list">
-            <li class="source-credit__item"><span class="badge badge--official"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m5 12 5 5 9-10"/></svg>Official source</span><a class="source-credit__link" href="#">Publisher newswire post (placeholder title)</a><span class="source-credit__date">Accessed 18 Nov 2026</span></li>
-            <li class="source-credit__item"><span class="badge badge--rumour"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 8v5M12 17h.01"/><path d="M10.3 4.2 2.8 17.5A2 2 0 0 0 4.5 20.5h15a2 2 0 0 0 1.7-3L13.7 4.2a2 2 0 0 0-3.4 0z"/></svg>Unverified</span><a class="source-credit__link" href="#">Community forum thread (placeholder)</a><span class="source-credit__date">Accessed 18 Nov 2026</span></li>
-            <li class="source-credit__item"><span class="badge">Image</span><a class="source-credit__link" href="#">Screenshot credit: creator name (placeholder)</a></li>
-          </ul>
-          <p class="source-credit__note">Spotted a mistake? <a href="#">Send a correction</a>. Our text is original; we link and credit everything we reference.</p>
-        </section>
-      </article>
-      <aside class="guide-layout__aside" aria-label="Sidebar">
-        <aside class="ad-slot ad-slot--sidebar" aria-label="Advertisement"><span class="ad-slot__label">Advertisement</span><span class="ad-slot__size">300×600 · reserved space</span></aside>
-        <div class="side-card"><p class="side-card__title">Related guides</p><ul class="side-list"><li><a class="side-list__link" href="#">Money Method #1 <span>6 min</span></a></li><li><a class="side-list__link" href="#">Beginner Tips Placeholder <span>4 min</span></a></li><li><a class="side-list__link" href="#">PS5 Settings Placeholder <span>3 min</span></a></li></ul></div>
-      </aside>
-    </div>
+
+<div class="container"><nav class="breadcrumbs" aria-label="Breadcrumb"><ol class="breadcrumbs__list"><li class="breadcrumbs__item"><a class="breadcrumbs__link" href="mockup-home.html">Home</a></li><li class="breadcrumbs__item"><a class="breadcrumbs__link" href="mockup-hub.html">Missions</a></li><li class="breadcrumbs__item" aria-current="page">Mission walkthrough placeholder</li></ol></nav></div>
+<header class="article-head">
+  <div class="container article-head__inner">
+    <div class="article-head__tags"><a class="chip" href="mockup-hub.html">Missions</a><span class="badge badge--updated"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg>Updated 18 Nov 2026</span><span class="badge badge--official"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="m5 12 5 5 9-10"/></svg>Official source</span><span class="badge badge--spoiler badge--spoiler-minor">Minor spoilers</span></div>
+    <h1 class="article-head__title">Mission walkthrough title placeholder</h1>
+    <p class="article-head__lede">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore. Sed ut perspiciatis unde omnis iste natus error sit voluptatem.</p>
+    <div class="byline">
+  <span class="byline__avatar"><img src="logo/icon.svg" width="30" height="30" alt="" loading="lazy"></span>
+  <div class="byline__body"><span class="byline__author">By Leonida Guides Team</span>
+  <p class="byline__dates"><span class="byline__updated">Updated <time datetime="2026-11-18">18 Nov 2026</time></span><span>Published <time datetime="2026-11-14">14 Nov 2026</time></span><span>6 min read</span></p></div>
+</div>
   </div>
+</header>
+<div class="container guide-layout">
+  <nav class="guide-layout__toc" aria-label="On this page"><details class="toc" data-collapsible data-toc open><summary class="toc__summary">On this page</summary><ol class="toc__list"><li class="toc__item"><a class="toc__link" href="#overview">Overview</a></li><li class="toc__item"><a class="toc__link" href="#requirements">Requirements</a></li><li class="toc__item"><a class="toc__link" href="#steps">Step by step</a></li><li class="toc__item"><a class="toc__link" href="#rewards">Rewards</a></li><li class="toc__item"><a class="toc__link" href="#spoilers">Story details (spoilers)</a></li><li class="toc__item"><a class="toc__link" href="#faq">FAQ</a></li></ol></details></nav>
+  <article class="guide-layout__main">
+    <picture class="article__hero"><source type="image/avif" srcset="img/cat-missions-768.avif 768w, img/cat-missions-1280.avif 1280w" sizes="(min-width:64rem) 760px, 100vw"><source type="image/webp" srcset="img/cat-missions-768.webp 768w, img/cat-missions-1280.webp 1280w" sizes="(min-width:64rem) 760px, 100vw"><img src="img/cat-missions-768.webp" width="1280" height="720" alt="" fetchpriority="high" decoding="async"></picture>
+    <div class="prose">
+      <dl class="quick-facts"><div class="quick-facts__item"><dt>Type</dt><dd>Mission</dd></div><div class="quick-facts__item"><dt>Difficulty</dt><dd>Medium</dd></div><div class="quick-facts__item"><dt>Time</dt><dd>~20 min</dd></div><div class="quick-facts__item"><dt>Reward</dt><dd>Placeholder</dd></div></dl>
+      <h2 id="overview">Overview</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore. Ut enim ad minim veniam, quis nostrud <a href="mockup-hub.html">exercitation ullamco</a> laboris nisi ut aliquip ex ea commodo consequat.</p>
+      <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.</p>
+      <h2 id="requirements">Requirements</h2>
+      <div class="callout callout--tip"><svg class="callout__icon" viewBox="0 0 24 24" aria-hidden="true"><path d="m5 12 5 5 9-10"/></svg><div><span class="callout__title">Tip placeholder</span>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div></div>
+      <ul><li>Requirement placeholder one</li><li>Requirement placeholder two</li><li>Requirement placeholder three</li></ul>
+      <h2 id="steps">Step by step</h2>
+      <ol class="steps"><li class="step"><span class="step__num" aria-hidden="true"></span><div class="step__body"><h3 class="step__title">Step title placeholder 1</h3><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p></div></li><li class="step"><span class="step__num" aria-hidden="true"></span><div class="step__body"><h3 class="step__title">Step title placeholder 2</h3><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p></div></li><li class="step"><span class="step__num" aria-hidden="true"></span><div class="step__body"><h3 class="step__title">Step title placeholder 3</h3><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p></div></li></ol>
+      <h2 id="rewards">Rewards</h2>
+      <div class="table-wrap" tabindex="0" role="region" aria-label="Rewards table"><table class="table"><thead><tr><th scope="col">Item</th><th scope="col">Amount</th><th scope="col">Notes</th></tr></thead><tbody><tr><th scope="row">Reward placeholder A</th><td>$0,000</td><td>Lorem ipsum</td></tr><tr><th scope="row">Reward placeholder B</th><td>000 XP</td><td>Dolor sit amet</td></tr><tr><th scope="row">Reward placeholder C</th><td>—</td><td>Consectetur</td></tr></tbody></table></div>
+      <h2 id="spoilers">Story details (spoilers)</h2>
+      <p class="spoiler-note">Sections like this stay closed until you tap them. Use “Show all spoilers” in the header to open every one.</p>
+      <details class="spoiler" data-spoiler>
+        <summary class="spoiler__summary"><span class="spoiler__head"><span class="badge badge--spoiler badge--spoiler-minor">Minor spoilers</span><span class="spoiler__label">Placeholder spoiler section A</span><span class="spoiler__hint"></span></span></summary>
+        <div class="spoiler__body"><p>Placeholder text only. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p><p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.</p></div>
+      </details>
+      <details class="spoiler spoiler--major" data-spoiler>
+        <summary class="spoiler__summary"><span class="spoiler__head"><span class="badge badge--spoiler badge--spoiler-major">Major spoilers</span><span class="spoiler__label">Placeholder spoiler section B</span><span class="spoiler__hint"></span></span></summary>
+        <div class="spoiler__body"><p>Placeholder text only. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p></div>
+      </details>
+      <h2 id="faq">FAQ</h2>
+      <details class="faq"><summary class="faq__q">Question placeholder one?</summary><p class="faq__a">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p></details>
+      <details class="faq"><summary class="faq__q">Question placeholder two?</summary><p class="faq__a">Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p></details>
+    </div>
+    <aside class="source-credit" aria-labelledby="src-title"><p class="source-credit__title" id="src-title">Sources</p><ul class="source-credit__list"><li class="source-credit__item"><a class="source-credit__link" href="mockup-home.html">Official source placeholder</a><span class="source-credit__date">checked 18 Nov 2026</span></li></ul><p class="source-credit__note">Image credit placeholder. Unofficial fan site — not affiliated with Rockstar Games.</p></aside>
+  </article>
+  <aside class="guide-layout__aside" aria-label="Related">
+    <div class="side-card"><h2 class="side-card__title">Related guides</h2><ul class="related"><li class="guide-card cat-missions guide-card--compact" data-cat="missions">
+  <div class="guide-card__media"><div class="guide-card__art"><img src="img/crop-boat.webp" width="640" height="400" alt="" loading="lazy" decoding="async"></div><span class="guide-card__chip chip">Missions</span></div>
+  <div class="guide-card__body">
+    <h3 class="guide-card__title"><a class="guide-card__link" href="mockup-guide.html">Next mission placeholder</a></h3>
+    <div class="guide-card__meta"><span class="guide-card__cat">Missions</span><span class="guide-card__badge"><span class="badge badge--spoiler badge--spoiler-none">Spoiler-free</span></span><span>6 min</span></div>
+  </div>
+</li><li class="guide-card cat-money guide-card--compact" data-cat="money">
+  <div class="guide-card__media"><div class="guide-card__art"><img src="img/crop-cash.webp" width="640" height="400" alt="" loading="lazy" decoding="async"></div><span class="guide-card__chip chip">Money</span></div>
+  <div class="guide-card__body">
+    <h3 class="guide-card__title"><a class="guide-card__link" href="mockup-guide.html">Money Method #2 placeholder</a></h3>
+    <div class="guide-card__meta"><span class="guide-card__cat">Money</span><span class="guide-card__badge"><span class="badge badge--spoiler badge--spoiler-none">Spoiler-free</span></span><span>5 min</span></div>
+  </div>
+</li><li class="guide-card cat-vehicles guide-card--compact" data-cat="vehicles">
+  <div class="guide-card__media"><div class="guide-card__art"><img src="img/crop-car.webp" width="640" height="400" alt="" loading="lazy" decoding="async"></div><span class="guide-card__chip chip">Vehicles</span></div>
+  <div class="guide-card__body">
+    <h3 class="guide-card__title"><a class="guide-card__link" href="mockup-guide.html">Vehicle tips placeholder</a></h3>
+    <div class="guide-card__meta"><span class="guide-card__cat">Vehicles</span><span class="guide-card__badge"><span class="badge badge--spoiler badge--spoiler-none">Spoiler-free</span></span><span>4 min</span></div>
+  </div>
+</li></ul></div>
+    <div class="ad-slot ad-slot--rectangle" role="complementary" aria-label="Advertisement placeholder"><span class="ad-slot__label">Advertisement</span><span class="ad-slot__size">300 × 250</span></div>
+  </aside>
+</div>
 </main>
 <footer class="site-footer">
   <div class="container">
     <div class="site-footer__grid">
-      <div class="site-footer__brand"><img src="logo/wordmark-stacked.svg" width="190" height="95" alt="Leonida Guides" loading="lazy">
+      <div class="site-footer__brand"><a class="site-footer__wordmark" href="mockup-home.html">Leonida <span>Guides</span></a>
         <p class="site-footer__about">Guides, tips and walkthroughs for the open-world crime series, written by fans. Every fact shows its source; rumours are labelled.</p></div>
-      <nav aria-label="Guides"><h2 class="site-footer__title">Guides</h2><ul class="site-footer__list"><li><a class="site-footer__link" href="#">Missions</a></li><li><a class="site-footer__link" href="#">Money</a></li><li><a class="site-footer__link" href="#">Collectibles</a></li><li><a class="site-footer__link" href="#">Vehicles</a></li></ul></nav>
-      <nav aria-label="Help"><h2 class="site-footer__title">Help</h2><ul class="site-footer__list"><li><a class="site-footer__link" href="#">Beginner tips</a></li><li><a class="site-footer__link" href="#">PS5 settings</a></li><li><a class="site-footer__link" href="#">Glitches &amp; fixes</a></li></ul></nav>
-      <nav aria-label="Site"><h2 class="site-footer__title">Site</h2><ul class="site-footer__list"><li><a class="site-footer__link" href="#">About &amp; sources policy</a></li><li><a class="site-footer__link" href="#">Corrections</a></li><li><a class="site-footer__link" href="#">Privacy</a></li><li><a class="site-footer__link" href="#">Contact</a></li></ul></nav>
+      <nav aria-label="Guides"><h2 class="site-footer__title">Guides</h2><ul class="site-footer__list"><li><a class="site-footer__link" href="mockup-hub.html">Missions</a></li><li><a class="site-footer__link" href="mockup-hub.html">Money</a></li><li><a class="site-footer__link" href="mockup-hub.html">Collectibles</a></li><li><a class="site-footer__link" href="mockup-hub.html">Vehicles</a></li></ul></nav>
+      <nav aria-label="Help"><h2 class="site-footer__title">Help</h2><ul class="site-footer__list"><li><a class="site-footer__link" href="mockup-hub.html">Beginner tips</a></li><li><a class="site-footer__link" href="mockup-hub.html">PS5 settings</a></li><li><a class="site-footer__link" href="mockup-hub.html">Glitches &amp; fixes</a></li></ul></nav>
+      <nav aria-label="Site"><h2 class="site-footer__title">Site</h2><ul class="site-footer__list"><li><a class="site-footer__link" href="mockup-home.html">About</a></li><li><a class="site-footer__link" href="mockup-home.html">Sources &amp; corrections</a></li><li><a class="site-footer__link" href="mockup-home.html">Privacy</a></li></ul></nav>
     </div>
-    <div class="site-footer__disclaimer">
-      <p class="site-footer__disclaimer-strong">Unofficial fan site — not affiliated with Rockstar Games</p>
-      <p class="site-footer__legal">This is an independent fan project. It is not endorsed by, sponsored by or connected to Rockstar Games or Take-Two Interactive. Grand Theft Auto and related names and marks are trademarks of their respective owners and are used here only to identify the subject of our guides. Screenshots are credited to their sources.</p>
-      <p class="site-footer__legal">© 2026 Leonida Guides. Original design and text.</p>
-    </div>
+    <div class="site-footer__disclaimer"><p class="site-footer__disclaimer-strong">Unofficial fan site — not affiliated with Rockstar Games</p>
+      <p class="site-footer__legal">Leonida Guides is an independent fan project. All trademarks belong to their respective owners. This site is not endorsed by, directly affiliated with, or sponsored by Rockstar Games or Take-Two Interactive.</p></div>
   </div>
 </footer>
 <script src="ui.js" defer></script>
-</body></html>
+</body>
+</html>

@@ -14,3 +14,14 @@
 **Formats** — hero/category art: AVIF + WebP via `<picture>`, `loading="lazy"` (eager + `fetchpriority="high"` for the hero only), always `width`/`height`. Diagrams: SVG inline or PNG/WebP. `alt` describes the information, not the decoration.
 
 **OG per guide** — `og/og-template.svg` / `og-template-2line.svg` (see README). 1200×630, disclaimer baked in.
+
+## Official Rockstar media in use
+
+Logged for every credited press still used on the site. Credit line on the image and in the caption: **Image: Rockstar Games**, with a link to the source page. Local copies live under `design/pipeline/sources/`. Derived cards are WebP under 150 KB in `site-images/`.
+
+| Slot | Official name | Output | Local source | Source page | Direct file |
+|---|---|---|---|---|---|
+| `map-step-1` | Leonida Keys 01 (press screenshot) | `site-images/map-step-1.webp` | `design/pipeline/sources/leonida-keys-01.jpg` | https://www.rockstargames.com/VI/media/screenshots | https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_01.0zgz7tveur6y8.jpg |
+| `jason-lucia-step-1` | Jason and Lucia 01 (landscape, no logos) | `site-images/jason-lucia-step-1.webp` | `design/pipeline/sources/jason-and-lucia-01-key-art.jpg` | https://www.rockstargames.com/VI/media/artwork-wallpapers | https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_01_landscape.12x2gvspcm_3m.jpg |
+
+No leaked or pirated images. Trailer frames were not used. `jason-lucia-step-1` is official marketing key art, not a story still.

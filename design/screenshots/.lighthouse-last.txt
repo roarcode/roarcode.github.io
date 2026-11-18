@@ -1,0 +1,2 @@
+home: perf 100 · a11y 100 · best-practices 100 · seo 100 | FCP 0.8 s LCP 1.9 s TBT 0 ms CLS 0.000 SI 0.8 s
+guide: perf 100 · a11y 100 · best-practices 100 · seo 100 | FCP 0.9 s LCP 0.9 s TBT 0 ms CLS 0.039 SI 0.9 s

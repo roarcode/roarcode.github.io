@@ -1,12 +1,12 @@
 # Leonida Guides — design kit
 
 Unofficial fan site — not affiliated with Rockstar Games. Working name **Leonida Guides** (alternatives in `tokens.md`).
-Stack target: Eleventy + plain CSS custom properties, mobile-first, dark-only, no JS framework, ~2 KB of enhancement script.
+Stack target: Eleventy + plain CSS custom properties, mobile-first, dark-only, no JS framework, ~5 KB (min) of enhancement script.
 
 ## Originality & licensing
 - Art direction is original: night-neon (pink / cyan / sunset orange) on near-black with a sunset-gradient feel. No Rockstar logos, GTA VI logo, fonts (Pricedown or look-alikes), official/ripped art, characters, or competitor design.
 - **Hero, category headers and the OG background are AI-generated originals** (`art/*-raw.jpg`, exported to `img/`). They contain no Rockstar assets, logos or characters. A CSS-only fallback hero (`.hero__art`) shows if the image is slow or blocked.
-- Fonts are free OFL fonts: Syne, Inter, Space Mono (`fonts/LICENSES.md`). Nothing paid, nothing bought.
+- Fonts are free OFL fonts: Anton (display) and Inter (body) (`fonts/LICENSES.md`). Nothing paid, nothing bought.
 - Mockup copy is generic placeholder text only (no story, mission, character or secret content).
 - Every visible brand surface carries "Unofficial fan site — not affiliated with Rockstar Games": disclaimer bar (every page), hero note, footer, OG images.
 
@@ -16,10 +16,13 @@ Stack target: Eleventy + plain CSS custom properties, mobile-first, dark-only, n
 | `tokens.css` | **Source of truth.** `:root` vars: colours, category accents (`--accent-missions`…), type scale, spacing, radii, glows, breakpoints, motion. |
 | `tokens.json`, `brand.json` | Generated tokens for build-time use; `brand.json` holds name/tagline/disclaimer for regeneration. |
 | `tokens.md` | Palette, fonts + licences, contrast numbers, name + alternatives. |
-| `fonts.css`, `fonts/` | Self-hosted Latin-subset woff2 (Inter 26 KB, Syne 31 KB, Space Mono 2×14 KB) + `*-static.ttf` for the OG renderer. |
+| `fonts.css`, `fonts/` | Self-hosted woff2, Latin + Latin Extended-A (č š ž): `Anton-Regular` 18 KB, `Inter-Variable` 31 KB. `*-static.ttf` for the OG renderer (still Syne — see UPGRADE.md). `fonts/legacy/` = retired fonts. |
 | `components.css` | All components (BEM). `components.md` = copy-paste HTML per component. |
-| `ui.js` | Menu, search toggle/dropdown, ToC collapse + scroll-spy, map filter chips. Demo hash states `#demo-menu`, `#demo-search`. |
-| `mockup-home.html`, `mockup-guide.html`, `mockup-hub.html`, `mockup-search.html` | Static mockups (open directly in a browser). Guide page = ToC + steps + map block + sources + badges. |
+| `ui.js` | Menu, search dropdown, spoiler switch, card filters, ToC collapse + scroll-spy, read-progress, checklist trackers, gallery lightbox, ticker pause. Demo hash states `#demo-menu`, `#demo-search`. |
+| `mockup-home.html`, `mockup-guide.html`, `mockup-collectibles.html`, `mockup-hub.html`, `mockup-search.html` | Static mockups (v2 "Dusk Wire" redesign; open directly in a browser). Guide page = byline + ToC + steps + spoiler blocks + sources. |
+| `UPGRADE.md` | **Hand-off for Lead Engineer**: class renames, template mapping, front matter, priority order. |
+| `legacy/` | v1 CSS/JS/tokens (reference only). |
+| `src/build_pages.py`, `build_crops.py`, `test_redesign.mjs`, `lighthouse.mjs`, `shoot_redesign*.mjs` | Mockup generator, art crops, 61 checks (axe, a11y, layout, JS), production-like mobile Lighthouse, screenshots. |
 | `screenshots/` | `mockup-*-mobile.png` (390 px @2x) and `-desktop.png` (1280 px); plus `mockup-home-search-*` / `-menu-mobile`. |
 | `logo/` | `wordmark-horizontal.svg`, `wordmark-stacked.svg`, `icon.svg` (square), `monogram-sun.svg` (no tile). Text is outlined. |
 | `favicon.svg`, `favicon.ico`, `favicon-32.png`, `apple-touch-icon-180.png`, `icon-192.png`, `icon-512.png`, `site.webmanifest` | Favicon set (root of `design/`; copy to site root). |

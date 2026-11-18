@@ -1,5 +1,6 @@
 /* ==========================================================================
-   Leonida Guides — design tokens  (SOURCE OF TRUTH; tokens.json is generated from this by hand/for OG only)
+   Leonida Guides — design tokens  (SOURCE OF TRUTH; tokens.json is generated from this by src/build_tokens_json.py)
+   v2 "Dusk Wire" redesign: Anton display + Inter body, slanted/notched shapes, pink→orange CTA, restrained glow.
    Unofficial fan site — not affiliated with Rockstar Games.
    Mobile-first. Dark-only. Import once:  <link rel="stylesheet" href="/tokens.css">
    Contrast (WCAG 2.2): --text-1/2 on any --bg-* >= 9:1; --text-3 >= 5.1:1 on --bg-3 (AA 4.5:1).
@@ -8,10 +9,10 @@
   color-scheme: dark;
 
   /* ---- Surfaces (violet-tinted near-black; Vercel-style tiers with fixed jobs) ---- */
-  --bg-0: #07060c;   /* page */
-  --bg-1: #0d0b16;   /* header, footer, inset areas */
-  --bg-2: #151226;   /* cards, panels */
-  --bg-3: #1e1a36;   /* hover / raised / inputs */
+  --bg-0: #06050d;   /* page */
+  --bg-1: #0c0a1a;   /* header, footer, inset areas */
+  --bg-2: #141030;   /* cards, panels */
+  --bg-3: #1d1745;   /* hover / raised / inputs */
   --line-1: #2a2446; /* default 1px border */
   --line-2: #3b3462; /* hover border */
   --line-3: #54497f; /* active / strong border */
@@ -20,7 +21,7 @@
   --text-1: #f4f1fa; /* headings, primary body (18:1 on bg-0) */
   --text-2: #c4bdda; /* body secondary, article prose (11:1) */
   --text-3: #9189ae; /* meta, captions (6.1:1 on bg-0, 5.1:1 on bg-3) — never smaller than 12px */
-  --text-on-accent: #07060c; /* dark text on pink/orange/cyan fills (>= 5.8:1) */
+  --text-on-accent: #06050d; /* dark text on pink/orange/cyan fills (>= 5.8:1) */
 
   /* ---- Brand neons ---- */
   --brand-pink: #ff2e93;
@@ -47,20 +48,27 @@
   --status-updated: #4ade80;
   --status-danger: #ff6b6b;
 
+  /* ---- Shape language (clip-path): slanted chips, notched cards ---- */
+  --clip-slant: polygon(7px 0, 100% 0, calc(100% - 7px) 100%, 0 100%);
+  --clip-notch: polygon(0 0, calc(100% - 22px) 0, 100% 22px, 100% 100%, 22px 100%, 0 calc(100% - 22px));
+  --clip-notch-sm: polygon(0 0, calc(100% - 12px) 0, 100% 12px, 100% 100%, 12px 100%, 0 calc(100% - 12px));
+  --clip-cut-bottom: polygon(0 0, 100% 0, 100% calc(100% - 16px), calc(100% - 32px) 100%, 0 100%);
+
   /* ---- Gradients ---- */
+  --gradient-cta: linear-gradient(95deg, #ff8a3d 0%, #ff2e93 100%);
   --gradient-sunset: linear-gradient(135deg, #ffc857 0%, #ff8a3d 35%, #ff2e93 70%, #8b5cf6 100%);
   --gradient-sunset-h: linear-gradient(90deg, #ff8a3d, #ff2e93);
   --gradient-sky: linear-gradient(180deg, #1a0b3a 0%, #5a1a6e 38%, #c2275f 66%, #ff8a3d 88%, #ffc857 100%);
-  --overlay-hero: linear-gradient(90deg, rgb(7 6 12 / .95) 0%, rgb(7 6 12 / .82) 50%, rgb(7 6 12 / .3) 100%),
-                  linear-gradient(0deg, rgb(7 6 12 / 1) 0%, rgb(7 6 12 / 0) 38%);
-  --overlay-hero-mobile: linear-gradient(0deg, rgb(7 6 12 / .97) 0%, rgb(7 6 12 / .9) 52%, rgb(7 6 12 / 0) 80%);
-  --overlay-card: linear-gradient(0deg, rgb(7 6 12 / .85) 0%, rgb(7 6 12 / 0) 60%);
+  --overlay-hero: linear-gradient(90deg, rgb(6 5 13 / .95) 0%, rgb(6 5 13 / .82) 50%, rgb(6 5 13 / .3) 100%),
+                  linear-gradient(0deg, rgb(6 5 13 / 1) 0%, rgb(6 5 13 / 0) 38%);
+  --overlay-hero-mobile: linear-gradient(0deg, rgb(6 5 13 / .97) 0%, rgb(6 5 13 / .9) 52%, rgb(6 5 13 / 0) 80%);
+  --overlay-card: linear-gradient(0deg, rgb(6 5 13 / .85) 0%, rgb(6 5 13 / 0) 60%);
 
   /* ---- Typography ---- */
-  --font-display: "Syne", "Arial Black", system-ui, sans-serif;           /* OFL — headings, wordmark */
-  --font-body: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; /* OFL — UI + prose */
-  --font-mono: "Space Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;     /* OFL — labels, dates */
-  --fw-regular: 400; --fw-medium: 500; --fw-semibold: 600; --fw-bold: 700; --fw-display: 700; --fw-display-heavy: 800;
+  --font-display: "Anton", "Anton Fallback", Impact, "Arial Narrow", sans-serif;   /* OFL — HEAVY condensed, ALL-CAPS headlines (400 only) */
+  --font-body: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;     /* OFL — UI + prose (400–800) */
+  --font-mono: var(--font-body);   /* alias kept for compatibility: labels are Inter 800 uppercase tabular-nums */
+  --fw-regular: 400; --fw-medium: 500; --fw-semibold: 600; --fw-bold: 700; --fw-extrabold: 800; --fw-display: 400; --fw-display-heavy: 400; /* Anton ships one weight: never ask for bold */
 
   /* Fluid type scale (mobile -> desktop, ~1.2 -> 1.25 ratio) */
   --fs-100: .75rem;                                          /* 12 caption / badge / mono label */
@@ -69,29 +77,31 @@
   --fs-400: 1.0625rem;                                       /* 17 article body */
   --fs-500: clamp(1.1875rem, 1.12rem + .35vw, 1.375rem);     /* 19–22 lead, h4 */
   --fs-600: clamp(1.375rem, 1.2rem + .8vw, 1.75rem);         /* 22–28 h3 */
-  --fs-700: clamp(1.625rem, 1.3rem + 1.5vw, 2.25rem);        /* 26–36 h2 */
-  --fs-800: clamp(1.875rem, 1.35rem + 2.6vw, 3.25rem);       /* 30–52 h1 (Syne is wide: keep titles short) */
-  --fs-900: clamp(2.25rem, 1.4rem + 4vw, 4.5rem);            /* 36–72 hero */
+  --fs-700: clamp(1.75rem, 1.35rem + 1.6vw, 2.5rem);        /* 28–40 h2 */
+  --fs-800: clamp(2.375rem, 1.5rem + 3.6vw, 4rem);          /* 38–64 h1 (Anton is condensed: go big) */
+  --fs-900: clamp(2.75rem, 1.4rem + 6vw, 5.75rem);          /* 44–92 hero */
   --lh-tight: 1.1; --lh-snug: 1.25; --lh-normal: 1.5; --lh-prose: 1.7;
-  --ls-display: -.01em; --ls-caps: .14em; --ls-mono: .06em;
+  --ls-display: .012em; --ls-caps: .14em; --ls-mono: .08em;
   --measure: 68ch; /* max article line length */
 
   /* ---- Spacing (4px base) ---- */
   --space-1: .25rem; --space-2: .5rem; --space-3: .75rem; --space-4: 1rem; --space-5: 1.5rem;
   --space-6: 2rem;   --space-7: 3rem;  --space-8: 4rem;  --space-9: 6rem;  --space-10: 7rem;
-  --space-section: clamp(3rem, 2rem + 4vw, 6.5rem);   /* vertical rhythm between page sections */
+  --space-section: clamp(2.5rem, 1.75rem + 3vw, 4.5rem);   /* vertical rhythm between page sections */
   --gutter: clamp(1rem, .5rem + 2.2vw, 2rem);
 
   /* ---- Layout ---- */
-  --container: 76rem;       /* 1216 */
+  --container: 80rem;       /* 1280 */
   --container-narrow: 48rem;
   --header-h: 3.5rem;
+  --ticker-h: 2.25rem;
   --sidebar-w: 18rem;
 
   /* ---- Radii ---- */
-  --radius-xs: 4px; --radius-sm: 8px; --radius-md: 12px; --radius-lg: 18px; --radius-pill: 999px;
+  --radius-xs: 3px; --radius-sm: 6px; --radius-md: 10px; --radius-lg: 14px; --radius-pill: 999px;
 
   /* ---- Shadows / glows (translucent only — never opaque grey halos) ---- */
+  --glow-hover: 0 0 0 1px color-mix(in srgb, var(--accent) 60%, transparent), 0 10px 36px -10px color-mix(in srgb, var(--accent) 55%, transparent);
   --shadow-1: 0 1px 0 rgb(255 255 255 / .04) inset, 0 8px 24px -12px rgb(0 0 0 / .7);
   --shadow-2: 0 1px 0 rgb(255 255 255 / .06) inset, 0 18px 40px -16px rgb(0 0 0 / .8);
   --glow-pink: 0 0 0 1px rgb(255 46 147 / .45), 0 0 24px -2px rgb(255 46 147 / .45);

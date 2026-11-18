@@ -1,60 +1,54 @@
-"""Generates mockup-*.html (static HTML; Lead Engineer mirrors the markup/classes in Eleventy)."""
-import json, pathlib
+"""Generates mockup-*.html (static HTML; Lead Engineer mirrors the markup/classes 1:1 in Eleventy). Placeholder text only — no spoilers."""
+import pathlib
 D = pathlib.Path(__file__).resolve().parent.parent
-LQ = json.loads((D/'img/lqip.json').read_text())
 DISC = 'Unofficial fan site — not affiliated with Rockstar Games'
-ICON = {
- 'search': '<svg class="search__icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>',
- 'search-btn': '<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>',
- 'menu': '<svg class="icon-btn__open" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg><svg class="icon-btn__close" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18"/></svg>',
- 'check': '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="m5 12 5 5 9-10"/></svg>',
- 'alert': '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 8v5M12 17h.01"/><path d="M10.3 4.2 2.8 17.5A2 2 0 0 0 4.5 20.5h15a2 2 0 0 0 1.7-3L13.7 4.2a2 2 0 0 0-3.4 0z"/></svg>',
- 'clock': '<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg>',
- 'bulb': '<svg class="callout__icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 18h6M10 21h4M12 3a6 6 0 0 0-3.5 10.9c.6.5 1 1.2 1 2.1h5c0-.9.4-1.6 1-2.1A6 6 0 0 0 12 3z"/></svg>',
- 'warn': '<svg class="callout__icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 8v5M12 17h.01"/><path d="M10.3 4.2 2.8 17.5A2 2 0 0 0 4.5 20.5h15a2 2 0 0 0 1.7-3L13.7 4.2a2 2 0 0 0-3.4 0z"/></svg>',
+def svg(d, cls='icon'): return f'<svg class="{cls}" viewBox="0 0 24 24" aria-hidden="true">{d}</svg>'
+IC = {
+ 'search': '<circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/>',
+ 'menu': '<path d="M4 7h16M4 12h16M4 17h16"/>', 'close': '<path d="M6 6l12 12M18 6 6 18"/>',
+ 'clock': '<circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/>', 'check': '<path d="m5 12 5 5 9-10"/>',
+ 'alert': '<path d="M12 8v5M12 17h.01"/><path d="M10.3 4.2 2.8 17.5A2 2 0 0 0 4.5 20.5h15a2 2 0 0 0 1.7-3L13.7 4.2a2 2 0 0 0-3.4 0z"/>',
+ 'flame': '<path d="M12 3c1 3.5 5 5.5 5 10a5 5 0 0 1-10 0c0-2 1-3 2-4 .3 1.2 1 2 2 2 0-3-1-5 1-8z"/>',
+ 'missions': '<path d="M5 21V4M5 4h11l-2 4 2 4H5"/>', 'money': '<circle cx="12" cy="12" r="9"/><path d="M14.5 9c-.5-1-1.5-1.5-2.5-1.5-1.5 0-2.5.8-2.5 2 0 3 5 1.5 5 4.500 0 1.200-1 2-2.500 2-1.100 0-2.100-.5-2.600-1.500M12 6v1.500M12 16.500V18"/>',
+ 'collectibles': '<path d="m12 3 2.700 5.600 6.100.9-4.400 4.300 1 6.100L12 17l-5.400 2.900 1-6.100L3.200 9.500l6.100-.9z"/>',
+ 'vehicles': '<path d="M5 16V11l2-5h10l2 5v5M3 16h18M7 19v-3M17 19v-3M5 11h14"/>',
+ 'weapons': '<circle cx="12" cy="12" r="8"/><path d="M12 2v6M12 16v6M2 12h6M16 12h6"/>',
+ 'glitches': '<path d="M14.700 6.300a4 4 0 0 0-5.400 5.400L3 18l3 3 6.300-6.300a4 4 0 0 0 5.400-5.400l-2.600 2.600-2.400-.6-.6-2.400z"/>',
+ 'beginner': '<circle cx="12" cy="12" r="9"/><path d="m15.500 8.500-2 5-5 2 2-5z"/>',
+ 'ps5': '<rect x="3" y="7" width="18" height="11" rx="5"/><path d="M8 10v5M5.500 12.500h5M16 11.500h.01M18 14h.01"/>',
+ 'play': '<path d="M7 5v14l12-7z"/>', 'pause': '<path d="M7 5h3.500v14H7zM13.500 5H17v14h-3.500z"/>',
 }
 CATS = [('missions','Missions',14),('money','Money',9),('collectibles','Collectibles',11),('vehicles','Vehicles',16),
         ('weapons','Weapons',8),('glitches','Glitches & fixes',6),('beginner','Beginner tips',12),('ps5','PS5 settings',4)]
-CATLABEL = {k:l for k,l,_ in CATS}
-NAVL = {'glitches':'Fixes','collectibles':'Collectibles'}
-IMGCAT = {'missions','money','vehicles','collectibles'}
+CL = {k:l for k,l,_ in CATS}
+CROPS = {'missions':['boat','water'],'money':['cash','window'],'collectibles':['map'],'vehicles':['car'],'weapons':['window'],'glitches':['water'],'beginner':['palms'],'ps5':['skyline']}
+TALL = {'missions':'boat','money':'cash','collectibles':'map','vehicles':'car','beginner':'palms','ps5':'skyline'}
+LOREM = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.'
 
-def picture(name, sizes, widths, alt='', cls='', loading='lazy', eager=False, w=None, h=None):
-    w = w or max(widths); h = h or round(w*9/16)
-    src = lambda ext: ', '.join(f'img/{name}-{x}.{ext} {x}w' for x in sorted(widths))
-    lo = 'eager' if eager else 'lazy'
-    pri = ' fetchpriority="high"' if eager else ''
-    return (f'<picture{(" class=%s" % chr(34)+cls+chr(34)) if cls else ""}><source type="image/avif" srcset="{src("avif")}" sizes="{sizes}">'
-            f'<source type="image/webp" srcset="{src("webp")}" sizes="{sizes}">'
-            f'<img src="img/{name}-{min(widths)}.webp" width="{w}" height="{h}" alt="{alt}" loading="{lo}" decoding="async"{pri}></picture>')
+def badge(kind, label=None):
+    m = {'updated': ('badge--updated', 'clock', 'Updated 18 Nov 2026'), 'official': ('badge--official','check','Official source'),
+         'rumour': ('badge--rumour','alert','Unverified'), 'new': ('badge--new', None, 'New')}
+    if kind.startswith('spoiler'):
+        lvl = kind.split('-')[1]; t = {'none':'Spoiler-free','minor':'Minor spoilers','major':'Major spoilers'}[lvl]
+        return f'<span class="badge badge--spoiler badge--spoiler-{lvl}">{label or t}</span>'
+    c, i, t = m[kind]
+    return f'<span class="badge {c}">{svg(IC[i]) if i else ""}{label or t}</span>'
 
-def chip(cat, text=None):
-    return f'<a class="chip cat-{cat}" href="#">{text or CATLABEL[cat]}</a>'
-def badge(kind):
-    return {'updated': f'<span class="badge badge--updated">{ICON["clock"]}Updated 18 Nov 2026</span>',
-            'official': f'<span class="badge badge--official">{ICON["check"]}Official source</span>',
-            'rumour': f'<span class="badge badge--rumour">{ICON["alert"]}Unverified</span>',
-            'new': '<span class="badge badge--new">New</span>'}[kind]
-
-def card(cat, title, excerpt, bdg, featured=False, img=True, eager=False):
-    media = ''
-    if cat in IMGCAT and img:
-        sizes = '(min-width:48rem) 50vw, 100vw' if featured else '(min-width:64rem) 380px, (min-width:40rem) 50vw, 100vw'
-        media = f'<div class="guide-card__media">{picture("cat-"+cat, sizes, [640,1280], "", loading="lazy", w=1280, h=720)}<span class="guide-card__chip chip cat-{cat}">{CATLABEL[cat]}</span></div>'
-    else:
-        media = f'<div class="guide-card__media guide-card__media--placeholder"><span class="guide-card__chip chip cat-{cat}">{CATLABEL[cat]}</span></div>'
-    return f'''<li class="guide-card cat-{cat}{' guide-card--featured' if featured else ''}">
-  {media}
+_n = {}
+def card(cat, title, excerpt, bdg=('spoiler-none',), cls='', mins=6, href='mockup-guide.html', flip=False, eager=False):
+    n = _n.get(cat, 0); _n[cat] = n+1
+    opts = CROPS[cat]; crop = opts[n % len(opts)]
+    fl = ' is-flip' if (flip or n % 2 == 1) else ''
+    b = ''.join(f'<span class="guide-card__badge">{badge(x)}</span>' for x in bdg)
+    return f'''<li class="guide-card cat-{cat}{fl}{(" "+cls) if cls else ""}" data-cat="{cat}">
+  <div class="guide-card__media"><div class="guide-card__art"><img src="img/crop-{crop}.webp" width="640" height="400" alt="" loading="lazy" decoding="async"></div><span class="guide-card__chip chip">{CL[cat]}</span></div>
   <div class="guide-card__body">
-    <h3 class="guide-card__title"><a class="guide-card__link" href="mockup-guide.html">{title}</a></h3>
-    <p class="guide-card__excerpt">{excerpt}</p>
-    <div class="guide-card__meta"><span class="guide-card__badge">{badge(bdg[0])}</span>{('<span class="guide-card__badge">'+badge(bdg[1])+'</span>') if len(bdg)>1 else ''}<span class="mono">6 min</span></div>
+    <h3 class="guide-card__title"><a class="guide-card__link" href="{href}">{title}</a></h3>
+{('    <p class="guide-card__excerpt">'+excerpt+'</p>'+chr(10)) if excerpt else ""}    <div class="guide-card__meta"><span class="guide-card__cat">{CL[cat]}</span>{b}<span>{mins} min</span></div>
   </div>
 </li>'''
 
-LOREM = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.'
-
-def head(title, desc, extra_css=''):
+def head(title, desc):
     return f'''<!doctype html>
 <html lang="en">
 <head>
@@ -62,12 +56,12 @@ def head(title, desc, extra_css=''):
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{title} — Leonida Guides (unofficial fan site)</title>
 <meta name="description" content="{desc}">
-<meta name="theme-color" content="#07060c">
+<meta name="theme-color" content="#06050d">
 <link rel="icon" href="favicon.svg" type="image/svg+xml"><link rel="icon" href="favicon.ico" sizes="48x48"><link rel="apple-touch-icon" href="apple-touch-icon-180.png"><link rel="manifest" href="site.webmanifest">
 <meta property="og:image" content="og/og-default.png"><meta property="og:title" content="{title} — Leonida Guides"><meta property="og:description" content="{desc}">
-<link rel="preload" href="fonts/Inter-var.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="preload" href="fonts/Syne-var.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="fonts/Anton-Regular.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="fonts.css"><link rel="stylesheet" href="tokens.css"><link rel="stylesheet" href="components.css">
+<noscript><style>.spoiler-toggle,.ticker__pause{{display:none}}</style></noscript>
 </head>
 <body>
 <a class="skip-link" href="#main">Skip to content</a>
@@ -75,30 +69,31 @@ def head(title, desc, extra_css=''):
 '''
 
 def header(current=None):
-    links = ''.join(f'<li><a class="nav__link cat-{k}" href="mockup-hub.html"{" aria-current=\"page\"" if k==current else ""}>{NAVL.get(k,l)}</a></li>' for k,l,_ in CATS[:6])
+    links = ''.join(f'<li><a class="nav__link cat-{k}" href="mockup-hub.html"{" aria-current=\"page\"" if k==current else ""}>{ {"glitches":"Fixes"}.get(k,l) }</a></li>' for k,l,_ in CATS[:6])
     return f'''<header class="site-header">
   <div class="container site-header__inner">
     <a class="site-header__brand" href="mockup-home.html" aria-label="Leonida Guides — home">
-      <img class="site-header__logo site-header__logo--icon" src="logo/icon.svg" width="34" height="34" alt="">
-      <img class="site-header__logo site-header__logo--wordmark" src="logo/wordmark-horizontal.svg" width="190" height="44" alt="Leonida Guides">
+      <img class="site-header__logo" src="logo/icon.svg" width="30" height="30" alt="">
+      <span class="site-header__wordmark" aria-hidden="true">Leonida <span>Guides</span></span>
     </a>
-    <nav class="nav" id="site-nav" aria-label="Primary"><ul class="nav__list">{links}<li><a class="nav__link cat-ps5" href="mockup-hub.html">More</a></li></ul></nav>
+    <nav class="nav" id="site-nav" aria-label="Primary"><ul class="nav__list">{links}<li><a class="nav__link cat-ps5" href="mockup-hub.html">More topics</a></li></ul></nav>
     <div class="site-header__actions">
-      <button class="icon-btn site-header__search-toggle" type="button" aria-label="Search" aria-expanded="false">{ICON['search-btn']}</button>
-      <button class="icon-btn site-header__toggle" type="button" aria-label="Menu" aria-expanded="false" aria-controls="site-nav">{ICON['menu']}</button>
+      <button class="spoiler-toggle" type="button" role="switch" aria-checked="false" data-spoiler-toggle><span class="spoiler-toggle__track" aria-hidden="true"></span><span class="spoiler-toggle__label">Show all spoilers</span><span class="spoiler-toggle__state" data-spoiler-state>Off</span></button>
+      <button class="icon-btn site-header__search-toggle" type="button" aria-label="Search" aria-expanded="false" aria-controls="search-panel">{svg(IC['search'],'')}</button>
+      <a class="btn btn--cta btn--sm site-header__cta" href="mockup-collectibles.html">Checklists</a>
+      <button class="icon-btn site-header__toggle" type="button" aria-label="Menu" aria-expanded="false" aria-controls="site-nav"><span class="icon-btn__open">{svg(IC['menu'],'')}</span><span class="icon-btn__close">{svg(IC['close'],'')}</span></button>
     </div>
     <div class="site-header__search search" role="search">
       <form class="search__form" action="mockup-search.html">
-        {ICON['search']}
+        {svg(IC['search'],'search__icon')}
         <input class="search__input" type="search" name="q" placeholder="Search guides…" aria-label="Search guides" autocomplete="off" aria-expanded="false" aria-controls="search-panel">
-        <kbd class="search__kbd">/</kbd>
       </form>
       <div class="search__panel" id="search-panel" hidden>
         <p class="search__group-title label">Guides</p>
         <a class="search__result cat-money" href="mockup-guide.html"><span class="chip">Money</span><span class="search__result-title"><mark>Money</mark> Method #1</span><span class="search__result-excerpt">Lorem ipsum dolor sit amet, consectetur adipiscing.</span></a>
         <a class="search__result cat-money" href="mockup-guide.html"><span class="chip">Money</span><span class="search__result-title"><mark>Money</mark> Method #2</span><span class="search__result-excerpt">Sed do eiusmod tempor incididunt ut labore.</span></a>
         <a class="search__result cat-beginner" href="mockup-guide.html"><span class="chip">Beginner</span><span class="search__result-title">Beginner tips placeholder</span><span class="search__result-excerpt">Early <mark>money</mark> basics, lorem ipsum.</span></a>
-        <p class="search__group-title label">Categories</p>
+        <p class="search__group-title label">Topics</p>
         <a class="search__result cat-money" href="mockup-hub.html"><span class="chip">Hub</span><span class="search__result-title">All <mark>Money</mark> guides</span></a>
         <p class="search__empty" hidden>No guides found. Try a shorter term.</p>
         <div class="search__footer"><span>↑↓ to navigate · Esc to close</span><a href="mockup-search.html">See all results</a></div>
@@ -108,254 +103,217 @@ def header(current=None):
 </header>
 '''
 
+def ticker():
+    items = [('missions','New walkthrough','Mission walkthrough title placeholder','2h'),('money','Updated','Money Method #1: placeholder route','5h'),
+             ('collectibles','Checklist','Collectibles tracker placeholder','1d'),('glitches','Fix','Download stuck: placeholder fix','1d'),
+             ('vehicles','Guide','Fastest vehicles placeholder','2d'),('beginner','Tips','Beginner tips placeholder','3d')]
+    def grp(hidden):
+        a = ' aria-hidden="true"' if hidden else ''; t = ' tabindex="-1"' if hidden else ''
+        return f'<ul class="ticker__group"{a}>' + ''.join(f'<li class="ticker__item cat-{c}"><a class="ticker__link" href="mockup-guide.html"{t}>{k}: {x}</a><span class="ticker__time">{w} ago</span></li>' for c,k,x,w in items) + '</ul>'
+    return f'''<div class="ticker" role="region" aria-label="Latest updates">
+  <span class="ticker__label">Live</span>
+  <div class="ticker__viewport"><div class="ticker__track">{grp(False)}{grp(True)}</div></div>
+  <button class="ticker__pause" type="button" aria-pressed="false" aria-label="Pause ticker" hidden>{svg(IC['pause'],'icon-pause')}{svg(IC['play'],'icon-play')}</button>
+</div>
+'''
+
 def footer():
     return f'''<footer class="site-footer">
   <div class="container">
     <div class="site-footer__grid">
-      <div class="site-footer__brand"><img src="logo/wordmark-stacked.svg" width="190" height="95" alt="Leonida Guides" loading="lazy">
+      <div class="site-footer__brand"><a class="site-footer__wordmark" href="mockup-home.html">Leonida <span>Guides</span></a>
         <p class="site-footer__about">Guides, tips and walkthroughs for the open-world crime series, written by fans. Every fact shows its source; rumours are labelled.</p></div>
-      <nav aria-label="Guides"><h2 class="site-footer__title">Guides</h2><ul class="site-footer__list"><li><a class="site-footer__link" href="#">Missions</a></li><li><a class="site-footer__link" href="#">Money</a></li><li><a class="site-footer__link" href="#">Collectibles</a></li><li><a class="site-footer__link" href="#">Vehicles</a></li></ul></nav>
-      <nav aria-label="Help"><h2 class="site-footer__title">Help</h2><ul class="site-footer__list"><li><a class="site-footer__link" href="#">Beginner tips</a></li><li><a class="site-footer__link" href="#">PS5 settings</a></li><li><a class="site-footer__link" href="#">Glitches &amp; fixes</a></li></ul></nav>
-      <nav aria-label="Site"><h2 class="site-footer__title">Site</h2><ul class="site-footer__list"><li><a class="site-footer__link" href="#">About &amp; sources policy</a></li><li><a class="site-footer__link" href="#">Corrections</a></li><li><a class="site-footer__link" href="#">Privacy</a></li><li><a class="site-footer__link" href="#">Contact</a></li></ul></nav>
+      <nav aria-label="Guides"><h2 class="site-footer__title">Guides</h2><ul class="site-footer__list"><li><a class="site-footer__link" href="mockup-hub.html">Missions</a></li><li><a class="site-footer__link" href="mockup-hub.html">Money</a></li><li><a class="site-footer__link" href="mockup-hub.html">Collectibles</a></li><li><a class="site-footer__link" href="mockup-hub.html">Vehicles</a></li></ul></nav>
+      <nav aria-label="Help"><h2 class="site-footer__title">Help</h2><ul class="site-footer__list"><li><a class="site-footer__link" href="mockup-hub.html">Beginner tips</a></li><li><a class="site-footer__link" href="mockup-hub.html">PS5 settings</a></li><li><a class="site-footer__link" href="mockup-hub.html">Glitches &amp; fixes</a></li></ul></nav>
+      <nav aria-label="Site"><h2 class="site-footer__title">Site</h2><ul class="site-footer__list"><li><a class="site-footer__link" href="mockup-home.html">About</a></li><li><a class="site-footer__link" href="mockup-home.html">Sources &amp; corrections</a></li><li><a class="site-footer__link" href="mockup-home.html">Privacy</a></li></ul></nav>
     </div>
-    <div class="site-footer__disclaimer">
-      <p class="site-footer__disclaimer-strong">{DISC}</p>
-      <p class="site-footer__legal">This is an independent fan project. It is not endorsed by, sponsored by or connected to Rockstar Games or Take-Two Interactive. Grand Theft Auto and related names and marks are trademarks of their respective owners and are used here only to identify the subject of our guides. Screenshots are credited to their sources.</p>
-      <p class="site-footer__legal">© 2026 Leonida Guides. Original design and text.</p>
-    </div>
+    <div class="site-footer__disclaimer"><p class="site-footer__disclaimer-strong">{DISC}</p>
+      <p class="site-footer__legal">Leonida Guides is an independent fan project. All trademarks belong to their respective owners. This site is not endorsed by, directly affiliated with, or sponsored by Rockstar Games or Take-Two Interactive.</p></div>
   </div>
 </footer>
 <script src="ui.js" defer></script>
-</body></html>
+</body>
+</html>
 '''
 
-def ad(kind='rectangle', size='300×250'):
-    return f'<aside class="ad-slot ad-slot--{kind}" aria-label="Advertisement"><span class="ad-slot__label">Advertisement</span><span class="ad-slot__size">{size} · reserved space</span></aside>'
+def byline(compact=False, updated='18 Nov 2026'):
+    return f'''<div class="byline{" byline--compact" if compact else ""}">
+  <span class="byline__avatar"><img src="logo/icon.svg" width="30" height="30" alt="" loading="lazy"></span>
+  <div class="byline__body"><span class="byline__author">By Leonida Guides Team</span>
+  <p class="byline__dates"><span class="byline__updated">Updated <time datetime="2026-11-18">{updated}</time></span><span>Published <time datetime="2026-11-14">14 Nov 2026</time></span><span>6 min read</span></p></div>
+</div>'''
 
-# ============================ HOME ============================
-cards = [
- card('missions','Mission Walkthrough Title Placeholder', LOREM, ['updated','official'], featured=True),
- card('money','Money Method #1', LOREM, ['updated','rumour']),
- card('vehicles','Vehicle Guide: Example Sports Car', LOREM, ['official']),
- card('collectibles','Collectible Set A: Location Checklist', LOREM, ['updated']),
- card('beginner','Beginner Tips Placeholder', LOREM, ['official']),
- card('ps5','PS5 Settings Placeholder', LOREM, ['updated','official']),
-]
-tiles = ''.join(f'''<li class="category-tile cat-{k}"><span class="category-tile__glyph"></span><h3 class="category-tile__title"><a class="category-tile__link" href="mockup-hub.html">{l}</a></h3><span class="category-tile__count">{n:02d} guides</span></li>''' for k,l,n in CATS)
-compact = ''.join(card(c,t,'', [b]).replace('guide-card cat-','guide-card guide-card--compact cat-',1) for c,t,b in
-   [('money','Money Method #2','updated'),('vehicles','Vehicle Guide: Example Muscle Car','updated'),('glitches','Glitch Fix Placeholder','rumour'),('weapons','Weapon Guide Placeholder','official')])
-hero_pic = picture('hero','100vw',[768,1280,1920],'', eager=True, w=1920, h=1080)
-home = head('Unofficial GTA VI guides: missions, money, collectibles, cars','Fan-made guides for missions, money methods, collectibles, vehicles and fixes. Sources credited, rumours labelled.') + header() + f'''
-<main id="main">
-  <section class="hero" aria-labelledby="hero-title" style="background-color:{LQ['hero']['color']}">
-    <div class="hero__art" aria-hidden="true"></div>
-    {hero_pic.replace('<picture','<picture class="hero__img" aria-hidden="true"',1)}
-    <div class="hero__shade" aria-hidden="true"></div>
-    <div class="container hero__content">
-      <span class="hero__kicker label" style="color:var(--brand-cyan)">Unofficial fan guides</span>
-      <h1 class="hero__title" id="hero-title">Every guide, <em>from day one.</em></h1>
-      <p class="hero__lede">Missions, money methods, collectibles, cars and fixes. Sources credited, rumours clearly labelled.</p>
-      <div class="hero__actions"><a class="btn btn--primary" href="mockup-hub.html">Browse all guides</a><a class="btn btn--ghost" href="#labels">How we label facts</a></div>
-      <p class="hero__note">{DISC}</p>
-    </div>
-  </section>
-
-  <section class="section container" aria-labelledby="cats-title">
-    <div class="section__head"><div><span class="section__kicker label">Browse</span><h2 class="section__title" id="cats-title">Pick a category</h2></div></div>
-    <ul class="category-grid">{tiles}</ul>
-  </section>
-
-  <section class="section container" aria-labelledby="latest-title">
-    <div class="section__head"><div><span class="section__kicker label">Fresh &amp; updated</span><h2 class="section__title" id="latest-title">Latest guides</h2></div><a class="section__more" href="mockup-hub.html">View all →</a></div>
-    <ul class="guide-grid">{''.join(cards)}</ul>
-    {ad('rectangle')}
-  </section>
-
-  <section class="section container" id="labels" aria-labelledby="label-title">
-    <div class="section__head"><div><span class="section__kicker label">Trust</span><h2 class="section__title" id="label-title">How we label facts</h2></div></div>
-    <div class="guide-grid">
-      <div class="side-card"><p class="side-card__title">Official source</p><p>{badge('official')}</p><p style="margin-top:.75rem">Confirmed by official publisher material or a reputable preview, with the source linked.</p></div>
-      <div class="side-card"><p class="side-card__title">Unverified</p><p>{badge('rumour')}</p><p style="margin-top:.75rem">Rumours, leaks and single-source claims. Shown with a dashed amber badge until confirmed.</p></div>
-      <div class="side-card"><p class="side-card__title">Last updated</p><p>{badge('updated')}</p><p style="margin-top:.75rem">Every guide shows when it was last checked, so you know whether it still works.</p></div>
-    </div>
-  </section>
-
-  <section class="section container" aria-labelledby="upd-title">
-    <div class="section__head"><div><span class="section__kicker label">Changelog</span><h2 class="section__title" id="upd-title">Recently updated</h2></div></div>
-    <ul class="guide-grid">{compact}</ul>
-  </section>
-</main>
-''' + footer()
-(D/'mockup-home.html').write_text(home)
-
-# ============================ GUIDE ============================
-toc_items = [('overview','Overview'),('before','Before you start'),('steps','Step-by-step'),('map','Map &amp; locations'),('rewards','Rewards &amp; tips'),('faq','FAQ'),('sources','Sources')]
-toc = ''.join(f'<li class="toc__item"><a class="toc__link" href="#{i}">{t}</a></li>' for i,t in toc_items)
-steps = ''.join(f'''<li class="step"><span class="step__num" aria-hidden="true"></span><div class="step__body"><h3 class="step__title">Step title placeholder {n}</h3><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.</p></div></li>''' for n in range(1,5))
-pins = [('mission',34,40,'missions'),('mission',62,28,'missions'),('collect',48,66,'collectibles'),('collect',24,58,'collectibles'),('car',72,62,'vehicles'),('money',82,36,'money')]
-pin_html = ''.join(f'<span class="map-embed__pin cat-{c}" data-pin-type="{t}" style="left:{x}%;top:{y}%"></span>' for t,x,y,c in pins)
-guide = head('Mission Walkthrough Title Placeholder','Placeholder walkthrough used to demonstrate the guide page layout: table of contents, steps, map block and source credits.') + header('missions') + f'''
-<main id="main" class="cat-missions">
+def section(kicker, title, inner, link=None, last=False, cls=''):
+    lk = f'<a class="section__link" href="mockup-hub.html">{link}</a>' if link else ''
+    sid = title.lower().replace(' ','-')
+    return f'''<section class="section{" section--last" if last else ""}{(" "+cls) if cls else ""}" aria-labelledby="{sid}">
   <div class="container">
-    <nav class="breadcrumbs" aria-label="Breadcrumb"><ol class="breadcrumbs__list"><li class="breadcrumbs__item"><a class="breadcrumbs__link" href="mockup-home.html">Home</a></li><li class="breadcrumbs__item"><a class="breadcrumbs__link" href="mockup-hub.html">Missions</a></li><li class="breadcrumbs__item" aria-current="page">Mission Walkthrough Title Placeholder</li></ol></nav>
-    <header class="article__header" style="margin-top:1.25rem">
-      <div class="chip-row"><a class="chip cat-missions" href="mockup-hub.html">Missions</a>{badge('official')}{badge('rumour')}</div>
-      <h1 class="article__title">Mission Walkthrough Title Placeholder</h1>
-      <p class="article__lede">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-      <div class="article__meta">{badge('updated')}<span>By the Leonida Guides team</span><span aria-hidden="true">·</span><span>6 min read</span></div>
-    </header>
-    <div class="guide-layout">
-      <div class="guide-layout__toc"><details class="toc" data-collapsible open><summary class="toc__summary">On this page</summary><ol class="toc__list">{toc}</ol></details></div>
-      <article class="guide-layout__main">
-        <div class="prose">
-          <h2 id="overview" style="margin-top:0;border-top:0;padding-top:0">Overview</h2>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.</p>
-          <dl class="quick-facts"><div class="quick-facts__item"><dt>Difficulty</dt><dd>Placeholder</dd></div><div class="quick-facts__item"><dt>Reward</dt><dd>Placeholder</dd></div><div class="quick-facts__item"><dt>Time</dt><dd>~10 min</dd></div><div class="quick-facts__item"><dt>Platform</dt><dd>PS5 · Xbox</dd></div></dl>
-          <h2 id="before">Before you start</h2>
-          <div class="callout callout--tip">{ICON['bulb']}<div><span class="callout__title">Tip placeholder</span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Keep tips short and actionable.</div></div>
-          <ul><li>Requirement placeholder one</li><li>Requirement placeholder two</li><li>Requirement placeholder three</li></ul>
-          <h2 id="steps">Step-by-step</h2>
-          <ol class="steps">{steps}</ol>
-          <figure><div class="media-placeholder">Screenshot placeholder · 16:9</div><figcaption>Caption placeholder. Credit: source name (link).</figcaption></figure>
-        </div>
-        {ad('rectangle')}
-        <div class="prose">
-          <h2 id="map">Map &amp; locations</h2>
-          <p>Use the filters to show or hide each marker type. Interactive map embed placeholder.</p>
-        </div>
-        <section class="map-embed" aria-label="Interactive map placeholder">
-          <div class="map-embed__toolbar">
-            <p class="map-embed__title"><span>Map · placeholder</span><span>6 markers</span></p>
-            <div class="chip-row chip-row--scroll" role="group" aria-label="Map filters">
-              <button class="chip chip--filter cat-missions" type="button" aria-pressed="true" data-map-filter="mission">Missions</button>
-              <button class="chip chip--filter cat-collectibles" type="button" aria-pressed="true" data-map-filter="collect">Collectibles</button>
-              <button class="chip chip--filter cat-vehicles" type="button" aria-pressed="true" data-map-filter="car">Vehicles</button>
-              <button class="chip chip--filter cat-money" type="button" aria-pressed="true" data-map-filter="money">Money</button>
-            </div>
-          </div>
-          <div class="map-embed__frame">
-            <div class="map-embed__grid"></div>
-            <svg class="map-embed__shape" viewBox="0 0 100 100" preserveAspectRatio="none" aria-hidden="true"><path d="M8 62 C10 40 22 30 34 34 C44 18 62 12 74 22 C90 24 94 44 88 58 C92 74 76 90 58 86 C44 94 20 88 8 62Z"/></svg>
-            {pin_html}
-            <div class="map-embed__cta"><span>Interactive map loads here (lazy, on tap).</span><a class="btn btn--sm btn--primary" href="#">Open full map</a></div>
-          </div>
-          <div class="map-embed__legend"><span class="map-embed__legend-item cat-missions">Mission</span><span class="map-embed__legend-item cat-collectibles">Collectible</span><span class="map-embed__legend-item cat-vehicles">Vehicle</span><span class="map-embed__legend-item cat-money">Cash</span></div>
-        </section>
-        <div class="prose">
-          <h2 id="rewards">Rewards &amp; tips</h2>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. {badge('rumour')} <span style="color:var(--text-2)">Claim placeholder that is not yet confirmed.</span></p>
-          <div class="callout callout--warning">{ICON['warn']}<div><span class="callout__title">Unconfirmed information</span>Items marked “Unverified” come from a single non-official source and may change.</div></div>
-          <h2 id="faq">FAQ</h2>
-          <div>
-            <details class="faq"><summary class="faq__q">Question placeholder one?</summary><p class="faq__a">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p></details>
-            <details class="faq"><summary class="faq__q">Question placeholder two?</summary><p class="faq__a">Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p></details>
-            <details class="faq"><summary class="faq__q">Question placeholder three?</summary><p class="faq__a">Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p></details>
-          </div>
-        </div>
-        <section class="source-credit" id="sources" aria-labelledby="src-title">
-          <h2 class="source-credit__title" id="src-title">Sources &amp; credits</h2>
-          <ul class="source-credit__list">
-            <li class="source-credit__item">{badge('official')}<a class="source-credit__link" href="#">Publisher newswire post (placeholder title)</a><span class="source-credit__date">Accessed 18 Nov 2026</span></li>
-            <li class="source-credit__item">{badge('rumour')}<a class="source-credit__link" href="#">Community forum thread (placeholder)</a><span class="source-credit__date">Accessed 18 Nov 2026</span></li>
-            <li class="source-credit__item"><span class="badge">Image</span><a class="source-credit__link" href="#">Screenshot credit: creator name (placeholder)</a></li>
-          </ul>
-          <p class="source-credit__note">Spotted a mistake? <a href="#">Send a correction</a>. Our text is original; we link and credit everything we reference.</p>
-        </section>
-      </article>
-      <aside class="guide-layout__aside" aria-label="Sidebar">
-        {ad('sidebar','300×600')}
-        <div class="side-card"><p class="side-card__title">Related guides</p><ul class="side-list"><li><a class="side-list__link" href="#">Money Method #1 <span>6 min</span></a></li><li><a class="side-list__link" href="#">Beginner Tips Placeholder <span>4 min</span></a></li><li><a class="side-list__link" href="#">PS5 Settings Placeholder <span>3 min</span></a></li></ul></div>
-      </aside>
-    </div>
+    <div class="section__head"><div><span class="section__kicker">{kicker}</span><h2 class="section__title" id="{sid}">{title}</h2></div>{lk}</div>
+{inner}
   </div>
+</section>
+'''
+
+# ------------------------------------------------------------------ HOME
+def home():
+    wire_items = [('money','Money','Money Method #1: Placeholder Route','2h ago · 5 min'),('missions','Missions','Mission Walkthrough Title Placeholder','4h ago · 6 min'),
+                  ('vehicles','Vehicles','Fastest Vehicles: Placeholder Ranking','7h ago · 4 min'),('collectibles','Collectibles','Collectibles Checklist Placeholder','1d ago · 9 min'),
+                  ('glitches','Fixes','Download Stuck: Placeholder Fix','1d ago · 3 min'),('beginner','Beginner','Beginner Tips Placeholder','2d ago · 7 min')]
+    wire = ''.join(f'<li class="wire__item cat-{c}"><div class="wire__body"><span class="wire__cat">{l}</span><a class="wire__link" href="mockup-guide.html">{t}</a><span class="wire__meta">{m}</span></div></li>' for c,l,t,m in wire_items)
+    hero = f'''<div class="container hero-grid">
+    <article class="hero-feature cat-missions" aria-labelledby="hero-title">
+      <picture class="hero-feature__art"><source type="image/avif" srcset="img/hero-768.avif 768w, img/hero-1280.avif 1280w, img/hero-1920.avif 1920w" sizes="(min-width:64rem) 900px, 100vw"><source type="image/webp" srcset="img/hero-768.webp 768w, img/hero-1280.webp 1280w, img/hero-1920.webp 1920w" sizes="(min-width:64rem) 900px, 100vw"><img src="img/hero-768.webp" width="1920" height="1080" alt="" loading="eager" decoding="async" fetchpriority="high"></picture>
+      <div class="hero-feature__shade" aria-hidden="true"></div>
+      <div class="hero-feature__inner">
+        <div class="hero-feature__tags"><a class="chip" href="mockup-hub.html" style="position:relative;z-index:2">Featured · Missions</a>{badge('updated')}{badge('spoiler-none')}</div>
+        <h1 class="hero-feature__title" id="hero-title"><a href="mockup-guide.html">Mission walkthrough <em>title placeholder</em></a></h1>
+        <p class="hero-feature__lede">{LOREM}</p>
+        <div class="hero-feature__foot">{byline(True)}<div class="hero-feature__actions"><a class="btn btn--cta" href="mockup-guide.html">Read the guide</a><a class="btn btn--ghost" href="mockup-collectibles.html">Checklist</a></div></div>
+      </div>
+    </article>
+    <aside class="wire" aria-labelledby="wire-title">
+      <div class="wire__head"><h2 class="wire__title" id="wire-title">Latest</h2><span class="wire__live">Updated daily</span></div>
+      <ol class="wire__list">{wire}</ol>
+      <div class="wire__foot"><a class="section__link" href="mockup-hub.html">All guides</a></div>
+    </aside>
+  </div>
+'''
+    tr = [('money','Money Method #1: placeholder'),('missions','Mission walkthrough placeholder'),('vehicles','Fastest vehicles placeholder'),('collectibles','Collectibles tracker'),('glitches','Download stuck fix'),('beginner','Beginner tips placeholder')]
+    trending = f'''<section class="trending" aria-labelledby="trending-title">
+  <div class="container trending__inner">
+    <h2 class="trending__title" id="trending-title">{svg(IC['flame'])}<span>Trending</span><span class="visually-hidden">now</span></h2>
+    <ol class="trending__list">{''.join(f'<li class="trending__item cat-{c}"><span class="trending__rank">{i}</span><a class="trending__link" href="mockup-guide.html">{t}</a></li>' for i,(c,t) in enumerate(tr,1))}</ol>
+  </div>
+</section>
+'''
+    qa = '<ul class="quick-access__list">' + ''.join(f'<li class="quick-access__item cat-{k}"><span class="quick-access__icon">{svg(IC[k],"")}</span><a class="quick-access__link" href="mockup-hub.html">{l}</a><span class="quick-access__count">{n} guides</span></li>' for k,l,n in CATS) + '</ul>'
+    pop = [('missions','Mission walkthrough title placeholder'),('money','Money Method #1 placeholder'),('collectibles','Collectibles checklist placeholder'),('vehicles','Fastest vehicles placeholder')]
+    tiles = '<ul class="tile-row">' + ''.join(f'<li class="tile-row__item cat-{c}"><article class="tile"><div class="tile__art"><img src="img/tall-{TALL[c]}.webp" width="480" height="640" alt="" loading="lazy" decoding="async"></div><div class="tile__shade" aria-hidden="true"></div><span class="tile__rank">#{i}</span><div class="tile__body"><span class="tile__cat">{CL[c]}</span><h3 class="tile__title"><a class="tile__link" href="mockup-guide.html">{t}</a></h3></div></article></li>' for i,(c,t) in enumerate(pop,1)) + '</ul>'
+    _n.clear()
+    chips = '<div class="chip-row" role="group" aria-label="Filter guides" data-filter-group data-filter-scope="#latest-grid"><button class="chip chip--filter" type="button" data-filter="all" aria-pressed="true">All</button>' + ''.join(f'<button class="chip chip--filter" type="button" data-filter="{k}" aria-pressed="false">{l}</button>' for k,l,_ in CATS[:6]) + '</div>'
+    cards = [card('money','Money Method #1: Placeholder Route',LOREM,('spoiler-none','updated'),'guide-card--feature',5),
+             card('missions','Mission Walkthrough Placeholder','Sed do eiusmod tempor incididunt ut labore et dolore magna.',('spoiler-minor',)),
+             card('vehicles','Fastest Vehicles: Placeholder','Ut enim ad minim veniam, quis nostrud exercitation.',('spoiler-none',),mins=4),
+             card('collectibles','Collectibles Checklist','Duis aute irure dolor in reprehenderit in voluptate.',('spoiler-none','new'),mins=9),
+             card('glitches','Download Stuck: Placeholder Fix','Excepteur sint occaecat cupidatat non proident.',('spoiler-none','official'),mins=3),
+             card('beginner','Beginner Tips Placeholder','Sunt in culpa qui officia deserunt mollit anim.',('spoiler-none',),mins=7),
+             card('missions','Another Mission Placeholder','Nemo enim ipsam voluptatem quia voluptas sit.',('spoiler-major',)),
+             card('weapons','Weapons Overview Placeholder','Neque porro quisquam est qui dolorem ipsum.',('spoiler-none','rumour'),mins=5),
+             card('ps5','PS5 Settings Placeholder','Quis autem vel eum iure reprehenderit qui in ea.',('spoiler-none',),mins=4)]
+    latest = f'{chips}\n    <ul class="guide-grid" id="latest-grid">' + ''.join(cards) + '</ul>'
+    marquee_words = ['Guides','Checklists','Maps','Fixes','Tips','Updated daily','Fan-made','Source-checked']
+    def mg(h): return f'<ul class="marquee__group"{" aria-hidden=\"true\"" if h else ""}>' + ''.join(f'<li class="marquee__item">{w}</li>' for w in marquee_words) + '</ul>'
+    marquee = f'<div class="marquee" aria-hidden="true"><div class="marquee__track">{mg(False)}{mg(True)}</div></div>\n'
+    promo = f'''<section class="section section--last" aria-labelledby="promo-title"><div class="container"><div class="promo cat-collectibles">
+  <div><h2 class="promo__title" id="promo-title">Track every collectible</h2><p class="promo__text">{LOREM} Progress is saved on your device only.</p></div>
+  <div class="promo__actions"><a class="btn btn--cta" href="mockup-collectibles.html">Open the checklist</a><a class="btn btn--ghost" href="mockup-hub.html">Browse topics</a></div>
+</div></div></section>
+'''
+    return (head('Home — guides, tips and walkthroughs', 'Placeholder description for the home page. Unofficial fan site.') + header() + ticker() + '<main id="main">\n' + hero + trending
+      + section('Browse', 'Quick Access', '    '+qa) + section('Most read', 'Popular guides', '    '+tiles, 'All popular') + section('Fresh', 'Latest guides', '    '+latest, 'All guides') + marquee + promo + '</main>\n' + footer())
+
+# ------------------------------------------------------------------ GUIDE
+def guide():
+    toc = [('overview','Overview'),('requirements','Requirements'),('steps','Step by step'),('rewards','Rewards'),('spoilers','Story details (spoilers)'),('faq','FAQ')]
+    tocl = ''.join(f'<li class="toc__item"><a class="toc__link" href="#{i}">{t}</a></li>' for i,t in toc)
+    _n.clear()
+    rel = ''.join(card(c,t,'',('spoiler-none',),'guide-card--compact',mins=m) for c,t,m in [('missions','Next mission placeholder',6),('money','Money Method #2 placeholder',5),('vehicles','Vehicle tips placeholder',4)])
+    steps = ''.join(f'<li class="step"><span class="step__num" aria-hidden="true"></span><div class="step__body"><h3 class="step__title">Step title placeholder {i}</h3><p>{LOREM}</p></div></li>' for i in (1,2,3))
+    return head('Mission walkthrough title placeholder', 'Placeholder guide description. Unofficial fan site.') + header('missions') + '<div class="read-progress" aria-hidden="true"></div>\n<main id="main" class="cat-missions">\n' + f'''
+<div class="container"><nav class="breadcrumbs" aria-label="Breadcrumb"><ol class="breadcrumbs__list"><li class="breadcrumbs__item"><a class="breadcrumbs__link" href="mockup-home.html">Home</a></li><li class="breadcrumbs__item"><a class="breadcrumbs__link" href="mockup-hub.html">Missions</a></li><li class="breadcrumbs__item" aria-current="page">Mission walkthrough placeholder</li></ol></nav></div>
+<header class="article-head">
+  <div class="container article-head__inner">
+    <div class="article-head__tags"><a class="chip" href="mockup-hub.html">Missions</a>{badge('updated')}{badge('official')}{badge('spoiler-minor')}</div>
+    <h1 class="article-head__title">Mission walkthrough title placeholder</h1>
+    <p class="article-head__lede">{LOREM} Sed ut perspiciatis unde omnis iste natus error sit voluptatem.</p>
+    {byline()}
+  </div>
+</header>
+<div class="container guide-layout">
+  <nav class="guide-layout__toc" aria-label="On this page"><details class="toc" data-collapsible data-toc open><summary class="toc__summary">On this page</summary><ol class="toc__list">{tocl}</ol></details></nav>
+  <article class="guide-layout__main">
+    <picture class="article__hero"><source type="image/avif" srcset="img/cat-missions-768.avif 768w, img/cat-missions-1280.avif 1280w" sizes="(min-width:64rem) 760px, 100vw"><source type="image/webp" srcset="img/cat-missions-768.webp 768w, img/cat-missions-1280.webp 1280w" sizes="(min-width:64rem) 760px, 100vw"><img src="img/cat-missions-768.webp" width="1280" height="720" alt="" fetchpriority="high" decoding="async"></picture>
+    <div class="prose">
+      <dl class="quick-facts"><div class="quick-facts__item"><dt>Type</dt><dd>Mission</dd></div><div class="quick-facts__item"><dt>Difficulty</dt><dd>Medium</dd></div><div class="quick-facts__item"><dt>Time</dt><dd>~20 min</dd></div><div class="quick-facts__item"><dt>Reward</dt><dd>Placeholder</dd></div></dl>
+      <h2 id="overview">Overview</h2>
+      <p>{LOREM} Ut enim ad minim veniam, quis nostrud <a href="mockup-hub.html">exercitation ullamco</a> laboris nisi ut aliquip ex ea commodo consequat.</p>
+      <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.</p>
+      <h2 id="requirements">Requirements</h2>
+      <div class="callout callout--tip">{svg(IC['check'],'callout__icon')}<div><span class="callout__title">Tip placeholder</span>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div></div>
+      <ul><li>Requirement placeholder one</li><li>Requirement placeholder two</li><li>Requirement placeholder three</li></ul>
+      <h2 id="steps">Step by step</h2>
+      <ol class="steps">{steps}</ol>
+      <h2 id="rewards">Rewards</h2>
+      <div class="table-wrap" tabindex="0" role="region" aria-label="Rewards table"><table class="table"><thead><tr><th scope="col">Item</th><th scope="col">Amount</th><th scope="col">Notes</th></tr></thead><tbody><tr><th scope="row">Reward placeholder A</th><td>$0,000</td><td>Lorem ipsum</td></tr><tr><th scope="row">Reward placeholder B</th><td>000 XP</td><td>Dolor sit amet</td></tr><tr><th scope="row">Reward placeholder C</th><td>—</td><td>Consectetur</td></tr></tbody></table></div>
+      <h2 id="spoilers">Story details (spoilers)</h2>
+      <p class="spoiler-note">Sections like this stay closed until you tap them. Use “Show all spoilers” in the header to open every one.</p>
+      <details class="spoiler" data-spoiler>
+        <summary class="spoiler__summary"><span class="spoiler__head">{badge('spoiler-minor')}<span class="spoiler__label">Placeholder spoiler section A</span><span class="spoiler__hint"></span></span></summary>
+        <div class="spoiler__body"><p>Placeholder text only. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p><p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.</p></div>
+      </details>
+      <details class="spoiler spoiler--major" data-spoiler>
+        <summary class="spoiler__summary"><span class="spoiler__head">{badge('spoiler-major')}<span class="spoiler__label">Placeholder spoiler section B</span><span class="spoiler__hint"></span></span></summary>
+        <div class="spoiler__body"><p>Placeholder text only. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p></div>
+      </details>
+      <h2 id="faq">FAQ</h2>
+      <details class="faq"><summary class="faq__q">Question placeholder one?</summary><p class="faq__a">{LOREM}</p></details>
+      <details class="faq"><summary class="faq__q">Question placeholder two?</summary><p class="faq__a">Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p></details>
+    </div>
+    <aside class="source-credit" aria-labelledby="src-title"><p class="source-credit__title" id="src-title">Sources</p><ul class="source-credit__list"><li class="source-credit__item"><a class="source-credit__link" href="mockup-home.html">Official source placeholder</a><span class="source-credit__date">checked 18 Nov 2026</span></li></ul><p class="source-credit__note">Image credit placeholder. {DISC}.</p></aside>
+  </article>
+  <aside class="guide-layout__aside" aria-label="Related">
+    <div class="side-card"><h2 class="side-card__title">Related guides</h2><ul class="related">{rel}</ul></div>
+    <div class="ad-slot ad-slot--rectangle" role="complementary" aria-label="Advertisement placeholder"><span class="ad-slot__label">Advertisement</span><span class="ad-slot__size">300 × 250</span></div>
+  </aside>
+</div>
 </main>
 ''' + footer()
-(D/'mockup-guide.html').write_text(guide)
 
-# ============================ HUB ============================
-hub_cards = ''.join(card('money', f'Money Method #{i}', LOREM, ['updated','rumour'] if i%3==0 else (['official'] if i%2 else ['updated'])) for i in range(1,7))
-hub = head('Money guides','Placeholder category hub for Money guides: filters, sorting and a guide grid.') + header('money') + f'''
-<main id="main" class="cat-money">
-  <section class="hub-header">
-    {picture('cat-money','100vw',[640,1280],'',cls='hub-header__img',eager=True,w=1280,h=720)}
-    <div class="container hub-header__inner">
-      <nav class="breadcrumbs" aria-label="Breadcrumb" style="padding:0"><ol class="breadcrumbs__list"><li class="breadcrumbs__item"><a class="breadcrumbs__link" href="mockup-home.html">Home</a></li><li class="breadcrumbs__item" aria-current="page">Money</li></ol></nav>
-      <h1 class="hub-header__title">Money</h1>
-      <p class="hub-header__lede">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Every method lists what it needs, what it pays and when we last checked it.</p>
-    </div>
+# ------------------------------------------------------------------ COLLECTIBLES
+def collectibles():
+    items = ''.join(f'<li class="checklist__item"><label class="checklist__label"><input class="checklist__input" type="checkbox"><span class="checklist__box" aria-hidden="true"></span><span class="checklist__text">Collectible placeholder {i:02d}<span class="checklist__meta">Area placeholder · Lorem ipsum dolor sit amet</span></span></label></li>' for i in range(1,9))
+    shots = [('skyline','Skyline placeholder'),('boat','Boat placeholder'),('car','Car placeholder'),('map','Map placeholder'),('palms','Palms placeholder'),('cash','Cash placeholder')]
+    gal = ''.join(f'<li class="gallery__item"><button class="gallery__open" type="button" data-full="img/crop-{k}.webp" data-caption="{c} — caption placeholder"><img src="img/crop-{k}.webp" width="640" height="400" alt="{c}" loading="lazy" decoding="async"></button><span class="gallery__caption">{c}<span class="gallery__credit">Image: Leonida Guides (own art)</span></span></li>' for k,c in shots)
+    return head('Collectibles checklist placeholder','Placeholder collectibles checklist. Unofficial fan site.') + header('collectibles') + '<main id="main" class="cat-collectibles">\n' + f'''
+<div class="container"><nav class="breadcrumbs" aria-label="Breadcrumb"><ol class="breadcrumbs__list"><li class="breadcrumbs__item"><a class="breadcrumbs__link" href="mockup-home.html">Home</a></li><li class="breadcrumbs__item"><a class="breadcrumbs__link" href="mockup-hub.html">Collectibles</a></li><li class="breadcrumbs__item" aria-current="page">Checklist placeholder</li></ol></nav></div>
+<header class="article-head"><div class="container article-head__inner"><div class="article-head__tags"><a class="chip" href="mockup-hub.html">Collectibles</a>{badge('updated')}{badge('spoiler-none')}</div><h1 class="article-head__title">Collectibles checklist placeholder</h1><p class="article-head__lede">{LOREM}</p>{byline()}</div></header>
+<div class="container" style="padding-block:var(--space-5) var(--space-section);display:grid;gap:var(--space-6);max-width:56rem">
+  <section aria-labelledby="chk-title"><h2 id="chk-title" class="visually-hidden">Checklist</h2>
+    <div class="progress-card" data-tracker-progress="collectibles-demo"><div class="progress-card__top"><span class="label">Progress</span><span class="progress-card__count" data-tracker-count>0 / 8</span><button class="btn btn--ghost btn--sm" type="button" data-tracker-reset>Reset</button></div><div class="progress-card__bar" role="progressbar" aria-label="Collectibles found" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0"><span class="progress-card__fill"></span></div></div>
+    <ul class="checklist" data-tracker="collectibles-demo">{items}</ul>
   </section>
-  <div class="container">
-    <div class="hub-toolbar">
-      <div class="chip-row chip-row--scroll" role="group" aria-label="Filter" data-filter-group>
-        <button class="chip chip--filter" type="button" aria-pressed="true">All</button>
-        <button class="chip chip--filter" type="button" aria-pressed="false">Beginner</button>
-        <button class="chip chip--filter" type="button" aria-pressed="false">Mid game</button>
-        <button class="chip chip--filter" type="button" aria-pressed="false">Late game</button>
-        <button class="chip chip--filter" type="button" aria-pressed="false">Official only</button>
-      </div>
-      <label class="mono" for="sort">Sort <select class="select" id="sort"><option>Recently updated</option><option>Newest</option><option>A–Z</option></select></label>
-    </div>
-    <div class="hub-layout">
-      <div>
-        <ul class="guide-grid">{hub_cards}</ul>
-        <ul class="pagination"><li><a class="pagination__link" href="#" aria-current="page">1</a></li><li><a class="pagination__link" href="#">2</a></li><li><a class="pagination__link" href="#">3</a></li><li><a class="pagination__link" href="#" aria-label="Next page">→</a></li></ul>
-      </div>
-      <aside aria-label="Sidebar" style="display:grid;gap:1rem;align-content:start">
-        <div class="side-card"><p class="side-card__title">All categories</p><ul class="side-list">{''.join(f'<li><a class="side-list__link cat-{k}" href="#">{l}<span>{n:02d}</span></a></li>' for k,l,n in CATS)}</ul></div>
-        {ad('rectangle')}
-      </aside>
-    </div>
-  </div>
+  <section aria-labelledby="gal-title"><h2 id="gal-title" class="section__title" style="margin-bottom:var(--space-4)">Gallery</h2><ul class="gallery">{gal}</ul>
+    <dialog class="lightbox" aria-label="Image viewer"><img class="lightbox__img" src="" alt=""><p class="lightbox__caption"></p><div class="lightbox__bar"><button class="btn btn--ghost btn--sm" type="button" data-lb-prev>Previous</button><button class="btn btn--ghost btn--sm" type="button" data-lb-next>Next</button><button class="btn btn--cta btn--sm" type="button" data-lb-close>Close</button></div></dialog></section>
+  <section aria-labelledby="emb-title"><h2 id="emb-title" class="section__title" style="margin-bottom:var(--space-4)">From the community</h2>
+    <figure class="embed-post" style="margin:0"><div class="embed-post__head"><span class="embed-post__avatar"><img src="logo/icon.svg" width="26" height="26" alt="" loading="lazy"></span><div><span class="embed-post__name">Account placeholder</span><span class="embed-post__handle">@placeholder</span></div></div><p class="embed-post__text">Placeholder post text. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p><div class="embed-post__meta"><span>18 Nov 2026</span><a href="mockup-home.html">View original post</a></div></figure></section>
+</div>
 </main>
 ''' + footer()
-(D/'mockup-hub.html').write_text(hub)
 
-# ============================ SEARCH RESULTS ============================
-res = ''.join(f'''<li class="result cat-{c}"><div class="result__meta"><span class="chip">{CATLABEL[c]}</span>{badge(b)}</div><h2 class="result__title"><a href="mockup-guide.html">{t}</a></h2><p class="result__excerpt">{e}</p><span class="result__url">leonidaguides.example/{c}/{__import__('re').sub(r'<[^>]+>','',t).lower().replace(' ','-').replace('#','')}</span></li>'''
-  for c,t,e,b in [('money','<mark>Money</mark> Method #1','Lorem ipsum dolor sit amet, early <mark>money</mark> consectetur adipiscing elit.','updated'),
-                  ('money','<mark>Money</mark> Method #2','Sed do eiusmod tempor incididunt ut labore, et dolore <mark>money</mark> magna.','rumour'),
-                  ('beginner','Beginner Tips Placeholder','Ut enim ad minim veniam, <mark>money</mark> basics quis nostrud exercitation.','official'),
-                  ('collectibles','Collectible Set A: Location Checklist','Duis aute irure dolor in reprehenderit, bonus <mark>money</mark> rewards.','updated')])
-search = head('Search results for “money”','Placeholder search results page.') + header() + f'''
-<main id="main" class="container" style="padding-block:2rem 0">
-  <h1 style="font-size:var(--fs-700)">Results for “<span style="color:var(--brand-yellow)">money</span>”</h1>
-  <p class="mono" style="margin-top:.75rem">4 results</p>
-  <div class="chip-row chip-row--scroll" style="margin-top:1.25rem" data-filter-group role="group" aria-label="Filter by category">
-    <button class="chip chip--filter" type="button" aria-pressed="true">All 4</button>
-    <button class="chip chip--filter cat-money" type="button" aria-pressed="false">Money 2</button>
-    <button class="chip chip--filter cat-beginner" type="button" aria-pressed="false">Beginner 1</button>
-    <button class="chip chip--filter cat-collectibles" type="button" aria-pressed="false">Collectibles 1</button>
-  </div>
-  <ul class="result-list" style="margin-top:1.5rem;max-width:48rem">{res}</ul>
-  <p style="margin-top:2rem;color:var(--text-3)">Nothing found? Try a shorter term or <a href="mockup-hub.html">browse categories</a>.</p>
+# ------------------------------------------------------------------ HUB / SEARCH
+def hub():
+    _n.clear()
+    cs = [('money','Money Method #1: Placeholder Route',LOREM,('spoiler-none','updated'),5),('money','Money Method #2: Placeholder','Sed do eiusmod tempor incididunt.',('spoiler-none',),6),
+          ('money','Money Method #3: Placeholder','Ut enim ad minim veniam, quis nostrud.',('spoiler-minor',),4),('money','Early-game money placeholder','Duis aute irure dolor in reprehenderit.',('spoiler-none','new'),7),
+          ('money','Safe routes placeholder','Excepteur sint occaecat cupidatat.',('spoiler-none',),5),('money','Mistakes to avoid placeholder','Sunt in culpa qui officia deserunt.',('spoiler-none','rumour'),3)]
+    cards = ''.join(card(c,t,e,b,mins=m,flip=(i%3==1)) for i,(c,t,e,b,m) in enumerate(cs))
+    return head('Money guides','Placeholder hub. Unofficial fan site.') + header('money') + '<main id="main" class="cat-money">\n' + f'''
+<div class="container"><nav class="breadcrumbs" aria-label="Breadcrumb"><ol class="breadcrumbs__list"><li class="breadcrumbs__item"><a class="breadcrumbs__link" href="mockup-home.html">Home</a></li><li class="breadcrumbs__item" aria-current="page">Money</li></ol></nav></div>
+<header class="hub-header"><div class="hub-header__img" aria-hidden="true"><img src="img/crop-cash.webp" width="640" height="400" alt=""></div><div class="container hub-header__inner"><h1 class="hub-header__title">Money guides</h1><p class="hub-header__lede">{LOREM}</p></div></header>
+<div class="container" style="padding-block:var(--space-5) var(--space-section)">
+  <div class="hub-filters"><div class="chip-row" role="group" aria-label="Sort" data-filter-group data-filter-scope="#hub-grid"><button class="chip chip--filter" type="button" data-filter="all" aria-pressed="true">All</button><button class="chip chip--filter" type="button" data-filter="money" aria-pressed="false">Money</button></div><span class="label">6 guides</span></div>
+  <ul class="guide-grid guide-grid--3" id="hub-grid">{cards}</ul>
+  <ul class="pagination"><li><a class="pagination__link" href="#" aria-current="page">1</a></li><li><a class="pagination__link" href="#">2</a></li><li><a class="pagination__link" href="#">Next</a></li></ul>
+</div>
 </main>
 ''' + footer()
-(D/'mockup-search.html').write_text(search)
-print('pages ok')
 
-# ============================ ARTICLE ASSETS CONTACT SHEET ============================
-A = D/'article-assets'
-def imgs(folder, pat='*.svg', h=64, skip=''):
-    out = ''
-    for f in sorted((A/folder).glob(pat)):
-        if skip and skip in f.name: continue
-        out += f'<figure class="sheet__item"><img src="{folder}/{f.name}" alt="" style="height:{h}px;width:auto"><figcaption>{f.stem}</figcaption></figure>'
-    return out
-sheet = head('Article assets','Contact sheet').replace('href="fonts.css"','href="../fonts.css"').replace('href="tokens.css"','href="../tokens.css"').replace('href="components.css"','href="../components.css"').replace('href="favicon','href="../favicon').replace('href="apple','href="../apple').replace('href="site.web','href="../site.web').replace('href="fonts/','href="../fonts/').replace('content="og/','content="../og/')
-sheet = sheet.split('<a class="skip-link"')[0] + f'''<style>.sheet{{display:flex;flex-wrap:wrap;gap:1rem;list-style:none;padding:0}}.sheet__item{{margin:0;display:grid;justify-items:center;gap:.4rem;padding:.75rem;background:var(--bg-2);border:1px solid var(--line-1);border-radius:var(--radius-md);min-width:5.5rem}}.sheet__item figcaption{{font:var(--fs-100)/1.2 var(--font-mono);color:var(--text-3)}}.sheet__item--wide img{{height:auto!important;width:100%!important}}.sheet__grid{{display:grid;gap:1rem;grid-template-columns:repeat(auto-fill,minmax(20rem,1fr))}}.demo{{background:var(--bg-2);border:1px solid var(--line-1);border-radius:var(--radius-md);padding:1rem 1.25rem;color:var(--text-1);font-size:var(--fs-400)}}body{{padding-bottom:4rem}}h2{{margin:3rem 0 1rem}}</style>
-</head><body><div class="disclaimer-bar"><div class="container"><p class="disclaimer-bar__text"><strong>{DISC}</strong></p></div></div>
-<main class="container" style="padding-top:2rem"><h1>Article asset kit</h1><p style="margin-top:.75rem;max-width:44rem">Original SVGs built from the design tokens. Neutral controller glyphs: no console-maker logos or wordmarks. See README.md for usage.</p>
-<h2>CSS components</h2>
-<div class="demo"><p><span class="step-badge step-badge--sm">1</span> <span class="step-badge">2</span> <span class="step-badge step-badge--solid">3</span> <span class="step-badge step-badge--solid step-badge--lg">4</span></p>
-<p style="margin-top:1rem">Hold <kbd class="kbd-btn">R2</kbd> and press <kbd class="kbd-btn kbd-btn--round">A</kbd>, then <kbd class="kbd-btn">LT</kbd> + <kbd class="kbd-btn kbd-btn--key">E</kbd> · icon style: Hold <img class="kbd-icon" src="buttons/ps-r2.svg" alt="R2"> then <img class="kbd-icon" src="buttons/ps-cross.svg" alt="Cross"> or <img class="kbd-icon" src="buttons/xbox-a.svg" alt="A">.</p>
-<ul class="legend"><li class="legend-item cat-missions">Mission</li><li class="legend-item cat-money">Money</li><li class="legend-item cat-collectibles">Collectible</li><li class="legend-item cat-vehicles">Vehicle</li><li class="legend-item cat-weapons">Weapon</li><li class="legend-item legend-item--danger">Danger</li><li class="legend-item legend-item--start">Start</li><li class="legend-item legend-item--finish">Finish</li></ul>
-<div class="do-dont"><div class="do-dont__col do-dont__col--do"><p class="do-dont__title">DO</p><ul class="do-dont__list"><li>Do this first</li><li>Then do this</li></ul></div><div class="do-dont__col do-dont__col--dont"><p class="do-dont__title">DON'T</p><ul class="do-dont__list"><li>Skip this step</li><li>Avoid this</li></ul></div></div></div>
-<h2>steps/ (step-NN.svg · step-NN-solid.svg)</h2><ul class="sheet">{imgs('steps','step-*.svg',56)}</ul>
-<h2>pins/</h2><ul class="sheet">{imgs('pins','pin-*.svg',72)}</ul><ul class="sheet">{imgs('pins','legend-*.svg',28)}</ul>
-<h2>buttons/ — PlayStation-style (generic)</h2><ul class="sheet">{imgs('buttons','ps-*.svg',56)}</ul>
-<h2>buttons/ — Xbox-style (generic)</h2><ul class="sheet">{imgs('buttons','xbox-*.svg',56)}</ul>
-<h2>buttons/ — shared</h2><ul class="sheet">{imgs('buttons','dpad*.svg',56)}{imgs('buttons','stick-*.svg',56)}</ul>
-<h2>diagrams/ (png/diagrams/*.png are sample renders)</h2><div class="sheet__grid">{''.join(f'<figure class="sheet__item sheet__item--wide"><img src="png/diagrams/{f.stem}.png" alt="{f.stem} sample"><figcaption>{f.stem}</figcaption></figure>' for f in sorted((A/'diagrams').glob('*.svg')))}</div>
-</main><script src="../ui.js" defer></script></body></html>'''
-(A/'index.html').write_text(sheet)
-print('sheet ok')
+def search():
+    res = ''.join(f'<li class="result cat-{c}"><div class="result__meta"><span class="chip">{CL[c]}</span>{badge("spoiler-none")}</div><h2 class="result__title"><a href="mockup-guide.html"><mark>Money</mark> placeholder result {i}</a></h2><p class="result__excerpt">{LOREM}</p><span class="result__url">example.com/guides/placeholder-{i}</span></li>' for i,c in enumerate(['money','missions','beginner','vehicles'],1))
+    return head('Search results','Placeholder search. Unofficial fan site.') + header() + '<main id="main">\n' + f'''
+<div class="container" style="padding-block:var(--space-6) var(--space-section);max-width:52rem"><h1>Results for “money”</h1><p class="label" style="margin:var(--space-3) 0 var(--space-5)">4 results</p><ul class="result-list">{res}</ul></div>
+</main>
+''' + footer()
+
+for name, fn in (('home',home),('guide',guide),('collectibles',collectibles),('hub',hub),('search',search)):
+    (D/f'mockup-{name}.html').write_text(fn()); print('mockup-%s.html' % name)

@@ -1,5 +1,7 @@
-/* Self-hosted, Latin subset, OFL-licensed (see fonts/LICENSES.md). font-display:swap avoids invisible text. */
-@font-face { font-family: "Syne"; src: url("fonts/Syne-var.woff2") format("woff2"); font-weight: 600 800; font-style: normal; font-display: swap; }
-@font-face { font-family: "Inter"; src: url("fonts/Inter-var.woff2") format("woff2"); font-weight: 400 700; font-style: normal; font-display: swap; }
-@font-face { font-family: "Space Mono"; src: url("fonts/SpaceMono-Regular.woff2") format("woff2"); font-weight: 400; font-style: normal; font-display: swap; }
-@font-face { font-family: "Space Mono"; src: url("fonts/SpaceMono-Bold.woff2") format("woff2"); font-weight: 700; font-style: normal; font-display: swap; }
+/* Leonida Guides — self-hosted fonts (OFL, see fonts/LICENSES.md). Subset: Basic Latin + Latin-1 + Latin Extended-A (č š ž ć đ) + general punctuation.
+   Ships exactly two files / two faces in use: Anton 400 (display, preloaded) and Inter variable 400–800 (body, optical size pinned to 14). */
+@font-face { font-family: "Anton"; src: url("fonts/Anton-Regular.woff2") format("woff2"); font-weight: 400; font-style: normal; font-display: swap;
+  unicode-range: U+0020-007E, U+00A0-017F, U+2010-2015, U+2018-201E, U+2022, U+2026, U+20AC, U+2122, U+2190-2193, U+2212; }
+@font-face { font-family: "Inter"; src: url("fonts/Inter-Variable.woff2") format("woff2"); font-weight: 400 800; font-style: normal; font-display: swap; }
+/* Metric-matched fallback so the swap to Anton does not shift layout (CLS) */
+@font-face { font-family: "Anton Fallback"; src: local("Impact"), local("Arial Narrow"), local("Arial"); size-adjust: 88%; ascent-override: 112%; descent-override: 26%; line-gap-override: 0%; }

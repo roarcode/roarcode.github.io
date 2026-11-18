@@ -4,13 +4,13 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Money guides — Leonida Guides (unofficial fan site)</title>
-<meta name="description" content="Placeholder category hub for Money guides: filters, sorting and a guide grid.">
-<meta name="theme-color" content="#07060c">
+<meta name="description" content="Placeholder hub. Unofficial fan site.">
+<meta name="theme-color" content="#06050d">
 <link rel="icon" href="favicon.svg" type="image/svg+xml"><link rel="icon" href="favicon.ico" sizes="48x48"><link rel="apple-touch-icon" href="apple-touch-icon-180.png"><link rel="manifest" href="site.webmanifest">
-<meta property="og:image" content="og/og-default.png"><meta property="og:title" content="Money guides — Leonida Guides"><meta property="og:description" content="Placeholder category hub for Money guides: filters, sorting and a guide grid.">
-<link rel="preload" href="fonts/Inter-var.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="preload" href="fonts/Syne-var.woff2" as="font" type="font/woff2" crossorigin>
+<meta property="og:image" content="og/og-default.png"><meta property="og:title" content="Money guides — Leonida Guides"><meta property="og:description" content="Placeholder hub. Unofficial fan site.">
+<link rel="preload" href="fonts/Anton-Regular.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="fonts.css"><link rel="stylesheet" href="tokens.css"><link rel="stylesheet" href="components.css">
+<noscript><style>.spoiler-toggle,.ticker__pause{display:none}</style></noscript>
 </head>
 <body>
 <a class="skip-link" href="#main">Skip to content</a>
@@ -18,26 +18,27 @@
 <header class="site-header">
   <div class="container site-header__inner">
     <a class="site-header__brand" href="mockup-home.html" aria-label="Leonida Guides — home">
-      <img class="site-header__logo site-header__logo--icon" src="logo/icon.svg" width="34" height="34" alt="">
-      <img class="site-header__logo site-header__logo--wordmark" src="logo/wordmark-horizontal.svg" width="190" height="44" alt="Leonida Guides">
+      <img class="site-header__logo" src="logo/icon.svg" width="30" height="30" alt="">
+      <span class="site-header__wordmark" aria-hidden="true">Leonida <span>Guides</span></span>
     </a>
-    <nav class="nav" id="site-nav" aria-label="Primary"><ul class="nav__list"><li><a class="nav__link cat-missions" href="mockup-hub.html">Missions</a></li><li><a class="nav__link cat-money" href="mockup-hub.html" aria-current="page">Money</a></li><li><a class="nav__link cat-collectibles" href="mockup-hub.html">Collectibles</a></li><li><a class="nav__link cat-vehicles" href="mockup-hub.html">Vehicles</a></li><li><a class="nav__link cat-weapons" href="mockup-hub.html">Weapons</a></li><li><a class="nav__link cat-glitches" href="mockup-hub.html">Fixes</a></li><li><a class="nav__link cat-ps5" href="mockup-hub.html">More</a></li></ul></nav>
+    <nav class="nav" id="site-nav" aria-label="Primary"><ul class="nav__list"><li><a class="nav__link cat-missions" href="mockup-hub.html">Missions</a></li><li><a class="nav__link cat-money" href="mockup-hub.html" aria-current="page">Money</a></li><li><a class="nav__link cat-collectibles" href="mockup-hub.html">Collectibles</a></li><li><a class="nav__link cat-vehicles" href="mockup-hub.html">Vehicles</a></li><li><a class="nav__link cat-weapons" href="mockup-hub.html">Weapons</a></li><li><a class="nav__link cat-glitches" href="mockup-hub.html">Fixes</a></li><li><a class="nav__link cat-ps5" href="mockup-hub.html">More topics</a></li></ul></nav>
     <div class="site-header__actions">
-      <button class="icon-btn site-header__search-toggle" type="button" aria-label="Search" aria-expanded="false"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg></button>
-      <button class="icon-btn site-header__toggle" type="button" aria-label="Menu" aria-expanded="false" aria-controls="site-nav"><svg class="icon-btn__open" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg><svg class="icon-btn__close" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18"/></svg></button>
+      <button class="spoiler-toggle" type="button" role="switch" aria-checked="false" data-spoiler-toggle><span class="spoiler-toggle__track" aria-hidden="true"></span><span class="spoiler-toggle__label">Show all spoilers</span><span class="spoiler-toggle__state" data-spoiler-state>Off</span></button>
+      <button class="icon-btn site-header__search-toggle" type="button" aria-label="Search" aria-expanded="false" aria-controls="search-panel"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg></button>
+      <a class="btn btn--cta btn--sm site-header__cta" href="mockup-collectibles.html">Checklists</a>
+      <button class="icon-btn site-header__toggle" type="button" aria-label="Menu" aria-expanded="false" aria-controls="site-nav"><span class="icon-btn__open"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg></span><span class="icon-btn__close"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18"/></svg></span></button>
     </div>
     <div class="site-header__search search" role="search">
       <form class="search__form" action="mockup-search.html">
         <svg class="search__icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
         <input class="search__input" type="search" name="q" placeholder="Search guides…" aria-label="Search guides" autocomplete="off" aria-expanded="false" aria-controls="search-panel">
-        <kbd class="search__kbd">/</kbd>
       </form>
       <div class="search__panel" id="search-panel" hidden>
         <p class="search__group-title label">Guides</p>
         <a class="search__result cat-money" href="mockup-guide.html"><span class="chip">Money</span><span class="search__result-title"><mark>Money</mark> Method #1</span><span class="search__result-excerpt">Lorem ipsum dolor sit amet, consectetur adipiscing.</span></a>
         <a class="search__result cat-money" href="mockup-guide.html"><span class="chip">Money</span><span class="search__result-title"><mark>Money</mark> Method #2</span><span class="search__result-excerpt">Sed do eiusmod tempor incididunt ut labore.</span></a>
         <a class="search__result cat-beginner" href="mockup-guide.html"><span class="chip">Beginner</span><span class="search__result-title">Beginner tips placeholder</span><span class="search__result-excerpt">Early <mark>money</mark> basics, lorem ipsum.</span></a>
-        <p class="search__group-title label">Categories</p>
+        <p class="search__group-title label">Topics</p>
         <a class="search__result cat-money" href="mockup-hub.html"><span class="chip">Hub</span><span class="search__result-title">All <mark>Money</mark> guides</span></a>
         <p class="search__empty" hidden>No guides found. Try a shorter term.</p>
         <div class="search__footer"><span>↑↓ to navigate · Esc to close</span><a href="mockup-search.html">See all results</a></div>
@@ -45,96 +46,71 @@
     </div>
   </div>
 </header>
-
 <main id="main" class="cat-money">
-  <section class="hub-header">
-    <picture class="hub-header__img"><source type="image/avif" srcset="img/cat-money-640.avif 640w, img/cat-money-1280.avif 1280w" sizes="100vw"><source type="image/webp" srcset="img/cat-money-640.webp 640w, img/cat-money-1280.webp 1280w" sizes="100vw"><img src="img/cat-money-640.webp" width="1280" height="720" alt="" loading="eager" decoding="async" fetchpriority="high"></picture>
-    <div class="container hub-header__inner">
-      <nav class="breadcrumbs" aria-label="Breadcrumb" style="padding:0"><ol class="breadcrumbs__list"><li class="breadcrumbs__item"><a class="breadcrumbs__link" href="mockup-home.html">Home</a></li><li class="breadcrumbs__item" aria-current="page">Money</li></ol></nav>
-      <h1 class="hub-header__title">Money</h1>
-      <p class="hub-header__lede">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Every method lists what it needs, what it pays and when we last checked it.</p>
-    </div>
-  </section>
-  <div class="container">
-    <div class="hub-toolbar">
-      <div class="chip-row chip-row--scroll" role="group" aria-label="Filter" data-filter-group>
-        <button class="chip chip--filter" type="button" aria-pressed="true">All</button>
-        <button class="chip chip--filter" type="button" aria-pressed="false">Beginner</button>
-        <button class="chip chip--filter" type="button" aria-pressed="false">Mid game</button>
-        <button class="chip chip--filter" type="button" aria-pressed="false">Late game</button>
-        <button class="chip chip--filter" type="button" aria-pressed="false">Official only</button>
-      </div>
-      <label class="mono" for="sort">Sort <select class="select" id="sort"><option>Recently updated</option><option>Newest</option><option>A–Z</option></select></label>
-    </div>
-    <div class="hub-layout">
-      <div>
-        <ul class="guide-grid"><li class="guide-card cat-money">
-  <div class="guide-card__media"><picture><source type="image/avif" srcset="img/cat-money-640.avif 640w, img/cat-money-1280.avif 1280w" sizes="(min-width:64rem) 380px, (min-width:40rem) 50vw, 100vw"><source type="image/webp" srcset="img/cat-money-640.webp 640w, img/cat-money-1280.webp 1280w" sizes="(min-width:64rem) 380px, (min-width:40rem) 50vw, 100vw"><img src="img/cat-money-640.webp" width="1280" height="720" alt="" loading="lazy" decoding="async"></picture><span class="guide-card__chip chip cat-money">Money</span></div>
+
+<div class="container"><nav class="breadcrumbs" aria-label="Breadcrumb"><ol class="breadcrumbs__list"><li class="breadcrumbs__item"><a class="breadcrumbs__link" href="mockup-home.html">Home</a></li><li class="breadcrumbs__item" aria-current="page">Money</li></ol></nav></div>
+<header class="hub-header"><div class="hub-header__img" aria-hidden="true"><img src="img/crop-cash.webp" width="640" height="400" alt=""></div><div class="container hub-header__inner"><h1 class="hub-header__title">Money guides</h1><p class="hub-header__lede">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p></div></header>
+<div class="container" style="padding-block:var(--space-5) var(--space-section)">
+  <div class="hub-filters"><div class="chip-row" role="group" aria-label="Sort" data-filter-group data-filter-scope="#hub-grid"><button class="chip chip--filter" type="button" data-filter="all" aria-pressed="true">All</button><button class="chip chip--filter" type="button" data-filter="money" aria-pressed="false">Money</button></div><span class="label">6 guides</span></div>
+  <ul class="guide-grid guide-grid--3" id="hub-grid"><li class="guide-card cat-money" data-cat="money">
+  <div class="guide-card__media"><div class="guide-card__art"><img src="img/crop-cash.webp" width="640" height="400" alt="" loading="lazy" decoding="async"></div><span class="guide-card__chip chip">Money</span></div>
   <div class="guide-card__body">
-    <h3 class="guide-card__title"><a class="guide-card__link" href="mockup-guide.html">Money Method #1</a></h3>
+    <h3 class="guide-card__title"><a class="guide-card__link" href="mockup-guide.html">Money Method #1: Placeholder Route</a></h3>
     <p class="guide-card__excerpt">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p>
-    <div class="guide-card__meta"><span class="guide-card__badge"><span class="badge badge--official"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m5 12 5 5 9-10"/></svg>Official source</span></span><span class="mono">6 min</span></div>
+    <div class="guide-card__meta"><span class="guide-card__cat">Money</span><span class="guide-card__badge"><span class="badge badge--spoiler badge--spoiler-none">Spoiler-free</span></span><span class="guide-card__badge"><span class="badge badge--updated"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg>Updated 18 Nov 2026</span></span><span>5 min</span></div>
   </div>
-</li><li class="guide-card cat-money">
-  <div class="guide-card__media"><picture><source type="image/avif" srcset="img/cat-money-640.avif 640w, img/cat-money-1280.avif 1280w" sizes="(min-width:64rem) 380px, (min-width:40rem) 50vw, 100vw"><source type="image/webp" srcset="img/cat-money-640.webp 640w, img/cat-money-1280.webp 1280w" sizes="(min-width:64rem) 380px, (min-width:40rem) 50vw, 100vw"><img src="img/cat-money-640.webp" width="1280" height="720" alt="" loading="lazy" decoding="async"></picture><span class="guide-card__chip chip cat-money">Money</span></div>
+</li><li class="guide-card cat-money is-flip" data-cat="money">
+  <div class="guide-card__media"><div class="guide-card__art"><img src="img/crop-window.webp" width="640" height="400" alt="" loading="lazy" decoding="async"></div><span class="guide-card__chip chip">Money</span></div>
   <div class="guide-card__body">
-    <h3 class="guide-card__title"><a class="guide-card__link" href="mockup-guide.html">Money Method #2</a></h3>
-    <p class="guide-card__excerpt">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p>
-    <div class="guide-card__meta"><span class="guide-card__badge"><span class="badge badge--updated"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg>Updated 18 Nov 2026</span></span><span class="mono">6 min</span></div>
+    <h3 class="guide-card__title"><a class="guide-card__link" href="mockup-guide.html">Money Method #2: Placeholder</a></h3>
+    <p class="guide-card__excerpt">Sed do eiusmod tempor incididunt.</p>
+    <div class="guide-card__meta"><span class="guide-card__cat">Money</span><span class="guide-card__badge"><span class="badge badge--spoiler badge--spoiler-none">Spoiler-free</span></span><span>6 min</span></div>
   </div>
-</li><li class="guide-card cat-money">
-  <div class="guide-card__media"><picture><source type="image/avif" srcset="img/cat-money-640.avif 640w, img/cat-money-1280.avif 1280w" sizes="(min-width:64rem) 380px, (min-width:40rem) 50vw, 100vw"><source type="image/webp" srcset="img/cat-money-640.webp 640w, img/cat-money-1280.webp 1280w" sizes="(min-width:64rem) 380px, (min-width:40rem) 50vw, 100vw"><img src="img/cat-money-640.webp" width="1280" height="720" alt="" loading="lazy" decoding="async"></picture><span class="guide-card__chip chip cat-money">Money</span></div>
+</li><li class="guide-card cat-money" data-cat="money">
+  <div class="guide-card__media"><div class="guide-card__art"><img src="img/crop-cash.webp" width="640" height="400" alt="" loading="lazy" decoding="async"></div><span class="guide-card__chip chip">Money</span></div>
   <div class="guide-card__body">
-    <h3 class="guide-card__title"><a class="guide-card__link" href="mockup-guide.html">Money Method #3</a></h3>
-    <p class="guide-card__excerpt">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p>
-    <div class="guide-card__meta"><span class="guide-card__badge"><span class="badge badge--updated"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg>Updated 18 Nov 2026</span></span><span class="guide-card__badge"><span class="badge badge--rumour"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 8v5M12 17h.01"/><path d="M10.3 4.2 2.8 17.5A2 2 0 0 0 4.5 20.5h15a2 2 0 0 0 1.7-3L13.7 4.2a2 2 0 0 0-3.4 0z"/></svg>Unverified</span></span><span class="mono">6 min</span></div>
+    <h3 class="guide-card__title"><a class="guide-card__link" href="mockup-guide.html">Money Method #3: Placeholder</a></h3>
+    <p class="guide-card__excerpt">Ut enim ad minim veniam, quis nostrud.</p>
+    <div class="guide-card__meta"><span class="guide-card__cat">Money</span><span class="guide-card__badge"><span class="badge badge--spoiler badge--spoiler-minor">Minor spoilers</span></span><span>4 min</span></div>
   </div>
-</li><li class="guide-card cat-money">
-  <div class="guide-card__media"><picture><source type="image/avif" srcset="img/cat-money-640.avif 640w, img/cat-money-1280.avif 1280w" sizes="(min-width:64rem) 380px, (min-width:40rem) 50vw, 100vw"><source type="image/webp" srcset="img/cat-money-640.webp 640w, img/cat-money-1280.webp 1280w" sizes="(min-width:64rem) 380px, (min-width:40rem) 50vw, 100vw"><img src="img/cat-money-640.webp" width="1280" height="720" alt="" loading="lazy" decoding="async"></picture><span class="guide-card__chip chip cat-money">Money</span></div>
+</li><li class="guide-card cat-money is-flip" data-cat="money">
+  <div class="guide-card__media"><div class="guide-card__art"><img src="img/crop-window.webp" width="640" height="400" alt="" loading="lazy" decoding="async"></div><span class="guide-card__chip chip">Money</span></div>
   <div class="guide-card__body">
-    <h3 class="guide-card__title"><a class="guide-card__link" href="mockup-guide.html">Money Method #4</a></h3>
-    <p class="guide-card__excerpt">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p>
-    <div class="guide-card__meta"><span class="guide-card__badge"><span class="badge badge--updated"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg>Updated 18 Nov 2026</span></span><span class="mono">6 min</span></div>
+    <h3 class="guide-card__title"><a class="guide-card__link" href="mockup-guide.html">Early-game money placeholder</a></h3>
+    <p class="guide-card__excerpt">Duis aute irure dolor in reprehenderit.</p>
+    <div class="guide-card__meta"><span class="guide-card__cat">Money</span><span class="guide-card__badge"><span class="badge badge--spoiler badge--spoiler-none">Spoiler-free</span></span><span class="guide-card__badge"><span class="badge badge--new">New</span></span><span>7 min</span></div>
   </div>
-</li><li class="guide-card cat-money">
-  <div class="guide-card__media"><picture><source type="image/avif" srcset="img/cat-money-640.avif 640w, img/cat-money-1280.avif 1280w" sizes="(min-width:64rem) 380px, (min-width:40rem) 50vw, 100vw"><source type="image/webp" srcset="img/cat-money-640.webp 640w, img/cat-money-1280.webp 1280w" sizes="(min-width:64rem) 380px, (min-width:40rem) 50vw, 100vw"><img src="img/cat-money-640.webp" width="1280" height="720" alt="" loading="lazy" decoding="async"></picture><span class="guide-card__chip chip cat-money">Money</span></div>
+</li><li class="guide-card cat-money is-flip" data-cat="money">
+  <div class="guide-card__media"><div class="guide-card__art"><img src="img/crop-cash.webp" width="640" height="400" alt="" loading="lazy" decoding="async"></div><span class="guide-card__chip chip">Money</span></div>
   <div class="guide-card__body">
-    <h3 class="guide-card__title"><a class="guide-card__link" href="mockup-guide.html">Money Method #5</a></h3>
-    <p class="guide-card__excerpt">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p>
-    <div class="guide-card__meta"><span class="guide-card__badge"><span class="badge badge--official"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m5 12 5 5 9-10"/></svg>Official source</span></span><span class="mono">6 min</span></div>
+    <h3 class="guide-card__title"><a class="guide-card__link" href="mockup-guide.html">Safe routes placeholder</a></h3>
+    <p class="guide-card__excerpt">Excepteur sint occaecat cupidatat.</p>
+    <div class="guide-card__meta"><span class="guide-card__cat">Money</span><span class="guide-card__badge"><span class="badge badge--spoiler badge--spoiler-none">Spoiler-free</span></span><span>5 min</span></div>
   </div>
-</li><li class="guide-card cat-money">
-  <div class="guide-card__media"><picture><source type="image/avif" srcset="img/cat-money-640.avif 640w, img/cat-money-1280.avif 1280w" sizes="(min-width:64rem) 380px, (min-width:40rem) 50vw, 100vw"><source type="image/webp" srcset="img/cat-money-640.webp 640w, img/cat-money-1280.webp 1280w" sizes="(min-width:64rem) 380px, (min-width:40rem) 50vw, 100vw"><img src="img/cat-money-640.webp" width="1280" height="720" alt="" loading="lazy" decoding="async"></picture><span class="guide-card__chip chip cat-money">Money</span></div>
+</li><li class="guide-card cat-money is-flip" data-cat="money">
+  <div class="guide-card__media"><div class="guide-card__art"><img src="img/crop-window.webp" width="640" height="400" alt="" loading="lazy" decoding="async"></div><span class="guide-card__chip chip">Money</span></div>
   <div class="guide-card__body">
-    <h3 class="guide-card__title"><a class="guide-card__link" href="mockup-guide.html">Money Method #6</a></h3>
-    <p class="guide-card__excerpt">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p>
-    <div class="guide-card__meta"><span class="guide-card__badge"><span class="badge badge--updated"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg>Updated 18 Nov 2026</span></span><span class="guide-card__badge"><span class="badge badge--rumour"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 8v5M12 17h.01"/><path d="M10.3 4.2 2.8 17.5A2 2 0 0 0 4.5 20.5h15a2 2 0 0 0 1.7-3L13.7 4.2a2 2 0 0 0-3.4 0z"/></svg>Unverified</span></span><span class="mono">6 min</span></div>
+    <h3 class="guide-card__title"><a class="guide-card__link" href="mockup-guide.html">Mistakes to avoid placeholder</a></h3>
+    <p class="guide-card__excerpt">Sunt in culpa qui officia deserunt.</p>
+    <div class="guide-card__meta"><span class="guide-card__cat">Money</span><span class="guide-card__badge"><span class="badge badge--spoiler badge--spoiler-none">Spoiler-free</span></span><span class="guide-card__badge"><span class="badge badge--rumour"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 8v5M12 17h.01"/><path d="M10.3 4.2 2.8 17.5A2 2 0 0 0 4.5 20.5h15a2 2 0 0 0 1.7-3L13.7 4.2a2 2 0 0 0-3.4 0z"/></svg>Unverified</span></span><span>3 min</span></div>
   </div>
 </li></ul>
-        <ul class="pagination"><li><a class="pagination__link" href="#" aria-current="page">1</a></li><li><a class="pagination__link" href="#">2</a></li><li><a class="pagination__link" href="#">3</a></li><li><a class="pagination__link" href="#" aria-label="Next page">→</a></li></ul>
-      </div>
-      <aside aria-label="Sidebar" style="display:grid;gap:1rem;align-content:start">
-        <div class="side-card"><p class="side-card__title">All categories</p><ul class="side-list"><li><a class="side-list__link cat-missions" href="#">Missions<span>14</span></a></li><li><a class="side-list__link cat-money" href="#">Money<span>09</span></a></li><li><a class="side-list__link cat-collectibles" href="#">Collectibles<span>11</span></a></li><li><a class="side-list__link cat-vehicles" href="#">Vehicles<span>16</span></a></li><li><a class="side-list__link cat-weapons" href="#">Weapons<span>08</span></a></li><li><a class="side-list__link cat-glitches" href="#">Glitches & fixes<span>06</span></a></li><li><a class="side-list__link cat-beginner" href="#">Beginner tips<span>12</span></a></li><li><a class="side-list__link cat-ps5" href="#">PS5 settings<span>04</span></a></li></ul></div>
-        <aside class="ad-slot ad-slot--rectangle" aria-label="Advertisement"><span class="ad-slot__label">Advertisement</span><span class="ad-slot__size">300×250 · reserved space</span></aside>
-      </aside>
-    </div>
-  </div>
+  <ul class="pagination"><li><a class="pagination__link" href="#" aria-current="page">1</a></li><li><a class="pagination__link" href="#">2</a></li><li><a class="pagination__link" href="#">Next</a></li></ul>
+</div>
 </main>
 <footer class="site-footer">
   <div class="container">
     <div class="site-footer__grid">
-      <div class="site-footer__brand"><img src="logo/wordmark-stacked.svg" width="190" height="95" alt="Leonida Guides" loading="lazy">
+      <div class="site-footer__brand"><a class="site-footer__wordmark" href="mockup-home.html">Leonida <span>Guides</span></a>
         <p class="site-footer__about">Guides, tips and walkthroughs for the open-world crime series, written by fans. Every fact shows its source; rumours are labelled.</p></div>
-      <nav aria-label="Guides"><h2 class="site-footer__title">Guides</h2><ul class="site-footer__list"><li><a class="site-footer__link" href="#">Missions</a></li><li><a class="site-footer__link" href="#">Money</a></li><li><a class="site-footer__link" href="#">Collectibles</a></li><li><a class="site-footer__link" href="#">Vehicles</a></li></ul></nav>
-      <nav aria-label="Help"><h2 class="site-footer__title">Help</h2><ul class="site-footer__list"><li><a class="site-footer__link" href="#">Beginner tips</a></li><li><a class="site-footer__link" href="#">PS5 settings</a></li><li><a class="site-footer__link" href="#">Glitches &amp; fixes</a></li></ul></nav>
-      <nav aria-label="Site"><h2 class="site-footer__title">Site</h2><ul class="site-footer__list"><li><a class="site-footer__link" href="#">About &amp; sources policy</a></li><li><a class="site-footer__link" href="#">Corrections</a></li><li><a class="site-footer__link" href="#">Privacy</a></li><li><a class="site-footer__link" href="#">Contact</a></li></ul></nav>
+      <nav aria-label="Guides"><h2 class="site-footer__title">Guides</h2><ul class="site-footer__list"><li><a class="site-footer__link" href="mockup-hub.html">Missions</a></li><li><a class="site-footer__link" href="mockup-hub.html">Money</a></li><li><a class="site-footer__link" href="mockup-hub.html">Collectibles</a></li><li><a class="site-footer__link" href="mockup-hub.html">Vehicles</a></li></ul></nav>
+      <nav aria-label="Help"><h2 class="site-footer__title">Help</h2><ul class="site-footer__list"><li><a class="site-footer__link" href="mockup-hub.html">Beginner tips</a></li><li><a class="site-footer__link" href="mockup-hub.html">PS5 settings</a></li><li><a class="site-footer__link" href="mockup-hub.html">Glitches &amp; fixes</a></li></ul></nav>
+      <nav aria-label="Site"><h2 class="site-footer__title">Site</h2><ul class="site-footer__list"><li><a class="site-footer__link" href="mockup-home.html">About</a></li><li><a class="site-footer__link" href="mockup-home.html">Sources &amp; corrections</a></li><li><a class="site-footer__link" href="mockup-home.html">Privacy</a></li></ul></nav>
     </div>
-    <div class="site-footer__disclaimer">
-      <p class="site-footer__disclaimer-strong">Unofficial fan site — not affiliated with Rockstar Games</p>
-      <p class="site-footer__legal">This is an independent fan project. It is not endorsed by, sponsored by or connected to Rockstar Games or Take-Two Interactive. Grand Theft Auto and related names and marks are trademarks of their respective owners and are used here only to identify the subject of our guides. Screenshots are credited to their sources.</p>
-      <p class="site-footer__legal">© 2026 Leonida Guides. Original design and text.</p>
-    </div>
+    <div class="site-footer__disclaimer"><p class="site-footer__disclaimer-strong">Unofficial fan site — not affiliated with Rockstar Games</p>
+      <p class="site-footer__legal">Leonida Guides is an independent fan project. All trademarks belong to their respective owners. This site is not endorsed by, directly affiliated with, or sponsored by Rockstar Games or Take-Two Interactive.</p></div>
   </div>
 </footer>
 <script src="ui.js" defer></script>
-</body></html>
+</body>
+</html>
