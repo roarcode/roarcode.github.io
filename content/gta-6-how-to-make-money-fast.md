@@ -59,8 +59,8 @@ Destructoid says cash you carry is lost if you are "wasted" (you die) or arreste
 
 GameSpot says some hideouts have rare guns and vehicles. You can sell those too.
 
-![Map pins for yellow robbery icons](TODO: image:gta-6-how-to-make-money-fast-step-2 — map pin: our own schematic map with three yellow robbery icons and a fence icon, no real place names)
-*Caption: Map pin. Yellow icons mark robbery spots. Sell the loot at a fence.*
+![Yellow robbery icons and the fence explained](TODO: image:gta-6-how-to-make-money-fast-step-2 — diagram, our own art: two boxes, yellow map icon = robbery spot, fence = sell the loot, no place names)
+*Caption: Diagram. Yellow icons mark robbery spots. Sell the loot at a fence.*
 
 ## Method 2: Steal cars for paid jobs
 

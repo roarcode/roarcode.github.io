@@ -29,6 +29,9 @@ title: <short find title>
 category: official|news|secrets|money|glitches|cars|missions|collectibles|settings
 sources: [<url>]
 platform: X|Reddit
+post_url: <exact post URL, for embedding>
+handle: <@author>
+quote: "<short verbatim quote from the post, max ~25 words, for the embed caption>"
 engagement: "<likes/reposts/views or upvotes/comments> at <time CET>"
 found: <ISO time CET>
 status: unverified (community report)
@@ -38,7 +41,7 @@ spoilers: none|minor|major   # REQUIRED on every note; story/mission/character/e
 2–4 lines in OUR words: what it is, how to do it / where, caveats (patched?, spoiler?). Credit author handle. No copied text, no leaked/pirated content, spoilers flagged.
 
 ## Rules
-Skip leaks of unreleased paid content, piracy, cheats/mod menus for online, NSFW, pure hype/memes. Mark everything unverified unless confirmed by multiple independent sources (then status: corroborated + list them).
+Skip piracy, file links, leaked unreleased paid DLC, cheats/mod menus for online, NSFW, pure hype/memes. Mark everything unverified unless confirmed by multiple independent sources (then status: corroborated + list them).
 
 ## Pre-EU unlock (Wed 18 Nov 12:00–24:00 CET): NZ/AU early players
 - (GTA6 OR "GTA VI") (NZ OR "New Zealand" OR Aussie OR Australia OR "early access" OR "already playing" OR "just unlocked")
@@ -47,3 +50,37 @@ Skip leaks of unreleased paid content, piracy, cheats/mod menus for online, NSFW
 
 ## Small-account finds
 Include finds from small accounts (even <100 followers) when the post shows concrete proof (image/clip/coordinates). Mark status: unverified, and upgrade to corroborated when a second independent post confirms it.
+
+## Leaks & early-player discoveries (added 18 Nov, Rok via God Bot)
+Collect: NZ/AU/Asia early-player discoveries, datamine findings (text summary + link to the public post), leaked info about the released game.
+Queries: (GTA6 OR "GTA VI") (leak OR leaked OR datamine OR datamined OR "files show" OR "found in the files")
+Note fields: category: leak, tags: [leak], spoilers: major (always), leak_status: confirmed|unconfirmed (confirmed only if Rockstar or several independent hands-on sources show it), sources: [post URL].
+NEVER: piracy, download/file/torrent/mega links, ISO/dumps, decryption keys, leaked unreleased paid DLC assets. Link the public post only; don't download media from leaks.
+
+## Selection preference (God Bot, 18 Nov)
+Prefer posts with real tips, fixes or strong reactions (high replies/quotes). Every note MUST have post_url, handle, quote and engagement counts (likes/reposts/replies/views or upvotes/comments).
+
+## Top sources from strategy.md (added once, X monitor, 18 Nov 12:10 CET)
+- X official: @RockstarGames (id 29758446), @RockstarSupport (id 147776954); one combined search per run: from:RockstarGames OR from:RockstarSupport
+- Rockstar Newswire: https://www.rockstargames.com/newswire (no RSS; client-rendered; watch official X posts for newswire links)
+- Rockstar YouTube RSS: https://www.youtube.com/feeds/videos.xml?channel_id=UC6VcWc1rAoWdBCM0JxrRQ3A (low frequency)
+- Status: https://status.playstation.com , https://support.xbox.com/en-US/xbox-live-status , https://support.rockstargames.com/servicestatus
+- Platforms on X: @PlayStation (10671602), @XBOXSupport (59804598)
+- Outlets on X: @IGN, @eurogamer, @GameSpot, @DualShockers; YouTube: Digital Foundry UC9PBzalIcEQCsiIkq36PyUA, GameSpot UCbu2SsF-Or3Rsn3NxqODImw
+- Journalists (leaks = unverified): @jasonschreier, @tomwarren, @_Tom_Henderson_ ; fan news: @GTAonlineNews, @RockstarINTEL
+- YouTube creators: MrBossFTW UC0PMQXAwF6O6aeTpv962miA, PowerPyx UCWBA1-H9A5IldSb3tNwQmtQ
+- Subreddits: r/GTA6, r/GTA, r/gtaonline, r/rockstar (via WebFetch/web search only)
+- Problem-signal query: ("GTA 6" OR "GTA VI") (outage OR "can't sign in" OR "not downloading" OR "stuck") lang:en -is:retweet
+
+## Reddit EVERY scan (updated 18 Nov 12:20): legit read-only only
+- Run `python3 /workspace/gta6-guides/monitor/reddit_fetch.py 45` (Arctic Shift public archive; subs r/GTA6, r/GTA, r/GTAVI, r/GTA6Online, GTA posts in r/PS5 and r/GamingLeaksAndRumours). Always cite the reddit.com permalink it prints.
+- Subreddit RSS returns 404/429 from this box; try at most once per run, and never retry, rotate UA, proxy or otherwise bypass blocks.
+- Archive scores lag live Reddit; rank by comments + recency, note "score as archived at <time>".
+
+## Speed / Copywriter priority
+- Fastest-rising questions or problems (many posts/replies in the last hour asking the same thing: crashes, settings, where-is, how-to) -> write ONE extra note per run named YYYYMMDD-HHMM-hot-<slug>.md with priority: high, for: Copywriter, the question in plain words, 3–5 example post URLs (X + Reddit) worth embedding, and counts.
+- Tag spoiler finds tags: [spoiler] + spoilers: minor|major; leak finds tags: [leak] + spoilers: major.
+
+## Call budget (X limit 1000/day, resets 01:00 CET)
+- 15-min phase (until Thu 19 Nov 12:00 CET): max 8 X calls per scan; official accounts every other scan.
+- 30-min phase after that: max 15 X calls per scan.

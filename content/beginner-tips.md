@@ -22,7 +22,7 @@ sources:
 updated: 2026-11-18
 status: prelaunch
 spoilers: minor
-qa: passed
+qa: live-review
 ---
 
 # GTA 6 Beginner Tips: Start Strong in 2026
@@ -80,6 +80,10 @@ qa: passed
 - Exact button names for switching leads and for each action
 
 We will publish money methods, vehicle guides and collectible maps after launch, once players have checked them.
+
+Want a first-person view? [Does GTA 6 have first-person mode?](/beginner-tips/gta-6-first-person-mode/)
+
+Found a car you like? [GTA 6 how to scan cars with WAiNK](/cars/gta-6-how-to-scan-cars/)
 
 ## FAQ
 

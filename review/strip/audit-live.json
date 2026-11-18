@@ -1,0 +1,2346 @@
+{
+ "home|mobile": {
+  "sel": {
+   "ticker (.ticker)": [
+    1,
+    1
+   ],
+   "ticker pause btn": [
+    1,
+    1
+   ],
+   "marquee (.marquee)": [
+    1,
+    1
+   ],
+   "disclaimer bar": [
+    1,
+    1
+   ],
+   "all .badge": [
+    35,
+    35
+   ],
+   "badge--spoiler": [
+    34,
+    34
+   ],
+   "badge--updated": [
+    1,
+    1
+   ],
+   "badge--official": [
+    0,
+    0
+   ],
+   "badge--rumour": [
+    0,
+    0
+   ],
+   "all .chip": [
+    40,
+    7
+   ],
+   "chip--filter": [
+    5,
+    5
+   ],
+   "chip--ghost": [
+    0,
+    0
+   ],
+   "guide-card__chip (art overlay)": [
+    34,
+    1
+   ],
+   "hero tags row": [
+    1,
+    1
+   ],
+   "article-head tags row": [
+    0,
+    0
+   ],
+   "svg icons (all)": [
+    15,
+    12
+   ],
+   "svg .icon": [
+    1,
+    1
+   ],
+   "quick-access icon": [
+    8,
+    8
+   ],
+   "icon-btn": [
+    2,
+    2
+   ],
+   "btn--cta (gradient)": [
+    3,
+    2
+   ],
+   "btn--ghost": [
+    2,
+    2
+   ],
+   "btn (all)": [
+    5,
+    4
+   ],
+   "section__kicker (eyebrow)": [
+    2,
+    2
+   ],
+   "wire__live": [
+    1,
+    1
+   ],
+   "wire__cat": [
+    6,
+    6
+   ],
+   "label (caps)": [
+    1,
+    1
+   ],
+   "spoiler-toggle": [
+    1,
+    1
+   ],
+   "spoiler (details)": [
+    0,
+    0
+   ],
+   "key-answer": [
+    0,
+    0
+   ],
+   "byline avatar": [
+    0,
+    0
+   ],
+   "article-head__ai": [
+    0,
+    0
+   ],
+   "toc (details)": [
+    0,
+    0
+   ],
+   "side-card": [
+    0,
+    0
+   ],
+   "promo": [
+    1,
+    1
+   ],
+   "guide-card": [
+    34,
+    34
+   ],
+   "tile / trending": [
+    0,
+    0
+   ],
+   "quick-access item": [
+    8,
+    8
+   ],
+   "wire (ranked list)": [
+    1,
+    1
+   ],
+   "hero shade/overlay": [
+    1,
+    1
+   ],
+   "read-progress": [
+    0,
+    0
+   ],
+   "source kind tags": [
+    0,
+    0
+   ],
+   "section__head": [
+    2,
+    2
+   ],
+   "h2 (all)": [
+    6,
+    6
+   ],
+   "faq details": [
+    0,
+    0
+   ],
+   "breadcrumbs": [
+    0,
+    0
+   ],
+   "notice": [
+    0,
+    0
+   ]
+  },
+  "dom": 795,
+  "domVisible": 699,
+  "pill": 10,
+  "clip": 22,
+  "shadow": 0,
+  "grad": 10,
+  "anim": 0,
+  "hues": {
+   "pink": {
+    "n": 8,
+    "ex": {
+     "bg": 2,
+     "text": 6
+    }
+   },
+   "blue": {
+    "n": 6,
+    "ex": {
+     "border": 5,
+     "bg": 1
+    }
+   },
+   "green": {
+    "n": 30,
+    "ex": {
+     "text": 30
+    }
+   },
+   "cyan": {
+    "n": 32,
+    "ex": {
+     "text": 31,
+     "bg": 1
+    }
+   },
+   "orange": {
+    "n": 15,
+    "ex": {
+     "text": 15
+    }
+   },
+   "violet": {
+    "n": 1,
+    "ex": {
+     "text": 1
+    }
+   },
+   "red": {
+    "n": 1,
+    "ex": {
+     "text": 1
+    }
+   }
+  },
+  "emoji": 1,
+  "h": 9525
+ },
+ "guide|mobile": {
+  "sel": {
+   "ticker (.ticker)": [
+    0,
+    0
+   ],
+   "ticker pause btn": [
+    0,
+    0
+   ],
+   "marquee (.marquee)": [
+    0,
+    0
+   ],
+   "disclaimer bar": [
+    1,
+    1
+   ],
+   "all .badge": [
+    6,
+    6
+   ],
+   "badge--spoiler": [
+    4,
+    4
+   ],
+   "badge--updated": [
+    1,
+    1
+   ],
+   "badge--official": [
+    1,
+    1
+   ],
+   "badge--rumour": [
+    0,
+    0
+   ],
+   "all .chip": [
+    4,
+    1
+   ],
+   "chip--filter": [
+    0,
+    0
+   ],
+   "chip--ghost": [
+    0,
+    0
+   ],
+   "guide-card__chip (art overlay)": [
+    3,
+    0
+   ],
+   "hero tags row": [
+    0,
+    0
+   ],
+   "article-head tags row": [
+    1,
+    1
+   ],
+   "svg icons (all)": [
+    6,
+    4
+   ],
+   "svg .icon": [
+    2,
+    2
+   ],
+   "quick-access icon": [
+    0,
+    0
+   ],
+   "icon-btn": [
+    2,
+    2
+   ],
+   "btn--cta (gradient)": [
+    1,
+    0
+   ],
+   "btn--ghost": [
+    0,
+    0
+   ],
+   "btn (all)": [
+    1,
+    0
+   ],
+   "section__kicker (eyebrow)": [
+    0,
+    0
+   ],
+   "wire__live": [
+    0,
+    0
+   ],
+   "wire__cat": [
+    0,
+    0
+   ],
+   "label (caps)": [
+    0,
+    0
+   ],
+   "spoiler-toggle": [
+    1,
+    1
+   ],
+   "spoiler (details)": [
+    0,
+    0
+   ],
+   "key-answer": [
+    0,
+    0
+   ],
+   "byline avatar": [
+    1,
+    1
+   ],
+   "article-head__ai": [
+    1,
+    1
+   ],
+   "toc (details)": [
+    1,
+    1
+   ],
+   "side-card": [
+    1,
+    1
+   ],
+   "promo": [
+    0,
+    0
+   ],
+   "guide-card": [
+    3,
+    3
+   ],
+   "tile / trending": [
+    0,
+    0
+   ],
+   "quick-access item": [
+    0,
+    0
+   ],
+   "wire (ranked list)": [
+    0,
+    0
+   ],
+   "hero shade/overlay": [
+    0,
+    0
+   ],
+   "read-progress": [
+    1,
+    0
+   ],
+   "source kind tags": [
+    17,
+    17
+   ],
+   "section__head": [
+    0,
+    0
+   ],
+   "h2 (all)": [
+    12,
+    12
+   ],
+   "faq details": [
+    0,
+    0
+   ],
+   "breadcrumbs": [
+    1,
+    1
+   ],
+   "notice": [
+    0,
+    0
+   ]
+  },
+  "dom": 619,
+  "domVisible": 583,
+  "pill": 18,
+  "clip": 1,
+  "shadow": 0,
+  "grad": 3,
+  "anim": 0,
+  "hues": {
+   "pink": {
+    "n": 1,
+    "ex": {
+     "bg": 1
+    }
+   },
+   "blue": {
+    "n": 19,
+    "ex": {
+     "border": 18,
+     "bg": 1
+    }
+   },
+   "green": {
+    "n": 6,
+    "ex": {
+     "text": 6
+    }
+   },
+   "cyan": {
+    "n": 40,
+    "ex": {
+     "bg": 1,
+     "text": 37,
+     "border": 2
+    }
+   },
+   "orange": {
+    "n": 1,
+    "ex": {
+     "text": 1
+    }
+   }
+  },
+  "emoji": 25,
+  "h": 17855
+ },
+ "hub|mobile": {
+  "sel": {
+   "ticker (.ticker)": [
+    0,
+    0
+   ],
+   "ticker pause btn": [
+    0,
+    0
+   ],
+   "marquee (.marquee)": [
+    0,
+    0
+   ],
+   "disclaimer bar": [
+    1,
+    1
+   ],
+   "all .badge": [
+    23,
+    23
+   ],
+   "badge--spoiler": [
+    23,
+    23
+   ],
+   "badge--updated": [
+    0,
+    0
+   ],
+   "badge--official": [
+    0,
+    0
+   ],
+   "badge--rumour": [
+    0,
+    0
+   ],
+   "all .chip": [
+    30,
+    7
+   ],
+   "chip--filter": [
+    0,
+    0
+   ],
+   "chip--ghost": [
+    7,
+    7
+   ],
+   "guide-card__chip (art overlay)": [
+    23,
+    0
+   ],
+   "hero tags row": [
+    0,
+    0
+   ],
+   "article-head tags row": [
+    0,
+    0
+   ],
+   "svg icons (all)": [
+    4,
+    2
+   ],
+   "svg .icon": [
+    0,
+    0
+   ],
+   "quick-access icon": [
+    0,
+    0
+   ],
+   "icon-btn": [
+    2,
+    2
+   ],
+   "btn--cta (gradient)": [
+    1,
+    0
+   ],
+   "btn--ghost": [
+    0,
+    0
+   ],
+   "btn (all)": [
+    1,
+    0
+   ],
+   "section__kicker (eyebrow)": [
+    1,
+    1
+   ],
+   "wire__live": [
+    0,
+    0
+   ],
+   "wire__cat": [
+    0,
+    0
+   ],
+   "label (caps)": [
+    2,
+    2
+   ],
+   "spoiler-toggle": [
+    1,
+    1
+   ],
+   "spoiler (details)": [
+    0,
+    0
+   ],
+   "key-answer": [
+    0,
+    0
+   ],
+   "byline avatar": [
+    0,
+    0
+   ],
+   "article-head__ai": [
+    0,
+    0
+   ],
+   "toc (details)": [
+    0,
+    0
+   ],
+   "side-card": [
+    0,
+    0
+   ],
+   "promo": [
+    0,
+    0
+   ],
+   "guide-card": [
+    23,
+    23
+   ],
+   "tile / trending": [
+    0,
+    0
+   ],
+   "quick-access item": [
+    0,
+    0
+   ],
+   "wire (ranked list)": [
+    1,
+    1
+   ],
+   "hero shade/overlay": [
+    1,
+    1
+   ],
+   "read-progress": [
+    0,
+    0
+   ],
+   "source kind tags": [
+    0,
+    0
+   ],
+   "section__head": [
+    2,
+    2
+   ],
+   "h2 (all)": [
+    5,
+    5
+   ],
+   "faq details": [
+    0,
+    0
+   ],
+   "breadcrumbs": [
+    1,
+    1
+   ],
+   "notice": [
+    0,
+    0
+   ]
+  },
+  "dom": 511,
+  "domVisible": 440,
+  "pill": 1,
+  "clip": 7,
+  "shadow": 0,
+  "grad": 2,
+  "anim": 0,
+  "hues": {
+   "pink": {
+    "n": 3,
+    "ex": {
+     "bg": 1,
+     "text": 2
+    }
+   },
+   "blue": {
+    "n": 3,
+    "ex": {
+     "border": 1,
+     "bg": 1,
+     "text": 1
+    }
+   },
+   "cyan": {
+    "n": 24,
+    "ex": {
+     "text": 24
+    }
+   },
+   "green": {
+    "n": 20,
+    "ex": {
+     "text": 20
+    }
+   },
+   "orange": {
+    "n": 6,
+    "ex": {
+     "text": 6
+    }
+   },
+   "violet": {
+    "n": 1,
+    "ex": {
+     "text": 1
+    }
+   }
+  },
+  "emoji": 1,
+  "h": 6294
+ },
+ "hub-empty|mobile": {
+  "sel": {
+   "ticker (.ticker)": [
+    0,
+    0
+   ],
+   "ticker pause btn": [
+    0,
+    0
+   ],
+   "marquee (.marquee)": [
+    0,
+    0
+   ],
+   "disclaimer bar": [
+    1,
+    1
+   ],
+   "all .badge": [
+    0,
+    0
+   ],
+   "badge--spoiler": [
+    0,
+    0
+   ],
+   "badge--updated": [
+    0,
+    0
+   ],
+   "badge--official": [
+    0,
+    0
+   ],
+   "badge--rumour": [
+    0,
+    0
+   ],
+   "all .chip": [
+    7,
+    7
+   ],
+   "chip--filter": [
+    0,
+    0
+   ],
+   "chip--ghost": [
+    7,
+    7
+   ],
+   "guide-card__chip (art overlay)": [
+    0,
+    0
+   ],
+   "hero tags row": [
+    0,
+    0
+   ],
+   "article-head tags row": [
+    0,
+    0
+   ],
+   "svg icons (all)": [
+    4,
+    2
+   ],
+   "svg .icon": [
+    0,
+    0
+   ],
+   "quick-access icon": [
+    0,
+    0
+   ],
+   "icon-btn": [
+    2,
+    2
+   ],
+   "btn--cta (gradient)": [
+    1,
+    0
+   ],
+   "btn--ghost": [
+    0,
+    0
+   ],
+   "btn (all)": [
+    1,
+    0
+   ],
+   "section__kicker (eyebrow)": [
+    1,
+    1
+   ],
+   "wire__live": [
+    0,
+    0
+   ],
+   "wire__cat": [
+    0,
+    0
+   ],
+   "label (caps)": [
+    1,
+    1
+   ],
+   "spoiler-toggle": [
+    1,
+    1
+   ],
+   "spoiler (details)": [
+    0,
+    0
+   ],
+   "key-answer": [
+    0,
+    0
+   ],
+   "byline avatar": [
+    0,
+    0
+   ],
+   "article-head__ai": [
+    0,
+    0
+   ],
+   "toc (details)": [
+    0,
+    0
+   ],
+   "side-card": [
+    0,
+    0
+   ],
+   "promo": [
+    0,
+    0
+   ],
+   "guide-card": [
+    0,
+    0
+   ],
+   "tile / trending": [
+    0,
+    0
+   ],
+   "quick-access item": [
+    0,
+    0
+   ],
+   "wire (ranked list)": [
+    1,
+    1
+   ],
+   "hero shade/overlay": [
+    1,
+    1
+   ],
+   "read-progress": [
+    0,
+    0
+   ],
+   "source kind tags": [
+    0,
+    0
+   ],
+   "section__head": [
+    2,
+    2
+   ],
+   "h2 (all)": [
+    4,
+    4
+   ],
+   "faq details": [
+    0,
+    0
+   ],
+   "breadcrumbs": [
+    1,
+    1
+   ],
+   "notice": [
+    0,
+    0
+   ]
+  },
+  "dom": 165,
+  "domVisible": 140,
+  "pill": 1,
+  "clip": 7,
+  "shadow": 0,
+  "grad": 2,
+  "anim": 0,
+  "hues": {
+   "pink": {
+    "n": 2,
+    "ex": {
+     "bg": 1,
+     "text": 1
+    }
+   },
+   "blue": {
+    "n": 4,
+    "ex": {
+     "border": 2,
+     "bg": 1,
+     "text": 1
+    }
+   },
+   "cyan": {
+    "n": 4,
+    "ex": {
+     "text": 4
+    }
+   },
+   "green": {
+    "n": 1,
+    "ex": {
+     "text": 1
+    }
+   },
+   "violet": {
+    "n": 1,
+    "ex": {
+     "text": 1
+    }
+   },
+   "orange": {
+    "n": 2,
+    "ex": {
+     "text": 2
+    }
+   }
+  },
+  "emoji": 1,
+  "h": 2592
+ },
+ "search|mobile": {
+  "sel": {
+   "ticker (.ticker)": [
+    0,
+    0
+   ],
+   "ticker pause btn": [
+    0,
+    0
+   ],
+   "marquee (.marquee)": [
+    0,
+    0
+   ],
+   "disclaimer bar": [
+    1,
+    1
+   ],
+   "all .badge": [
+    0,
+    0
+   ],
+   "badge--spoiler": [
+    0,
+    0
+   ],
+   "badge--updated": [
+    0,
+    0
+   ],
+   "badge--official": [
+    0,
+    0
+   ],
+   "badge--rumour": [
+    0,
+    0
+   ],
+   "all .chip": [
+    0,
+    0
+   ],
+   "chip--filter": [
+    0,
+    0
+   ],
+   "chip--ghost": [
+    0,
+    0
+   ],
+   "guide-card__chip (art overlay)": [
+    0,
+    0
+   ],
+   "hero tags row": [
+    0,
+    0
+   ],
+   "article-head tags row": [
+    0,
+    0
+   ],
+   "svg icons (all)": [
+    4,
+    2
+   ],
+   "svg .icon": [
+    0,
+    0
+   ],
+   "quick-access icon": [
+    0,
+    0
+   ],
+   "icon-btn": [
+    2,
+    2
+   ],
+   "btn--cta (gradient)": [
+    1,
+    0
+   ],
+   "btn--ghost": [
+    0,
+    0
+   ],
+   "btn (all)": [
+    1,
+    0
+   ],
+   "section__kicker (eyebrow)": [
+    0,
+    0
+   ],
+   "wire__live": [
+    0,
+    0
+   ],
+   "wire__cat": [
+    0,
+    0
+   ],
+   "label (caps)": [
+    0,
+    0
+   ],
+   "spoiler-toggle": [
+    1,
+    1
+   ],
+   "spoiler (details)": [
+    0,
+    0
+   ],
+   "key-answer": [
+    0,
+    0
+   ],
+   "byline avatar": [
+    0,
+    0
+   ],
+   "article-head__ai": [
+    0,
+    0
+   ],
+   "toc (details)": [
+    0,
+    0
+   ],
+   "side-card": [
+    0,
+    0
+   ],
+   "promo": [
+    0,
+    0
+   ],
+   "guide-card": [
+    0,
+    0
+   ],
+   "tile / trending": [
+    0,
+    0
+   ],
+   "quick-access item": [
+    0,
+    0
+   ],
+   "wire (ranked list)": [
+    0,
+    0
+   ],
+   "hero shade/overlay": [
+    0,
+    0
+   ],
+   "read-progress": [
+    0,
+    0
+   ],
+   "source kind tags": [
+    0,
+    0
+   ],
+   "section__head": [
+    0,
+    0
+   ],
+   "h2 (all)": [
+    2,
+    2
+   ],
+   "faq details": [
+    0,
+    0
+   ],
+   "breadcrumbs": [
+    1,
+    1
+   ],
+   "notice": [
+    0,
+    0
+   ]
+  },
+  "dom": 253,
+  "domVisible": 227,
+  "pill": 1,
+  "clip": 0,
+  "shadow": 0,
+  "grad": 2,
+  "anim": 0,
+  "hues": {
+   "pink": {
+    "n": 2,
+    "ex": {
+     "bg": 1,
+     "text": 1
+    }
+   },
+   "blue": {
+    "n": 16,
+    "ex": {
+     "border": 15,
+     "bg": 1
+    }
+   },
+   "orange": {
+    "n": 24,
+    "ex": {
+     "text": 24
+    }
+   }
+  },
+  "emoji": 1,
+  "h": 4065
+ },
+ "home|desktop": {
+  "sel": {
+   "ticker (.ticker)": [
+    1,
+    1
+   ],
+   "ticker pause btn": [
+    1,
+    1
+   ],
+   "marquee (.marquee)": [
+    1,
+    1
+   ],
+   "disclaimer bar": [
+    1,
+    1
+   ],
+   "all .badge": [
+    35,
+    35
+   ],
+   "badge--spoiler": [
+    34,
+    34
+   ],
+   "badge--updated": [
+    1,
+    1
+   ],
+   "badge--official": [
+    0,
+    0
+   ],
+   "badge--rumour": [
+    0,
+    0
+   ],
+   "all .chip": [
+    40,
+    40
+   ],
+   "chip--filter": [
+    5,
+    5
+   ],
+   "chip--ghost": [
+    0,
+    0
+   ],
+   "guide-card__chip (art overlay)": [
+    34,
+    34
+   ],
+   "hero tags row": [
+    1,
+    1
+   ],
+   "article-head tags row": [
+    0,
+    0
+   ],
+   "svg icons (all)": [
+    15,
+    11
+   ],
+   "svg .icon": [
+    1,
+    1
+   ],
+   "quick-access icon": [
+    8,
+    8
+   ],
+   "icon-btn": [
+    2,
+    1
+   ],
+   "btn--cta (gradient)": [
+    3,
+    3
+   ],
+   "btn--ghost": [
+    2,
+    2
+   ],
+   "btn (all)": [
+    5,
+    5
+   ],
+   "section__kicker (eyebrow)": [
+    2,
+    2
+   ],
+   "wire__live": [
+    1,
+    1
+   ],
+   "wire__cat": [
+    6,
+    6
+   ],
+   "label (caps)": [
+    1,
+    1
+   ],
+   "spoiler-toggle": [
+    1,
+    1
+   ],
+   "spoiler (details)": [
+    0,
+    0
+   ],
+   "key-answer": [
+    0,
+    0
+   ],
+   "byline avatar": [
+    0,
+    0
+   ],
+   "article-head__ai": [
+    0,
+    0
+   ],
+   "toc (details)": [
+    0,
+    0
+   ],
+   "side-card": [
+    0,
+    0
+   ],
+   "promo": [
+    1,
+    1
+   ],
+   "guide-card": [
+    34,
+    34
+   ],
+   "tile / trending": [
+    0,
+    0
+   ],
+   "quick-access item": [
+    8,
+    8
+   ],
+   "wire (ranked list)": [
+    1,
+    1
+   ],
+   "hero shade/overlay": [
+    1,
+    1
+   ],
+   "read-progress": [
+    0,
+    0
+   ],
+   "source kind tags": [
+    0,
+    0
+   ],
+   "section__head": [
+    2,
+    2
+   ],
+   "h2 (all)": [
+    6,
+    6
+   ],
+   "faq details": [
+    0,
+    0
+   ],
+   "breadcrumbs": [
+    0,
+    0
+   ],
+   "notice": [
+    0,
+    0
+   ]
+  },
+  "dom": 795,
+  "domVisible": 749,
+  "pill": 11,
+  "clip": 88,
+  "shadow": 0,
+  "grad": 11,
+  "anim": 0,
+  "hues": {
+   "pink": {
+    "n": 8,
+    "ex": {
+     "bg": 2,
+     "text": 6
+    }
+   },
+   "blue": {
+    "n": 6,
+    "ex": {
+     "border": 5,
+     "bg": 1
+    }
+   },
+   "green": {
+    "n": 30,
+    "ex": {
+     "text": 30
+    }
+   },
+   "cyan": {
+    "n": 32,
+    "ex": {
+     "text": 8,
+     "bg": 24
+    }
+   },
+   "orange": {
+    "n": 15,
+    "ex": {
+     "text": 6,
+     "bg": 9
+    }
+   },
+   "violet": {
+    "n": 1,
+    "ex": {
+     "bg": 1
+    }
+   },
+   "red": {
+    "n": 1,
+    "ex": {
+     "text": 1
+    }
+   }
+  },
+  "emoji": 1,
+  "h": 6657
+ },
+ "guide|desktop": {
+  "sel": {
+   "ticker (.ticker)": [
+    0,
+    0
+   ],
+   "ticker pause btn": [
+    0,
+    0
+   ],
+   "marquee (.marquee)": [
+    0,
+    0
+   ],
+   "disclaimer bar": [
+    1,
+    1
+   ],
+   "all .badge": [
+    6,
+    6
+   ],
+   "badge--spoiler": [
+    4,
+    4
+   ],
+   "badge--updated": [
+    1,
+    1
+   ],
+   "badge--official": [
+    1,
+    1
+   ],
+   "badge--rumour": [
+    0,
+    0
+   ],
+   "all .chip": [
+    4,
+    1
+   ],
+   "chip--filter": [
+    0,
+    0
+   ],
+   "chip--ghost": [
+    0,
+    0
+   ],
+   "guide-card__chip (art overlay)": [
+    3,
+    0
+   ],
+   "hero tags row": [
+    0,
+    0
+   ],
+   "article-head tags row": [
+    1,
+    1
+   ],
+   "svg icons (all)": [
+    6,
+    3
+   ],
+   "svg .icon": [
+    2,
+    2
+   ],
+   "quick-access icon": [
+    0,
+    0
+   ],
+   "icon-btn": [
+    2,
+    1
+   ],
+   "btn--cta (gradient)": [
+    1,
+    1
+   ],
+   "btn--ghost": [
+    0,
+    0
+   ],
+   "btn (all)": [
+    1,
+    1
+   ],
+   "section__kicker (eyebrow)": [
+    0,
+    0
+   ],
+   "wire__live": [
+    0,
+    0
+   ],
+   "wire__cat": [
+    0,
+    0
+   ],
+   "label (caps)": [
+    0,
+    0
+   ],
+   "spoiler-toggle": [
+    1,
+    1
+   ],
+   "spoiler (details)": [
+    0,
+    0
+   ],
+   "key-answer": [
+    0,
+    0
+   ],
+   "byline avatar": [
+    1,
+    1
+   ],
+   "article-head__ai": [
+    1,
+    1
+   ],
+   "toc (details)": [
+    1,
+    1
+   ],
+   "side-card": [
+    1,
+    1
+   ],
+   "promo": [
+    0,
+    0
+   ],
+   "guide-card": [
+    3,
+    3
+   ],
+   "tile / trending": [
+    0,
+    0
+   ],
+   "quick-access item": [
+    0,
+    0
+   ],
+   "wire (ranked list)": [
+    0,
+    0
+   ],
+   "hero shade/overlay": [
+    0,
+    0
+   ],
+   "read-progress": [
+    1,
+    0
+   ],
+   "source kind tags": [
+    17,
+    17
+   ],
+   "section__head": [
+    0,
+    0
+   ],
+   "h2 (all)": [
+    12,
+    12
+   ],
+   "faq details": [
+    0,
+    0
+   ],
+   "breadcrumbs": [
+    1,
+    1
+   ],
+   "notice": [
+    0,
+    0
+   ]
+  },
+  "dom": 611,
+  "domVisible": 592,
+  "pill": 19,
+  "clip": 1,
+  "shadow": 0,
+  "grad": 4,
+  "anim": 0,
+  "hues": {
+   "pink": {
+    "n": 1,
+    "ex": {
+     "bg": 1
+    }
+   },
+   "blue": {
+    "n": 19,
+    "ex": {
+     "border": 18,
+     "bg": 1
+    }
+   },
+   "green": {
+    "n": 6,
+    "ex": {
+     "text": 6
+    }
+   },
+   "cyan": {
+    "n": 37,
+    "ex": {
+     "bg": 1,
+     "text": 34,
+     "border": 2
+    }
+   },
+   "orange": {
+    "n": 1,
+    "ex": {
+     "text": 1
+    }
+   }
+  },
+  "emoji": 25,
+  "h": 13040
+ },
+ "hub|desktop": {
+  "sel": {
+   "ticker (.ticker)": [
+    0,
+    0
+   ],
+   "ticker pause btn": [
+    0,
+    0
+   ],
+   "marquee (.marquee)": [
+    0,
+    0
+   ],
+   "disclaimer bar": [
+    1,
+    1
+   ],
+   "all .badge": [
+    23,
+    23
+   ],
+   "badge--spoiler": [
+    23,
+    23
+   ],
+   "badge--updated": [
+    0,
+    0
+   ],
+   "badge--official": [
+    0,
+    0
+   ],
+   "badge--rumour": [
+    0,
+    0
+   ],
+   "all .chip": [
+    30,
+    30
+   ],
+   "chip--filter": [
+    0,
+    0
+   ],
+   "chip--ghost": [
+    7,
+    7
+   ],
+   "guide-card__chip (art overlay)": [
+    23,
+    23
+   ],
+   "hero tags row": [
+    0,
+    0
+   ],
+   "article-head tags row": [
+    0,
+    0
+   ],
+   "svg icons (all)": [
+    4,
+    1
+   ],
+   "svg .icon": [
+    0,
+    0
+   ],
+   "quick-access icon": [
+    0,
+    0
+   ],
+   "icon-btn": [
+    2,
+    1
+   ],
+   "btn--cta (gradient)": [
+    1,
+    1
+   ],
+   "btn--ghost": [
+    0,
+    0
+   ],
+   "btn (all)": [
+    1,
+    1
+   ],
+   "section__kicker (eyebrow)": [
+    1,
+    1
+   ],
+   "wire__live": [
+    0,
+    0
+   ],
+   "wire__cat": [
+    0,
+    0
+   ],
+   "label (caps)": [
+    2,
+    2
+   ],
+   "spoiler-toggle": [
+    1,
+    1
+   ],
+   "spoiler (details)": [
+    0,
+    0
+   ],
+   "key-answer": [
+    0,
+    0
+   ],
+   "byline avatar": [
+    0,
+    0
+   ],
+   "article-head__ai": [
+    0,
+    0
+   ],
+   "toc (details)": [
+    0,
+    0
+   ],
+   "side-card": [
+    0,
+    0
+   ],
+   "promo": [
+    0,
+    0
+   ],
+   "guide-card": [
+    23,
+    23
+   ],
+   "tile / trending": [
+    0,
+    0
+   ],
+   "quick-access item": [
+    0,
+    0
+   ],
+   "wire (ranked list)": [
+    1,
+    1
+   ],
+   "hero shade/overlay": [
+    1,
+    1
+   ],
+   "read-progress": [
+    0,
+    0
+   ],
+   "source kind tags": [
+    0,
+    0
+   ],
+   "section__head": [
+    2,
+    2
+   ],
+   "h2 (all)": [
+    5,
+    5
+   ],
+   "faq details": [
+    0,
+    0
+   ],
+   "breadcrumbs": [
+    1,
+    1
+   ],
+   "notice": [
+    0,
+    0
+   ]
+  },
+  "dom": 511,
+  "domVisible": 479,
+  "pill": 2,
+  "clip": 53,
+  "shadow": 0,
+  "grad": 3,
+  "anim": 0,
+  "hues": {
+   "pink": {
+    "n": 3,
+    "ex": {
+     "bg": 1,
+     "text": 2
+    }
+   },
+   "blue": {
+    "n": 3,
+    "ex": {
+     "border": 1,
+     "bg": 1,
+     "text": 1
+    }
+   },
+   "cyan": {
+    "n": 24,
+    "ex": {
+     "bg": 23,
+     "text": 1
+    }
+   },
+   "green": {
+    "n": 20,
+    "ex": {
+     "text": 20
+    }
+   },
+   "orange": {
+    "n": 6,
+    "ex": {
+     "text": 6
+    }
+   },
+   "violet": {
+    "n": 1,
+    "ex": {
+     "text": 1
+    }
+   }
+  },
+  "emoji": 1,
+  "h": 5355
+ },
+ "hub-empty|desktop": {
+  "sel": {
+   "ticker (.ticker)": [
+    0,
+    0
+   ],
+   "ticker pause btn": [
+    0,
+    0
+   ],
+   "marquee (.marquee)": [
+    0,
+    0
+   ],
+   "disclaimer bar": [
+    1,
+    1
+   ],
+   "all .badge": [
+    0,
+    0
+   ],
+   "badge--spoiler": [
+    0,
+    0
+   ],
+   "badge--updated": [
+    0,
+    0
+   ],
+   "badge--official": [
+    0,
+    0
+   ],
+   "badge--rumour": [
+    0,
+    0
+   ],
+   "all .chip": [
+    7,
+    7
+   ],
+   "chip--filter": [
+    0,
+    0
+   ],
+   "chip--ghost": [
+    7,
+    7
+   ],
+   "guide-card__chip (art overlay)": [
+    0,
+    0
+   ],
+   "hero tags row": [
+    0,
+    0
+   ],
+   "article-head tags row": [
+    0,
+    0
+   ],
+   "svg icons (all)": [
+    4,
+    1
+   ],
+   "svg .icon": [
+    0,
+    0
+   ],
+   "quick-access icon": [
+    0,
+    0
+   ],
+   "icon-btn": [
+    2,
+    1
+   ],
+   "btn--cta (gradient)": [
+    1,
+    1
+   ],
+   "btn--ghost": [
+    0,
+    0
+   ],
+   "btn (all)": [
+    1,
+    1
+   ],
+   "section__kicker (eyebrow)": [
+    1,
+    1
+   ],
+   "wire__live": [
+    0,
+    0
+   ],
+   "wire__cat": [
+    0,
+    0
+   ],
+   "label (caps)": [
+    1,
+    1
+   ],
+   "spoiler-toggle": [
+    1,
+    1
+   ],
+   "spoiler (details)": [
+    0,
+    0
+   ],
+   "key-answer": [
+    0,
+    0
+   ],
+   "byline avatar": [
+    0,
+    0
+   ],
+   "article-head__ai": [
+    0,
+    0
+   ],
+   "toc (details)": [
+    0,
+    0
+   ],
+   "side-card": [
+    0,
+    0
+   ],
+   "promo": [
+    0,
+    0
+   ],
+   "guide-card": [
+    0,
+    0
+   ],
+   "tile / trending": [
+    0,
+    0
+   ],
+   "quick-access item": [
+    0,
+    0
+   ],
+   "wire (ranked list)": [
+    1,
+    1
+   ],
+   "hero shade/overlay": [
+    1,
+    1
+   ],
+   "read-progress": [
+    0,
+    0
+   ],
+   "source kind tags": [
+    0,
+    0
+   ],
+   "section__head": [
+    2,
+    2
+   ],
+   "h2 (all)": [
+    4,
+    4
+   ],
+   "faq details": [
+    0,
+    0
+   ],
+   "breadcrumbs": [
+    1,
+    1
+   ],
+   "notice": [
+    0,
+    0
+   ]
+  },
+  "dom": 165,
+  "domVisible": 156,
+  "pill": 2,
+  "clip": 7,
+  "shadow": 0,
+  "grad": 3,
+  "anim": 0,
+  "hues": {
+   "pink": {
+    "n": 2,
+    "ex": {
+     "bg": 1,
+     "text": 1
+    }
+   },
+   "blue": {
+    "n": 4,
+    "ex": {
+     "border": 2,
+     "bg": 1,
+     "text": 1
+    }
+   },
+   "cyan": {
+    "n": 4,
+    "ex": {
+     "text": 4
+    }
+   },
+   "green": {
+    "n": 1,
+    "ex": {
+     "text": 1
+    }
+   },
+   "violet": {
+    "n": 1,
+    "ex": {
+     "text": 1
+    }
+   },
+   "orange": {
+    "n": 2,
+    "ex": {
+     "text": 2
+    }
+   }
+  },
+  "emoji": 1,
+  "h": 1917
+ },
+ "search|desktop": {
+  "sel": {
+   "ticker (.ticker)": [
+    0,
+    0
+   ],
+   "ticker pause btn": [
+    0,
+    0
+   ],
+   "marquee (.marquee)": [
+    0,
+    0
+   ],
+   "disclaimer bar": [
+    1,
+    1
+   ],
+   "all .badge": [
+    0,
+    0
+   ],
+   "badge--spoiler": [
+    0,
+    0
+   ],
+   "badge--updated": [
+    0,
+    0
+   ],
+   "badge--official": [
+    0,
+    0
+   ],
+   "badge--rumour": [
+    0,
+    0
+   ],
+   "all .chip": [
+    0,
+    0
+   ],
+   "chip--filter": [
+    0,
+    0
+   ],
+   "chip--ghost": [
+    0,
+    0
+   ],
+   "guide-card__chip (art overlay)": [
+    0,
+    0
+   ],
+   "hero tags row": [
+    0,
+    0
+   ],
+   "article-head tags row": [
+    0,
+    0
+   ],
+   "svg icons (all)": [
+    4,
+    1
+   ],
+   "svg .icon": [
+    0,
+    0
+   ],
+   "quick-access icon": [
+    0,
+    0
+   ],
+   "icon-btn": [
+    2,
+    1
+   ],
+   "btn--cta (gradient)": [
+    1,
+    1
+   ],
+   "btn--ghost": [
+    0,
+    0
+   ],
+   "btn (all)": [
+    1,
+    1
+   ],
+   "section__kicker (eyebrow)": [
+    0,
+    0
+   ],
+   "wire__live": [
+    0,
+    0
+   ],
+   "wire__cat": [
+    0,
+    0
+   ],
+   "label (caps)": [
+    0,
+    0
+   ],
+   "spoiler-toggle": [
+    1,
+    1
+   ],
+   "spoiler (details)": [
+    0,
+    0
+   ],
+   "key-answer": [
+    0,
+    0
+   ],
+   "byline avatar": [
+    0,
+    0
+   ],
+   "article-head__ai": [
+    0,
+    0
+   ],
+   "toc (details)": [
+    0,
+    0
+   ],
+   "side-card": [
+    0,
+    0
+   ],
+   "promo": [
+    0,
+    0
+   ],
+   "guide-card": [
+    0,
+    0
+   ],
+   "tile / trending": [
+    0,
+    0
+   ],
+   "quick-access item": [
+    0,
+    0
+   ],
+   "wire (ranked list)": [
+    0,
+    0
+   ],
+   "hero shade/overlay": [
+    0,
+    0
+   ],
+   "read-progress": [
+    0,
+    0
+   ],
+   "source kind tags": [
+    0,
+    0
+   ],
+   "section__head": [
+    0,
+    0
+   ],
+   "h2 (all)": [
+    2,
+    2
+   ],
+   "faq details": [
+    0,
+    0
+   ],
+   "breadcrumbs": [
+    1,
+    1
+   ],
+   "notice": [
+    0,
+    0
+   ]
+  },
+  "dom": 253,
+  "domVisible": 243,
+  "pill": 2,
+  "clip": 0,
+  "shadow": 0,
+  "grad": 3,
+  "anim": 0,
+  "hues": {
+   "pink": {
+    "n": 2,
+    "ex": {
+     "bg": 1,
+     "text": 1
+    }
+   },
+   "blue": {
+    "n": 16,
+    "ex": {
+     "border": 15,
+     "bg": 1
+    }
+   },
+   "orange": {
+    "n": 24,
+    "ex": {
+     "text": 24
+    }
+   }
+  },
+  "emoji": 1,
+  "h": 2827
+ }
+}

@@ -14,7 +14,7 @@ updated: 2026-11-18
 status: live
 spoilers: none
 featured: true
-qa: passed
+qa: live-review
 ---
 
 # GTA 6 Launch Hub: Release Time, Fixes and Guides (Live)
@@ -60,6 +60,8 @@ qa: passed
 - [GTA 6 Online: is there multiplayer at launch?](/launch-hub/gta-6-online/)
 - [GTA 6 beginner tips](/launch-hub/beginner-tips/)
 - [Can you replay missions in GTA 6? No, save first](/beginner-tips/gta-6-replay-missions/)
+- [Does GTA 6 have first-person mode? Not fully: 3 ways](/beginner-tips/gta-6-first-person-mode/)
+- [GTA 6 how to scan cars: WAiNK app in 3 steps](/cars/gta-6-how-to-scan-cars/)
 
 ## The world and the people
 

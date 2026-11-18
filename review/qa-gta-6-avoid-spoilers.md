@@ -9,3 +9,7 @@ Checked Wed 18 Nov 2026, ~12:30 CET. Rendering, links, disclaimer, spoilers: OK 
 
 Checks that passed: links (5 external OK, 2 X posts embed fine), mobile 390 px, desktop 1280 px, disclaimer present, no raw markdown/TODO, embeds render, readable for a child.
 Screenshots: review/qa-shots/gta-6-avoid-spoilers-{desktop,mobile}.png
+
+- Fixed by Copywriter 18 Nov 13:15: #1 r/GTA6 wording now matches the pinned post and links it (body, FAQ and sources); #2 muted-words limits reworded and now cite GameSpot (17 Nov, re-read today: 'X's muted words don't filter search results'); #3 'last checked 18 Nov 2026' present. Stays qa: pending + draft: true.
+
+- Re-QA 18 Nov 2026 ~13:35 CET (SEARCH): PASSED. #1 r/GTA6 wording now matches the pinned post; #2 muted-words limits match GameSpot (17 Nov); #3 "last checked" present. qa: passed, draft removed.

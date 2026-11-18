@@ -1,0 +1,68 @@
+/* ==========================================================================
+   Leonida Guides — design tokens  v3 "Newsroom" (DRAFT — editorial strip-down; see STRIPDOWN.md)
+   One accent (orange). Neutral near-black. Two faces: Newsreader (display serif) + Inter (quiet sans). No gradients, glows, shadows or clip shapes.
+   Unofficial fan site — not affiliated with Rockstar Games.
+   Contrast (WCAG 2.2): --text-1/2 on any --bg-* >= 9.9:1; --text-3 >= 5.9:1; --accent on --bg-0..3 >= 7.0:1; --text-on-accent on --accent 8.4:1.
+   ========================================================================== */
+:root {
+  color-scheme: dark;
+
+  /* ---- Surfaces: neutral, four steps, each with one job ---- */
+  --bg-0: #0b0b0f;   /* page */
+  --bg-1: #111116;   /* footer, inset areas */
+  --bg-2: #17171d;   /* inputs, table header, code */
+  --bg-3: #1f1f27;   /* hover */
+  --line-1: #26262f; /* hairline: the default separator */
+  --line-2: #34343f; /* hover / input border */
+  --line-3: #4a4a58; /* strong border */
+
+  /* ---- Text ---- */
+  --text-1: #f5f5f7; /* headings, strong */
+  --text-2: #c9c9d2; /* body, prose */
+  --text-3: #9a9aa8; /* meta, dates, captions — never below 12px */
+  --text-on-accent: #0b0b0f;
+
+  /* ---- THE accent (the only chromatic colour on the site) ---- */
+  --accent: #ff8a3d;  /* category labels, links on hover, the one button, focus ring, thin rules */
+  --focus-ring: var(--accent);
+
+  /* ---- Typography ---- */
+  --font-display: "Newsreader", "Newsreader Fallback", Georgia, "Times New Roman", serif;   /* headlines, dek, numerals, wordmark: Newsreader 600, sentence case */
+  --font-body: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;           /* quiet sans: nav, meta, prose */
+  --fw-regular: 400; --fw-medium: 500; --fw-semibold: 600; --fw-bold: 700; --fw-extrabold: 800;
+
+  --fs-100: .75rem;                                          /* 12 label / date */
+  --fs-200: .875rem;                                         /* 14 meta, captions */
+  --fs-300: 1rem;                                            /* 16 UI text, card excerpt */
+  --fs-400: 1.0625rem;                                       /* 17 article body */
+  --fs-500: clamp(1.125rem, 1.07rem + .3vw, 1.3125rem);      /* 18–21 lede, card title (lead) */
+  --fs-600: clamp(1.25rem, 1.15rem + .5vw, 1.5rem);          /* 20–24 h3 */
+  --fs-700: clamp(1.5rem, 1.3rem + 1vw, 2rem);               /* 24–32 h2 */
+  --fs-800: clamp(2rem, 1.4rem + 3vw, 3.5rem);               /* 32–56 h1 */
+  --lh-tight: 1.1; --lh-snug: 1.25; --lh-normal: 1.5; --lh-prose: 1.7;
+  --ls-head: -.015em; --ls-caps: .08em;
+  --measure: 68ch;
+
+  /* ---- Spacing (4px base) ---- */
+  --space-1: .25rem; --space-2: .5rem; --space-3: .75rem; --space-4: 1rem; --space-5: 1.5rem;
+  --space-6: 2rem;   --space-7: 3rem;  --space-8: 4rem;
+  --space-section: clamp(2.5rem, 1.75rem + 3vw, 4rem);
+  --gutter: clamp(1rem, .5rem + 2.2vw, 2rem);
+
+  /* ---- Layout ---- */
+  --container: 76rem;       /* 1216 */
+  --container-narrow: 48rem;
+  --header-h: 3.5rem;
+
+  /* ---- Radii: almost square ---- */
+  --radius-xs: 2px; --radius-sm: 4px; --radius-md: 4px; --radius-lg: 6px;
+
+  /* ---- Motion: colour/opacity only ---- */
+  --dur-fast: 120ms;
+
+  /* ---- z-index ---- */
+  --z-header: 50; --z-dropdown: 60;
+
+  /* ---- Breakpoints (documentation values) ---- */
+  --bp-md: 48rem; --bp-lg: 64rem;
+}

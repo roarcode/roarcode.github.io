@@ -1,0 +1,1633 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <title>Leonida Guides</title>
+  <subtitle>Unofficial GTA VI guides: missions, money methods, collectibles, cars and fixes.</subtitle>
+  <link href="https://roarcode.github.io/feed.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://roarcode.github.io/" rel="alternate" type="text/html"/>
+  <id>https://roarcode.github.io/</id>
+  <updated>2026-11-18T00:00:00.000Z</updated>
+  <author><name>Leonida Guides</name></author>
+  <rights>Unofficial fan site. Not affiliated with Rockstar Games.</rights>
+  <entry>
+    <title>GTA 6 Beginner Tips: Start Strong in 2026</title>
+    <link href="https://roarcode.github.io/beginner-tips/beginner-tips/" rel="alternate" type="text/html"/>
+    <id>https://roarcode.github.io/beginner-tips/beginner-tips/</id>
+    <published>2026-11-18T00:00:00.000Z</published>
+    <updated>2026-11-18T00:00:00.000Z</updated>
+    <category term="Beginner Tips"/>
+    <category term="Spoiler-free" label="Spoiler level"/>
+    <summary>[Spoiler-free] GTA 6 beginner tips: launch-night steps for PS5 and Xbox, what previews confirm about police, traffic and switching, and old-GTA habits that may apply.</summary>
+    <content type="html"><![CDATA[<blockquote>
+<ul>
+<li><strong>Quick answer:</strong> Before you play: <strong>212 GB+ free</strong>, pre-load done, controller charged. In game: expect <strong>30 FPS</strong>, <strong>heavy Vice City traffic</strong> and <strong>six-star wanted levels</strong>.</li>
+<li><strong>Confirmed vs old habits:</strong> tips marked <em>Confirmed</em> come from official sources or previews. Tips marked <em>Based on previous GTA games</em> may change in GTA 6.</li>
+<li><strong>Button names and exact menus are not announced yet.</strong> We will fill them in after launch. We will not guess.</li>
+</ul>
+</blockquote>
+<p><strong>Words used on this page.</strong> <em>Wanted level</em> is how hard the police chase you. <em>Free roam</em> is playing outside a mission. <em>Series-standard</em> means it was true in earlier GTA games.</p>
+<h2 id="before-you-start-confirmed" tabindex="-1">Before you start (Confirmed)</h2>
+<ol>
+<li><strong>Free 212 GB+.</strong> PS5: <strong>Settings &gt; Storage</strong>. Xbox: <strong>Xbox button &gt; Profile &amp; system &gt; Settings &gt; System &gt; Storage devices</strong>. See <a href="preload-size.md">pre-load steps</a>.</li>
+<li><strong>Finish the pre-load.</strong> PS5: <strong>PS button &gt; Downloads/Uploads</strong>. Xbox: <strong>Xbox button &gt; My games &amp; apps &gt; Queue</strong>.</li>
+<li><strong>Turn on Rest Mode downloads (PS5).</strong> <strong>Settings &gt; Saved Data and Game/App Settings &gt; Automatic Updates &gt; Auto-Install in Rest Mode</strong>.</li>
+<li><strong>Share the console?</strong> PS5: <strong>Settings &gt; Users and Accounts &gt; Other &gt; Console Sharing and Offline Play &gt; Enable</strong>.</li>
+<li><strong>Expect 30 FPS.</strong> No performance mode is announced. See <a href="ps5-settings.md">PS5 settings</a>.</li>
+<li><strong>Change the controller buzz if it is too strong.</strong> Rockstar says haptics are adjustable in accessibility settings.</li>
+</ol>
+<p>![PS5 storage and downloads screens side by side](TODO: image:beginner-tips-step-1 — menu screen, PS5: Settings &gt; Storage and Control Center &gt; Downloads/Uploads)
+<em>Caption: Menu screen. The two PS5 screens to check before launch.</em></p>
+<h2 id="in-game-what-previews-confirm" tabindex="-1">In game: what previews confirm</h2>
+<div class="table-wrap" tabindex="0" role="region" aria-label="Table"><table class="table">
+<thead>
+<tr>
+<th>Tip</th>
+<th>Why</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Plan escapes in Vice City.</strong> Roads are often busy, and traffic makes it harder to lose the police.</td>
+<td>Game Informer preview</td>
+<td>Mapheist, citing Game Informer</td>
+</tr>
+<tr>
+<td><strong>Use both leads.</strong> You can switch between Jason and Lucia in free roam and in missions. The button is <strong>not announced</strong>.</td>
+<td>Previews</td>
+<td>GameSpot, VGC</td>
+</tr>
+<tr>
+<td><strong>Watch your wanted stars.</strong> There are six stars. Crimes show under the stars.</td>
+<td>Previews</td>
+<td>GameSpot</td>
+</tr>
+<tr>
+<td><strong>Do not wave guns around.</strong> People react and call the police if you carry a gun in public.</td>
+<td>Previews</td>
+<td>GameSpot</td>
+</tr>
+<tr>
+<td><strong>New cars may need a “key cloner”.</strong> Older cars may need a slim jim or a smashed window.</td>
+<td>Previews</td>
+<td>GameSpot, Wikipedia</td>
+</tr>
+<tr>
+<td><strong>Body and looks matter.</strong> Workouts build muscle, food affects weight and bad sleep shows on the face.</td>
+<td>Previews</td>
+<td>GameSpot, VGC</td>
+</tr>
+<tr>
+<td><strong>Gun limit (reported):</strong> 2 sidearms and 2 long guns. The rest stay in your vehicle.</td>
+<td>Previews of the Extended Look. Not yet confirmed in play.</td>
+<td>GTA Boom, Hudwire (secondary)</td>
+</tr>
+</tbody>
+</table></div>
+<p>![diagram of six wanted stars](TODO: image:beginner-tips-step-2 — diagram, our own art: six stars filling from empty to full with the label “wanted level”)
+<em>Caption: Diagram. The six-star wanted level.</em></p>
+<h2 id="based-on-previous-gta-games-not-confirmed-for-gta-6" tabindex="-1">Based on previous GTA games (not confirmed for GTA 6)</h2>
+<ol>
+<li><strong>To lose the police, break line of sight.</strong> Get out of view, then stay out of view until the stars fade. (Worked in earlier GTA games.)</li>
+<li><strong>Keep a fast car close</strong> before you start a risky job. (Earlier GTA games.)</li>
+<li><strong>Save before a hard mission</strong> if the game lets you. Earlier GTA games used autosave plus manual saves.</li>
+<li><strong>Check the pause menu and map before you spend money.</strong> Earlier games hid shops and settings there.</li>
+</ol>
+<p>![map pin set with a fast car near a mission marker](TODO: image:beginner-tips-step-3 — map pin, our own art: a mission marker with a car pin beside it)
+<em>Caption: Map pin. Park a fast car near the mission marker.</em></p>
+<h2 id="not-announced-yet" tabindex="-1">Not announced yet</h2>
+<ul>
+<li>Money rates, car prices and best early purchases</li>
+<li>Difficulty options</li>
+<li>Exact button names for switching leads and for each action</li>
+</ul>
+<p>We will publish money methods, vehicle guides and collectible maps after launch, once players have checked them.</p>
+<h2 id="faq" tabindex="-1">FAQ</h2>
+<h3 id="is-gta-6-good-for-beginners" tabindex="-1">Is GTA 6 good for beginners?</h3>
+<p>Rockstar has not announced difficulty options. We will update this page after launch.</p>
+<h3 id="do-i-need-a-subscription-to-play" tabindex="-1">Do I need a subscription to play?</h3>
+<p>PlayStation lists GTA VI as single-player with offline play enabled. Subscriptions for online features are not announced.</p>
+<h3 id="what-is-the-first-thing-to-do" tabindex="-1">What is the first thing to do?</h3>
+<p>Check you have 212 GB+ free and that the pre-load is finished.</p>
+<h3 id="can-i-switch-between-jason-and-lucia" tabindex="-1">Can I switch between Jason and Lucia?</h3>
+<p>Yes, per previews. The button is not announced.</p>
+<hr>
+<p><em>Unofficial fan site, not affiliated with Rockstar Games or Take-Two.</em></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>GTA 6 Editions and Prices: Standard vs Ultimate (2026)</title>
+    <link href="https://roarcode.github.io/launch-hub/editions-prices/" rel="alternate" type="text/html"/>
+    <id>https://roarcode.github.io/launch-hub/editions-prices/</id>
+    <published>2026-11-18T00:00:00.000Z</published>
+    <updated>2026-11-18T00:00:00.000Z</updated>
+    <category term="Launch Hub"/>
+    <category term="Spoiler-free" label="Spoiler level"/>
+    <summary>[Spoiler-free] GTA 6 costs $79.99 Standard and $99.99 Ultimate, with UK and euro prices, upgrade info, GTA+ month and the Vintage Vice City Pack bonus explained.</summary>
+    <content type="html"><![CDATA[<blockquote>
+<ul>
+<li><strong>Quick answer:</strong> <strong>Standard $79.99 / £69.99 / €79.99.</strong> <strong>Ultimate $99.99 / £89.99 / €99.99.</strong> Both are for PS5 and Xbox Series X|S only.</li>
+<li><strong>Ultimate = the game + $20 / £20 of extra items</strong> (cars, guns, clothes, shops). It is not early access. You can add it later with the Ultimate Edition Upgrade ($20 on Xbox).</li>
+<li><strong>Buy before 20 Nov 2026</strong> to get the Vintage Vice City Pack. <strong>Digital buyers also get 1 month of GTA+</strong> (it renews at the normal price until you cancel).</li>
+</ul>
+</blockquote>
+<p><strong>Words used on this page.</strong> <em>Edition</em> is a version of the game you can buy. <em>Digital</em> means you download it. <em>Code-in-box</em> means a box with a download code inside and <strong>no disc</strong>. <em>GTA+</em> is Rockstar’s paid club, with a monthly fee.</p>
+<h2 id="prices" tabindex="-1">Prices</h2>
+<div class="table-wrap" tabindex="0" role="region" aria-label="Table"><table class="table">
+<thead>
+<tr>
+<th>Edition</th>
+<th>USD</th>
+<th>GBP</th>
+<th>EUR</th>
+<th>How you get it</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Standard</td>
+<td>$79.99</td>
+<td>£69.99</td>
+<td>€79.99</td>
+<td>Digital, or code-in-box</td>
+</tr>
+<tr>
+<td>Ultimate</td>
+<td>$99.99</td>
+<td>£89.99</td>
+<td>€99.99</td>
+<td>Digital only</td>
+</tr>
+<tr>
+<td>Ultimate Edition Upgrade</td>
+<td>$20.00 (Xbox Store)</td>
+<td>£20.00 (Xbox Store, per a price tracker)</td>
+<td>not confirmed</td>
+<td>Add-on. Needs the game first.</td>
+</tr>
+</tbody>
+</table></div>
+<ul>
+<li><strong>USD:</strong> Rockstar’s press release (24 June 2026) and the PlayStation and Xbox US stores.</li>
+<li><strong>GBP:</strong> £69.99 is on the UK PlayStation Store. £89.99 and the £20 upgrade come from price trackers that read the UK stores (Six Star Ledger, checked 16 Nov), and from PC Gamer’s pre-order guide.</li>
+<li><strong>EUR:</strong> €79.99 and €99.99 on the Italian and Portuguese PlayStation Stores, and other euro stores are reported to match. Countries outside the euro have other prices, not listed here.</li>
+<li><strong>PS5 upgrade price:</strong> not announced. The PlayStation listing showed no separate price.</li>
+<li>US and Canada prices are usually shown before sales tax. UK and euro prices include VAT.</li>
+</ul>
+<p>![price comparison table graphic for Standard and Ultimate](TODO: image:editions-prices-step-1 — diagram, our own art: two cards, Standard and Ultimate, with USD, GBP and EUR prices)
+<em>Caption: Diagram. Standard and Ultimate side by side.</em></p>
+<h2 id="what-is-in-the-ultimate-edition" tabindex="-1">What is in the Ultimate Edition</h2>
+<p>The Ultimate Edition adds the <strong>Ultimate Edition Upgrade</strong>. The PlayStation and Xbox store pages name these items:</p>
+<div class="table-wrap" tabindex="0" role="region" aria-label="Table"><table class="table">
+<thead>
+<tr>
+<th>Group</th>
+<th>Items</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Cars, boat, bike</td>
+<td>'95 Grotti Cheetah, Dinka Enduro motorcycle (army colours), Crest Kayak, Shitzu Squalo boat, '67 Vapid Dominator Buggy with the Paradise Garage in Watson Bay</td>
+</tr>
+<tr>
+<td>Guns</td>
+<td>Hawk and Little Morgan revolvers, engraved versions of the Girardi ES9 and Klose K17 pistols</td>
+</tr>
+<tr>
+<td>Clothes and looks</td>
+<td>Vice City Style outfits, hairstyles and tattoos; Goodtime Gear (Macca the Gator clothes)</td>
+</tr>
+<tr>
+<td>Extras</td>
+<td>Ganado Retro Build (mods for Jason’s pickup), Classic Car Collection, PTT Youngin$ Compound</td>
+</tr>
+<tr>
+<td>Shops only open with Ultimate</td>
+<td>Rideout Customs, Sara’s Unisex Salon, Stock 305, Electric Fang Tattoo (50+ tattoos), One-Eyed Willie’s</td>
+</tr>
+</tbody>
+</table></div>
+<p>Rockstar says the items are spread across the story, “with new items uncovered behind each chapter”. So you do <strong>not</strong> get all of it at the start.</p>
+<h2 id="pre-order-bonuses" tabindex="-1">Pre-order bonuses</h2>
+<p><strong>Vintage Vice City Pack</strong> (both editions). Buy or pre-order <strong>before 20 November 2026</strong>. Per Polygon and The Verge it includes:</p>
+<ul>
+<li>a '55 Vapid Stanier car</li>
+<li>a garage near Ocean Beach with a weapon locker and a place to drop off stolen goods</li>
+<li>outfits and hairstyles</li>
+<li>a tropical pattern for weapons</li>
+</ul>
+<p>The PlayStation Store text in some regions says “by November 19”, so buy before 19 Nov if you can.</p>
+<p><strong>1 month of GTA+, free, for digital buyers</strong></p>
+<ul>
+<li><strong>PS5:</strong> buy on PlayStation Store, then open the <strong>GTA+</strong> page on the Store and follow the steps. <strong>Claim it by 31 March 2027.</strong> One claim per account. The Ultimate Edition Upgrade bought alone does not count.</li>
+<li><strong>Xbox:</strong> open the Store, select your <strong>profile icon</strong> at the top left, then select <strong>Offers &amp; credits</strong>, and claim it there (Microsoft Store text).</li>
+<li>After one month it renews monthly at the normal price. Cancel before the next payment date if you do not want it.</li>
+<li>Boxed copies get the Vintage Vice City Pack, but the free GTA+ month is for <strong>digital</strong> buyers.</li>
+</ul>
+<p>![PS5 Store page for GTA VI with edition choices](TODO: image:editions-prices-step-2 — step screenshot, PS5: PlayStation Store GTA VI page showing Standard and Ultimate)
+<em>Caption: Step screenshot. Choose your edition on the PlayStation Store.</em></p>
+<p>![Xbox Offers and credits screen with the GTA+ offer](TODO: image:editions-prices-step-3 — menu screen, Xbox: Store profile icon &gt; Offers &amp; credits with the GTA+ month offer)
+<em>Caption: Menu screen. Where to claim the free GTA+ month on Xbox.</em></p>
+<h2 id="how-to-buy" tabindex="-1">How to buy</h2>
+<p><strong>PS5:</strong> open <strong>PlayStation Store</strong>, search <strong>Grand Theft Auto VI</strong>, choose <strong>Standard</strong> or <strong>Ultimate</strong>, then select the buy or pre-order button.</p>
+<p><strong>Xbox Series X|S:</strong> open the <strong>Microsoft Store</strong>, search <strong>Grand Theft Auto VI</strong>, choose <strong>Standard</strong> or <strong>Ultimate</strong>, then select <strong>Buy</strong> or <strong>Pre-order</strong>.</p>
+<p><strong>Boxed (Standard only):</strong> buy at the Rockstar Store or a shop, open the box, then enter the code on your console store. There is no disc. Codes from the PlayStation Store can be tied to your country, so use the right one.</p>
+<p><strong>Standard now, Ultimate later?</strong> Yes. Buy the Ultimate Edition Upgrade. On Xbox the upgrade costs the same as the price gap ($20), so you pay the same in total.</p>
+<h2 id="good-to-know" tabindex="-1">Good to know</h2>
+<ul>
+<li><strong>No microtransactions at launch:</strong> Rockstar told Kinda Funny this (per GameSpot). The store pages still show “In-game purchases optional”. Treat the first as a statement from an interview.</li>
+<li><strong>Collector’s merch:</strong> a $399.99 Rockstar Store box (merch only, the game is sold separately), per Technobezz. Not a game edition.</li>
+<li><strong>Not announced:</strong> PS5 upgrade price, euro prices outside the euro area, season passes or paid add-ons.</li>
+</ul>
+<h2 id="faq" tabindex="-1">FAQ</h2>
+<h3 id="how-much-does-gta-6-cost" tabindex="-1">How much does GTA 6 cost?</h3>
+<p>Standard: $79.99, £69.99, €79.99. Ultimate: $99.99, £89.99, €99.99.</p>
+<h3 id="is-there-a-disc" tabindex="-1">Is there a disc?</h3>
+<p>No. The boxed version has a download code and no disc.</p>
+<h3 id="what-do-i-get-with-the-ultimate-edition" tabindex="-1">What do I get with the Ultimate Edition?</h3>
+<p>The game plus extra cars, guns, clothes and shops. They unlock across the story.</p>
+<h3 id="can-i-upgrade-from-standard-to-ultimate" tabindex="-1">Can I upgrade from Standard to Ultimate?</h3>
+<p>Yes. The Ultimate Edition Upgrade is $20 on Xbox. The PS5 price is not announced.</p>
+<h3 id="what-is-the-vintage-vice-city-pack" tabindex="-1">What is the Vintage Vice City Pack?</h3>
+<p>A bonus for buying before 20 November 2026. See the list above.</p>
+<h3 id="how-do-i-claim-the-free-gta-month" tabindex="-1">How do I claim the free GTA+ month?</h3>
+<p>PS5: use the GTA+ page on PlayStation Store, before 31 March 2027. Xbox: profile icon &gt; Offers &amp; credits.</p>
+<hr>
+<p><em>Unofficial fan site, not affiliated with Rockstar Games or Take-Two.</em></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>GTA 6 Jason and Lucia: Who They Are (No Spoilers)</title>
+    <link href="https://roarcode.github.io/launch-hub/jason-lucia/" rel="alternate" type="text/html"/>
+    <id>https://roarcode.github.io/launch-hub/jason-lucia/</id>
+    <published>2026-11-18T00:00:00.000Z</published>
+    <updated>2026-11-18T00:00:00.000Z</updated>
+    <category term="Launch Hub"/>
+    <category term="Minor spoilers" label="Spoiler level"/>
+    <summary>[Minor spoilers] Two leads, one risky plan. See how Jason and Lucia play, how you switch between them, and what Rockstar shows, with all story details hidden.</summary>
+    <content type="html"><![CDATA[<blockquote>
+<ul>
+<li><strong>Quick answer:</strong> GTA 6 has <strong>two playable leads</strong>, <strong>Jason Duval</strong> and <strong>Lucia Caminos</strong>. The game is <strong>single-player</strong>.</li>
+<li><strong>You can switch between them</strong>, in free roam and in missions, per GameSpot and VGC. You can split up or stay together.</li>
+<li><strong>Character and story details are hidden</strong> in spoiler boxes below. Only open them if you want to know.</li>
+</ul>
+</blockquote>
+<p><strong>Words used on this page.</strong> <em>Playable lead</em> is a character you control. <em>Free roam</em> is when you play outside a mission. <em>Spoiler box</em> is a box you open if you want that detail.</p>
+<h2 id="how-the-pair-plays" tabindex="-1">How the pair plays</h2>
+<ul>
+<li><strong>Single-player:</strong> PlayStation’s FAQ says “Grand Theft Auto VI is a single-player experience.”</li>
+<li><strong>Two leads:</strong> you can swap between Jason and Lucia in free roam and during missions. In one example from previews, one drives while the other shoots. (GameSpot, VGC)</li>
+<li><strong>Story time:</strong> Rob Nelson’s own playthrough, focused on the main story and story-based extras, took about <strong>80 hours</strong> (GameSpot). This is one person’s estimate, not a promise.</li>
+<li><strong>Romance is optional</strong>, per previews (PC Gamer, Game Informer via Mapheist). They stay partners either way.</li>
+<li><strong>Voice cast:</strong> not officially announced by Rockstar. Do not treat press mentions as final.</li>
+</ul>
+<p>![Jason and Lucia switch screen](TODO: image:jason-lucia-step-1 — menu screen, only after launch: the character switch prompt; before launch use Designer’s own art of two silhouettes)
+<em>Caption: Menu screen. How the switch between Jason and Lucia looks, once we can show it.</em></p>
+<h2 id="the-setup-in-one-line" tabindex="-1">The setup, in one line</h2>
+<p><em>Spoiler section hidden: What the trailers revealed about their story (premise only, no ending). Open the guide on the site to reveal it.</em></p>
+<h2 id="jason-duval" tabindex="-1">Jason Duval</h2>
+<p><em>Spoiler section hidden: Jason: who he is, from Rockstar&#39;s character page (early background). Open the guide on the site to reveal it.</em></p>
+<h2 id="lucia-caminos" tabindex="-1">Lucia Caminos</h2>
+<p><em>Spoiler section hidden: Lucia: who she is, from Rockstar&#39;s character page (early background). Open the guide on the site to reveal it.</em></p>
+<p>![two character cards with names only](TODO: image:jason-lucia-step-2 — diagram, Designer’s original art: two blank character cards labelled Jason Duval and Lucia Caminos, no Rockstar art without credit)
+<em>Caption: Diagram. The two playable leads.</em></p>
+<h2 id="the-supporting-cast" tabindex="-1">The supporting cast</h2>
+<p><em>Spoiler section hidden: Names and one-line roles from Rockstar&#39;s site (no story). Open the guide on the site to reveal it.</em></p>
+<h2 id="how-the-game-tracks-your-behaviour" tabindex="-1">How the game tracks your behaviour</h2>
+<ul>
+<li><strong>Criminal Profile:</strong> previews describe a reputation system that tracks professional versus needless violence. It is not cleared like wanted stars. (GameSpot, Wikipedia)</li>
+<li><strong>Wanted stars return</strong> (six-star system). People react, and call police, if you carry guns in public. (GameSpot)</li>
+<li><strong>Not announced:</strong> exact number of missions and endings.</li>
+</ul>
+<p>![icons for switching, wanted stars, criminal profile](TODO: image:jason-lucia-step-3 — diagram, our own art: three icons for switching leads, six wanted stars, criminal profile)
+<em>Caption: Diagram. Three systems tied to Jason and Lucia.</em></p>
+<h2 id="faq" tabindex="-1">FAQ</h2>
+<h3 id="who-are-the-main-characters-in-gta-6" tabindex="-1">Who are the main characters in GTA 6?</h3>
+<p>Jason Duval and Lucia Caminos. You play both.</p>
+<h3 id="can-i-switch-between-them" tabindex="-1">Can I switch between them?</h3>
+<p>Yes, per previews, in free roam and in missions.</p>
+<h3 id="is-gta-6-single-player" tabindex="-1">Is GTA 6 single-player?</h3>
+<p>Yes. PlayStation’s FAQ says it is a single-player experience.</p>
+<h3 id="does-this-page-have-spoilers" tabindex="-1">Does this page have spoilers?</h3>
+<p>No. Everything about the characters and story is inside boxes you open on purpose.</p>
+<hr>
+<p><em>Unofficial fan site, not affiliated with Rockstar Games or Take-Two.</em></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>GTA 6 Launch Night Checklist: Be Ready by Midnight</title>
+    <link href="https://roarcode.github.io/launch-hub/launch-night-checklist/" rel="alternate" type="text/html"/>
+    <id>https://roarcode.github.io/launch-hub/launch-night-checklist/</id>
+    <published>2026-11-18T00:00:00.000Z</published>
+    <updated>2026-11-18T00:00:00.000Z</updated>
+    <category term="Launch Hub"/>
+    <category term="Spoiler-free" label="Spoiler level"/>
+    <summary>[Spoiler-free] Your GTA 6 launch night checklist for PS5 and Xbox: space, preload, rest mode, updates, account checks, controller setup and what to do if it won&amp;#39;t start.</summary>
+    <content type="html"><![CDATA[<blockquote>
+<ul>
+<li><strong>Quick answer:</strong> Do 6 things: finish the pre-load, keep <strong>more than 212 GB</strong> free, update your console, check your account, charge your controller, and look at your countdown.</li>
+<li><strong>Unlock time:</strong> midnight in your time zone on <strong>Thu 19 Nov 2026</strong> (00:00 CET in Slovenia). New Zealand unlocked first, at 12:00 CET on Wed 18 Nov.</li>
+<li><strong>GTA 6 targets 30 FPS</strong> (30 pictures per second) on PS5, PS5 Pro and Xbox Series X|S. No 60 FPS mode is announced, so do not search for one.</li>
+</ul>
+</blockquote>
+<p><strong>Words used on this page.</strong> <em>Pre-load</em> means downloading the game early. <em>Account</em> is your PlayStation or Xbox profile. <em>Rest Mode</em> (PS5) or <em>Sleep mode</em> (Xbox) means the console is on at low power.</p>
+<h2 id="step-1-check-the-pre-load-is-finished" tabindex="-1">Step 1: Check the pre-load is finished</h2>
+<p><strong>PS5</strong></p>
+<ol>
+<li>Press the <strong>PS button</strong> to open the Control Center.</li>
+<li>Select <strong>Downloads/Uploads</strong>.</li>
+<li>Find <strong>Grand Theft Auto VI</strong>. It must not be paused or waiting.</li>
+</ol>
+<p><strong>Xbox Series X|S</strong> <em>(general Xbox menu path, check on your console)</em></p>
+<ol>
+<li>Press the <strong>Xbox button</strong>.</li>
+<li>Open <strong>My games &amp; apps</strong>, then <strong>Queue</strong>.</li>
+<li>Check GTA VI is not in the queue. If it is there, it is still downloading or paused.</li>
+</ol>
+<p>![PS5 Downloads/Uploads screen with GTA VI finished](TODO: image:launch-night-checklist-step-1 — menu screen, PS5: Control Center &gt; Downloads/Uploads showing the GTA VI download completed)
+<em>Caption: Menu screen. PS5 Downloads/Uploads with GTA VI finished.</em></p>
+<p>Stuck? See <a href="preload-size.md">the download fix steps</a>.</p>
+<h2 id="step-2-check-free-space" tabindex="-1">Step 2: Check free space</h2>
+<ol>
+<li><strong>PS5:</strong> open <strong>Settings &gt; Storage</strong>.</li>
+<li><strong>Xbox:</strong> press the <strong>Xbox button</strong>, open <strong>Profile &amp; system &gt; Settings &gt; System &gt; Storage devices</strong>.</li>
+<li>You need <strong>more than 212 GB free</strong> for the game, plus a gap for updates.</li>
+</ol>
+<p>![storage screen with free space](TODO: image:launch-night-checklist-step-2 — menu screen, PS5 and Xbox storage screens side by side with free space circled)
+<em>Caption: Menu screen. Where to read your free space on PS5 and Xbox.</em></p>
+<h2 id="step-3-turn-on-automatic-updates" tabindex="-1">Step 3: Turn on automatic updates</h2>
+<p><strong>PS5</strong> (official PlayStation steps)</p>
+<ol>
+<li>Open <strong>Settings &gt; Saved Data and Game/App Settings &gt; Automatic Updates</strong>.</li>
+<li>Turn on <strong>Auto-Install in Rest Mode</strong>.</li>
+<li>Open <strong>Settings &gt; System &gt; Power Saving &gt; Features Available in Rest Mode</strong>.</li>
+<li>Turn on <strong>Stay Connected to the Internet</strong>.</li>
+<li>Open <strong>Settings &gt; System &gt; System Software &gt; System Software Update and Settings</strong>.</li>
+<li>Turn on <strong>Download Update Files Automatically</strong> and <strong>Install Update Files Automatically</strong>.</li>
+</ol>
+<p><strong>Xbox Series X|S</strong> <em>(general Xbox menu path, check on your console)</em></p>
+<ol>
+<li>Press the <strong>Xbox button</strong>, then open <strong>Profile &amp; system &gt; Settings</strong>.</li>
+<li>Open <strong>System &gt; Updates</strong>.</li>
+<li>Turn on the options to keep your console and your games up to date.</li>
+</ol>
+<p>![PS5 automatic updates settings](TODO: image:launch-night-checklist-step-3 — menu screen, PS5: Automatic Updates with Auto-Install in Rest Mode switched on)
+<em>Caption: Menu screen. PS5 Automatic Updates with Auto-Install in Rest Mode on.</em></p>
+<h2 id="step-4-check-your-account" tabindex="-1">Step 4: Check your account</h2>
+<ol>
+<li>Check you are signed in to the account that <strong>bought the game or entered the code</strong>.</li>
+<li><strong>PS5, shared console:</strong> open <strong>Settings &gt; Users and Accounts &gt; Other &gt; Console Sharing and Offline Play</strong> and select <strong>Enable</strong>. Then other accounts can play too.</li>
+<li>Check your order. <strong>PS5:</strong> sign in, select your avatar, select <strong>Order History</strong>, and check the GTA VI order says successful.</li>
+</ol>
+<h2 id="step-5-controller-and-picture" tabindex="-1">Step 5: Controller and picture</h2>
+<ol>
+<li>Charge your controller to full. Keep a charging cable close.</li>
+<li><strong>PS5 only:</strong> run HDR setup at <strong>Settings &gt; Screen and Video &gt; Video Output &gt; Adjust HDR</strong>. This is general PS5 advice, not a GTA 6 setting.</li>
+<li>Turn on <strong>Game Mode</strong> in your TV menu. The name varies by TV.</li>
+<li><strong>DualSense haptics (buzz) and adaptive triggers (stiff buttons)</strong> are supported on PS5. You can change them in the game’s accessibility settings. The exact menu name is not announced yet.</li>
+</ol>
+<h2 id="step-6-at-the-unlock-moment" tabindex="-1">Step 6: At the unlock moment</h2>
+<ol>
+<li>Start GTA VI a few minutes early. It will still be locked.</li>
+<li>At your unlock time, start it again.</li>
+<li>If the game offers an update, install it. Its size is not announced.</li>
+<li>Servers may be busy. If it will not start, wait 5 minutes and try again before you delete anything.</li>
+<li>Do <strong>not</strong> change your region or use a second account to unlock early. Rockstar, Sony and Microsoft have not endorsed it, and it is unconfirmed that it works.</li>
+</ol>
+<p><strong>Xbox One owners:</strong> you stream through Xbox Cloud Gaming from <strong>1 AM ET on 19 Nov</strong>, at Xbox Series S graphics settings. Starting 11 Nov, in supported markets, you can buy cloud playtime without Game Pass (Xbox Wire).</p>
+<h2 id="quick-fixes" tabindex="-1">Quick fixes</h2>
+<div class="table-wrap" tabindex="0" role="region" aria-label="Table"><table class="table">
+<thead>
+<tr>
+<th>Problem</th>
+<th>Do this</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Download stuck</td>
+<td><strong>PS5:</strong> open Downloads/Uploads, select GTA VI, <strong>Pause</strong>, then <strong>Resume</strong>. Still stuck: <strong>Cancel and Delete</strong>, then download again from <strong>Game Library</strong>. <strong>Xbox:</strong> open the <strong>Queue</strong>, highlight GTA VI, press the <strong>Menu button</strong>, pause, then resume.</td>
+</tr>
+<tr>
+<td>Not enough space</td>
+<td>Free more than 212 GB. Delete or move another game.</td>
+</tr>
+<tr>
+<td>Wrong account</td>
+<td>Sign out. Sign in to the account that bought the game.</td>
+</tr>
+<tr>
+<td>Box code will not work</td>
+<td>Check the code and your region. Ask the shop if the code is missing or unreadable. Ask PlayStation or Xbox Support for code problems.</td>
+</tr>
+<tr>
+<td>Bug after launch</td>
+<td>Contact Rockstar Support. We will post verified fixes after launch.</td>
+</tr>
+</tbody>
+</table></div>
+<p>![checklist graphic with six steps](TODO: image:launch-night-checklist-step-4 — diagram, our own art: a 6-step checklist poster with icons for download, storage, updates, account, controller, countdown)
+<em>Caption: Diagram. The six launch night steps on one poster.</em></p>
+<h2 id="faq" tabindex="-1">FAQ</h2>
+<h3 id="what-should-i-do-before-gta-6-unlocks" tabindex="-1">What should I do before GTA 6 unlocks?</h3>
+<p>Finish the pre-load, free more than 212 GB, turn on updates, check your account, charge your controller and check your countdown.</p>
+<h3 id="do-i-have-to-stay-up-for-midnight" tabindex="-1">Do I have to stay up for midnight?</h3>
+<p>Only if you want to play at midnight. The game will be ready when you start it.</p>
+<h3 id="is-there-a-performance-mode" tabindex="-1">Is there a performance mode?</h3>
+<p>Not announced. Rockstar says 30 FPS on current consoles.</p>
+<h3 id="will-servers-be-busy" tabindex="-1">Will servers be busy?</h3>
+<p>Sony and Microsoft both say pre-orders were record-breaking, so expect busy servers.</p>
+<hr>
+<p><em>Unofficial fan site, not affiliated with Rockstar Games or Take-Two.</em></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>GTA 6 Leonida Guide: All 6 Regions Explained (2026)</title>
+    <link href="https://roarcode.github.io/launch-hub/leonida/" rel="alternate" type="text/html"/>
+    <id>https://roarcode.github.io/launch-hub/leonida/</id>
+    <published>2026-11-18T00:00:00.000Z</published>
+    <updated>2026-11-18T00:00:00.000Z</updated>
+    <category term="Launch Hub"/>
+    <category term="Minor spoilers" label="Spoiler level"/>
+    <summary>[Minor spoilers] Your GTA 6 Leonida hub: how many regions, what each is known for, weather, wildlife and activities. Region names are tucked into spoiler boxes.</summary>
+    <content type="html"><![CDATA[<blockquote>
+<ul>
+<li><strong>Quick answer:</strong> Leonida is the US state where GTA 6 is set. It has <strong>6 regions</strong>, <strong>170+ animal species</strong> and <strong>hurricanes</strong>.</li>
+<li><strong>Each region has its own look</strong>, from city streets to swamps to a national park. The names and details are hidden in spoiler boxes below.</li>
+<li><strong>Rockstar has not announced</strong> region sizes, borders or fast travel.</li>
+</ul>
+</blockquote>
+<p><strong>Words used on this page.</strong> <em>Region</em> is a large area of the map. <em>Spoiler box</em> is a box you open if you want that detail.</p>
+<h2 id="what-is-leonida" tabindex="-1">What is Leonida?</h2>
+<p>Leonida is a made-up US state. USA Today calls it the series’ take on Florida. Rockstar’s tagline is “Vice City, USA. The darkest side of the sunniest place in America.” Its nickname is “the Goodtime State”. For size, see the <a href="map.md">map page</a>.</p>
+<h2 id="the-regions-at-a-glance" tabindex="-1">The regions at a glance</h2>
+<p>Open the box for the names and what each is known for.</p>
+<p><em>Spoiler section hidden: All 6 regions and what each is known for (names only, no story). Open the guide on the site to reveal it.</em></p>
+<p>![regions overview diagram with names hidden until confirmed](TODO: image:leonida-step-1 — diagram, our own art: six coloured blobs numbered 1 to 6 with a key, not copied from fan or leaked maps)
+<em>Caption: Diagram. Our own sketch of the six regions.</em></p>
+<h2 id="named-places" tabindex="-1">Named places</h2>
+<p><em>Spoiler section hidden: Places named in official store text (no story). Open the guide on the site to reveal it.</em></p>
+<p>![map pin set for named places](TODO: image:leonida-step-2 — map pin, our own art: seven pins labelled with the place names, positions left blank until the map is known)
+<em>Caption: Map pin. The seven named places, to be placed once the real map is known.</em></p>
+<h2 id="weather-animals-and-activities" tabindex="-1">Weather, animals and activities</h2>
+<ul>
+<li><strong>Weather:</strong> rain, sun and wind are local and keep going. Hurricanes are in the game. (Game Informer, via Forbes)</li>
+<li><strong>Animals:</strong> 170+ species, sorted as Rare, Discoverable and Legendary. 60+ are birds. 30+ are land animals. (Forbes)</li>
+<li><strong>Activities named in previews:</strong> base jumping, scuba diving, kayaking, airboats, jet skis, racing on and off road, billiards, hiking dates, gyms, zoos, mini golf. (Forbes)</li>
+<li><strong>How often hurricanes hit, where to find Legendary animals, and what rewards you get:</strong> not announced.</li>
+</ul>
+<h2 id="not-announced" tabindex="-1">Not announced</h2>
+<ul>
+<li>Exact region sizes and borders</li>
+<li>Fast travel and map markers</li>
+<li>Which region each named place is in</li>
+</ul>
+<p>![weather and wildlife icon sheet](TODO: image:leonida-step-3 — diagram, our own art: icons for rain, hurricane, bird, alligator with the 170+ species number)
+<em>Caption: Diagram. Weather and wildlife facts at a glance.</em></p>
+<h2 id="faq" tabindex="-1">FAQ</h2>
+<h3 id="what-is-leonida-1" tabindex="-1">What is Leonida?</h3>
+<p>A made-up US state based on Florida. It is where GTA 6 takes place.</p>
+<h3 id="how-many-regions-does-leonida-have" tabindex="-1">How many regions does Leonida have?</h3>
+<p>Six. The names are in the spoiler box.</p>
+<h3 id="is-vice-city-the-only-city" tabindex="-1">Is Vice City the only city?</h3>
+<p>No. Vice City is one of six regions.</p>
+<h3 id="are-there-hurricanes-in-gta-6" tabindex="-1">Are there hurricanes in GTA 6?</h3>
+<p>Yes. How often is not announced.</p>
+<hr>
+<p><em>Unofficial fan site, not affiliated with Rockstar Games or Take-Two.</em></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>GTA 6 Map: Leonida&amp;#39;s Size and 6 Regions (Updated)</title>
+    <link href="https://roarcode.github.io/launch-hub/map/" rel="alternate" type="text/html"/>
+    <id>https://roarcode.github.io/launch-hub/map/</id>
+    <published>2026-11-18T00:00:00.000Z</published>
+    <updated>2026-11-18T00:00:00.000Z</updated>
+    <category term="Launch Hub"/>
+    <category term="Minor spoilers" label="Spoiler level"/>
+    <summary>[Minor spoilers] How big is the GTA 6 map? Rockstar says about twice GTA 5. See the size claims, the free printable map, weather and wildlife, plus what is only a rumour.</summary>
+    <content type="html"><![CDATA[<blockquote>
+<ul>
+<li><strong>Quick answer:</strong> The map is a US state called <strong>Leonida</strong>. Rockstar North’s Aaron Garbut says it is about <strong>twice the size of GTA 5’s map</strong>. The exact size is <strong>not announced</strong>.</li>
+<li><strong>It has 6 regions.</strong> The names are hidden below in a spoiler block, if you want to stay surprised.</li>
+<li><strong>Free printable map:</strong> Rockstar says a printable poster and Leonida map go on its GTA VI website on launch day (19 Nov). Check it is live before you link to it.</li>
+</ul>
+</blockquote>
+<p><strong>Words used on this page.</strong> <em>Region</em> is a big area of the map. <em>Spoiler block</em> is a box you open to read. Open it only if you want that information.</p>
+<h2 id="how-big-is-it" tabindex="-1">How big is it?</h2>
+<div class="table-wrap" tabindex="0" role="region" aria-label="Table"><table class="table">
+<thead>
+<tr>
+<th>Claim</th>
+<th>Who said it</th>
+<th>Label</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>About <strong>2x GTA 5’s map</strong></td>
+<td>Aaron Garbut (Rockstar North) to Game Informer, reported by Forbes and Mapheist</td>
+<td>Developer statement, reported</td>
+</tr>
+<tr>
+<td>About <strong>3x Red Dead Redemption 2</strong> (playable area)</td>
+<td>Rob Nelson (Rockstar), via GameSpot; the 3x detail was relayed by a secondary site citing the New York Times</td>
+<td>Reported, secondary</td>
+</tr>
+<tr>
+<td>Exact area in km² or miles</td>
+<td>Nobody. Rockstar has published no figure.</td>
+<td>Not announced</td>
+</tr>
+</tbody>
+</table></div>
+<blockquote>
+<p><strong>Rumour / unconfirmed:</strong> A community-made map (YANIS v16) measures Leonida’s land at about <strong>85.6 km²</strong>, a figure relayed by Notebookcheck and summarised by Mapheist. This is a fan estimate, not a Rockstar number. Source: <a href="https://mapheist.com/en/news/gta-6-game-informer-cover-story/" rel="noopener noreferrer" target="_blank">https://mapheist.com/en/news/gta-6-game-informer-cover-story/</a></p>
+</blockquote>
+<blockquote>
+<p><strong>Rumour / unconfirmed:</strong> Forbes’ “58.6 square miles” is the writer’s own sum (twice GTA 5’s area). It is not from Rockstar. Source: <a href="https://www.forbes.com/sites/brianmazique/2026/10/06/gta-6s-map-is-about-twice-the-size-of-gta-5-with-hurricanes-and-170-animal-species/" rel="noopener noreferrer" target="_blank">https://www.forbes.com/sites/brianmazique/2026/10/06/gta-6s-map-is-about-twice-the-size-of-gta-5-with-hurricanes-and-170-animal-species/</a></p>
+</blockquote>
+<h2 id="the-free-printable-map" tabindex="-1">The free printable map</h2>
+<ol>
+<li>Go to <strong><a href="http://rockstargames.com/VI" rel="noopener noreferrer" target="_blank">rockstargames.com/VI</a></strong> on launch day, 19 November 2026.</li>
+<li>Look for the printable poster and Leonida map.</li>
+<li>Download it and print it.</li>
+</ol>
+<p>Rockstar says a double-sided paper poster is also on the Rockstar Store for <strong>$0.99</strong>, or free with any Rockstar Store purchase after launch (USA Today, VGC). <em>The link goes live on 19 Nov. Verify before publishing the link.</em></p>
+<p>![<a href="http://rockstargames.com/VI" rel="noopener noreferrer" target="_blank">rockstargames.com/VI</a> page area where the map download sits](TODO: image:map-step-1 — step screenshot (own screenshot, credit Rockstar): the VI page with the printable map link highlighted, after it goes live)
+<em>Caption: Step screenshot. Where the free printable map is on the official site.</em></p>
+<h2 id="weather-and-wildlife" tabindex="-1">Weather and wildlife</h2>
+<ul>
+<li><strong>Weather</strong> is local and keeps going. It can rain in one place while it is sunny next to it. <strong>Hurricanes</strong> are in the game. How often they happen is not announced. (Game Informer cover story, via Forbes)</li>
+<li><strong>Wildlife:</strong> <strong>170+</strong> animal species, including <strong>60+</strong> bird types and <strong>30+</strong> land mammals. They are sorted as <strong>Rare, Discoverable and Legendary</strong>. (Forbes)</li>
+</ul>
+<h2 id="regions-of-leonida" tabindex="-1">Regions of Leonida</h2>
+<p>Leonida has <strong>6</strong> regions. Their names are shown in Rockstar’s official material. Open the box to see them.</p>
+<p><em>Spoiler section hidden: The 6 region names (no story, names only). Open the guide on the site to reveal it.</em></p>
+<p>![simple diagram of Leonida regions with empty labels](TODO: image:map-step-2 — diagram, our own art (not the leaked or fan maps): a plain outline of Leonida with six numbered regions, names added once confirmed)
+<em>Caption: Diagram. Our own sketch of the six regions. It is not to scale.</em></p>
+<h2 id="place-names" tabindex="-1">Place names</h2>
+<p><em>Spoiler section hidden: Named places from official store text (no story). Open the guide on the site to reveal it.</em></p>
+<h2 id="in-game-map" tabindex="-1">In-game map</h2>
+<ul>
+<li><strong>Map style, markers, fast travel:</strong> not announced by Rockstar.</li>
+<li>One preview reports that the menu map looks like <strong>satellite photos</strong> (Mapheist, citing Game Informer). Treat this as reported.</li>
+<li>We will add our own <strong>interactive map</strong> after launch, when players have checked the pins.</li>
+</ul>
+<p>![map pin legend for our future interactive map](TODO: image:map-step-3 — map pin diagram, our own art: pin shapes for shops, garages, collectibles, activities)
+<em>Caption: Map pin. The icons our interactive map will use.</em></p>
+<h2 id="faq" tabindex="-1">FAQ</h2>
+<h3 id="how-big-is-the-gta-6-map" tabindex="-1">How big is the GTA 6 map?</h3>
+<p>About twice GTA 5’s map, per Rockstar North’s Aaron Garbut. The exact size is not announced.</p>
+<h3 id="how-many-regions-are-in-gta-6" tabindex="-1">How many regions are in GTA 6?</h3>
+<p>Six. The names are in the spoiler box above.</p>
+<h3 id="can-i-get-a-paper-map" tabindex="-1">Can I get a paper map?</h3>
+<p>Rockstar offers a free printable one on its website from launch day. A double-sided poster is $0.99 at the Rockstar Store.</p>
+<h3 id="are-there-hurricanes" tabindex="-1">Are there hurricanes?</h3>
+<p>Yes. Hurricanes are part of the weather system. How often is not announced.</p>
+<hr>
+<p><em>Unofficial fan site, not affiliated with Rockstar Games or Take-Two.</em></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>GTA 6 Online: Is There Multiplayer at Launch? (2026)</title>
+    <link href="https://roarcode.github.io/launch-hub/gta-6-online/" rel="alternate" type="text/html"/>
+    <id>https://roarcode.github.io/launch-hub/gta-6-online/</id>
+    <published>2026-11-18T00:00:00.000Z</published>
+    <updated>2026-11-18T00:00:00.000Z</updated>
+    <category term="Launch Hub"/>
+    <category term="Spoiler-free" label="Spoiler level"/>
+    <summary>[Spoiler-free] Is there GTA 6 Online? Rockstar&amp;#39;s PlayStation page says GTA VI is a single-player experience. See what is confirmed, what is a rumour and what to play now.</summary>
+    <content type="html"><![CDATA[<blockquote>
+<ul>
+<li><strong>Quick answer:</strong> <strong>No online mode is announced.</strong> PlayStation’s FAQ says: “Grand Theft Auto VI is a single-player experience.”</li>
+<li><strong>Take-Two’s CEO</strong> also called it a “single-player title” (via Game Rant). GTA Online for <strong>GTA 5</strong> is still supported.</li>
+<li><strong>Any date, server count or mode for GTA 6 Online is a rumour.</strong></li>
+</ul>
+</blockquote>
+<p><strong>Words used on this page.</strong> <em>Single-player</em> means one person plays alone. <em>Online</em> or <em>multiplayer</em> means you play with other people over the internet. <em>Rumour</em> means nobody official has said it.</p>
+<h2 id="what-is-confirmed" tabindex="-1">What is confirmed</h2>
+<div class="table-wrap" tabindex="0" role="region" aria-label="Table"><table class="table">
+<thead>
+<tr>
+<th>Fact</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>GTA VI is a single-player experience.</td>
+<td>PlayStation FAQ (quoted by Game Rant)</td>
+</tr>
+<tr>
+<td>Take-Two CEO Strauss Zelnick called it a “single-player title”.</td>
+<td>Game Rant, 10 Nov 2026</td>
+</tr>
+<tr>
+<td>GTA Online (in GTA 5) continues to be supported.</td>
+<td>Game Rant</td>
+</tr>
+<tr>
+<td>No online mode, date or plan has been announced for GTA VI.</td>
+<td>Rockstar, PlayStation, Game Rant</td>
+</tr>
+<tr>
+<td>“In-game purchases optional” is on PlayStation’s store page.</td>
+<td>PlayStation Store</td>
+</tr>
+<tr>
+<td>Rockstar said <strong>no microtransactions at launch</strong>. This was in an interview, not a store page.</td>
+<td>GameSpot recap</td>
+</tr>
+</tbody>
+</table></div>
+<p>![single-player badge and a question mark over online](TODO: image:gta-6-online-step-1 — diagram, our own art: a single-player icon ticked and an “Online: not announced” label)
+<em>Caption: Diagram. Single-player is confirmed. Online is not announced.</em></p>
+<h2 id="what-is-a-rumour" tabindex="-1">What is a rumour</h2>
+<blockquote>
+<p><strong>Rumour / unconfirmed:</strong> Some leakers say GTA 6 Online may arrive soon after launch, even within a month, and name big player counts. Nothing official says this. PC Gamer mentions the claims in its guide. Source: <a href="https://www.pcgamer.com/games/grand-theft-auto/gta-6-guide/" rel="noopener noreferrer" target="_blank">https://www.pcgamer.com/games/grand-theft-auto/gta-6-guide/</a></p>
+</blockquote>
+<p>Do not pay anyone for “early online access”. There is none announced.</p>
+<h2 id="what-to-do-now" tabindex="-1">What to do now</h2>
+<ol>
+<li><strong>Play the campaign</strong> after your region unlocks. See <a href="release-time.md">release time</a>.</li>
+<li><strong>Want online today?</strong> GTA Online in GTA 5 is still supported, per Game Rant. GTA 5 is also part of the GTA+ games library, per Rockstar’s press release.</li>
+<li><strong>Check this page after launch.</strong> We will update it the moment Rockstar announces anything.</li>
+</ol>
+<p>![bell icon with “we update this page”](TODO: image:gta-6-online-step-2 — diagram, Designer’s original art: a simple timeline with a “today: single-player only” marker)
+<em>Caption: Diagram. Today the game is single-player only.</em></p>
+<p>![GTA+ library card](TODO: image:gta-6-online-step-3 — diagram, our own art: a card reading “GTA+ includes GTA V and other classic Rockstar games”, no Rockstar art)
+<em>Caption: Diagram. GTA+ includes GTA 5 and other classic Rockstar games.</em></p>
+<h2 id="faq" tabindex="-1">FAQ</h2>
+<h3 id="does-gta-6-have-multiplayer" tabindex="-1">Does GTA 6 have multiplayer?</h3>
+<p>No online mode is announced. PlayStation’s FAQ says it is a single-player experience.</p>
+<h3 id="will-gta-6-online-come-later" tabindex="-1">Will GTA 6 Online come later?</h3>
+<p>Not announced. Any date you see online is a rumour.</p>
+<h3 id="can-i-play-gta-online-now" tabindex="-1">Can I play GTA Online now?</h3>
+<p>Yes, in GTA 5, which is still supported.</p>
+<h3 id="does-gta-6-have-microtransactions" tabindex="-1">Does GTA 6 have microtransactions?</h3>
+<p>Rockstar said none at launch, in an interview. PlayStation’s page says in-game purchases are optional.</p>
+<hr>
+<p><em>Unofficial fan site, not affiliated with Rockstar Games or Take-Two.</em></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>GTA 6 Platforms: PS5, PS5 Pro, Xbox, PC and 30 FPS</title>
+    <link href="https://roarcode.github.io/launch-hub/platforms/" rel="alternate" type="text/html"/>
+    <id>https://roarcode.github.io/launch-hub/platforms/</id>
+    <published>2026-11-18T00:00:00.000Z</published>
+    <updated>2026-11-18T00:00:00.000Z</updated>
+    <category term="Launch Hub"/>
+    <category term="Spoiler-free" label="Spoiler level"/>
+    <summary>[Spoiler-free] Is GTA 6 on PC, PS4 or Xbox One? Get the exact platform list, the 30 FPS target, PS5 Pro extras and how Xbox One players stream on 19 Nov 2026.</summary>
+    <content type="html"><![CDATA[<blockquote>
+<ul>
+<li><strong>Quick answer:</strong> GTA 6 launches on <strong>PS5 and Xbox Series X|S only</strong>, on <strong>19 Nov 2026</strong>. It is <strong>not</strong> on PS4. <strong>No PC date or version is announced.</strong></li>
+<li><strong>Xbox One owners can stream it</strong> with Xbox Cloud Gaming from <strong>1 AM ET on 19 Nov</strong>, at Xbox Series S graphics settings.</li>
+<li><strong>30 FPS target</strong> on every console. <strong>PS5 Pro adds PSSR (sharper picture) and ray-traced shadows.</strong></li>
+</ul>
+</blockquote>
+<p><strong>Words used on this page.</strong> <em>Native</em> means the game runs on your own console. <em>Cloud gaming</em> means the game runs far away and is streamed to you. <em>FPS</em> means frames per second.</p>
+<h2 id="platform-table" tabindex="-1">Platform table</h2>
+<div class="table-wrap" tabindex="0" role="region" aria-label="Table"><table class="table">
+<thead>
+<tr>
+<th>Platform</th>
+<th>Can you play GTA 6?</th>
+<th>Detail</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>PS5</td>
+<td>Yes, native</td>
+<td>“Plays Best On PlayStation 5” badge on Rockstar’s site</td>
+<td>Rockstar</td>
+</tr>
+<tr>
+<td>PS5 Pro</td>
+<td>Yes, native</td>
+<td>PSSR and ray-traced shadows, PS5 Pro only</td>
+<td>PlayStation, Game Informer</td>
+</tr>
+<tr>
+<td>Xbox Series X</td>
+<td>Yes, native</td>
+<td>Pre-install available</td>
+<td>Xbox Wire</td>
+</tr>
+<tr>
+<td>Xbox Series S</td>
+<td>Yes, native</td>
+<td>Pre-install available</td>
+<td>Xbox Wire</td>
+</tr>
+<tr>
+<td>Xbox One</td>
+<td>Stream only</td>
+<td>Xbox Cloud Gaming from <strong>1 AM ET, 19 Nov</strong>; Series S graphics</td>
+<td>Xbox Wire</td>
+</tr>
+<tr>
+<td>PS4</td>
+<td><strong>No</strong></td>
+<td>“It will not be available for PlayStation 4 consoles”</td>
+<td>PlayStation</td>
+</tr>
+<tr>
+<td>PC</td>
+<td><strong>Not announced</strong></td>
+<td>No date, no platform</td>
+<td>PC Gamer, 1News</td>
+</tr>
+</tbody>
+</table></div>
+<blockquote>
+<p><strong>Rumour / unconfirmed:</strong> Wikipedia mentions reports from “industry sources” of a PC release in Q1 2027. Rockstar has announced nothing. Source: <a href="https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI" rel="noopener noreferrer" target="_blank">https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI</a></p>
+</blockquote>
+<p>![platform chart with ticks and crosses](TODO: image:platforms-step-1 — diagram, our own art: a grid of PS5, PS5 Pro, Series X|S, Xbox One (cloud), PS4, PC with ticks, cloud icon and crosses)
+<em>Caption: Diagram. Where GTA 6 runs on launch day.</em></p>
+<h2 id="frame-rate-and-picture" tabindex="-1">Frame rate and picture</h2>
+<ul>
+<li><strong>30 FPS</strong> is the target on all consoles. Rockstar: “targeting 30 frames per second”.</li>
+<li><strong>No 40 or 60 FPS mode</strong> is announced.</li>
+<li><strong>Resolution:</strong> not announced.</li>
+<li><strong>PS5 Pro:</strong> PSSR and ray-traced shadows.</li>
+<li><strong>Xbox Cloud Gaming:</strong> uses <strong>Xbox Series S graphics settings</strong>. Rockstar says internet speed and other things can change how it plays.</li>
+<li><strong>Remote Play:</strong> supported on PlayStation and Xbox.</li>
+</ul>
+<h2 id="how-xbox-one-players-stream-gta-6" tabindex="-1">How Xbox One players stream GTA 6</h2>
+<ol>
+<li>Press the <strong>Xbox button</strong> on your controller.</li>
+<li>Open the <strong>Microsoft Store</strong> and buy <strong>Grand Theft Auto VI</strong> (Standard or Ultimate). Xbox says the game <strong>must be purchased separately</strong>.</li>
+<li>Starting <strong>11 Nov</strong>, in supported markets, you can also buy cloud playtime to stream supported games <strong>without Game Pass</strong> (Xbox Wire).</li>
+<li>At <strong>1 AM ET on 19 Nov</strong>, open the game from <strong>My games &amp; apps</strong>.</li>
+</ol>
+<p>Exact menu names for cloud games are not in Xbox’s announcement. Check them on your console. Availability and prices vary by country and device.</p>
+<p>![Xbox Cloud Gaming start screen for GTA VI](TODO: image:platforms-step-2 — menu screen, Xbox: GTA VI in My games &amp; apps with the cloud-play option)
+<em>Caption: Menu screen. Starting the cloud version on Xbox.</em></p>
+<h2 id="languages" tabindex="-1">Languages</h2>
+<p>Voice is in <strong>English only</strong>. Text is in English, French, German, Italian, Korean, Polish, Portuguese (Brazil), Russian, Simplified Chinese, Spanish (Mexico), Spanish (Spain) and Traditional Chinese (PlayStation support). <strong>Slovenian and Croatian are not listed.</strong></p>
+<p>![language list graphic](TODO: image:platforms-step-3 — diagram, our own art: the 12 text languages and the one voice language)
+<em>Caption: Diagram. The languages GTA 6 supports on PlayStation.</em></p>
+<h2 id="faq" tabindex="-1">FAQ</h2>
+<h3 id="is-gta-6-coming-to-pc" tabindex="-1">Is GTA 6 coming to PC?</h3>
+<p>Not announced. Only an unconfirmed report mentions Q1 2027.</p>
+<h3 id="can-i-play-gta-6-on-ps4" tabindex="-1">Can I play GTA 6 on PS4?</h3>
+<p>No.</p>
+<h3 id="can-i-play-gta-6-on-xbox-one" tabindex="-1">Can I play GTA 6 on Xbox One?</h3>
+<p>Only by streaming with Xbox Cloud Gaming from 1 AM ET on 19 November.</p>
+<h3 id="does-gta-6-run-at-60-fps" tabindex="-1">Does GTA 6 run at 60 FPS?</h3>
+<p>No. The target is 30 FPS on every console.</p>
+<hr>
+<p><em>Unofficial fan site, not affiliated with Rockstar Games or Take-Two.</em></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>GTA 6 Pre-Load: 212 GB Size, Start Times, Fixes (2026)</title>
+    <link href="https://roarcode.github.io/launch-hub/preload-size/" rel="alternate" type="text/html"/>
+    <id>https://roarcode.github.io/launch-hub/preload-size/</id>
+    <published>2026-11-18T00:00:00.000Z</published>
+    <updated>2026-11-18T00:00:00.000Z</updated>
+    <category term="Launch Hub"/>
+    <category term="Spoiler-free" label="Spoiler level"/>
+    <summary>[Spoiler-free] GTA 6 pre-load is live: up to 212 GB on PS5 and Xbox Series X|S. Start times, download-time estimates, space tips and a fix if the download stalls.</summary>
+    <content type="html"><![CDATA[<blockquote>
+<ul>
+<li><strong>Quick answer:</strong> GTA 6 needs <strong>up to 212 GB</strong>. PlayStation says to keep <strong>at least 212 GB free</strong> on PS5.</li>
+<li><strong>Pre-load (downloading the game early) opened on 10 Nov 2026.</strong> Boxed copies have a <strong>download code, not a disc</strong>, and reached shops on <strong>12 Nov</strong>.</li>
+<li><strong>It stays locked until midnight in your time zone on 19 Nov.</strong> Pre-loading does not let you play early. See the <a href="release-time.md">release time table</a>.</li>
+</ul>
+</blockquote>
+<p><strong>Words used on this page.</strong> <em>GB</em> means gigabytes, the size of a file. <em>Storage</em> is the space on your console. <em>Rest Mode</em> (PS5) and <em>Sleep mode</em> (Xbox) keep the console on at low power so it can download.</p>
+<h2 id="step-1-check-how-much-space-you-have" tabindex="-1">Step 1: Check how much space you have</h2>
+<p><strong>PS5</strong></p>
+<ol>
+<li>Go to the home screen.</li>
+<li>Open <strong>Settings</strong>.</li>
+<li>Select <strong>Storage</strong>.</li>
+<li>Read the free space. You need <strong>more than 212 GB</strong>. Take extra for patches.</li>
+</ol>
+<p><strong>Xbox Series X|S</strong> <em>(general Xbox menu path, check the names on your console)</em></p>
+<ol>
+<li>Press the <strong>Xbox button</strong> on your controller.</li>
+<li>Go to <strong>Profile &amp; system</strong>, then <strong>Settings</strong>.</li>
+<li>Select <strong>System</strong>, then <strong>Storage devices</strong>.</li>
+<li>Read the free space. You need <strong>more than 212 GB</strong>.</li>
+</ol>
+<p>![PS5 Storage screen showing free space](TODO: image:preload-size-step-1 — menu screen, PS5: Settings &gt; Storage with the free-space bar visible)
+<em>Caption: Menu screen. The PS5 storage screen showing free space.</em></p>
+<p>![Xbox storage devices screen showing free space](TODO: image:preload-size-step-2 — menu screen, Xbox: Settings &gt; System &gt; Storage devices with free space visible)
+<em>Caption: Menu screen. The Xbox storage screen showing free space.</em></p>
+<h2 id="step-2-make-room-if-you-are-short" tabindex="-1">Step 2: Make room if you are short</h2>
+<ol>
+<li>Pick one old game you do not play.</li>
+<li>Delete it, or move it to another storage device.</li>
+<li>Check your free space again.</li>
+<li>Repeat until you have <strong>more than 212 GB</strong> free.</li>
+</ol>
+<p>PlayStation’s own advice is to delete data or move it to a different storage device.</p>
+<h2 id="step-3-start-the-download" tabindex="-1">Step 3: Start the download</h2>
+<p><strong>PS5</strong></p>
+<ol>
+<li>Open <strong>Game Library</strong>.</li>
+<li>Select <strong>Grand Theft Auto VI</strong>.</li>
+<li>Select <strong>Download</strong>.</li>
+</ol>
+<p><strong>Xbox Series X|S</strong></p>
+<ol>
+<li>Press the <strong>Xbox button</strong>.</li>
+<li>Open <strong>My games &amp; apps</strong>.</li>
+<li>Select <strong>Full library</strong>.</li>
+<li>Select <strong>Grand Theft Auto VI</strong>, then <strong>Install</strong>.</li>
+</ol>
+<p>Bought the boxed version? There is a code inside, not a disc. Enter it first:</p>
+<ul>
+<li><strong>PS5:</strong> sign in, select your avatar at the top of the screen, select <strong>Redeem Code</strong>, then enter the code.</li>
+<li><strong>Xbox:</strong> redeem the code in the Microsoft Store (menu names on your console may differ).</li>
+</ul>
+<p>![PS5 GTA VI game page with the Download button](TODO: image:preload-size-step-3 — step screenshot, PS5: GTA VI page with the Download button highlighted)
+<em>Caption: Step screenshot. Select Download on the PS5 game page.</em></p>
+<h2 id="step-4-let-it-finish-while-you-sleep" tabindex="-1">Step 4: Let it finish while you sleep</h2>
+<p><strong>PS5</strong> (official PlayStation steps)</p>
+<ol>
+<li>Open <strong>Settings &gt; Saved Data and Game/App Settings &gt; Automatic Updates</strong>.</li>
+<li>Turn on <strong>Auto-Install in Rest Mode</strong>.</li>
+<li>Open <strong>Settings &gt; System &gt; Power Saving &gt; Features Available in Rest Mode</strong>.</li>
+<li>Turn on <strong>Stay Connected to the Internet</strong>.</li>
+<li>Open the Control Center, select <strong>Power</strong>, then <strong>Enter Rest Mode</strong>.</li>
+</ol>
+<p><strong>Xbox Series X|S</strong> <em>(general Xbox menu path, check on your console)</em></p>
+<ol>
+<li>Press the <strong>Xbox button</strong>, then open <strong>Profile &amp; system &gt; Settings</strong>.</li>
+<li>Go to <strong>System &gt; Updates</strong> and turn on the options to keep your console and your games up to date.</li>
+<li>Keep the console <strong>on or in Sleep mode</strong>, not fully off, so the download can continue.</li>
+</ol>
+<p>![PS5 Rest Mode settings screen with both options on](TODO: image:preload-size-step-4 — menu screen, PS5: Features Available in Rest Mode with Stay Connected to the Internet on)
+<em>Caption: Menu screen. PS5 Rest Mode settings that let the download continue.</em></p>
+<h2 id="the-numbers" tabindex="-1">The numbers</h2>
+<div class="table-wrap" tabindex="0" role="region" aria-label="Table"><table class="table">
+<thead>
+<tr>
+<th>Item</th>
+<th>Fact</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Pre-load opened</td>
+<td>10 November 2026</td>
+<td>Rockstar, PlayStation</td>
+</tr>
+<tr>
+<td>PS5 start</td>
+<td>00:00 local time on 10 Nov</td>
+<td>PlayStation support</td>
+</tr>
+<tr>
+<td>Xbox start</td>
+<td>00:00 GMT on 10 Nov (01:00 CET)</td>
+<td>VGC, USA Today</td>
+</tr>
+<tr>
+<td>Size</td>
+<td>Up to 212 GB, depending on your console</td>
+<td>Rockstar via VGC, GamesRadar, PC Gamer</td>
+</tr>
+<tr>
+<td>Boxed copies</td>
+<td>In shops from 12 Nov. A download code, no disc.</td>
+<td>Take-Two, PlayStation</td>
+</tr>
+<tr>
+<td>Xbox One</td>
+<td>Streams with Xbox Cloud Gaming from <strong>1 AM ET on 19 Nov</strong> (Series S graphics)</td>
+<td>Xbox Wire</td>
+</tr>
+</tbody>
+</table></div>
+<p>Polygon says about 210 GB. Rockstar says “up to 212 GB”. Plan for 212.</p>
+<blockquote>
+<p><strong>Wrong date warning:</strong> an old press release said pre-load starts on 12 November. That is wrong. Pre-load started on <strong>10 November</strong>. 12 November is the day boxed copies reached shops.</p>
+</blockquote>
+<h2 id="how-long-will-it-take" tabindex="-1">How long will it take?</h2>
+<p>There are no official times. One real example from New Zealand provider Chorus (via 1News, 18 Nov). Your speed will be different.</p>
+<div class="table-wrap" tabindex="0" role="region" aria-label="Table"><table class="table">
+<thead>
+<tr>
+<th>Internet</th>
+<th>About how long</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>500 Mbps fibre</td>
+<td>57 minutes</td>
+</tr>
+<tr>
+<td>100 Mbps</td>
+<td>4.5 hours</td>
+</tr>
+<tr>
+<td>4G fixed wireless</td>
+<td>More than 10 hours</td>
+</tr>
+</tbody>
+</table></div>
+<p>Use a cable (Ethernet) if you can. It is more stable than Wi-Fi.</p>
+<h2 id="download-stuck-fix-it-in-this-order" tabindex="-1">Download stuck? Fix it in this order</h2>
+<p><strong>PS5</strong> (official PlayStation steps)</p>
+<ol>
+<li>Open <strong>Downloads/Uploads</strong> in the Control Center.</li>
+<li>Select the GTA VI download.</li>
+<li>Select <strong>Pause</strong>, then select <strong>Resume</strong>.</li>
+<li>Still stuck? Select the download and choose <strong>Cancel and Delete</strong>.</li>
+<li>Go back to <strong>Game Library</strong> and select <strong>Download</strong> again.</li>
+<li>Still stuck? Check four things: you are on the account that bought the game, the console is online, you have enough space, and your system software is up to date.</li>
+</ol>
+<p><strong>Xbox Series X|S</strong> <em>(general Xbox steps, check on your console)</em></p>
+<ol>
+<li>Press the <strong>Xbox button</strong> and open <strong>My games &amp; apps</strong>.</li>
+<li>Open the <strong>Queue</strong> and highlight GTA VI.</li>
+<li>Press the <strong>Menu button</strong> (the three-lines button) and pause, then resume.</li>
+<li>Still stuck? Cancel it and install again from <strong>Full library</strong>.</li>
+<li>Check account, internet and space, as above.</li>
+</ol>
+<p>Who to ask: PlayStation Support or Xbox Support for downloads and codes. Rockstar Support for gameplay problems, patches and bugs.</p>
+<h2 id="patches-reported-not-official" tabindex="-1">Patches (reported, not official)</h2>
+<blockquote>
+<p><strong>Rumour / unconfirmed:</strong> Vice reports that dataminers (people who read game files) found a patch around 13 Nov (about 1 GB) and another from 16 Nov (about 602.5 MB on PS5, 1.6 GB on Xbox), rolling out slowly. Rockstar had published <strong>no patch notes</strong> as of 16 Nov. Source: <a href="https://www.vice.com/en/article/gta-6-second-day-one-patch-ps5-xbox/" rel="noopener noreferrer" target="_blank">https://www.vice.com/en/article/gta-6-second-day-one-patch-ps5-xbox/</a></p>
+</blockquote>
+<p>The final launch-day update size is <strong>not announced</strong>.</p>
+<h2 id="faq" tabindex="-1">FAQ</h2>
+<h3 id="how-big-is-the-gta-6-download" tabindex="-1">How big is the GTA 6 download?</h3>
+<p>Up to 212 GB. PlayStation says keep at least 212 GB free on PS5.</p>
+<h3 id="when-did-gta-6-pre-load-start" tabindex="-1">When did GTA 6 pre-load start?</h3>
+<p>10 November 2026. PS5 at midnight local time. Xbox at midnight GMT.</p>
+<h3 id="can-i-pre-load-the-boxed-version" tabindex="-1">Can I pre-load the boxed version?</h3>
+<p>Yes. Enter the code from the box on your console store. There is no disc.</p>
+<h3 id="can-i-play-early-if-the-pre-load-is-done" tabindex="-1">Can I play early if the pre-load is done?</h3>
+<p>No. The game unlocks at midnight in your time zone on 19 November.</p>
+<h3 id="my-download-will-not-start-what-now" tabindex="-1">My download will not start. What now?</h3>
+<p>Pause and resume. Then cancel and download again. Then check account, internet, space and updates.</p>
+<hr>
+<p><em>Unofficial fan site, not affiliated with Rockstar Games or Take-Two.</em></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>GTA 6 PS5 Settings: Best Setup for PS5 and Pro (2026)</title>
+    <link href="https://roarcode.github.io/launch-hub/ps5-settings/" rel="alternate" type="text/html"/>
+    <id>https://roarcode.github.io/launch-hub/ps5-settings/</id>
+    <published>2026-11-18T00:00:00.000Z</published>
+    <updated>2026-11-18T00:00:00.000Z</updated>
+    <category term="Launch Hub"/>
+    <category term="Spoiler-free" label="Spoiler level"/>
+    <summary>[Spoiler-free] GTA 6 targets 30 FPS on PS5 and PS5 Pro. See what PS5 Pro adds, exact menu steps for HDR and storage, and what is not announced yet.</summary>
+    <content type="html"><![CDATA[<blockquote>
+<ul>
+<li><strong>Quick answer:</strong> GTA 6 targets <strong>30 FPS</strong> (30 pictures per second) on PS5, PS5 Pro and Xbox Series X|S. <strong>No 60 FPS or performance mode is announced.</strong></li>
+<li><strong>PS5 Pro adds two things:</strong> <strong>PSSR</strong> (a sharper picture) and <strong>ray-traced shadows</strong> (more realistic shadows). Both are PS5 Pro only.</li>
+<li><strong>Set up now:</strong> keep <strong>212 GB+</strong> free, run <strong>HDR setup</strong>, and use <strong>Game Mode</strong> on your TV. In-game options are <strong>not announced</strong>. We will update this page after launch.</li>
+</ul>
+</blockquote>
+<p><strong>Words used on this page.</strong> <em>FPS</em> means frames per second, how smooth the picture is. <em>HDR</em> means brighter lights and deeper darks on your TV. <em>Haptics</em> means the controller buzzing to match the action.</p>
+<h2 id="what-rockstar-has-confirmed" tabindex="-1">What Rockstar has confirmed</h2>
+<div class="table-wrap" tabindex="0" role="region" aria-label="Table"><table class="table">
+<thead>
+<tr>
+<th>Topic</th>
+<th>Confirmed</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Frame rate</td>
+<td>“Targeting 30 frames per second” on current consoles</td>
+<td>Rockstar blog, 10 Nov, via Game Informer, GamesRadar, The Verge</td>
+</tr>
+<tr>
+<td>Modes (performance / quality)</td>
+<td>None announced</td>
+<td>GamesRadar, Tom’s Hardware</td>
+</tr>
+<tr>
+<td>Resolution</td>
+<td>Not announced</td>
+<td>Tom’s Hardware</td>
+</tr>
+<tr>
+<td>PS5 Pro</td>
+<td>PSSR (sharper picture) and ray-traced shadows, “only available on PlayStation 5 Pro”. A compatible display is needed.</td>
+<td>Game Informer, PlayStation</td>
+</tr>
+<tr>
+<td>Controller</td>
+<td>DualSense haptics and adaptive triggers, adjustable in accessibility settings</td>
+<td>Rockstar via GamesRadar, PlayStation Blog</td>
+</tr>
+<tr>
+<td>Sound</td>
+<td>Tempest 3D Audio</td>
+<td>PlayStation Blog</td>
+</tr>
+<tr>
+<td>Loading</td>
+<td>Faster loads from the PS5 SSD</td>
+<td>PlayStation Blog</td>
+</tr>
+<tr>
+<td>Space</td>
+<td>212 GB or more</td>
+<td>PlayStation</td>
+</tr>
+<tr>
+<td>Remote Play</td>
+<td>Supported on PlayStation and Xbox</td>
+<td>Game Informer</td>
+</tr>
+</tbody>
+</table></div>
+<h2 id="ps5-vs-ps5-pro" tabindex="-1">PS5 vs PS5 Pro</h2>
+<div class="table-wrap" tabindex="0" role="region" aria-label="Table"><table class="table">
+<thead>
+<tr>
+<th>Feature</th>
+<th>PS5</th>
+<th>PS5 Pro</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Frame-rate target</td>
+<td>30 FPS</td>
+<td>30 FPS</td>
+</tr>
+<tr>
+<td>DualSense haptics, Tempest 3D Audio</td>
+<td>Yes</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>PSSR sharper picture</td>
+<td>No</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Ray-traced shadows</td>
+<td>No</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Graphics modes</td>
+<td>Not announced</td>
+<td>Not announced</td>
+</tr>
+</tbody>
+</table></div>
+<p>![PS5 versus PS5 Pro feature comparison card](TODO: image:ps5-settings-step-1 — diagram, our own art: two columns, PS5 and PS5 Pro, with ticks for PSSR and ray-traced shadows)
+<em>Caption: Diagram. What PS5 Pro adds in GTA 6.</em></p>
+<h2 id="step-1-check-your-free-space-212-gb" tabindex="-1">Step 1: Check your free space (212 GB+)</h2>
+<ol>
+<li>Press the <strong>PS button</strong>, then open <strong>Settings</strong>.</li>
+<li>Select <strong>Storage</strong>.</li>
+<li>Check you have <strong>more than 212 GB</strong> free.</li>
+</ol>
+<p>![PS5 storage screen](TODO: image:ps5-settings-step-2 — menu screen, PS5: Settings &gt; Storage with free space visible)
+<em>Caption: Menu screen. The PS5 storage screen showing free space.</em></p>
+<h2 id="step-2-set-up-hdr-general-ps5-tip-not-a-gta-6-setting" tabindex="-1">Step 2: Set up HDR (general PS5 tip, not a GTA 6 setting)</h2>
+<ol>
+<li>Open <strong>Settings</strong>.</li>
+<li>Select <strong>Screen and Video</strong>.</li>
+<li>Select <strong>Video Output</strong>.</li>
+<li>Select <strong>Adjust HDR</strong>.</li>
+<li>Follow the on-screen steps.</li>
+</ol>
+<h2 id="step-3-pick-the-right-tv-settings" tabindex="-1">Step 3: Pick the right TV settings</h2>
+<ol>
+<li>Open your TV’s picture menu.</li>
+<li>Turn on <strong>Game Mode</strong> (name varies by TV). This lowers delay between button press and picture.</li>
+<li>120 Hz will <strong>not</strong> make GTA 6 faster. The game targets 30 FPS.</li>
+<li>VRR (a setting that smooths the picture on some TVs): GTA 6 support is not announced. Leave it on <strong>Automatic</strong> for now.</li>
+</ol>
+<h2 id="step-4-change-the-controller-buzz" tabindex="-1">Step 4: Change the controller buzz</h2>
+<ol>
+<li>Start GTA 6 once it unlocks.</li>
+<li>Open the game’s <strong>Settings</strong> and look for <strong>Accessibility</strong>.</li>
+<li>Change the haptics (buzz) and adaptive triggers (stiff buttons) there. Rockstar says they are adjustable in accessibility settings. The exact menu names are not announced yet.</li>
+</ol>
+<p>![DualSense controller diagram with haptics and trigger labels](TODO: image:ps5-settings-step-3 — diagram, our own art: a controller outline labelling haptics, adaptive triggers, speaker)
+<em>Caption: Diagram. The DualSense parts GTA 6 uses.</em></p>
+<h2 id="xbox-series-x-s-what-is-known" tabindex="-1">Xbox Series X|S: what is known</h2>
+<ul>
+<li>Xbox Series X and Series S run it natively. Rockstar gave no Xbox-only graphics options.</li>
+<li><strong>Xbox Cloud Gaming</strong> (streaming) uses <strong>Xbox Series S graphics settings</strong>, per Rockstar and Xbox Wire.</li>
+</ul>
+<h2 id="not-announced-we-will-update-at-launch" tabindex="-1">Not announced (we will update at launch)</h2>
+<ul>
+<li>Performance mode on PS5 Pro</li>
+<li>Resolution on PS5 and PS5 Pro</li>
+<li>HDR, motion blur, field-of-view and camera options in the game</li>
+<li>Launch-day update size</li>
+</ul>
+<h2 id="faq" tabindex="-1">FAQ</h2>
+<h3 id="does-gta-6-run-at-60-fps-on-ps5" tabindex="-1">Does GTA 6 run at 60 FPS on PS5?</h3>
+<p>No. Rockstar targets 30 FPS. No 60 FPS mode is announced.</p>
+<h3 id="what-does-ps5-pro-add" tabindex="-1">What does PS5 Pro add?</h3>
+<p>PSSR (sharper picture) and ray-traced shadows.</p>
+<h3 id="how-much-space-do-i-need" tabindex="-1">How much space do I need?</h3>
+<p>212 GB or more.</p>
+<h3 id="is-there-a-performance-mode" tabindex="-1">Is there a performance mode?</h3>
+<p>Not announced.</p>
+<h3 id="can-i-change-the-controller-buzz" tabindex="-1">Can I change the controller buzz?</h3>
+<p>Yes. Rockstar says haptics are adjustable in accessibility settings.</p>
+<hr>
+<p><em>Unofficial fan site, not affiliated with Rockstar Games or Take-Two.</em></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>GTA 6 Radio Stations: All 6 Stations and Podcasts</title>
+    <link href="https://roarcode.github.io/launch-hub/radio-stations/" rel="alternate" type="text/html"/>
+    <id>https://roarcode.github.io/launch-hub/radio-stations/</id>
+    <published>2026-11-18T00:00:00.000Z</published>
+    <updated>2026-11-18T00:00:00.000Z</updated>
+    <category term="Launch Hub"/>
+    <category term="Spoiler-free" label="Spoiler level"/>
+    <summary>[Spoiler-free] All 6 GTA 6 radio stations with genre and DJs, plus podcasts, the 34-track album and how to listen on foot. Only officially announced stations are listed.</summary>
+    <content type="html"><![CDATA[<blockquote>
+<ul>
+<li><strong>Quick answer:</strong> Rockstar previewed <strong>6 radio stations</strong> on 8 Oct 2026: Cocoteo FM, Back Country Radio, AfroBank FM, The Chamber, Flash FM and Dirty South Classics.</li>
+<li><strong>Also confirmed:</strong> on-demand <strong>podcasts</strong>, and listening <strong>on foot</strong> with in-game headphones or earbuds linked to your phone.</li>
+<li><strong>Album:</strong> “Grand Theft Auto VI: The Album”, <strong>34 tracks, due 19 Nov</strong>. Full in-game station lists are <strong>not announced</strong>.</li>
+</ul>
+</blockquote>
+<p><strong>Words used on this page.</strong> <em>Station</em> is a radio channel in the game. <em>DJ</em> is the host. <em>Podcast</em> is a talk show you pick to play.</p>
+<h2 id="the-6-stations-announced-8-oct-2026" tabindex="-1">The 6 stations (announced 8 Oct 2026)</h2>
+<div class="table-wrap" tabindex="0" role="region" aria-label="Table"><table class="table">
+<thead>
+<tr>
+<th>Station</th>
+<th>Music</th>
+<th>DJs or hosts named</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Cocoteo FM</strong></td>
+<td>Modern Latin</td>
+<td>El Martillo and La Gata</td>
+</tr>
+<tr>
+<td><strong>Back Country Radio</strong></td>
+<td>Renegade country</td>
+<td>MW and Delta Dawne</td>
+</tr>
+<tr>
+<td><strong>AfroBank FM</strong></td>
+<td>African music</td>
+<td>Burna and Palmsy</td>
+</tr>
+<tr>
+<td><strong>The Chamber</strong></td>
+<td>Classic metal</td>
+<td>DJ Kerry and DJ Tom</td>
+</tr>
+<tr>
+<td><strong>Flash FM</strong></td>
+<td>Pop</td>
+<td>Robyn and Alex</td>
+</tr>
+<tr>
+<td><strong>Dirty South Classics</strong></td>
+<td>Rap and hip-hop</td>
+<td>Trick and Trina</td>
+</tr>
+</tbody>
+</table></div>
+<p>Source: Game Informer’s report on Rockstar’s Newswire post, 8 Oct 2026.</p>
+<p>![six station logos as a list](TODO: image:radio-stations-step-1 — diagram, Designer’s original art: six text-only station cards with genre labels; no Rockstar logos without credit)
+<em>Caption: Diagram. The six announced stations and their genres.</em></p>
+<h2 id="podcasts-and-listening-on-foot" tabindex="-1">Podcasts and listening on foot</h2>
+<ul>
+<li><strong>Podcasts:</strong> on-demand shows are part of the audio setup.</li>
+<li><strong>On foot:</strong> you can listen with in-game headphones or earbuds that connect to your phone.</li>
+<li><strong>Exactly how to switch stations or start a podcast</strong> (buttons and menus): not announced. We will add the exact PS5 and Xbox buttons after launch.</li>
+</ul>
+<p>![phone and earbuds icon](TODO: image:radio-stations-step-2 — diagram, our own art: a phone with earbuds and a “listen on foot” label)
+<em>Caption: Diagram. In-game earbuds let you listen while walking.</em></p>
+<h2 id="the-music-releases" tabindex="-1">The music releases</h2>
+<div class="table-wrap" tabindex="0" role="region" aria-label="Table"><table class="table">
+<thead>
+<tr>
+<th>Release</th>
+<th>Date</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>“Grand Theft Auto VI: The Album” (34 tracks)</td>
+<td>19 Nov 2026</td>
+<td>Rockstar Newswire list (via <a href="http://gta6record.com" rel="noopener noreferrer" target="_blank">gta6record.com</a> index)</td>
+</tr>
+<tr>
+<td>“Original Score by Justice”</td>
+<td>11 Dec 2026</td>
+<td>Rockstar Newswire list (via <a href="http://gta6record.com" rel="noopener noreferrer" target="_blank">gta6record.com</a> index)</td>
+</tr>
+<tr>
+<td>Launch trailer song “Flower in a Hurricane”</td>
+<td>Heard in the Launch Trailer</td>
+<td>Wikipedia (secondary)</td>
+</tr>
+</tbody>
+</table></div>
+<p>Rockstar also says you can listen to the official score and soundtrack and select in-game radio stations on its GTA VI page.</p>
+<p>![album release timeline](TODO: image:radio-stations-step-3 — diagram, our own art: a timeline with 19 Nov (album) and 11 Dec (score))
+<em>Caption: Diagram. The two music release dates.</em></p>
+<h2 id="not-announced" tabindex="-1">Not announced</h2>
+<ul>
+<li>The full station list and song list for each station</li>
+<li>Whether more stations will be added after launch</li>
+</ul>
+<h2 id="faq" tabindex="-1">FAQ</h2>
+<h3 id="how-many-radio-stations-are-in-gta-6" tabindex="-1">How many radio stations are in GTA 6?</h3>
+<p>Six were previewed on 8 October 2026. The full list is not announced.</p>
+<h3 id="does-gta-6-have-podcasts" tabindex="-1">Does GTA 6 have podcasts?</h3>
+<p>Yes. On-demand podcasts are confirmed.</p>
+<h3 id="can-i-listen-to-music-on-foot" tabindex="-1">Can I listen to music on foot?</h3>
+<p>Yes, with in-game headphones or earbuds linked to your phone.</p>
+<h3 id="when-does-the-gta-6-album-come-out" tabindex="-1">When does the GTA 6 album come out?</h3>
+<p>19 November 2026, with 34 tracks.</p>
+<hr>
+<p><em>Unofficial fan site, not affiliated with Rockstar Games or Take-Two.</em></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>GTA 6 Release Time: Unlock Times by Time Zone (2026)</title>
+    <link href="https://roarcode.github.io/launch-hub/release-time/" rel="alternate" type="text/html"/>
+    <id>https://roarcode.github.io/launch-hub/release-time/</id>
+    <published>2026-11-18T00:00:00.000Z</published>
+    <updated>2026-11-18T00:00:00.000Z</updated>
+    <category term="Launch Hub"/>
+    <category term="Spoiler-free" label="Spoiler level"/>
+    <summary>[Spoiler-free] GTA 6 unlocks at midnight local time on 19 Nov 2026 on PS5 and Xbox Series X|S. See the unlock time for PT, ET, BRT, GMT, CET, EET, IST, JST, AEDT, NZDT.</summary>
+    <content type="html"><![CDATA[<blockquote>
+<ul>
+<li><strong>Quick answer:</strong> GTA 6 unlocks at <strong>12:00 AM (midnight) on Thursday 19 November 2026 in your own time zone</strong>, on PS5 and Xbox Series X|S.</li>
+<li><strong>Europe (CET, incl. Slovenia):</strong> 00:00 CET on Thu 19 Nov. <strong>UK:</strong> 00:00 GMT. <strong>US East:</strong> 12:00 AM ET (= 06:00 CET). <strong>New Zealand goes first:</strong> 12:00 CET today (Wed 18 Nov).</li>
+<li><strong>US warning:</strong> consoles show <strong>one US moment (midnight ET = 9:00 PM Pacific)</strong>, so check your own countdown. Pre-loading does not unlock the game early.</li>
+</ul>
+</blockquote>
+<p><strong>Words used on this page.</strong> A <em>rolling launch</em> means the game unlocks at midnight in each time zone, one after another, not all at once. <em>Pre-load</em> means downloading the game early so it is ready when it unlocks. <em>CET</em> is central European time, the time in Slovenia, Germany and Italy.</p>
+<p><strong>Europe tonight:</strong> in central Europe (CET: Germany, Austria, Italy, France, Slovenia and more) GTA VI unlocks at <strong>00:00 CET on Thursday 19 November</strong>, which is 23:00 UTC on Wednesday 18 November. It is <em>not</em> 06:00 CET: 06:00 CET is the moment of the US (Eastern) unlock. Slovenia and Croatia are not listed by name in the sources we found, but both sit in CET and the German, Austrian and Italian store listings show 00:00 CET. Check the countdown on your own console.</p>
+<p><strong>First unlock in the world:</strong> New Zealand, at 12:00 CET on Wednesday 18 November (today).</p>
+<blockquote>
+<p><strong>Heads-up for US players:</strong> GamesRadar and PC Gamer both saw US PlayStation unlock screens set to <strong>one Eastern Time moment: midnight ET = 9:00 PM Pacific on Wednesday 18 November</strong>, not a separate midnight for each US time zone. Rockstar’s wording says “midnight local time”. Check the countdown on your own console.</p>
+</blockquote>
+<h2 id="gta-6-unlock-time-by-time-zone" tabindex="-1">GTA 6 unlock time by time zone</h2>
+<p>All times are for the night of <strong>18 → 19 November 2026</strong>. “Unlock (local)” is what your clock should show when the game goes live. “In CET” is the same moment in central European time (CET = UTC+1, the time in Slovenia, Germany, Italy and more). The table is in <strong>unlock order</strong>, earliest first.</p>
+<p><strong>Status key:</strong> ✅ listed in regional store data and consistent with Rockstar’s “midnight local” wording · ⚠️ our arithmetic from “midnight local”, not listed by name · 🔶 sources conflict (see below)</p>
+<div class="table-wrap" tabindex="0" role="region" aria-label="Table"><table class="table">
+<thead>
+<tr>
+<th>#</th>
+<th>Region (time zone)</th>
+<th>Unlock (local)</th>
+<th>UTC</th>
+<th>In CET</th>
+<th>Status</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td><strong>New Zealand</strong> (NZDT, UTC+13)</td>
+<td>Thu 19 Nov, 12:00 AM</td>
+<td>Wed 18 Nov, 11:00</td>
+<td><strong>Wed 18 Nov, 12:00</strong></td>
+<td>✅</td>
+</tr>
+<tr>
+<td>2</td>
+<td><strong>Australia, Sydney/Melbourne</strong> (AEDT, UTC+11)</td>
+<td>Thu 19 Nov, 12:00 AM</td>
+<td>Wed 18 Nov, 13:00</td>
+<td>Wed 18 Nov, 14:00</td>
+<td>✅</td>
+</tr>
+<tr>
+<td>2b</td>
+<td>Australia, Brisbane (AEST, UTC+10)</td>
+<td>Thu 19 Nov, 12:00 AM</td>
+<td>Wed 18 Nov, 14:00</td>
+<td>Wed 18 Nov, 15:00</td>
+<td>⚠️ 🔶</td>
+</tr>
+<tr>
+<td>2c</td>
+<td>Australia, Perth (AWST, UTC+8)</td>
+<td>Thu 19 Nov, 12:00 AM</td>
+<td>Wed 18 Nov, 16:00</td>
+<td>Wed 18 Nov, 17:00</td>
+<td>⚠️ 🔶</td>
+</tr>
+<tr>
+<td>3</td>
+<td><strong>Japan</strong> (JST, UTC+9) and <strong>South Korea</strong> (KST, UTC+9)</td>
+<td>Thu 19 Nov, 12:00 AM</td>
+<td>Wed 18 Nov, 15:00</td>
+<td>Wed 18 Nov, 16:00</td>
+<td>✅</td>
+</tr>
+<tr>
+<td>4</td>
+<td><strong>Singapore</strong> (SGT) and <strong>Hong Kong</strong> (HKT), UTC+8</td>
+<td>Thu 19 Nov, 12:00 AM</td>
+<td>Wed 18 Nov, 16:00</td>
+<td>Wed 18 Nov, 17:00</td>
+<td>✅</td>
+</tr>
+<tr>
+<td>5</td>
+<td><strong>India</strong> (IST, UTC+5:30)</td>
+<td>Thu 19 Nov, 12:00 AM</td>
+<td>Wed 18 Nov, 18:30</td>
+<td>Wed 18 Nov, 19:30</td>
+<td>✅</td>
+</tr>
+<tr>
+<td>6</td>
+<td><strong>Eastern Europe</strong> (EET, UTC+2: Greece, Finland, Romania…)</td>
+<td>Thu 19 Nov, 12:00 AM</td>
+<td>Wed 18 Nov, 22:00</td>
+<td>Wed 18 Nov, 23:00</td>
+<td>✅</td>
+</tr>
+<tr>
+<td>7</td>
+<td><strong>Central Europe</strong> (CET, UTC+1: Germany, Italy, France, Austria, Slovenia…)</td>
+<td>Thu 19 Nov, 12:00 AM</td>
+<td>Wed 18 Nov, 23:00</td>
+<td><strong>Thu 19 Nov, 00:00</strong></td>
+<td>✅ (Slovenia ⚠️, see note)</td>
+</tr>
+<tr>
+<td>8</td>
+<td><strong>UK</strong> (GMT, UTC+0), also Ireland and Portugal</td>
+<td>Thu 19 Nov, 12:00 AM</td>
+<td>Thu 19 Nov, 00:00</td>
+<td>Thu 19 Nov, 01:00</td>
+<td>✅</td>
+</tr>
+<tr>
+<td>9</td>
+<td><strong>Brazil</strong> (BRT, UTC-3)</td>
+<td>Thu 19 Nov, 12:00 AM</td>
+<td>Thu 19 Nov, 03:00</td>
+<td>Thu 19 Nov, 04:00</td>
+<td>✅</td>
+</tr>
+<tr>
+<td>10</td>
+<td><strong>US Eastern</strong> (ET, UTC-5)</td>
+<td>Thu 19 Nov, 12:00 AM</td>
+<td>Thu 19 Nov, 05:00</td>
+<td>Thu 19 Nov, <strong>06:00</strong></td>
+<td>✅</td>
+</tr>
+<tr>
+<td>11</td>
+<td><strong>US Central</strong> (CT, UTC-6)</td>
+<td>Wed 18 Nov, <strong>11:00 PM</strong> (as observed)</td>
+<td>Thu 19 Nov, 05:00</td>
+<td>Thu 19 Nov, 06:00</td>
+<td>🔶</td>
+</tr>
+<tr>
+<td>12</td>
+<td><strong>US Mountain</strong> (MT, UTC-7)</td>
+<td>Wed 18 Nov, <strong>10:00 PM</strong> (as observed)</td>
+<td>Thu 19 Nov, 05:00</td>
+<td>Thu 19 Nov, 06:00</td>
+<td>🔶</td>
+</tr>
+<tr>
+<td>13</td>
+<td><strong>US Pacific</strong> (PT, UTC-8)</td>
+<td>Wed 18 Nov, <strong>9:00 PM</strong> (as observed)</td>
+<td>Thu 19 Nov, 05:00</td>
+<td>Thu 19 Nov, 06:00</td>
+<td>🔶</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Mexico and Central America (UTC-6)</td>
+<td>Thu 19 Nov, 12:00 AM</td>
+<td>Thu 19 Nov, 06:00</td>
+<td>Thu 19 Nov, 07:00</td>
+<td>✅</td>
+</tr>
+</tbody>
+</table></div>
+<p>![world map diagram with the unlock order, from New Zealand to Mexico](TODO: image:release-time-step-1 — diagram, our own art: a world map with numbered arrows showing the order 1 New Zealand to 14 Mexico)
+<em>Caption: Diagram. The game unlocks time zone by time zone, starting in New Zealand.</em></p>
+<p><strong>Unlocks in order:</strong> New Zealand → Australia → Japan and South Korea → Singapore and Hong Kong → India → Eastern Europe → <strong>central Europe (00:00 CET)</strong> → UK → Brazil → US East Coast (and, as observed, all of the US) → Mexico and Central America. The whole rollout takes about 19 hours, from 11:00 UTC Wednesday to 06:00 UTC Thursday.</p>
+<p><strong>What the ✅ rows rest on:</strong> regional PlayStation Store listings tracked by <a href="https://www.gta6everything.com/unlock-times" rel="noopener noreferrer" target="_blank">GTA 6 Everything</a> (63 countries, with Xbox Store cross-checks for 40), Push Square’s and GamesRadar’s New Zealand-trick conversions (NZ midnight = 11 AM GMT / 12 PM CET / 10 PM AEDT / 8 PM JST / 7 PM AWST), PC Gamer’s offset table, and Rockstar’s and PlayStation’s “midnight local time” wording.</p>
+<p><strong>The 🔶 rows (US time zones, Brisbane, Perth):</strong> Rockstar’s wording says midnight <em>local</em> time everywhere, which would mean US Central 12:00 AM (07:00 CET), Mountain 12:00 AM (08:00 CET) and Pacific 12:00 AM (09:00 CET). However, PC Gamer and GamesRadar say US PlayStation unlock screens show <strong>one Eastern-time moment for the whole US</strong> (midnight ET = 11 PM Central, 10 PM Mountain, 9 PM Pacific), and PC Gamer says the same may be true on Xbox. Store data lists a single time per country, and Australia’s is the Sydney (AEDT) time, so Brisbane and Perth may be grouped the same way: the table shows that case (Brisbane 11 PM, Perth 9 PM on 18 Nov), but it is <strong>unconfirmed</strong>. Use the countdown on your own console and store page as the final word.</p>
+<p><strong>Slovenia and Croatia:</strong> neither is named in the sources we found. Both sit in CET, and the German, Austrian and Italian store listings show 00:00 CET, so 00:00 CET is expected. Confirm on your console’s countdown.</p>
+<p>The PT, ET, BRT, UK, CET, EET, IST, JST, AEDT and NZDT zones requested most often are all in the table above.</p>
+<h3 id="how-to-see-your-own-countdown-do-this-first" tabindex="-1">How to see your own countdown (do this first)</h3>
+<ol>
+<li><strong>PS5:</strong> go to the home screen and open your <strong>Game Library</strong>.</li>
+<li>Select <strong>Grand Theft Auto VI</strong>. It shows as locked until your unlock time. If it shows a countdown, that countdown is the real time for your account.</li>
+<li><strong>Xbox Series X|S:</strong> press the <strong>Xbox button</strong>, then go to <strong>My games &amp; apps</strong> and select <strong>Full library</strong>.</li>
+<li>Select <strong>Grand Theft Auto VI</strong> and check the release time on its page.</li>
+<li>Compare it with the table above. If they differ, trust your console.</li>
+</ol>
+<p>![PS5 game library tile for GTA VI showing it is locked](TODO: image:release-time-step-2 — menu screen, PS5: Game Library with the GTA VI tile selected and the locked/countdown text visible)
+<em>Caption: Menu screen. The PS5 Game Library page for GTA VI shows when it unlocks for you.</em></p>
+<p>![Xbox full library page for GTA VI with the release time](TODO: image:release-time-step-3 — menu screen, Xbox: My games &amp; apps &gt; Full library with GTA VI selected)
+<em>Caption: Menu screen. The Xbox library page for GTA VI.</em></p>
+<p>![converter diagram showing midnight ET equals 9 PM PT and 06:00 CET](TODO: image:release-time-step-4 — diagram, our own art: one clock line showing 9 PM PT, 10 PM MT, 11 PM CT, 12 AM ET, 06:00 CET)
+<em>Caption: Diagram. The US moment is the same for the whole country, as seen on PS5 unlock screens.</em></p>
+<h2 id="is-the-unlock-midnight-local-or-global" tabindex="-1">Is the unlock midnight-local or global?</h2>
+<ul>
+<li><strong>Midnight local, region by region.</strong> Rockstar’s support article, as quoted by PlanetGTA6, says the game releases “midnight local time on November 19, 2026, in all regions” on both PS5 and Xbox Series X|S. PlayStation’s own support page says the same. Sony also described a “rolling midnight launch by country, beginning at 12:00AM NZDT in New Zealand.”</li>
+<li><strong>US exception in practice.</strong> GamesRadar and PC Gamer report that US PlayStation unlock screens use midnight Eastern for everyone in the US. PC Gamer notes the same may be true on Xbox, but that is not confirmed. Rockstar’s wording remains “midnight local time” (see the conflict table below).</li>
+<li><strong>Xbox store note.</strong> GamesRadar reports Xbox runs a single global store, so time-zone tricks may behave differently there. Rockstar has not said anything about such tricks. We don’t recommend them: changing your region or buying through a second account means you cannot move save data back to your main account (Push Square) and may break platform terms.</li>
+</ul>
+<h2 id="when-sources-disagree" tabindex="-1">When sources disagree</h2>
+<div class="table-wrap" tabindex="0" role="region" aria-label="Table"><table class="table">
+<thead>
+<tr>
+<th>Question</th>
+<th>What Rockstar and platform holders say (official)</th>
+<th>What outlets report</th>
+<th>Our reading</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Is the unlock midnight local time everywhere?</td>
+<td><strong>Yes.</strong> Rockstar support: &quot;midnight local time on November 19, 2026, in all regions for both PlayStation 5 and XBOX Series X</td>
+<td>S&quot; (as quoted by PC Gamer and <a href="http://gtasix.org" rel="noopener noreferrer" target="_blank">gtasix.org</a>; PlayStation support says the same; Sony: “rolling midnight launch by country”).</td>
+<td>Confirmed by Push Square, GamesRadar, PC Gamer, AP.</td>
+</tr>
+<tr>
+<td>Does every US time zone get its own midnight?</td>
+<td>Rockstar’s wording says local midnight in all regions.</td>
+<td>PC Gamer (17 Nov) and GamesRadar saw US PS5 unlock screens set to <strong>midnight Eastern = 9 PM Pacific</strong>. PC Gamer says Xbox may match.</td>
+<td><strong>Observed, not official wording.</strong> Trust your console’s countdown.</td>
+</tr>
+<tr>
+<td>Is the game released on 18 November?</td>
+<td><strong>No, 19 November.</strong></td>
+<td>A store timestamp artefact on the German PlayStation Store page shows “18.11.2026”, which is just 00:00 CET expressed in UTC.</td>
+<td>Ignore “18 Nov” dates.</td>
+</tr>
+<tr>
+<td>Does preloading unlock the game early?</td>
+<td>No. Preload only downloads the game.</td>
+<td>Same.</td>
+<td>Official.</td>
+</tr>
+</tbody>
+</table></div>
+<p>The Rockstar Support article itself could not be opened for this page, so its wording is taken from PlayStation’s support page and from outlets quoting it. We will re-check it after launch.</p>
+<h2 id="platforms" tabindex="-1">Platforms</h2>
+<ul>
+<li><strong>PS5 and PS5 Pro</strong>: native. <strong>Xbox Series X and Series S</strong>: native. (Rockstar, PlayStation, Xbox Wire)</li>
+<li><strong>Xbox One</strong>: cloud streaming only through Xbox Cloud Gaming, starting <strong>1 AM ET on 19 November</strong>, using Xbox Series S graphics settings. (Xbox Wire)</li>
+<li><strong>PS4</strong>: not playable. <strong>PC</strong>: no version announced on any official page we checked.</li>
+</ul>
+<h2 id="preload-info" tabindex="-1">Preload info</h2>
+<ul>
+<li><strong>PlayStation 5:</strong> preload opened at midnight local time on <strong>10 November 2026</strong> for digital pre-orders. (PlayStation support)</li>
+<li><strong>Xbox Series X|S:</strong> preload opened at <strong>midnight GMT on 10 November</strong>. (USA Today, citing Rockstar’s announcement)</li>
+<li><strong>Code-in-box (physical):</strong> the box holds a download code, with no disc. Redeem it to start preloading. Boxed copies were slated for retail from <strong>12 November</strong>. (Take-Two press release, PlayStation support)</li>
+<li><strong>Size:</strong> PlayStation tells players to clear <strong>at least 212 GB</strong> on PS5. Rockstar’s figure is “up to 212 GB depending on console.” (PlayStation, USA Today)</li>
+<li>Preloading does <strong>not</strong> unlock the game early. It only means you can press play the second your region hits midnight.</li>
+</ul>
+<h2 id="launch-day-checklist" tabindex="-1">Launch-day checklist</h2>
+<ol>
+<li>Confirm the preload is 100% complete in your console’s downloads list (on PS5: Downloads/Uploads).</li>
+<li>Keep the console on the account that bought the game.</li>
+<li>Turn on Auto-Install and Stay Connected to the Internet in Rest Mode if you want your console to finish updates on its own (PlayStation support steps).</li>
+<li>Install any day-one update before the unlock moment if one is offered. Its size has not been announced.</li>
+</ol>
+<h2 id="faq" tabindex="-1">FAQ</h2>
+<h3 id="what-time-does-gta-6-unlock-in-the-us" tabindex="-1">What time does GTA 6 unlock in the US?</h3>
+<p>At midnight Eastern Time on Thursday 19 November, which is 9:00 PM Pacific on Wednesday 18 November, based on US PlayStation unlock screens seen by GamesRadar and PC Gamer.</p>
+<h3 id="what-time-does-gta-6-release-in-the-uk-and-europe" tabindex="-1">What time does GTA 6 release in the UK and Europe?</h3>
+<p>Midnight local time: 00:00 GMT in the UK and 00:00 CET in central Europe (including Slovenia), both on Thursday 19 November.</p>
+<h3 id="does-gta-6-unlock-at-06-00-cet" tabindex="-1">Does GTA 6 unlock at 06:00 CET?</h3>
+<p>No. 06:00 CET is the US Eastern unlock. Central Europe unlocks at 00:00 CET.</p>
+<h3 id="which-country-gets-gta-6-first" tabindex="-1">Which country gets GTA 6 first?</h3>
+<p>New Zealand, at 12:00 AM NZDT on 19 November (11:00 UTC on 18 November).</p>
+<h3 id="can-i-play-gta-6-early-by-preloading" tabindex="-1">Can I play GTA 6 early by preloading?</h3>
+<p>No. Preloading only downloads the game. It stays locked until your region’s launch time.</p>
+<h3 id="is-gta-6-coming-to-pc" tabindex="-1">Is GTA 6 coming to PC?</h3>
+<p>No PC version has been announced on any official page we checked. The game is listed for PS5 and Xbox Series X|S.</p>
+<h3 id="how-big-is-the-gta-6-download" tabindex="-1">How big is the GTA 6 download?</h3>
+<p>Up to 212 GB depending on console. PlayStation recommends clearing at least 212 GB.</p>
+<hr>
+<p><em>Unofficial fan site, not affiliated with Rockstar Games or Take-Two.</em></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>GTA 6 Vintage Vice City Pack: How to Get It Before 20 Nov</title>
+    <link href="https://roarcode.github.io/launch-hub/vintage-vice-city-pack/" rel="alternate" type="text/html"/>
+    <id>https://roarcode.github.io/launch-hub/vintage-vice-city-pack/</id>
+    <published>2026-11-18T00:00:00.000Z</published>
+    <updated>2026-11-18T00:00:00.000Z</updated>
+    <category term="Launch Hub"/>
+    <category term="Spoiler-free" label="Spoiler level"/>
+    <summary>[Spoiler-free] Get the GTA 6 Vintage Vice City Pack free: buy before 20 Nov 2026. See what is in it, how GTA+ fits in, and PS5 and Xbox steps to buy and claim.</summary>
+    <content type="html"><![CDATA[<blockquote>
+<ul>
+<li><strong>Quick answer:</strong> The Vintage Vice City Pack is a <strong>free bonus</strong> with <strong>every GTA 6 purchase or pre-order made before 20 November 2026</strong>, Standard or Ultimate.</li>
+<li><strong>Inside (per Polygon and The Verge):</strong> a '55 Vapid Stanier car, a garage near Ocean Beach, outfits and hairstyles, and a tropical weapon pattern.</li>
+<li><strong>Deadline trap:</strong> some PlayStation Store text says “by November 19”. <strong>Buy by 19 Nov to be safe.</strong></li>
+</ul>
+</blockquote>
+<p><strong>Words used on this page.</strong> <em>Bonus</em> is an extra you get for free. <em>GTA+</em> is Rockstar’s monthly club. The free month is a different bonus.</p>
+<h2 id="what-is-in-the-pack" tabindex="-1">What is in the pack</h2>
+<div class="table-wrap" tabindex="0" role="region" aria-label="Table"><table class="table">
+<thead>
+<tr>
+<th>Item</th>
+<th>Detail</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>'55 Vapid Stanier</td>
+<td>A car</td>
+</tr>
+<tr>
+<td>Garage near Ocean Beach</td>
+<td>Has a weapon locker and a place to drop off stolen goods</td>
+</tr>
+<tr>
+<td>Outfits and hairstyles</td>
+<td>Per Polygon: a linen suit for Jason and a red sequin dress for Lucia, plus hairstyles</td>
+</tr>
+<tr>
+<td>Weapon pattern</td>
+<td>A tropical pattern for weapons</td>
+</tr>
+</tbody>
+</table></div>
+<p>Rockstar describes the pack as items “that flash back to when the neon burned brightest”. How to open each item in the game is <strong>not announced</strong>. We will add the steps after launch.</p>
+<p>![Vintage Vice City Pack contents card](TODO: image:vintage-vice-city-pack-step-1 — diagram, Designer’s original art: four icons for car, garage, outfits, weapon pattern; no Rockstar art without credit)
+<em>Caption: Diagram. The four things in the Vintage Vice City Pack.</em></p>
+<h2 id="who-gets-it" tabindex="-1">Who gets it</h2>
+<ul>
+<li><strong>Digital Standard and Ultimate</strong> bought or pre-ordered before 20 Nov 2026: yes.</li>
+<li><strong>Boxed (code-in-box) Standard:</strong> yes, per Rockstar’s store listing as reported by Technobezz.</li>
+<li><strong>Ultimate Edition Upgrade bought alone:</strong> the pack is part of the <strong>game</strong> offer, not the upgrade. The PlayStation page lists the upgrade as not eligible for the GTA+ offer. Check the store text before you buy.</li>
+</ul>
+<h2 id="how-to-buy-before-the-deadline" tabindex="-1">How to buy before the deadline</h2>
+<p><strong>PS5</strong></p>
+<ol>
+<li>Open <strong>PlayStation Store</strong>.</li>
+<li>Search <strong>Grand Theft Auto VI</strong>.</li>
+<li>Choose <strong>Standard</strong> or <strong>Ultimate</strong>.</li>
+<li>Select the <strong>pre-order</strong> or <strong>buy</strong> button.</li>
+<li>Check for a confirmation email. It has GTA+ steps.</li>
+</ol>
+<p><strong>Xbox Series X|S</strong></p>
+<ol>
+<li>Open the <strong>Microsoft Store</strong>.</li>
+<li>Search <strong>Grand Theft Auto VI</strong>.</li>
+<li>Choose <strong>Standard</strong> or <strong>Ultimate</strong>.</li>
+<li>Select <strong>Pre-order</strong> or <strong>Buy</strong>.</li>
+</ol>
+<p>![PS5 store page showing the Vintage Vice City Pack in the edition list](TODO: image:vintage-vice-city-pack-step-2 — step screenshot, PS5: GTA VI page “Editions” listing with Vintage Vice City Pack)
+<em>Caption: Step screenshot. The PS5 Store page lists the pack with the game.</em></p>
+<h2 id="the-free-gta-month-separate-bonus" tabindex="-1">The free GTA+ month (separate bonus)</h2>
+<ul>
+<li><strong>Who:</strong> digital buyers before 20 Nov 2026. Boxed copies do not get it.</li>
+<li><strong>PS5:</strong> after buying, open the <strong>GTA+</strong> page on PlayStation Store and follow the steps. <strong>Claim by 31 March 2027.</strong> One claim per account.</li>
+<li><strong>Xbox:</strong> open the Store, select your <strong>profile icon</strong> at the top left, select <strong>Offers &amp; credits</strong>.</li>
+<li><strong>Cost:</strong> free for one month, then it renews at the normal price until you cancel.</li>
+</ul>
+<p>![Xbox Offers and credits menu](TODO: image:vintage-vice-city-pack-step-3 — menu screen, Xbox: Store profile icon &gt; Offers &amp; credits)
+<em>Caption: Menu screen. Where to find the GTA+ offer on Xbox.</em></p>
+<h2 id="faq" tabindex="-1">FAQ</h2>
+<h3 id="what-is-the-deadline-for-the-vintage-vice-city-pack" tabindex="-1">What is the deadline for the Vintage Vice City Pack?</h3>
+<p>Buy or pre-order before 20 November 2026. Some PlayStation Store text says 19 November, so buy by then to be safe.</p>
+<h3 id="is-the-pack-free" tabindex="-1">Is the pack free?</h3>
+<p>Yes. It comes with the game purchase.</p>
+<h3 id="does-the-standard-edition-get-it" tabindex="-1">Does the Standard Edition get it?</h3>
+<p>Yes. Both editions do.</p>
+<h3 id="does-the-boxed-version-get-it" tabindex="-1">Does the boxed version get it?</h3>
+<p>Yes, per Rockstar’s listing as reported by Technobezz. The free GTA+ month is digital only.</p>
+<hr>
+<p><em>Unofficial fan site, not affiliated with Rockstar Games or Take-Two.</em></p>
+]]></content>
+  </entry>
+</feed>

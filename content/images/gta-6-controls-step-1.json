@@ -1,12 +1,47 @@
 {
-  "type": "sketch",
-  "alt": "A simple DualSense-style controller outline with a banner saying the button map is not announced yet.",
+  "type": "compare-table",
+  "alt": "Table of GTA 6 driving buttons: accelerate R2 or RT, brake L2 or LT, handbrake Cross or A, exit Triangle or Y, look behind hold R3 or RS.",
   "data": {
     "category": "ps5",
-    "title": "PS5 button map — not confirmed yet",
-    "motif": "controller",
-    "controller": "ps",
-    "overlay": "Not announced yet",
-    "note": "Original outline, not an official diagram. Haptic feedback on DualSense is confirmed and can be adjusted in accessibility settings."
+    "title": "Driving buttons",
+    "subtitle": "Default layout. PS5 from Shacknews, 18 Nov 2026. Xbox = same spot on the pad.",
+    "columns": [
+      "Job",
+      "PS5",
+      "Xbox"
+    ],
+    "rows": [
+      [
+        "Go faster",
+        "R2",
+        "RT"
+      ],
+      [
+        "Brake / reverse",
+        "L2",
+        "LT"
+      ],
+      [
+        "Steer",
+        "Left stick",
+        "Left stick"
+      ],
+      [
+        "Handbrake",
+        "Cross",
+        "A"
+      ],
+      [
+        "Get out",
+        "Triangle",
+        "Y"
+      ],
+      [
+        "Look behind",
+        "Hold R3",
+        "Hold RS"
+      ]
+    ],
+    "note": "Our own table, not an official diagram."
   }
 }

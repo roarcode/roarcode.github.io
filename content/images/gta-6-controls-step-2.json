@@ -1,12 +1,47 @@
 {
-  "type": "sketch",
-  "alt": "A simple Xbox-style controller outline with a banner saying the button map is not announced yet.",
+  "type": "compare-table",
+  "alt": "Table of GTA 6 on-foot buttons: run L3 or LS, jump Cross or A, crouch Circle or B, cover R1 or RB, aim L2 or LT, shoot R2 or RT.",
   "data": {
     "category": "ps5",
-    "title": "Xbox button map — not confirmed yet",
-    "motif": "controller",
-    "controller": "xbox",
-    "overlay": "Not announced yet",
-    "note": "Original outline, not an official diagram. We only add a button after we see it on a console screen."
+    "title": "On-foot buttons",
+    "subtitle": "Default layout. PS5 from Shacknews, 18 Nov 2026. Xbox = same spot on the pad.",
+    "columns": [
+      "Job",
+      "PS5",
+      "Xbox"
+    ],
+    "rows": [
+      [
+        "Run",
+        "Click L3",
+        "Click LS"
+      ],
+      [
+        "Jump / climb",
+        "Cross",
+        "A"
+      ],
+      [
+        "Crouch",
+        "Circle",
+        "B"
+      ],
+      [
+        "Take cover",
+        "R1",
+        "RB"
+      ],
+      [
+        "Aim",
+        "Hold L2",
+        "Hold LT"
+      ],
+      [
+        "Shoot",
+        "R2",
+        "RT"
+      ]
+    ],
+    "note": "Run is no longer on Cross / A. Pick Classic in the settings to get that back."
   }
 }

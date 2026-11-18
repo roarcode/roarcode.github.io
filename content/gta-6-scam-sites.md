@@ -28,7 +28,7 @@ qa: pending
 > - **Safe places to buy:** only the **PlayStation Store**, the **Microsoft Store on Xbox**, or a shop you already know. GTA 6 is on **PS5 and Xbox Series X|S** only.
 > - **Biggest red flag:** a "free" or "PC" download of GTA 6. Rockstar has not announced a PC version, so it is a trap (Avast, via La Vanguardia).
 
-**Words used on this page.** A *scam site* is a fake web page that wants your money or your password. *Phishing* means a fake page that looks real so you type in your login. A *crypto wallet* is an app that holds digital money. A *domain* is a web address, like example.com.
+**Words used on this page.** A *scam site* is a fake web page that wants your money or your password. *Phishing* means a fake page that looks real so you type in your login. A *crypto wallet* is an app that holds digital money. A *domain* is a web address, like `example[.]com`.
 
 *This page has no game spoilers. It is about staying safe.*
 
@@ -74,24 +74,24 @@ A real Rockstar logo does not make a page real. Avast says fake shops copy offic
 2. Open **Store** (general Xbox menu path, check on your console).
 3. Search for **Grand Theft Auto VI**.
 
-Buying a box in a real shop is fine too. The box holds a **code**, not a disc. Type the code only into your console's store.
+Buying a box in a real shop is fine too. The box holds a **code**, not a disc (PlayStation's GTA VI support page). Type the code only into your console's store.
 
 ![PS5 and Xbox store icons with a green tick](TODO: image:gta-6-scam-sites-step-3 — diagram, our own art: two cards, PS5: PS button > PlayStation Store, Xbox: Xbox button > Store, both with a green tick)
 *Caption: Diagram. Buy only from your console's own store.*
 
 ## Web addresses Avast flagged
 
-Avast named these as risky (as reported by Estadão). **Do not visit them.** They are shown as plain text, not links:
+Avast named these as risky (as reported by Estadão). **Do not visit them.** They are written with [.] and shown as code, so they are not links:
 
-- order-gta6.com
-- fangta6.com
-- gta6casinoslots.online
-- gta6-radar.com
-- gta6mobile.net
-- gta6modapk.com.in
-- gta6pcgame.com
-- gta6.my
-- gta6now.org
+- `order-gta6[.]com`
+- `fangta6[.]com`
+- `gta6casinoslots[.]online`
+- `gta6-radar[.]com`
+- `gta6mobile[.]net`
+- `gta6modapk[.]com[.]in`
+- `gta6pcgame[.]com`
+- `gta6[.]my`
+- `gta6now[.]org`
 
 New fake pages appear all the time. A page not on this list can still be fake.
 

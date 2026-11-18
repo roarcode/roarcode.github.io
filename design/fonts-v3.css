@@ -1,0 +1,7 @@
+/* Leonida Guides v3 — self-hosted fonts (OFL). Two faces, two files (~70 KB total):
+   Newsreader (display serif; opsz pinned at 40, wght 400–700, Latin + Latin-Ext-A + punctuation) and Inter variable 400–800 (quiet sans).
+   Anton is dropped in v3. */
+@font-face { font-family: "Newsreader"; src: url("fonts/Newsreader-Variable.woff2") format("woff2"); font-weight: 400 700; font-style: normal; font-display: swap; }
+@font-face { font-family: "Inter"; src: url("fonts/Inter-Variable.woff2") format("woff2"); font-weight: 400 800; font-style: normal; font-display: swap; }
+/* Metric-matched fallbacks so the swap does not shift layout */
+@font-face { font-family: "Newsreader Fallback"; src: local("Georgia"), local("Times New Roman"); size-adjust: 97%; ascent-override: 95%; descent-override: 28%; line-gap-override: 0%; }

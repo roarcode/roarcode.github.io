@@ -1,0 +1,415 @@
+===== CATEGORY / EMPTY =====
+==================================================
+beginner-tips words 93 body page page--category robots index, follow, max-image-preview:large, max-snippet:-1
+TITLE: Beginner Tips: GTA VI Guides | Leonida Guides
+DESC: New to GTA VI? Start here: the beginner tips we wish we knew on day one.
+PREVIEW: Home Beginner Tips Category Beginner Tips New to GTA VI? Start here: the beginner tips we wish we knew on day one. 1 guide · Last updated 18 Nov 2026 Spoiler-free GTA 6 Beginner Tips: Start Strong in 2026 GTA 6 beginner tips: launch-night steps for PS5 and Xbox, what previews confirm about police, traffic and switching, and old-GTA habits that may apply. Updated 18 Nov 2026 · 3 min read Explore ot
+HEADS: ['h3: GTA 6 Beginner Tips: Start Strong in 2026']
+LINKS:
+   /beginner-tips/beginner-tips/ | Spoiler-free GTA 6 Beginner Tips: Start Strong in 2026 GTA 6 beginner tips: laun
+==================================================
+cars words 77 body page page--category robots noindex, follow
+TITLE: Best Cars: GTA VI Guides | Leonida Guides
+DESC: The best cars and bikes in GTA VI and exactly how to get them: locations, prices and handling notes.
+PREVIEW: Home Best Cars Category Best Cars The best cars and bikes in GTA VI and exactly how to get them: locations, prices and handling notes. 0 guides · Last updated 18 Nov 2026 No guides here yet. We publish as soon as there is something verified to say. Browse all categories or search . Explore other hubs Launch Hub (12) Mission Walkthroughs Money Methods Collectibles & Maps Glitch Fixes Beginner Tips 
+HEADS: ['h1: Best Cars', 'h2: Explore other hubs']
+LINKS:
+   / | Home
+   / | Browse all categories
+   /search/ | search
+   /launch-hub/ | Launch Hub (12)
+   /missions/ | Mission Walkthroughs
+   /money/ | Money Methods
+   /collectibles/ | Collectibles & Maps
+   /glitches/ | Glitch Fixes
+   /beginner-tips/ | Beginner Tips (1)
+   /ps5-settings/ | PS5 Settings
+   /leaks/ | Leaks & Rumors
+==================================================
+collectibles words 71 body page page--category robots noindex, follow
+TITLE: Collectibles & Maps: GTA VI Guides | Leonida Guides
+DESC: Collectible locations and map guides for Leonida, with checklists and credited finds.
+PREVIEW: Home Collectibles & Maps Category Collectibles & Maps Collectible locations and map guides for Leonida, with checklists and credited finds. 0 guides · Last updated 18 Nov 2026 No guides here yet. We publish as soon as there is something verified to say. Browse all categories or search . Explore other hubs Launch Hub (12) Mission Walkthroughs Money Methods Best Cars Glitch Fixes Beginner Tips (1) P
+HEADS: ['h1: Collectibles & Maps', 'h2: Explore other hubs']
+LINKS:
+   / | Home
+   / | Browse all categories
+   /search/ | search
+   /launch-hub/ | Launch Hub (12)
+   /missions/ | Mission Walkthroughs
+   /money/ | Money Methods
+   /cars/ | Best Cars
+   /glitches/ | Glitch Fixes
+   /beginner-tips/ | Beginner Tips (1)
+   /ps5-settings/ | PS5 Settings
+   /leaks/ | Leaks & Rumors
+==================================================
+glitches words 71 body page page--category robots noindex, follow
+TITLE: Glitch Fixes: GTA VI Guides | Leonida Guides
+DESC: Known GTA VI bugs and glitches, with fixes and workarounds that actually work.
+PREVIEW: Home Glitch Fixes Category Glitch Fixes Known GTA VI bugs and glitches, with fixes and workarounds that actually work. 0 guides · Last updated 18 Nov 2026 No guides here yet. We publish as soon as there is something verified to say. Browse all categories or search . Explore other hubs Launch Hub (12) Mission Walkthroughs Money Methods Collectibles & Maps Best Cars Beginner Tips (1) PS5 Settings Le
+HEADS: ['h1: Glitch Fixes', 'h2: Explore other hubs']
+LINKS:
+   / | Home
+   / | Browse all categories
+   /search/ | search
+   /launch-hub/ | Launch Hub (12)
+   /missions/ | Mission Walkthroughs
+   /money/ | Money Methods
+   /collectibles/ | Collectibles & Maps
+   /cars/ | Best Cars
+   /beginner-tips/ | Beginner Tips (1)
+   /ps5-settings/ | PS5 Settings
+   /leaks/ | Leaks & Rumors
+==================================================
+home words 682 body page page--home robots index, follow, max-image-preview:large, max-snippet:-1
+TITLE: Leonida Guides: Unofficial GTA VI Guides
+DESC: Unofficial GTA VI guides: missions, money methods, collectibles, cars and fixes.
+PREVIEW: Unofficial GTA VI guides Every GTA VI guide, sourced and kept current. Mission walkthroughs, money methods, collectible maps, the best cars, glitch fixes and PS5 settings. Every guide credits its sources and shows when it was last updated. Search all guides Search Browse Guides by category 12 guides Launch Hub Release time by timezone, editions and prices, and everything we know about Leonida, Jas
+HEADS: ['h3: Launch Hub']
+LINKS:
+   /launch-hub/ | 12 guides Launch Hub Release time by timezone, editions and prices, and everythi
+==================================================
+launch-hub words 623 body page page--category robots index, follow, max-image-preview:large, max-snippet:-1
+TITLE: Launch Hub: GTA VI Guides | Leonida Guides
+DESC: Release time by timezone, editions and prices, and everything we know about Leonida, Jason and Lucia before and around launch.
+PREVIEW: Home Launch Hub Category Launch Hub Release time by timezone, editions and prices, and everything we know about Leonida, Jason and Lucia before and around launch. 12 guides · Last updated 18 Nov 2026 Spoiler-free GTA 6 Editions and Prices: Standard vs Ultimate (2026) GTA 6 costs $79.99 Standard and $99.99 Ultimate, with UK and euro prices, upgrade info, GTA+ month and the Vintage Vice City Pack bo
+HEADS: ['h3: GTA 6 Editions and Prices: Standard vs Ultimate (2026)']
+LINKS:
+   /launch-hub/editions-prices/ | Spoiler-free GTA 6 Editions and Prices: Standard vs Ultimate (2026) GTA 6 costs 
+==================================================
+leaks words 74 body page page--category robots noindex, follow
+TITLE: Leaks & Rumors: GTA VI Guides | Leonida Guides
+DESC: Unconfirmed GTA VI leaks and rumours, clearly labelled, sourced and kept separate from verified guides.
+PREVIEW: Home Leaks & Rumors Category Leaks & Rumors Unconfirmed GTA VI leaks and rumours, clearly labelled, sourced and kept separate from verified guides. 0 guides · Last updated 18 Nov 2026 No guides here yet. We publish as soon as there is something verified to say. Browse all categories or search . Explore other hubs Launch Hub (12) Mission Walkthroughs Money Methods Collectibles & Maps Best Cars Glit
+HEADS: ['h1: Leaks & Rumors', 'h2: Explore other hubs']
+LINKS:
+   / | Home
+   / | Browse all categories
+   /search/ | search
+   /launch-hub/ | Launch Hub (12)
+   /missions/ | Mission Walkthroughs
+   /money/ | Money Methods
+   /collectibles/ | Collectibles & Maps
+   /cars/ | Best Cars
+   /glitches/ | Glitch Fixes
+   /beginner-tips/ | Beginner Tips (1)
+   /ps5-settings/ | PS5 Settings
+==================================================
+missions words 74 body page page--category robots noindex, follow
+TITLE: Mission Walkthroughs: GTA VI Guides | Leonida Guides
+DESC: Step-by-step GTA VI mission walkthroughs: objectives, gold-medal tips and what to do when you get stuck.
+PREVIEW: Home Mission Walkthroughs Category Mission Walkthroughs Step-by-step GTA VI mission walkthroughs: objectives, gold-medal tips and what to do when you get stuck. 0 guides · Last updated 18 Nov 2026 No guides here yet. We publish as soon as there is something verified to say. Browse all categories or search . Explore other hubs Launch Hub (12) Money Methods Collectibles & Maps Best Cars Glitch Fixes
+HEADS: ['h1: Mission Walkthroughs', 'h2: Explore other hubs']
+LINKS:
+   / | Home
+   / | Browse all categories
+   /search/ | search
+   /launch-hub/ | Launch Hub (12)
+   /money/ | Money Methods
+   /collectibles/ | Collectibles & Maps
+   /cars/ | Best Cars
+   /glitches/ | Glitch Fixes
+   /beginner-tips/ | Beginner Tips (1)
+   /ps5-settings/ | PS5 Settings
+   /leaks/ | Leaks & Rumors
+==================================================
+money words 79 body page page--category robots noindex, follow
+TITLE: Money Methods: GTA VI Guides | Leonida Guides
+DESC: The fastest ways to make money in GTA VI: heists, side hustles and repeatable earners, with how much they really pay.
+PREVIEW: Home Money Methods Category Money Methods The fastest ways to make money in GTA VI: heists, side hustles and repeatable earners, with how much they really pay. 0 guides · Last updated 18 Nov 2026 No guides here yet. We publish as soon as there is something verified to say. Browse all categories or search . Explore other hubs Launch Hub (12) Mission Walkthroughs Collectibles & Maps Best Cars Glitch
+HEADS: ['h1: Money Methods', 'h2: Explore other hubs']
+LINKS:
+   / | Home
+   / | Browse all categories
+   /search/ | search
+   /launch-hub/ | Launch Hub (12)
+   /missions/ | Mission Walkthroughs
+   /collectibles/ | Collectibles & Maps
+   /cars/ | Best Cars
+   /glitches/ | Glitch Fixes
+   /beginner-tips/ | Beginner Tips (1)
+   /ps5-settings/ | PS5 Settings
+   /leaks/ | Leaks & Rumors
+==================================================
+ps5-settings words 70 body page page--category robots noindex, follow
+TITLE: PS5 Settings: GTA VI Guides | Leonida Guides
+DESC: The best PS5 display, performance, audio and controller settings for GTA VI.
+PREVIEW: Home PS5 Settings Category PS5 Settings The best PS5 display, performance, audio and controller settings for GTA VI. 0 guides · Last updated 18 Nov 2026 No guides here yet. We publish as soon as there is something verified to say. Browse all categories or search . Explore other hubs Launch Hub (12) Mission Walkthroughs Money Methods Collectibles & Maps Best Cars Glitch Fixes Beginner Tips (1) Leak
+HEADS: ['h1: PS5 Settings', 'h2: Explore other hubs']
+LINKS:
+   / | Home
+   / | Browse all categories
+   /search/ | search
+   /launch-hub/ | Launch Hub (12)
+   /missions/ | Mission Walkthroughs
+   /money/ | Money Methods
+   /collectibles/ | Collectibles & Maps
+   /cars/ | Best Cars
+   /glitches/ | Glitch Fixes
+   /beginner-tips/ | Beginner Tips (1)
+   /leaks/ | Leaks & Rumors
+
+===== FEATURE SCAN =====
+about {'Rumour': 5, 'unconfirmed': 2}
+beginner-tips {'badge--spoiler': 2, 'badge--spoiler-none': 1}
+beginner-tips__beginner-tips {'article__ai-link': 1, 'spoiler-level': 1, 'badge--spoiler': 2, 'badge--spoiler-none': 1}
+cars {'empty__title': 1, 'No guides': 1}
+collectibles {'checklist': 4, 'empty__title': 1, 'No guides': 1}
+glitches {'empty__title': 1, 'No guides': 1}
+home {'checklist': 4, 'printable': 1, 'Rumour': 3, 'unconfirmed': 1, 'badge--spoiler': 18, 'badge--spoiler-none': 6}
+launch-hub {'checklist': 3, 'printable': 1, 'Rumour': 2, 'badge--spoiler': 24, 'badge--spoiler-none': 9}
+launch-hub__editions-prices {'article__ai-link': 1, 'checklist': 3, 'spoiler-level': 1, 'badge--spoiler': 8, 'badge--spoiler-none': 2}
+launch-hub__gta-6-online {'article__ai-link': 1, 'checklist': 3, 'Rumour': 13, 'unconfirmed': 1, 'spoiler-level': 1, 'badge--spoiler': 8, 'badge--spoiler-none': 3}
+launch-hub__jason-lucia {'article__ai-link': 1, 'checklist': 3, 'spoiler-level': 1, 'badge--spoiler': 8, 'badge--spoiler-none': 2}
+launch-hub__launch-night-checklist {'article__ai-link': 1, 'checklist': 29, 'unconfirmed': 1, 'spoiler-level': 1, 'badge--spoiler': 8, 'badge--spoiler-none': 2}
+launch-hub__leonida {'article__ai-link': 1, 'checklist': 3, 'spoiler-level': 1, 'badge--spoiler': 8, 'badge--spoiler-none': 2}
+launch-hub__map {'article__ai-link': 1, 'checklist': 3, 'printable': 15, 'Rumour': 7, 'unconfirmed': 2, 'spoiler-level': 1, 'badge--spoiler': 8, 'badge--spoiler-none': 2}
+launch-hub__platforms {'article__ai-link': 1, 'checklist': 3, 'Rumour': 1, 'unconfirmed': 2, 'spoiler-level': 1, 'badge--spoiler': 8, 'badge--spoiler-none': 3}
+launch-hub__preload-size {'article__ai-link': 1, 'checklist': 3, 'Rumour': 1, 'unconfirmed': 1, 'spoiler-level': 1, 'badge--spoiler': 8, 'badge--spoiler-none': 3}
+launch-hub__ps5-settings {'article__ai-link': 1, 'checklist': 3, 'spoiler-level': 1, 'badge--spoiler': 8, 'badge--spoiler-none': 3}
+launch-hub__radio-stations {'article__ai-link': 1, 'checklist': 3, 'spoiler-level': 1, 'badge--spoiler': 8, 'badge--spoiler-none': 3}
+launch-hub__release-time {'article__ai-link': 1, 'checklist': 7, 'unconfirmed': 1, 'spoiler-level': 1, 'badge--spoiler': 8, 'badge--spoiler-none': 3}
+launch-hub__vintage-vice-city-pack {'article__ai-link': 1, 'checklist': 3, 'spoiler-level': 1, 'badge--spoiler': 8, 'badge--spoiler-none': 3}
+leaks {'Rumour': 4, 'unconfirmed': 4, 'empty__title': 1, 'No guides': 1}
+missions {'empty__title': 1, 'No guides': 1}
+money {'empty__title': 1, 'No guides': 1}
+ps5-settings {'empty__title': 1, 'No guides': 1}
+
+===== ARTICLE SCHEMA (types + key fields, no article body) =====
+beginner-tips__beginner-tips Article {'@type': '"Article"', 'headline': '"GTA 6 Beginner Tips: Start Strong in 2026"', 'description': '"GTA 6 beginner tips: launch-night steps for PS5 and Xbox, what previews confirm about police, traffic and switching, and old-GTA habits that may apply."', 'url': '"https://roarcode.github.io/beginner-tips/beginner-tips/"', 'mainEntityOfPage': '"https://roarcode.github.io/beginner-tips/beginner-tips/"', 'image': '["https://roarcode.github.io/og/beginner-tips-beginner-tips.png"]', 'datePublished': '"2026-11-18"', 'dateModified': '"2026-11-18"', 'author': '{"@type": "Organization", "name": "Leonida Guides Team", "url": "https://roarcode.github.io/"}', 'publisher': '{"@type": "Organization", "name": "Leonida Guides", "url": "https://roarcode.github.io/", "logo": {"@type": "ImageObject", "url": "https://roarcode.github.io/icon-512.png"}}'}
+beginner-tips__beginner-tips BreadcrumbList {'@type': '"BreadcrumbList"', 'itemListElement': '[{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://roarcode.github.io/"}, {"@type": "ListItem", "position": 2, "name": "Beginner Tips", "item": "https://roarcode.github.io/beginner...'}
+launch-hub__editions-prices Article {'@type': '"Article"', 'headline': '"GTA 6 Editions and Prices: Standard vs Ultimate (2026)"', 'description': '"GTA 6 costs $79.99 Standard and $99.99 Ultimate, with UK and euro prices, upgrade info, GTA+ month and the Vintage Vice City Pack bonus explained."', 'url': '"https://roarcode.github.io/launch-hub/editions-prices/"', 'mainEntityOfPage': '"https://roarcode.github.io/launch-hub/editions-prices/"', 'image': '["https://roarcode.github.io/og/launch-hub-editions-prices.png"]', 'datePublished': '"2026-11-18"', 'dateModified': '"2026-11-18"', 'author': '{"@type": "Organization", "name": "Leonida Guides Team", "url": "https://roarcode.github.io/"}', 'publisher': '{"@type": "Organization", "name": "Leonida Guides", "url": "https://roarcode.github.io/", "logo": {"@type": "ImageObject", "url": "https://roarcode.github.io/icon-512.png"}}'}
+launch-hub__editions-prices BreadcrumbList {'@type': '"BreadcrumbList"', 'itemListElement': '[{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://roarcode.github.io/"}, {"@type": "ListItem", "position": 2, "name": "Launch Hub", "item": "https://roarcode.github.io/launch-hub/...'}
+launch-hub__gta-6-online Article {'@type': '"Article"', 'headline': '"GTA 6 Online: Is There Multiplayer at Launch? (2026)"', 'description': '"Is there GTA 6 Online? Rockstar\'s PlayStation page says GTA VI is a single-player experience. See what is confirmed, what is a rumour and what to play now."', 'url': '"https://roarcode.github.io/launch-hub/gta-6-online/"', 'mainEntityOfPage': '"https://roarcode.github.io/launch-hub/gta-6-online/"', 'image': '["https://roarcode.github.io/og/launch-hub-gta-6-online.png"]', 'datePublished': '"2026-11-18"', 'dateModified': '"2026-11-18"', 'author': '{"@type": "Organization", "name": "Leonida Guides Team", "url": "https://roarcode.github.io/"}', 'publisher': '{"@type": "Organization", "name": "Leonida Guides", "url": "https://roarcode.github.io/", "logo": {"@type": "ImageObject", "url": "https://roarcode.github.io/icon-512.png"}}'}
+launch-hub__gta-6-online BreadcrumbList {'@type': '"BreadcrumbList"', 'itemListElement': '[{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://roarcode.github.io/"}, {"@type": "ListItem", "position": 2, "name": "Launch Hub", "item": "https://roarcode.github.io/launch-hub/...'}
+launch-hub__jason-lucia Article {'@type': '"Article"', 'headline': '"GTA 6 Jason and Lucia: Who They Are (No Spoilers)"', 'description': '"Two leads, one risky plan. See how Jason and Lucia play, how you switch between them, and what Rockstar shows, with all story details hidden."', 'url': '"https://roarcode.github.io/launch-hub/jason-lucia/"', 'mainEntityOfPage': '"https://roarcode.github.io/launch-hub/jason-lucia/"', 'image': '["https://roarcode.github.io/og/launch-hub-jason-lucia.png"]', 'datePublished': '"2026-11-18"', 'dateModified': '"2026-11-18"', 'author': '{"@type": "Organization", "name": "Leonida Guides Team", "url": "https://roarcode.github.io/"}', 'publisher': '{"@type": "Organization", "name": "Leonida Guides", "url": "https://roarcode.github.io/", "logo": {"@type": "ImageObject", "url": "https://roarcode.github.io/icon-512.png"}}'}
+launch-hub__jason-lucia BreadcrumbList {'@type': '"BreadcrumbList"', 'itemListElement': '[{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://roarcode.github.io/"}, {"@type": "ListItem", "position": 2, "name": "Launch Hub", "item": "https://roarcode.github.io/launch-hub/...'}
+launch-hub__launch-night-checklist Article {'@type': '"Article"', 'headline': '"GTA 6 Launch Night Checklist: Be Ready by Midnight"', 'description': '"Your GTA 6 launch night checklist for PS5 and Xbox: space, preload, rest mode, updates, account checks, controller setup and what to do if it won\'t start."', 'url': '"https://roarcode.github.io/launch-hub/launch-night-checklist/"', 'mainEntityOfPage': '"https://roarcode.github.io/launch-hub/launch-night-checklist/"', 'image': '["https://roarcode.github.io/og/launch-hub-launch-night-checklist.png"]', 'datePublished': '"2026-11-18"', 'dateModified': '"2026-11-18"', 'author': '{"@type": "Organization", "name": "Leonida Guides Team", "url": "https://roarcode.github.io/"}', 'publisher': '{"@type": "Organization", "name": "Leonida Guides", "url": "https://roarcode.github.io/", "logo": {"@type": "ImageObject", "url": "https://roarcode.github.io/icon-512.png"}}'}
+launch-hub__launch-night-checklist BreadcrumbList {'@type': '"BreadcrumbList"', 'itemListElement': '[{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://roarcode.github.io/"}, {"@type": "ListItem", "position": 2, "name": "Launch Hub", "item": "https://roarcode.github.io/launch-hub/...'}
+launch-hub__leonida Article {'@type': '"Article"', 'headline': '"GTA 6 Leonida Guide: All 6 Regions Explained (2026)"', 'description': '"Your GTA 6 Leonida hub: how many regions, what each is known for, weather, wildlife and activities. Region names are tucked into spoiler boxes."', 'url': '"https://roarcode.github.io/launch-hub/leonida/"', 'mainEntityOfPage': '"https://roarcode.github.io/launch-hub/leonida/"', 'image': '["https://roarcode.github.io/og/launch-hub-leonida.png"]', 'datePublished': '"2026-11-18"', 'dateModified': '"2026-11-18"', 'author': '{"@type": "Organization", "name": "Leonida Guides Team", "url": "https://roarcode.github.io/"}', 'publisher': '{"@type": "Organization", "name": "Leonida Guides", "url": "https://roarcode.github.io/", "logo": {"@type": "ImageObject", "url": "https://roarcode.github.io/icon-512.png"}}'}
+launch-hub__leonida BreadcrumbList {'@type': '"BreadcrumbList"', 'itemListElement': '[{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://roarcode.github.io/"}, {"@type": "ListItem", "position": 2, "name": "Launch Hub", "item": "https://roarcode.github.io/launch-hub/...'}
+launch-hub__map Article {'@type': '"Article"', 'headline': '"GTA 6 Map: Leonida\'s Size and 6 Regions (Updated)"', 'description': '"How big is the GTA 6 map? Rockstar says about twice GTA 5. See the size claims, the free printable map, weather and wildlife, plus what is only a rumour."', 'url': '"https://roarcode.github.io/launch-hub/map/"', 'mainEntityOfPage': '"https://roarcode.github.io/launch-hub/map/"', 'image': '["https://roarcode.github.io/og/launch-hub-map.png"]', 'datePublished': '"2026-11-18"', 'dateModified': '"2026-11-18"', 'author': '{"@type": "Organization", "name": "Leonida Guides Team", "url": "https://roarcode.github.io/"}', 'publisher': '{"@type": "Organization", "name": "Leonida Guides", "url": "https://roarcode.github.io/", "logo": {"@type": "ImageObject", "url": "https://roarcode.github.io/icon-512.png"}}'}
+launch-hub__map BreadcrumbList {'@type': '"BreadcrumbList"', 'itemListElement': '[{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://roarcode.github.io/"}, {"@type": "ListItem", "position": 2, "name": "Launch Hub", "item": "https://roarcode.github.io/launch-hub/...'}
+launch-hub__platforms Article {'@type': '"Article"', 'headline': '"GTA 6 Platforms: PS5, PS5 Pro, Xbox, PC and 30 FPS"', 'description': '"Is GTA 6 on PC, PS4 or Xbox One? Get the exact platform list, the 30 FPS target, PS5 Pro extras and how Xbox One players stream on 19 Nov 2026."', 'url': '"https://roarcode.github.io/launch-hub/platforms/"', 'mainEntityOfPage': '"https://roarcode.github.io/launch-hub/platforms/"', 'image': '["https://roarcode.github.io/og/launch-hub-platforms.png"]', 'datePublished': '"2026-11-18"', 'dateModified': '"2026-11-18"', 'author': '{"@type": "Organization", "name": "Leonida Guides Team", "url": "https://roarcode.github.io/"}', 'publisher': '{"@type": "Organization", "name": "Leonida Guides", "url": "https://roarcode.github.io/", "logo": {"@type": "ImageObject", "url": "https://roarcode.github.io/icon-512.png"}}'}
+launch-hub__platforms BreadcrumbList {'@type': '"BreadcrumbList"', 'itemListElement': '[{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://roarcode.github.io/"}, {"@type": "ListItem", "position": 2, "name": "Launch Hub", "item": "https://roarcode.github.io/launch-hub/...'}
+launch-hub__preload-size Article {'@type': '"Article"', 'headline': '"GTA 6 Pre-Load: 212 GB Size, Start Times, Fixes (2026)"', 'description': '"GTA 6 pre-load is live: up to 212 GB on PS5 and Xbox Series X|S. Start times, download-time estimates, space tips and a fix if the download stalls."', 'url': '"https://roarcode.github.io/launch-hub/preload-size/"', 'mainEntityOfPage': '"https://roarcode.github.io/launch-hub/preload-size/"', 'image': '["https://roarcode.github.io/og/launch-hub-preload-size.png"]', 'datePublished': '"2026-11-18"', 'dateModified': '"2026-11-18"', 'author': '{"@type": "Organization", "name": "Leonida Guides Team", "url": "https://roarcode.github.io/"}', 'publisher': '{"@type": "Organization", "name": "Leonida Guides", "url": "https://roarcode.github.io/", "logo": {"@type": "ImageObject", "url": "https://roarcode.github.io/icon-512.png"}}'}
+launch-hub__preload-size BreadcrumbList {'@type': '"BreadcrumbList"', 'itemListElement': '[{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://roarcode.github.io/"}, {"@type": "ListItem", "position": 2, "name": "Launch Hub", "item": "https://roarcode.github.io/launch-hub/...'}
+launch-hub__ps5-settings Article {'@type': '"Article"', 'headline': '"GTA 6 PS5 Settings: Best Setup for PS5 and Pro (2026)"', 'description': '"GTA 6 targets 30 FPS on PS5 and PS5 Pro. See what PS5 Pro adds, exact menu steps for HDR and storage, and what is not announced yet."', 'url': '"https://roarcode.github.io/launch-hub/ps5-settings/"', 'mainEntityOfPage': '"https://roarcode.github.io/launch-hub/ps5-settings/"', 'image': '["https://roarcode.github.io/og/launch-hub-ps5-settings.png"]', 'datePublished': '"2026-11-18"', 'dateModified': '"2026-11-18"', 'author': '{"@type": "Organization", "name": "Leonida Guides Team", "url": "https://roarcode.github.io/"}', 'publisher': '{"@type": "Organization", "name": "Leonida Guides", "url": "https://roarcode.github.io/", "logo": {"@type": "ImageObject", "url": "https://roarcode.github.io/icon-512.png"}}'}
+launch-hub__ps5-settings BreadcrumbList {'@type': '"BreadcrumbList"', 'itemListElement': '[{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://roarcode.github.io/"}, {"@type": "ListItem", "position": 2, "name": "Launch Hub", "item": "https://roarcode.github.io/launch-hub/...'}
+launch-hub__radio-stations Article {'@type': '"Article"', 'headline': '"GTA 6 Radio Stations: All 6 Stations and Podcasts"', 'description': '"All 6 GTA 6 radio stations with genre and DJs, plus podcasts, the 34-track album and how to listen on foot. Only officially announced stations are listed."', 'url': '"https://roarcode.github.io/launch-hub/radio-stations/"', 'mainEntityOfPage': '"https://roarcode.github.io/launch-hub/radio-stations/"', 'image': '["https://roarcode.github.io/og/launch-hub-radio-stations.png"]', 'datePublished': '"2026-11-18"', 'dateModified': '"2026-11-18"', 'author': '{"@type": "Organization", "name": "Leonida Guides Team", "url": "https://roarcode.github.io/"}', 'publisher': '{"@type": "Organization", "name": "Leonida Guides", "url": "https://roarcode.github.io/", "logo": {"@type": "ImageObject", "url": "https://roarcode.github.io/icon-512.png"}}'}
+launch-hub__radio-stations BreadcrumbList {'@type': '"BreadcrumbList"', 'itemListElement': '[{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://roarcode.github.io/"}, {"@type": "ListItem", "position": 2, "name": "Launch Hub", "item": "https://roarcode.github.io/launch-hub/...'}
+launch-hub__release-time Article {'@type': '"Article"', 'headline': '"GTA 6 Release Time: Unlock Times by Time Zone (2026)"', 'description': '"GTA 6 unlocks at midnight local time on 19 Nov 2026 on PS5 and Xbox Series X|S. See the unlock time for PT, ET, BRT, GMT, CET, EET, IST, JST, AEDT, NZDT."', 'url': '"https://roarcode.github.io/launch-hub/release-time/"', 'mainEntityOfPage': '"https://roarcode.github.io/launch-hub/release-time/"', 'image': '["https://roarcode.github.io/og/launch-hub-release-time.png"]', 'datePublished': '"2026-11-18"', 'dateModified': '"2026-11-18"', 'author': '{"@type": "Organization", "name": "Leonida Guides Team", "url": "https://roarcode.github.io/"}', 'publisher': '{"@type": "Organization", "name": "Leonida Guides", "url": "https://roarcode.github.io/", "logo": {"@type": "ImageObject", "url": "https://roarcode.github.io/icon-512.png"}}'}
+launch-hub__release-time BreadcrumbList {'@type': '"BreadcrumbList"', 'itemListElement': '[{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://roarcode.github.io/"}, {"@type": "ListItem", "position": 2, "name": "Launch Hub", "item": "https://roarcode.github.io/launch-hub/...'}
+launch-hub__vintage-vice-city-pack Article {'@type': '"Article"', 'headline': '"GTA 6 Vintage Vice City Pack: How to Get It Before 20 Nov"', 'description': '"Get the GTA 6 Vintage Vice City Pack free: buy before 20 Nov 2026. See what is in it, how GTA+ fits in, and PS5 and Xbox steps to buy and claim."', 'url': '"https://roarcode.github.io/launch-hub/vintage-vice-city-pack/"', 'mainEntityOfPage': '"https://roarcode.github.io/launch-hub/vintage-vice-city-pack/"', 'image': '["https://roarcode.github.io/og/launch-hub-vintage-vice-city-pack.png"]', 'datePublished': '"2026-11-18"', 'dateModified': '"2026-11-18"', 'author': '{"@type": "Organization", "name": "Leonida Guides Team", "url": "https://roarcode.github.io/"}', 'publisher': '{"@type": "Organization", "name": "Leonida Guides", "url": "https://roarcode.github.io/", "logo": {"@type": "ImageObject", "url": "https://roarcode.github.io/icon-512.png"}}'}
+launch-hub__vintage-vice-city-pack BreadcrumbList {'@type': '"BreadcrumbList"', 'itemListElement': '[{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://roarcode.github.io/"}, {"@type": "ListItem", "position": 2, "name": "Launch Hub", "item": "https://roarcode.github.io/launch-hub/...'}
+
+===== MAP / PRINTABLE / IMG LINKS (hrefs only) =====
+= launch-hub__map
+  a {'href': '/launch-hub/'} | Launch Hub
+  a {'href': '/about/'} | How we work
+  a {'href': '#how-big-is-it'} | How big is it?
+  a {'href': '#the-free-printable-map'} | The free printable map
+  a {'href': '#weather-and-wildlife'} | Weather and wildlife
+  a {'href': '#regions-of-leonida'} | Regions of Leonida
+  a {'href': '#place-names'} | Place names
+  a {'href': '#in-game-map'} | In-game map
+  a {'href': '#faq'} | FAQ
+  a {'href': 'https://mapheist.com/en/news/gta-6-game-informer-cover-story/'} | https://mapheist.com/en/news/gta-6-game-informer-cover-story/
+  a {'href': 'https://www.forbes.com/sites/brianmazique/2026/10/06/gta-6s-map-is-about-twice-the-size-of-gta-5-with-hurricanes-and-170-animal-species/'} | https://www.forbes.com/sites/brianmazique/2026/10/06/gta-6s-map-is-about-twice-t
+  a {'href': 'http://rockstargames.com/VI'} | rockstargames.com/VI
+  a {'href': 'http://rockstargames.com/VI'} | rockstargames.com/VI
+  a {'href': 'leonida.md'} | Leonida hub
+  a {'href': 'https://www.rockstargames.com/VI'} | rockstargames.com
+  a {'href': 'https://www.rockstargames.com/VI/lucia'} | rockstargames.com
+  a {'href': 'https://www.forbes.com/sites/brianmazique/2026/10/06/gta-6s-map-is-about-twice-the-size-of-gta-5-with-hurricanes-and-170-animal-species/'} | forbes.com
+  a {'href': 'https://www.usatoday.com/story/tech/gaming/2026/11/09/gta-6-preload-consoles-release-date-file-size/92640419007/'} | usatoday.com
+  a {'href': 'https://mapheist.com/en/news/gta-6-game-informer-cover-story/'} | mapheist.com
+  a {'href': 'https://store.playstation.com/en-us/product/EP1004-PPSA01547_00-GTAVIULTIMATE001'} | store.playstation.com
+  a {'href': 'https://www.gamespot.com/articles/gta-6s-big-reveal-all-the-things-we-learned/'} | gamespot.com
+  a {'href': 'https://www.pcgamer.com/games/grand-theft-auto/gta-6-guide/'} | pcgamer.com
+  a {'href': 'https://www.videogameschronicle.com/news/rockstar-details-grand-theft-auto-6-pre-load-date-and-time-and-file-size/'} | videogameschronicle.com
+  a {'href': '/about/'} | About page
+= launch-hub__leonida
+  a {'href': '/launch-hub/'} | Launch Hub
+  a {'href': '/about/'} | How we work
+  a {'href': '#what-is-leonida'} | What is Leonida?
+  a {'href': '#the-regions-at-a-glance'} | The regions at a glance
+  a {'href': '#named-places'} | Named places
+  a {'href': '#weather-animals-and-activities'} | Weather, animals and activities
+  a {'href': '#not-announced'} | Not announced
+  a {'href': '#faq'} | FAQ
+  a {'href': 'map.md'} | map page
+  a {'href': 'https://www.rockstargames.com/VI'} | rockstargames.com
+  a {'href': 'https://www.rockstargames.com/VI/lucia'} | rockstargames.com
+  a {'href': 'https://www.pcgamer.com/games/grand-theft-auto/gta-6-guide/'} | pcgamer.com
+  a {'href': 'https://store.playstation.com/en-us/product/EP1004-PPSA01547_00-GTAVIULTIMATE001'} | store.playstation.com
+  a {'href': 'https://www.forbes.com/sites/brianmazique/2026/10/06/gta-6s-map-is-about-twice-the-size-of-gta-5-with-hurricanes-and-170-animal-species/'} | forbes.com
+  a {'href': 'https://www.usatoday.com/story/tech/gaming/2026/11/09/gta-6-preload-consoles-release-date-file-size/92640419007/'} | usatoday.com
+  a {'href': '/about/'} | About page
+= launch-hub__launch-night-checklist
+  a {'href': '/launch-hub/'} | Launch Hub
+  a {'href': '/about/'} | How we work
+  a {'href': '#step-1-check-the-pre-load-is-finished'} | Step 1: Check the pre-load is finished
+  a {'href': '#step-2-check-free-space'} | Step 2: Check free space
+  a {'href': '#step-3-turn-on-automatic-updates'} | Step 3: Turn on automatic updates
+  a {'href': '#step-4-check-your-account'} | Step 4: Check your account
+  a {'href': '#step-5-controller-and-picture'} | Step 5: Controller and picture
+  a {'href': '#step-6-at-the-unlock-moment'} | Step 6: At the unlock moment
+  a {'href': '#quick-fixes'} | Quick fixes
+  a {'href': '#faq'} | FAQ
+  a {'href': 'preload-size.md'} | the download fix steps
+  a {'href': 'https://www.playstation.com/en-us/support/games/gta-vi-support/'} | playstation.com
+  a {'href': 'https://www.playstation.com/GTAVIfeatures'} | playstation.com
+  a {'href': 'https://blog.playstation.com/2026/11/10/pre-load-grand-theft-auto-vi-on-ps5-starting-today/'} | blog.playstation.com
+  a {'href': 'https://gameinformer.com/2026/11/10/grand-theft-auto-vi-will-run-at-30-fps-on-all-consoles-but-ps5-pro-will-feature-improved'} | gameinformer.com
+  a {'href': 'https://news.xbox.com/en-us/2026/11/10/grand-theft-auto-6-comes-to-xbox-cloud-gaming-november-19/'} | news.xbox.com
+  a {'href': 'https://www.pcgamer.com/games/grand-theft-auto/gta-6-release-time-date/'} | pcgamer.com
+  a {'href': 'https://www.vice.com/en/article/gta-6-second-day-one-patch-ps5-xbox/'} | vice.com
+  a {'href': '/about/'} | About page
+= launch-hub__ps5-settings
+  a {'href': '/launch-hub/'} | Launch Hub
+  a {'href': '/about/'} | How we work
+  a {'href': '#what-rockstar-has-confirmed'} | What Rockstar has confirmed
+  a {'href': '#ps5-vs-ps5-pro'} | PS5 vs PS5 Pro
+  a {'href': '#step-1-check-your-free-space-212-gb'} | Step 1: Check your free space (212 GB+)
+  a {'href': '#step-2-set-up-hdr-general-ps5-tip-not-a-gta-6-setting'} | Step 2: Set up HDR (general PS5 tip, not a GTA 6 setting)
+  a {'href': '#step-3-pick-the-right-tv-settings'} | Step 3: Pick the right TV settings
+  a {'href': '#step-4-change-the-controller-buzz'} | Step 4: Change the controller buzz
+  a {'href': '#xbox-series-x-s-what-is-known'} | Xbox Series X|S: what is known
+  a {'href': '#not-announced-we-will-update-at-launch'} | Not announced (we will update at launch)
+  a {'href': '#faq'} | FAQ
+  a {'href': 'https://gameinformer.com/2026/11/10/grand-theft-auto-vi-will-run-at-30-fps-on-all-consoles-but-ps5-pro-will-feature-improved'} | gameinformer.com
+  a {'href': 'https://www.gamesradar.com/games/grand-theft-auto/gta-6-wont-run-at-60fps-even-on-ps5-pro-but-sonys-console-does-have-an-exclusive-ray-traced-shadows-and-pssr/'} | gamesradar.com
+  a {'href': 'https://www.theverge.com/games/1030749/rockstar-gta-6-30fps-ps5-pro-pssr-ray-tracing'} | theverge.com
+  a {'href': 'https://www.tomshardware.com/video-games/grand-theft-auto-6-will-run-at-only-30-fps-on-consoles-at-launch-no-performance-mode-promised-even-the-souped-up-ps5-pro-might-not-get-60-fps-support'} | tomshardware.com
+  a {'href': 'https://blog.playstation.com/2026/11/10/pre-load-grand-theft-auto-vi-on-ps5-starting-today/'} | blog.playstation.com
+  a {'href': 'https://www.playstation.com/GTAVIfeatures'} | playstation.com
+  a {'href': 'https://www.playstation.com/en-us/support/games/gta-vi-support/'} | playstation.com
+  a {'href': 'https://www.rockstargames.com/VI/pre-load-now'} | rockstargames.com
+  a {'href': '/about/'} | About page
+= home
+  a {'href': '/launch-hub/'} | 12 guides Launch Hub Release time by timezone, editions and prices, and everythi
+= launch-hub
+  a {'href': '/launch-hub/editions-prices/'} | Spoiler-free GTA 6 Editions and Prices: Standard vs Ultimate (2026) GTA 6 costs 
+
+===== HEADER NAV STRUCTURE =====
+<header class="site-header">
+ <div class="site-header__inner container">
+  <a aria-label="Leonida Guides — home" class="site-header__brand brand" href="/">
+   <img alt="Leonida Guides" class="brand__logo brand__logo--wordmark" height="34" src="/assets/logo/wordmark-horizontal.svg" width="211"/>
+   <img alt="" class="brand__logo brand__logo--icon" height="34" src="/assets/logo/icon.svg" width="34"/>
+  </a>
+  <form action="/search/" class="site-search" method="get" role="search">
+   <label class="visually-hidden" for="site-search-q">
+    Search guides
+   </label>
+   <input autocomplete="off" class="site-search__input" enterkeyhint="search" id="site-search-q" name="q" placeholder="Search guides…" type="search"/>
+   <button aria-label="Search" class="site-search__button" type="submit">
+    <svg aria-hidden="true" focusable="false" height="20" viewbox="0 0 24 24" width="20">
+     <path d="M11 4a7 7 0 1 0 0 14 7 7 0 0 0 0-14Zm9 16-4.2-4.2" fill="none" stroke="currentColor" stroke-linecap="round" stroke-width="2">
+     </path>
+    </svg>
+   </button>
+  </form>
+  <button aria-pressed="false" class="spoiler-toggle" data-spoiler-toggle="" hidden="" type="button">
+   <svg aria-hidden="true" focusable="false" height="18" viewbox="0 0 24 24" width="18">
+    <path d="M2 12s3.6-7 10-7 10 7 10 7-3.6 7-10 7S2 12 2 12Zm10 3a3 3 0 1 0 0-6 3 3 0 0 0 0 6Z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+    </path>
+    <path class="spoiler-toggle__slash" d="M4 4l16 16" fill="none" stroke="currentColor" stroke-linecap="round" stroke-width="2">
+    </path>
+   </svg>
+   <span class="spoiler-toggle__text">
+    Show all spoilers
+   </span>
+   <span class="spoiler-toggle__state visually-hidden" data-spoiler-state="">
+    off
+   </span>
+  </button>
+ </div>
+ <nav aria-label="Guide categories" class="site-nav">
+  <ul class="site-nav__list container">
+   <li class="site-nav__item">
+    <a class="site-nav__link" href="/launch-hub/" style="--accent: var(--cat-launch-hub, var(--x-accent-default))">
+     Launch Hub
+    </a>
+   </li>
+   <li class="site-nav__item">
+    <a class="site-nav__link" href="/missions/" style="--accent: var(--cat-missions, var(--x-accent-default))">
+     Missions
+    </a>
+   </li>
+   <li class="site-nav__item">
+    <a class="site-nav__link" href="/money/" style="--accent: var(--cat-money, var(--x-accent-default))">
+     Money
+    </a>
+   </li>
+   <li class="site-nav__item">
+    <a class="site-nav__link" href="/collectibles/" style="--accent: var(--cat-collectibles, var(--x-accent-default))">
+     Collectibles
+    </a>
+   </li>
+   <li class="site-nav__item">
+    <a class="site-nav__link" href="/cars/" style="--accent: var(--cat-cars, var(--x-accent-default))">
+     Cars
+    </a>
+   </li>
+   <li class="site-nav__item">
+    <a class="site-nav__link" href="/glitches/" style="--accent: var(--cat-glitches, var(--x-accent-default))">
+     Glitches
+    </a>
+   </li>
+   <li class="site-nav__item">
+    <a class="site-nav__link" href="/beginner-tips/" style="--accent: var(--cat-beginner-tips, var(--x-accent-default))">
+     Beginner
+    </a>
+   </li>
+   <li class="site-nav__item">
+    <a class="site-nav__link" href="/ps5-settings/" style="--accent: var(--cat-ps5-settings, var(--x-accent-default))">
+     PS5 Settings
+    </a>
+   </li>
+   <li class="site-nav__item">
+    <a class="site-nav__link" href="/leaks/" style="--accent: var(--cat-leaks, var(--x-accent-default))">
+     Leaks
+    </a>
+   </li>
+  </ul>
+ </nav>
+</header>
+
+
+===== HOME GUIDE CARDS count =====
+guide-card count 9
+- /beginner-tips/beginner-tips/ | Spoiler-free Beginner GTA 6 Beginner Tips: Start Strong in 2026 GTA 6 beginner tips: launch-night steps for PS5 and Xbox, what previews conf
+- /launch-hub/editions-prices/ | Spoiler-free Launch Hub GTA 6 Editions and Prices: Standard vs Ultimate (2026) GTA 6 costs $79.99 Standard and $99.99 Ultimate, with UK and 
+- /launch-hub/jason-lucia/ | Minor spoilers Launch Hub GTA 6 Jason and Lucia: Who They Are (No Spoilers) Two leads, one risky plan. See how Jason and Lucia play, how you
+- /launch-hub/launch-night-checklist/ | Spoiler-free Launch Hub GTA 6 Launch Night Checklist: Be Ready by Midnight Your GTA 6 launch night checklist for PS5 and Xbox: space, preloa
+- /launch-hub/leonida/ | Minor spoilers Launch Hub GTA 6 Leonida Guide: All 6 Regions Explained (2026) Your GTA 6 Leonida hub: how many regions, what each is known f
+- /launch-hub/map/ | Minor spoilers Launch Hub GTA 6 Map: Leonida's Size and 6 Regions (Updated) How big is the GTA 6 map? Rockstar says about twice GTA 5. See t
+- /launch-hub/gta-6-online/ | Spoiler-free Launch Hub GTA 6 Online: Is There Multiplayer at Launch? (2026) Is there GTA 6 Online? Rockstar's PlayStation page says GTA VI 
+- /launch-hub/platforms/ | Spoiler-free Launch Hub GTA 6 Platforms: PS5, PS5 Pro, Xbox, PC and 30 FPS Is GTA 6 on PC, PS4 or Xbox One? Get the exact platform list, the
+- /launch-hub/preload-size/ | Spoiler-free Launch Hub GTA 6 Pre-Load: 212 GB Size, Start Times, Fixes (2026) GTA 6 pre-load is live: up to 212 GB on PS5 and Xbox Series X
+
+===== EMPTY STATE HTML for missions =====
+= missions
+ classes: ['breadcrumbs', 'breadcrumbs__item', 'breadcrumbs__list', 'container', 'empty', 'empty__title', 'hub-links', 'hub-links__link', 'hub-links__list', 'page-header', 'page-header__kicker', 'page-header__lead', 'page-header__meta', 'page-header__title', 'section', 'section__title']
+ main text: Home Mission Walkthroughs Category Mission Walkthroughs Step-by-step GTA VI mission walkthroughs: objectives, gold-medal tips and what to do when you get stuck. 0 guides · Last updated 18 Nov 2026 No guides here yet. We publish as soon as there is something verified to say. Browse all categories or search . Explore other hubs Launch Hub (12) Money Methods Collectibles & Maps Best Cars Glitch Fixes Beginner Tips (1) PS5 Settings Leaks & Rumors
+= money
+ classes: ['breadcrumbs', 'breadcrumbs__item', 'breadcrumbs__list', 'container', 'empty', 'empty__title', 'hub-links', 'hub-links__link', 'hub-links__list', 'page-header', 'page-header__kicker', 'page-header__lead', 'page-header__meta', 'page-header__title', 'section', 'section__title']
+ main text: Home Money Methods Category Money Methods The fastest ways to make money in GTA VI: heists, side hustles and repeatable earners, with how much they really pay. 0 guides · Last updated 18 Nov 2026 No guides here yet. We publish as soon as there is something verified to say. Browse all categories or search . Explore other hubs Launch Hub (12) Mission Walkthroughs Collectibles & Maps Best Cars Glitch Fixes Beginner Tips (1) PS5 Settings Leaks & Rumors
+= collectibles
+ classes: ['breadcrumbs', 'breadcrumbs__item', 'breadcrumbs__list', 'container', 'empty', 'empty__title', 'hub-links', 'hub-links__link', 'hub-links__list', 'page-header', 'page-header__kicker', 'page-header__lead', 'page-header__meta', 'page-header__title', 'section', 'section__title']
+ main text: Home Collectibles & Maps Category Collectibles & Maps Collectible locations and map guides for Leonida, with checklists and credited finds. 0 guides · Last updated 18 Nov 2026 No guides here yet. We publish as soon as there is something verified to say. Browse all categories or search . Explore other hubs Launch Hub (12) Mission Walkthroughs Money Methods Best Cars Glitch Fixes Beginner Tips (1) PS5 Settings Leaks & Rumors
+= cars
+ classes: ['breadcrumbs', 'breadcrumbs__item', 'breadcrumbs__list', 'container', 'empty', 'empty__title', 'hub-links', 'hub-links__link', 'hub-links__list', 'page-header', 'page-header__kicker', 'page-header__lead', 'page-header__meta', 'page-header__title', 'section', 'section__title']
+ main text: Home Best Cars Category Best Cars The best cars and bikes in GTA VI and exactly how to get them: locations, prices and handling notes. 0 guides · Last updated 18 Nov 2026 No guides here yet. We publish as soon as there is something verified to say. Browse all categories or search . Explore other hubs Launch Hub (12) Mission Walkthroughs Money Methods Collectibles & Maps Glitch Fixes Beginner Tips (1) PS5 Settings Leaks & Rumors
+= glitches
+ classes: ['breadcrumbs', 'breadcrumbs__item', 'breadcrumbs__list', 'container', 'empty', 'empty__title', 'hub-links', 'hub-links__link', 'hub-links__list', 'page-header', 'page-header__kicker', 'page-header__lead', 'page-header__meta', 'page-header__title', 'section', 'section__title']
+ main text: Home Glitch Fixes Category Glitch Fixes Known GTA VI bugs and glitches, with fixes and workarounds that actually work. 0 guides · Last updated 18 Nov 2026 No guides here yet. We publish as soon as there is something verified to say. Browse all categories or search . Explore other hubs Launch Hub (12) Mission Walkthroughs Money Methods Collectibles & Maps Best Cars Beginner Tips (1) PS5 Settings Leaks & Rumors
+= leaks
+ classes: ['breadcrumbs', 'breadcrumbs__item', 'breadcrumbs__list', 'container', 'empty', 'empty__title', 'hub-links', 'hub-links__link', 'hub-links__list', 'page-header', 'page-header__kicker', 'page-header__lead', 'page-header__meta', 'page-header__title', 'section', 'section__title']
+ main text: Home Leaks & Rumors Category Leaks & Rumors Unconfirmed GTA VI leaks and rumours, clearly labelled, sourced and kept separate from verified guides. 0 guides · Last updated 18 Nov 2026 No guides here yet. We publish as soon as there is something verified to say. Browse all categories or search . Explore other hubs Launch Hub (12) Mission Walkthroughs Money Methods Collectibles & Maps Best Cars Glitch Fixes Beginner Tips (1) PS5 Settings
+= ps5-settings
+ classes: ['breadcrumbs', 'breadcrumbs__item', 'breadcrumbs__list', 'container', 'empty', 'empty__title', 'hub-links', 'hub-links__link', 'hub-links__list', 'page-header', 'page-header__kicker', 'page-header__lead', 'page-header__meta', 'page-header__title', 'section', 'section__title']
+ main text: Home PS5 Settings Category PS5 Settings The best PS5 display, performance, audio and controller settings for GTA VI. 0 guides · Last updated 18 Nov 2026 No guides here yet. We publish as soon as there is something verified to say. Browse all categories or search . Explore other hubs Launch Hub (12) Mission Walkthroughs Money Methods Collectibles & Maps Best Cars Glitch Fixes Beginner Tips (1) Leaks & Rumors

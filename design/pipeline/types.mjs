@@ -246,7 +246,7 @@ export function saveSlots(d) {
     const cy = y + row * (sh + gap);
     const isAuto = i === autoIndex;
     body += `<rect x="${x}" y="${cy}" width="${sw}" height="${sh}" rx="14" fill="${isAuto ? C.bg3 : C.bg1}" stroke="${isAuto ? cat.color : C.line2}" stroke-width="${isAuto ? 3 : 2}"/>`;
-    const label = isAuto ? (d.autosave_label || 'Autosave') : String(i);
+    const label = isAuto ? (d.autosave_label || 'Autosave') : String(autoIndex < 0 ? i + 1 : i);
     body += `<text x="${x + sw / 2}" y="${cy + sh / 2 + 8}" text-anchor="middle" font-family="Inter" font-weight="600" font-size="${isAuto ? 22 : 24}" fill="${C.text1}">${esc(label)}</text>`;
   }
   const gridH = rowsN * sh + (rowsN - 1) * gap;
@@ -273,7 +273,88 @@ export function sketch(d) {
   throw new Error('sketch: unsupported motif ' + (d.motif || ''));
 }
 
+
+// Generic gamepad diagram (no brand logos). d.controllers: [{label, l:"L1", r:"R1"}],
+// d.highlight: ["dpad-up"] | ["shoulders"], d.phone: true adds a phone icon with an arrow.
+function padSvg(cx, cy, s, ctl, hl, accent) {
+  const w = 440 * s, h = 250 * s, x = cx - w / 2, y = cy - h / 2;
+  const hs = (k) => hl.includes(k);
+  let o = '';
+  // shoulder buttons
+  const sw = 120 * s, sh = 34 * s;
+  [['l', x + 50 * s], ['r', x + w - 50 * s - sw]].forEach(([k, sx]) => {
+    const on = hs('shoulders') || hs(k === 'l' ? 'left-shoulder' : 'right-shoulder');
+    o += `<rect x="${sx}" y="${y - sh + 6 * s}" width="${sw}" height="${sh}" rx="${12 * s}" fill="${on ? accent : C.bg3}" fill-opacity="${on ? .9 : 1}" stroke="${on ? accent : C.line3}" stroke-width="2"/>`;
+    const lab = k === 'l' ? (ctl.l || 'L1') : (ctl.r || 'R1');
+    o += `<text x="${sx + sw / 2}" y="${y - sh / 2 + 14 * s}" text-anchor="middle" font-family="Inter" font-weight="600" font-size="${Math.round(24 * s)}" fill="${on ? C.bg0 : C.text2}">${esc(lab)}</text>`;
+  });
+  // body
+  o += `<path d="M${x + 70 * s} ${y} H${x + w - 70 * s} Q${x + w} ${y} ${x + w} ${y + 90 * s} L${x + w - 10 * s} ${y + h - 30 * s} Q${x + w - 30 * s} ${y + h + 20 * s} ${x + w - 110 * s} ${y + h - 30 * s} L${x + w - 150 * s} ${y + h - 70 * s} H${x + 150 * s} L${x + 110 * s} ${y + h - 30 * s} Q${x + 30 * s} ${y + h + 20 * s} ${x + 10 * s} ${y + h - 30 * s} L${x} ${y + 90 * s} Q${x} ${y} ${x + 70 * s} ${y} Z" fill="${C.bg1}" stroke="${C.line3}" stroke-width="3"/>`;
+  // d-pad
+  const dx = x + 100 * s, dy = y + 95 * s, a = 22 * s;
+  const arm = (k, rx, ry) => {
+    const on = hs('dpad-' + k);
+    return `<rect x="${rx}" y="${ry}" width="${a}" height="${a}" rx="${4 * s}" fill="${on ? accent : C.bg3}" stroke="${on ? accent : C.line3}" stroke-width="2"/>`;
+  };
+  o += arm('up', dx - a / 2, dy - a * 1.5) + arm('down', dx - a / 2, dy + a / 2) + arm('left', dx - a * 1.5, dy - a / 2) + arm('right', dx + a / 2, dy - a / 2);
+  o += `<rect x="${dx - a / 2}" y="${dy - a / 2}" width="${a}" height="${a}" fill="${C.bg3}"/>`;
+  if (hs('dpad-up')) o += `<circle cx="${dx}" cy="${dy - a}" r="${30 * s}" fill="none" stroke="${accent}" stroke-width="3"/>`;
+  // face buttons
+  const fx = x + w - 100 * s, fy = y + 95 * s, r = 13 * s;
+  [[0, -1], [0, 1], [-1, 0], [1, 0]].forEach(([i, j]) => { o += `<circle cx="${fx + i * 30 * s}" cy="${fy + j * 30 * s}" r="${r}" fill="${C.bg3}" stroke="${C.line3}" stroke-width="2"/>`; });
+  // sticks
+  [['left-stick', x + 165 * s], ['right-stick', x + w - 165 * s]].forEach(([k, sx]) => {
+    const on = hs(k);
+    o += `<circle cx="${sx}" cy="${y + 155 * s}" r="${26 * s}" fill="${on ? accent : C.bg2}" stroke="${on ? accent : C.line3}" stroke-width="2"/>`;
+    if (on) o += `<circle cx="${sx}" cy="${y + 155 * s}" r="${36 * s}" fill="none" stroke="${accent}" stroke-width="3"/>`;
+  });
+  if (ctl.label) o += `<text x="${cx}" y="${y + h + 60 * s}" text-anchor="middle" font-family="Inter" font-weight="600" font-size="26" fill="${C.text1}">${esc(ctl.label)}</text>`;
+  return o;
+}
+
+function phoneSvg(px, py, accent) {
+  return `<rect x="${px}" y="${py}" width="120" height="210" rx="20" fill="${C.bg1}" stroke="${accent}" stroke-width="4"/>`
+       + `<rect x="${px + 12}" y="${py + 26}" width="96" height="150" rx="8" fill="${C.bg3}"/>`
+       + [0, 1, 2].map((r) => [0, 1, 2].map((c) => `<rect x="${px + 22 + c * 28}" y="${py + 40 + r * 30}" width="20" height="20" rx="5" fill="${accent}" fill-opacity=".55"/>`).join('')).join('')
+       + `<circle cx="${px + 60}" cy="${py + 192}" r="8" fill="none" stroke="${C.line3}" stroke-width="2"/>`;
+}
+
+export function controller(d) {
+  need(d, ['title', 'controllers'], 'controller');
+  const W = 1200, cat = catOf(d), PADX = 40;
+  const accent = d.accent === 'cyan' ? C.cyan : cat.color;
+  let { body, y } = header(d, cat, 36);
+  const hl = d.highlight || [];
+  const n = d.controllers.length;
+  const s = n > 1 ? 1 : 1.1;
+  const top = y + 60;
+  const cy = top + 140 * s;
+  if (n === 1) {
+    const cx = d.phone ? 470 : W / 2;
+    body += padSvg(cx, cy, s, d.controllers[0], hl, accent);
+    if (d.phone) {
+      const ax = cx + 270, ay = cy;
+      body += `<path d="M${ax} ${ay}H${ax + 150}" stroke="${C.cyan}" stroke-width="5" fill="none"/>`
+            + `<path d="M${ax + 140} ${ay - 14}L${ax + 165} ${ay}L${ax + 140} ${ay + 14}" fill="${C.cyan}"/>`;
+      body += phoneSvg(ax + 190, cy - 105, accent);
+      if (d.phone_label) body += `<text x="${ax + 250}" y="${cy + 150}" text-anchor="middle" font-family="Inter" font-weight="600" font-size="24" fill="${C.text1}">${esc(d.phone_label)}</text>`;
+    }
+  } else {
+    d.controllers.forEach((c, i) => { body += padSvg(PADX + (W - 2 * PADX) * (i + 0.5) / n, cy, s, c, hl, accent); });
+  }
+  y = cy + 140 * s + 90;
+  if (d.callout) {
+    const cl = wrap(d.callout, 26, W - 2 * PADX, { font: 'semi', maxLines: 2, label: 'callout' });
+    body += textLines(cl, { x: W / 2, y, size: 26, lh: 1.25, font: 'semi', anchor: 'middle' });
+    y += cl.length * 34;
+  }
+  ({ body, y } = footerNote(body, d, y, W, PADX));
+  const H = Math.ceil(Math.max(675, y + 90));
+  return { svg: frame(W, H, cat.color, body, d), w: W, h: H };
+}
+
 export const TYPES = {
+  controller,
   'compare-table': compareTable,
   'bar-chart': barChart,
   'info-cards': infoCards,

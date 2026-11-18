@@ -1,0 +1,169 @@
+=== TITLE ===
+Leonida Guides: Unofficial GTA VI Guides
+
+=== META ===
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1, viewport-fit=cover'}
+{'name': 'theme-color', 'content': '#07050f'}
+{'name': 'color-scheme', 'content': 'dark'}
+{'name': 'description', 'content': 'Unofficial GTA VI guides: missions, money methods, collectibles, cars and fixes.'}
+{'name': 'robots', 'content': 'index, follow, max-image-preview:large, max-snippet:-1'}
+{'property': 'og:site_name', 'content': 'Leonida Guides'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:title', 'content': 'Leonida Guides: Unofficial GTA VI Guides'}
+{'property': 'og:description', 'content': 'Unofficial GTA VI guides: missions, money methods, collectibles, cars and fixes.'}
+{'property': 'og:url', 'content': 'https://roarcode.github.io/'}
+{'property': 'og:image', 'content': 'https://roarcode.github.io/og/default.png'}
+{'property': 'og:image:width', 'content': '1200'}
+{'property': 'og:image:height', 'content': '630'}
+{'property': 'og:image:alt', 'content': 'Leonida Guides'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'Leonida Guides: Unofficial GTA VI Guides'}
+{'name': 'twitter:description', 'content': 'Unofficial GTA VI guides: missions, money methods, collectibles, cars and fixes.'}
+{'name': 'twitter:image', 'content': 'https://roarcode.github.io/og/default.png'}
+{'name': 'twitter:image:alt', 'content': 'Leonida Guides'}
+
+=== LINK REL ===
+{'rel': ['canonical'], 'href': 'https://roarcode.github.io/'}
+{'rel': ['icon'], 'href': '/favicon.ico', 'sizes': '48x48'}
+{'rel': ['icon'], 'href': '/favicon.svg', 'type': 'image/svg+xml', 'sizes': 'any'}
+{'rel': ['icon'], 'href': '/favicon-32.png', 'type': 'image/png', 'sizes': '32x32'}
+{'rel': ['apple-touch-icon'], 'href': '/apple-touch-icon-180.png'}
+{'rel': ['manifest'], 'href': '/site.webmanifest'}
+{'rel': ['alternate'], 'type': 'application/atom+xml', 'title': 'Leonida Guides — new & updated guides', 'href': '/feed.xml'}
+{'rel': ['preload'], 'href': '/assets/fonts/Inter-var.woff2', 'as': 'font', 'type': 'font/woff2', 'crossorigin': ''}
+{'rel': ['preload'], 'href': '/assets/fonts/Syne-var.woff2', 'as': 'font', 'type': 'font/woff2', 'crossorigin': ''}
+{'rel': ['stylesheet'], 'href': '/assets/site.5f6db02e41.css'}
+
+=== JSON-LD ===
+{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://roarcode.github.io/#website","url":"https://roarcode.github.io/","name":"Leonida Guides","description":"Unofficial GTA VI guides: missions, money methods, collectibles, cars and fixes.","inLanguage":"en","publisher":{"@type":"Organization","name":"Leonida Guides","url":"https://roarcode.github.io/","logo":{"@type":"ImageObject","url":"https://roarcode.github.io/icon-512.png"}},"potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://roarcode.github.io/search/?q={search_term_string}"},"query-input":"required name=search_term_string"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://roarcode.github.io/"}]}]}
+
+=== ALL ANCHORS ===
+'#main' | Skip to content
+'/' | 
+'/launch-hub/' | Launch Hub
+'/missions/' | Missions
+'/money/' | Money
+'/collectibles/' | Collectibles
+'/cars/' | Cars
+'/glitches/' | Glitches
+'/beginner-tips/' | Beginner
+'/ps5-settings/' | PS5 Settings
+'/leaks/' | Leaks
+'/launch-hub/' | 12 guides Launch Hub Release time by timezone, editions and prices, and everything we know about Leonida, Jason and Luci
+'/missions/' | 0 guides Mission Walkthroughs Step-by-step GTA VI mission walkthroughs: objectives, gold-medal tips and what to do when 
+'/money/' | 0 guides Money Methods The fastest ways to make money in GTA VI: heists, side hustles and repeatable earners, with how m
+'/collectibles/' | 0 guides Collectibles & Maps Collectible locations and map guides for Leonida, with checklists and credited finds. Brows
+'/cars/' | 0 guides Best Cars The best cars and bikes in GTA VI and exactly how to get them: locations, prices and handling notes. 
+'/glitches/' | 0 guides Glitch Fixes Known GTA VI bugs and glitches, with fixes and workarounds that actually work. Browse →
+'/beginner-tips/' | 1 guide Beginner Tips New to GTA VI? Start here: the beginner tips we wish we knew on day one. Browse →
+'/ps5-settings/' | 0 guides PS5 Settings The best PS5 display, performance, audio and controller settings for GTA VI. Browse →
+'/leaks/' | 0 guides Leaks & Rumors Unconfirmed GTA VI leaks and rumours, clearly labelled, sourced and kept separate from verified 
+'/beginner-tips/beginner-tips/' | Spoiler-free Beginner GTA 6 Beginner Tips: Start Strong in 2026 GTA 6 beginner tips: launch-night steps for PS5 and Xbox
+'/launch-hub/editions-prices/' | Spoiler-free Launch Hub GTA 6 Editions and Prices: Standard vs Ultimate (2026) GTA 6 costs $79.99 Standard and $99.99 Ul
+'/launch-hub/jason-lucia/' | Minor spoilers Launch Hub GTA 6 Jason and Lucia: Who They Are (No Spoilers) Two leads, one risky plan. See how Jason and
+'/launch-hub/launch-night-checklist/' | Spoiler-free Launch Hub GTA 6 Launch Night Checklist: Be Ready by Midnight Your GTA 6 launch night checklist for PS5 and
+'/launch-hub/leonida/' | Minor spoilers Launch Hub GTA 6 Leonida Guide: All 6 Regions Explained (2026) Your GTA 6 Leonida hub: how many regions, 
+'/launch-hub/map/' | Minor spoilers Launch Hub GTA 6 Map: Leonida's Size and 6 Regions (Updated) How big is the GTA 6 map? Rockstar says abou
+'/launch-hub/gta-6-online/' | Spoiler-free Launch Hub GTA 6 Online: Is There Multiplayer at Launch? (2026) Is there GTA 6 Online? Rockstar's PlayStati
+'/launch-hub/platforms/' | Spoiler-free Launch Hub GTA 6 Platforms: PS5, PS5 Pro, Xbox, PC and 30 FPS Is GTA 6 on PC, PS4 or Xbox One? Get the exac
+'/launch-hub/preload-size/' | Spoiler-free Launch Hub GTA 6 Pre-Load: 212 GB Size, Start Times, Fixes (2026) GTA 6 pre-load is live: up to 212 GB on P
+'/launch-hub/' | Launch Hub
+'/missions/' | Mission Walkthroughs
+'/money/' | Money Methods
+'/collectibles/' | Collectibles & Maps
+'/cars/' | Best Cars
+'/glitches/' | Glitch Fixes
+'/beginner-tips/' | Beginner Tips
+'/ps5-settings/' | PS5 Settings
+'/leaks/' | Leaks & Rumors
+'/about/' | About & disclaimer
+'/search/' | Search
+'/feed.xml' | Atom feed
+'/sitemap.xml' | Sitemap
+
+=== H1-H6 ===
+h1 Every GTA VI guide, sourced and kept current.
+h2 Guides by category
+h3 Launch Hub
+h3 Mission Walkthroughs
+h3 Money Methods
+h3 Collectibles & Maps
+h3 Best Cars
+h3 Glitch Fixes
+h3 Beginner Tips
+h3 PS5 Settings
+h3 Leaks & Rumors
+h2 New & updated
+h3 GTA 6 Beginner Tips: Start Strong in 2026
+h3 GTA 6 Editions and Prices: Standard vs Ultimate (2026)
+h3 GTA 6 Jason and Lucia: Who They Are (No Spoilers)
+h3 GTA 6 Launch Night Checklist: Be Ready by Midnight
+h3 GTA 6 Leonida Guide: All 6 Regions Explained (2026)
+h3 GTA 6 Map: Leonida's Size and 6 Regions (Updated)
+h3 GTA 6 Online: Is There Multiplayer at Launch? (2026)
+h3 GTA 6 Platforms: PS5, PS5 Pro, Xbox, PC and 30 FPS
+h3 GTA 6 Pre-Load: 212 GB Size, Start Times, Fixes (2026)
+
+=== IMAGES ===
+{'src': '/assets/logo/wordmark-horizontal.svg', 'alt': 'Leonida Guides', 'width': '211', 'height': '34', 'loading': None, 'srcset': None, 'class': ['brand__logo', 'brand__logo--wordmark']}
+{'src': '/assets/logo/icon.svg', 'alt': '', 'width': '34', 'height': '34', 'loading': None, 'srcset': None, 'class': ['brand__logo', 'brand__logo--icon']}
+{'src': '/assets/img/hero-1280.webp', 'alt': '', 'width': '1280', 'height': '720', 'loading': None, 'srcset': None, 'class': None}
+{'src': '/assets/img/cat-missions-640.webp', 'alt': '', 'width': '640', 'height': '360', 'loading': 'lazy', 'srcset': None, 'class': None}
+{'src': '/assets/img/cat-money-640.webp', 'alt': '', 'width': '640', 'height': '360', 'loading': 'lazy', 'srcset': None, 'class': None}
+{'src': '/assets/img/cat-collectibles-640.webp', 'alt': '', 'width': '640', 'height': '360', 'loading': 'lazy', 'srcset': None, 'class': None}
+{'src': '/assets/img/cat-vehicles-640.webp', 'alt': '', 'width': '640', 'height': '360', 'loading': 'lazy', 'srcset': None, 'class': None}
+
+=== SCRIPT ===
+src=None type=application/ld+json inline={"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://roarcode.github.io/#website","url":"https://roarcode.github.io/","name":"Leonida Guides","description":"Unofficial GTA VI g
+src=/assets/js/spoilers.js type=None inline=
+
+=== FORMS ===
+<form action="/search/" class="site-search" method="get" role="search">
+ <label class="visually-hidden" for="site-search-q">
+  Search guides
+ </label>
+ <input autocomplete="off" class="site-search__input" enterkeyhint="search" id="site-search-q" name="q" placeholder="Search guides…" type="search"/>
+ <button aria-label="Search" class="site-search__button" type="submit">
+  <svg aria-hidden="true" focusable="false" height="20" viewbox="0 0 24 24" width="20">
+   <path d="M11 4a7 7 0 1 0 0 14 7 7 0 0 0 0-14Zm9 16-4.2-4.2" fill="none" stroke="currentColor" stroke-linecap="round" stroke-width="2">
+   </path>
+  </svg>
+ </button>
+</form>
+
+<form action="/search/" class="hero__search site-search site-search--large" method="get" role="search">
+ <label class="visually-hidden" for="hero-search-q">
+  Search all guides
+ </label>
+ <input autocomplete="off" class="site-search__input" enterkeyhint="search" id="hero-search-q" name="q" placeholder="Try “money”, “best car” or “PS5 settings”" type="search"/>
+ <button class="site-search__button site-search__button--text" type="submit">
+  Search
+ </button>
+</form>
+
+
+=== BUTTONS / INPUTS ===
+<input autocomplete="off" class="site-search__input" enterkeyhint="search" id="site-search-q" name="q" placeholder="Search guides…" type="search"/>
+<button aria-label="Search" class="site-search__button" type="submit">
+<svg aria-hidden="true" focusable="false" height="20" viewbox="0 0 24 24" width="20"><path d="M11 4a7 7 0 1 0 0 14 7 7 0 0 0 0-14Zm9 16-4.2-4.2" fill="none" stroke="currentColor" stroke-linecap="round" stroke-width="2"></path></svg>
+</button>
+<button aria-pressed="false" class="spoiler-toggle" data-spoiler-toggle="" hidden="" type="button">
+<svg aria-hidden="true" focusable="false" height="18" viewbox="0 0 24 24" width="18"><path d="M2 12s3.6-7 10-7 10 7 10 7-3.6 7-10 7S2 12 2 12Zm10 3a3 3 0 1 0 0-6 3 3 0 0 0 0 6Z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path><path class="spoiler-toggle__slash" d="M4 4l16 16" fill="none" stroke="currentColor" stroke-linecap="round" stroke-width="2"></path></svg>
+<span class="spoiler-toggle__text">Show all spoilers</span>
+<span class="spoiler-toggle__state visually-hidden" data-spoiler-state="">off</span>
+</button>
+<input autocomplete="off" class="site-search__input" enterkeyhint="search" id="hero-search-q" name="q" placeholder="Try “money”, “best car” or “PS5 settings”" type="search"/>
+<button class="site-search__button site-search__button--text" type="submit">Search</button>
+
+=== CLASSES of interest / features ===
+html attrs {'lang': 'en'}
+body class ['page', 'page--home']
+has spoiler wording True
+has adsense/ad False
+has toc False
+search present True
+dark/theme True
+html length 23988
+text length 4451

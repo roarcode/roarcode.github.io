@@ -1,25 +1,25 @@
 {
   "type": "menu-mock",
-  "alt": "Illustration of a pause menu with Settings, Controls and Accessibility marked to be checked after launch. Not an in-game screenshot.",
+  "alt": "Illustration of a controls menu with three layouts: Default, Classic and Left-Handed. Not an in-game screenshot.",
   "data": {
     "category": "ps5",
-    "title": "Where to look once you can play",
-    "panel_title": "Pause menu — illustration",
+    "title": "3 button layouts to pick from",
+    "panel_title": "Controls \u2014 illustration",
     "highlightRow": 1,
     "rows": [
       {
-        "label": "Settings",
-        "value": "Open this first"
+        "label": "Default",
+        "value": "Run on L3 / LS"
       },
       {
-        "label": "Controls",
-        "value": "To be checked"
+        "label": "Classic",
+        "value": "Older GTA style"
       },
       {
-        "label": "Accessibility",
-        "value": "To be checked — haptics on PS5"
+        "label": "Left-Handed",
+        "value": "Sides swapped"
       }
     ],
-    "note": "Illustration — not an in-game screenshot. Exact menu names are not confirmed. We will check on launch day."
+    "note": "Illustration, not an in-game screenshot. Layout names from Shacknews."
   }
 }

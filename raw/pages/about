@@ -1,0 +1,159 @@
+<!doctype html><html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+    <meta name="theme-color" content="#07050f">
+    <meta name="color-scheme" content="dark">
+    <title>About Leonida Guides &amp; Disclaimer | Leonida Guides</title>
+    <meta name="description" content="Leonida Guides is an unofficial, fan-made GTA VI guides site. Not affiliated with Rockstar Games. How we source and mark rumours.">
+    <link rel="canonical" href="https://roarcode.github.io/about/">
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
+    <meta property="og:site_name" content="Leonida Guides">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="About Leonida Guides &amp; Disclaimer">
+    <meta property="og:description" content="Leonida Guides is an unofficial, fan-made GTA VI guides site. Not affiliated with Rockstar Games. How we source and mark rumours.">
+    <meta property="og:url" content="https://roarcode.github.io/about/">
+    <meta property="og:image" content="https://roarcode.github.io/og/page-about.png">
+    <meta property="og:image:width" content="1200"><meta property="og:image:height" content="630">
+    <meta property="og:image:alt" content="About Leonida Guides &amp; Disclaimer">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="About Leonida Guides &amp; Disclaimer">
+    <meta name="twitter:description" content="Leonida Guides is an unofficial, fan-made GTA VI guides site. Not affiliated with Rockstar Games. How we source and mark rumours.">
+    <meta name="twitter:image" content="https://roarcode.github.io/og/page-about.png">
+    <meta name="twitter:image:alt" content="About Leonida Guides &amp; Disclaimer">
+    <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://roarcode.github.io/"},{"@type":"ListItem","position":2,"name":"About Leonida Guides \u0026 Disclaimer","item":"https://roarcode.github.io/about/"}]}]}</script>
+    <link rel="icon" href="/favicon.ico" sizes="48x48">
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" sizes="any">
+    <link rel="icon" href="/favicon-32.png" type="image/png" sizes="32x32">
+    <link rel="apple-touch-icon" href="/apple-touch-icon-180.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="alternate" type="application/atom+xml" title="Leonida Guides — new &amp; updated guides" href="/feed.xml">
+    <link rel="preload" href="/assets/fonts/Inter-var.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="/assets/fonts/Syne-var.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="stylesheet" href="/assets/site.5f6db02e41.css">
+    <script src="/assets/js/spoilers.js" defer></script>
+    
+  </head>
+  <body class="page page--page">
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header">
+  <div class="site-header__inner container">
+    <a class="site-header__brand brand" href="/" aria-label="Leonida Guides — home"><img class="brand__logo brand__logo--wordmark" src="/assets/logo/wordmark-horizontal.svg" alt="Leonida Guides" width="211" height="34">
+        <img class="brand__logo brand__logo--icon" src="/assets/logo/icon.svg" alt="" width="34" height="34"></a><form class="site-search" role="search" action="/search/" method="get">
+      <label class="visually-hidden" for="site-search-q">Search guides</label>
+      <input class="site-search__input" id="site-search-q" type="search" name="q" placeholder="Search guides…" autocomplete="off" enterkeyhint="search">
+      <button class="site-search__button" type="submit" aria-label="Search">
+        <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" focusable="false"><path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" d="M11 4a7 7 0 1 0 0 14 7 7 0 0 0 0-14Zm9 16-4.2-4.2"/></svg>
+      </button>
+    </form><button class="spoiler-toggle" type="button" hidden aria-pressed="false" data-spoiler-toggle>
+      <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true" focusable="false"><path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M2 12s3.6-7 10-7 10 7 10 7-3.6 7-10 7S2 12 2 12Zm10 3a3 3 0 1 0 0-6 3 3 0 0 0 0 6Z"/><path class="spoiler-toggle__slash" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" d="M4 4l16 16"/></svg>
+      <span class="spoiler-toggle__text">Show all spoilers</span>
+      <span class="spoiler-toggle__state visually-hidden" data-spoiler-state>off</span>
+    </button>
+  </div>
+
+  <nav class="site-nav" aria-label="Guide categories">
+    <ul class="site-nav__list container">
+      <li class="site-nav__item">
+        <a class="site-nav__link" href="/launch-hub/" style="--accent: var(--cat-launch-hub, var(--x-accent-default))">Launch Hub</a>
+      </li>
+      <li class="site-nav__item">
+        <a class="site-nav__link" href="/missions/" style="--accent: var(--cat-missions, var(--x-accent-default))">Missions</a>
+      </li>
+      <li class="site-nav__item">
+        <a class="site-nav__link" href="/money/" style="--accent: var(--cat-money, var(--x-accent-default))">Money</a>
+      </li>
+      <li class="site-nav__item">
+        <a class="site-nav__link" href="/collectibles/" style="--accent: var(--cat-collectibles, var(--x-accent-default))">Collectibles</a>
+      </li>
+      <li class="site-nav__item">
+        <a class="site-nav__link" href="/cars/" style="--accent: var(--cat-cars, var(--x-accent-default))">Cars</a>
+      </li>
+      <li class="site-nav__item">
+        <a class="site-nav__link" href="/glitches/" style="--accent: var(--cat-glitches, var(--x-accent-default))">Glitches</a>
+      </li>
+      <li class="site-nav__item">
+        <a class="site-nav__link" href="/beginner-tips/" style="--accent: var(--cat-beginner-tips, var(--x-accent-default))">Beginner</a>
+      </li>
+      <li class="site-nav__item">
+        <a class="site-nav__link" href="/ps5-settings/" style="--accent: var(--cat-ps5-settings, var(--x-accent-default))">PS5 Settings</a>
+      </li>
+      <li class="site-nav__item">
+        <a class="site-nav__link" href="/leaks/" style="--accent: var(--cat-leaks, var(--x-accent-default))">Leaks</a>
+      </li>
+    </ul>
+  </nav>
+</header>
+
+    <main id="main" class="site-main" tabindex="-1">
+      
+<div class="container container--article">
+  <div data-pagefind-ignore><nav class="breadcrumbs" aria-label="Breadcrumb">
+  <ol class="breadcrumbs__list">
+    <li class="breadcrumbs__item"><a href="/">Home</a></li>
+    <li class="breadcrumbs__item"><span aria-current="page">About Leonida Guides &amp; Disclaimer</span></li>
+  </ol>
+</nav></div>
+  <article class="article article--page" data-pagefind-body>
+    <header class="article__header">
+      <h1 class="article__title" data-pagefind-meta="title">About Leonida Guides &amp; Disclaimer</h1>
+      <p class="article__meta"><span class="article__updated">Last updated <time datetime="2026-11-18">18 Nov 2026</time></span></p>
+    </header>
+    <div class="article__main"><div class="article__body prose"><p><strong>Unofficial fan site. Not affiliated with Rockstar Games or Take-Two Interactive.</strong></p>
+<p>Leonida Guides is an independent, fan-made site with guides for Grand Theft Auto VI. Grand Theft Auto, GTA and related names and marks are trademarks of their respective owners. We use no Rockstar logos or ripped assets.</p>
+<h2 id="how-we-work" tabindex="-1">How we work</h2>
+<ul>
+<li><strong>Every guide credits its sources.</strong> Sources are listed at the bottom of each page and linked.</li>
+<li><strong>Before launch we publish only confirmed facts</strong> from official Rockstar, PlayStation and Xbox material or reputable previews.</li>
+<li><strong>Rumours are always labelled.</strong> Anything unconfirmed carries a clear “Rumour / unconfirmed” callout with a source.</li>
+<li><strong>Every page shows when it was last updated.</strong> Guides change as patches land and as we learn more.</li>
+<li><strong>Written with AI help and fact-checked against the cited sources.</strong> Each page lists its sources and an updated date, and carries the team byline rather than a named author.</li>
+<li><strong>Spoilers are labelled.</strong> Each guide shows a spoiler level, and story details sit behind click-to-reveal boxes.</li>
+</ul>
+<h2 id="corrections" tabindex="-1">Corrections</h2>
+<p>When we find an error, we fix it and update the page’s “last updated” date.</p>
+</div>
+    <p class="article__disclaimer">Unofficial fan site. Not affiliated with Rockstar Games.</p></div>
+  </article>
+</div>
+
+    </main>
+    <footer class="site-footer">
+  <div class="site-footer__inner container">
+    <div class="site-footer__brand">
+      <p class="site-footer__name">Leonida Guides</p>
+      <p class="site-footer__disclaimer"><strong>Unofficial fan site. Not affiliated with Rockstar Games.</strong> Grand Theft Auto and GTA VI are trademarks of Take-Two Interactive Software, Inc. Guides credit every source we use.</p>
+    </div>
+    <nav class="site-footer__col" aria-label="Guides">
+      <p class="site-footer__heading">Guides</p>
+      <ul class="site-footer__list">
+        <li><a href="/launch-hub/">Launch Hub</a></li>
+        <li><a href="/missions/">Mission Walkthroughs</a></li>
+        <li><a href="/money/">Money Methods</a></li>
+        <li><a href="/collectibles/">Collectibles &amp; Maps</a></li>
+        <li><a href="/cars/">Best Cars</a></li>
+        <li><a href="/glitches/">Glitch Fixes</a></li>
+        <li><a href="/beginner-tips/">Beginner Tips</a></li>
+        <li><a href="/ps5-settings/">PS5 Settings</a></li>
+        <li><a href="/leaks/">Leaks &amp; Rumors</a></li>
+      </ul>
+    </nav>
+    <nav class="site-footer__col" aria-label="About">
+      <p class="site-footer__heading">Site</p>
+      <ul class="site-footer__list">
+        <li><a href="/about/">About &amp; disclaimer</a></li>
+        <li><a href="/search/">Search</a></li>
+        <li><a href="/feed.xml">Atom feed</a></li>
+        <li><a href="/sitemap.xml">Sitemap</a></li>
+      </ul>
+    </nav>
+  </div>
+  <div class="site-footer__bar container">
+    <p class="site-footer__meta">Site last updated <time datetime="2026-11-18T00:00:00.000Z">18 Nov 2026</time></p>
+    <p class="site-footer__meta">&copy; 2026 Leonida Guides · Fan-made, not for official use</p>
+  </div>
+</footer>
+
+  </body>
+</html>

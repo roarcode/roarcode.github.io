@@ -1,0 +1,268 @@
+<!doctype html><html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+    <meta name="theme-color" content="#07050f">
+    <meta name="color-scheme" content="dark">
+    <title>Launch Hub: GTA VI Guides | Leonida Guides</title>
+    <meta name="description" content="Release time by timezone, editions and prices, and everything we know about Leonida, Jason and Lucia before and around launch.">
+    <link rel="canonical" href="https://roarcode.github.io/launch-hub/">
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
+    <meta property="og:site_name" content="Leonida Guides">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Launch Hub: GTA VI Guides">
+    <meta property="og:description" content="Release time by timezone, editions and prices, and everything we know about Leonida, Jason and Lucia before and around launch.">
+    <meta property="og:url" content="https://roarcode.github.io/launch-hub/">
+    <meta property="og:image" content="https://roarcode.github.io/og/category-launch-hub.png">
+    <meta property="og:image:width" content="1200"><meta property="og:image:height" content="630">
+    <meta property="og:image:alt" content="Launch Hub">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Launch Hub: GTA VI Guides">
+    <meta name="twitter:description" content="Release time by timezone, editions and prices, and everything we know about Leonida, Jason and Lucia before and around launch.">
+    <meta name="twitter:image" content="https://roarcode.github.io/og/category-launch-hub.png">
+    <meta name="twitter:image:alt" content="Launch Hub">
+    <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://roarcode.github.io/"},{"@type":"ListItem","position":2,"name":"Launch Hub","item":"https://roarcode.github.io/launch-hub/"}]}]}</script>
+    <link rel="icon" href="/favicon.ico" sizes="48x48">
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" sizes="any">
+    <link rel="icon" href="/favicon-32.png" type="image/png" sizes="32x32">
+    <link rel="apple-touch-icon" href="/apple-touch-icon-180.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="alternate" type="application/atom+xml" title="Leonida Guides — new &amp; updated guides" href="/feed.xml">
+    <link rel="preload" href="/assets/fonts/Inter-var.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="/assets/fonts/Syne-var.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="stylesheet" href="/assets/site.5f6db02e41.css">
+    <script src="/assets/js/spoilers.js" defer></script>
+    
+  </head>
+  <body class="page page--category">
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header">
+  <div class="site-header__inner container">
+    <a class="site-header__brand brand" href="/" aria-label="Leonida Guides — home"><img class="brand__logo brand__logo--wordmark" src="/assets/logo/wordmark-horizontal.svg" alt="Leonida Guides" width="211" height="34">
+        <img class="brand__logo brand__logo--icon" src="/assets/logo/icon.svg" alt="" width="34" height="34"></a><form class="site-search" role="search" action="/search/" method="get">
+      <label class="visually-hidden" for="site-search-q">Search guides</label>
+      <input class="site-search__input" id="site-search-q" type="search" name="q" placeholder="Search guides…" autocomplete="off" enterkeyhint="search">
+      <button class="site-search__button" type="submit" aria-label="Search">
+        <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" focusable="false"><path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" d="M11 4a7 7 0 1 0 0 14 7 7 0 0 0 0-14Zm9 16-4.2-4.2"/></svg>
+      </button>
+    </form><button class="spoiler-toggle" type="button" hidden aria-pressed="false" data-spoiler-toggle>
+      <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true" focusable="false"><path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M2 12s3.6-7 10-7 10 7 10 7-3.6 7-10 7S2 12 2 12Zm10 3a3 3 0 1 0 0-6 3 3 0 0 0 0 6Z"/><path class="spoiler-toggle__slash" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" d="M4 4l16 16"/></svg>
+      <span class="spoiler-toggle__text">Show all spoilers</span>
+      <span class="spoiler-toggle__state visually-hidden" data-spoiler-state>off</span>
+    </button>
+  </div>
+
+  <nav class="site-nav" aria-label="Guide categories">
+    <ul class="site-nav__list container">
+      <li class="site-nav__item">
+        <a class="site-nav__link" href="/launch-hub/" style="--accent: var(--cat-launch-hub, var(--x-accent-default))" aria-current="page">Launch Hub</a>
+      </li>
+      <li class="site-nav__item">
+        <a class="site-nav__link" href="/missions/" style="--accent: var(--cat-missions, var(--x-accent-default))">Missions</a>
+      </li>
+      <li class="site-nav__item">
+        <a class="site-nav__link" href="/money/" style="--accent: var(--cat-money, var(--x-accent-default))">Money</a>
+      </li>
+      <li class="site-nav__item">
+        <a class="site-nav__link" href="/collectibles/" style="--accent: var(--cat-collectibles, var(--x-accent-default))">Collectibles</a>
+      </li>
+      <li class="site-nav__item">
+        <a class="site-nav__link" href="/cars/" style="--accent: var(--cat-cars, var(--x-accent-default))">Cars</a>
+      </li>
+      <li class="site-nav__item">
+        <a class="site-nav__link" href="/glitches/" style="--accent: var(--cat-glitches, var(--x-accent-default))">Glitches</a>
+      </li>
+      <li class="site-nav__item">
+        <a class="site-nav__link" href="/beginner-tips/" style="--accent: var(--cat-beginner-tips, var(--x-accent-default))">Beginner</a>
+      </li>
+      <li class="site-nav__item">
+        <a class="site-nav__link" href="/ps5-settings/" style="--accent: var(--cat-ps5-settings, var(--x-accent-default))">PS5 Settings</a>
+      </li>
+      <li class="site-nav__item">
+        <a class="site-nav__link" href="/leaks/" style="--accent: var(--cat-leaks, var(--x-accent-default))">Leaks</a>
+      </li>
+    </ul>
+  </nav>
+</header>
+
+    <main id="main" class="site-main" tabindex="-1">
+      
+<div class="container" style="--accent: var(--cat-launch-hub, var(--x-accent-default))">
+  <nav class="breadcrumbs" aria-label="Breadcrumb">
+  <ol class="breadcrumbs__list">
+    <li class="breadcrumbs__item"><a href="/">Home</a></li>
+    <li class="breadcrumbs__item"><span aria-current="page">Launch Hub</span></li>
+  </ol>
+</nav>
+  <header class="page-header">
+    <p class="page-header__kicker">Category</p>
+    <h1 class="page-header__title">Launch Hub</h1><p class="page-header__lead">Release time by timezone, editions and prices, and everything we know about Leonida, Jason and Lucia before and around launch.</p>
+    <p class="page-header__meta">
+      12 guides · Last updated <time datetime="2026-11-18">18 Nov 2026</time>
+    </p>
+  </header>
+  <div class="grid grid--cards section"><article class="guide-card" style="--accent: var(--cat-launch-hub, var(--x-accent-default))">
+  <a class="guide-card__link" href="/launch-hub/editions-prices/">
+    <div class="guide-card__top">
+      <span class="badge badge--spoiler badge--spoiler-none guide-card__badge" title="Spoiler level: Spoiler-free">Spoiler-free</span>
+    </div>
+    <h3 class="guide-card__title">GTA 6 Editions and Prices: Standard vs Ultimate (2026)</h3>
+    <p class="guide-card__desc">GTA 6 costs $79.99 Standard and $99.99 Ultimate, with UK and euro prices, upgrade info, GTA+ month and the Vintage Vice City Pack bonus explained.</p>
+    <p class="guide-card__meta"><span>Updated <time datetime="2026-11-18">18 Nov 2026</time></span><span aria-hidden="true">·</span><span>5 min read</span></p>
+  </a>
+</article><article class="guide-card" style="--accent: var(--cat-launch-hub, var(--x-accent-default))">
+  <a class="guide-card__link" href="/launch-hub/jason-lucia/">
+    <div class="guide-card__top">
+      <span class="badge badge--spoiler badge--spoiler-minor guide-card__badge" title="Spoiler level: Minor spoilers">Minor spoilers</span>
+    </div>
+    <h3 class="guide-card__title">GTA 6 Jason and Lucia: Who They Are (No Spoilers)</h3>
+    <p class="guide-card__desc">Two leads, one risky plan. See how Jason and Lucia play, how you switch between them, and what Rockstar shows, with all story details hidden.</p>
+    <p class="guide-card__meta"><span>Updated <time datetime="2026-11-18">18 Nov 2026</time></span><span aria-hidden="true">·</span><span>2 min read</span></p>
+  </a>
+</article><article class="guide-card" style="--accent: var(--cat-launch-hub, var(--x-accent-default))">
+  <a class="guide-card__link" href="/launch-hub/launch-night-checklist/">
+    <div class="guide-card__top">
+      <span class="badge badge--spoiler badge--spoiler-none guide-card__badge" title="Spoiler level: Spoiler-free">Spoiler-free</span>
+    </div>
+    <h3 class="guide-card__title">GTA 6 Launch Night Checklist: Be Ready by Midnight</h3>
+    <p class="guide-card__desc">Your GTA 6 launch night checklist for PS5 and Xbox: space, preload, rest mode, updates, account checks, controller setup and what to do if it won&#39;t start.</p>
+    <p class="guide-card__meta"><span>Updated <time datetime="2026-11-18">18 Nov 2026</time></span><span aria-hidden="true">·</span><span>4 min read</span></p>
+  </a>
+</article><article class="guide-card" style="--accent: var(--cat-launch-hub, var(--x-accent-default))">
+  <a class="guide-card__link" href="/launch-hub/leonida/">
+    <div class="guide-card__top">
+      <span class="badge badge--spoiler badge--spoiler-minor guide-card__badge" title="Spoiler level: Minor spoilers">Minor spoilers</span>
+    </div>
+    <h3 class="guide-card__title">GTA 6 Leonida Guide: All 6 Regions Explained (2026)</h3>
+    <p class="guide-card__desc">Your GTA 6 Leonida hub: how many regions, what each is known for, weather, wildlife and activities. Region names are tucked into spoiler boxes.</p>
+    <p class="guide-card__meta"><span>Updated <time datetime="2026-11-18">18 Nov 2026</time></span><span aria-hidden="true">·</span><span>2 min read</span></p>
+  </a>
+</article><article class="guide-card" style="--accent: var(--cat-launch-hub, var(--x-accent-default))">
+  <a class="guide-card__link" href="/launch-hub/map/">
+    <div class="guide-card__top">
+      <span class="badge badge--spoiler badge--spoiler-minor guide-card__badge" title="Spoiler level: Minor spoilers">Minor spoilers</span>
+    </div>
+    <h3 class="guide-card__title">GTA 6 Map: Leonida&#39;s Size and 6 Regions (Updated)</h3>
+    <p class="guide-card__desc">How big is the GTA 6 map? Rockstar says about twice GTA 5. See the size claims, the free printable map, weather and wildlife, plus what is only a rumour.</p>
+    <p class="guide-card__meta"><span>Updated <time datetime="2026-11-18">18 Nov 2026</time></span><span aria-hidden="true">·</span><span>3 min read</span></p>
+  </a>
+</article><article class="guide-card" style="--accent: var(--cat-launch-hub, var(--x-accent-default))">
+  <a class="guide-card__link" href="/launch-hub/gta-6-online/">
+    <div class="guide-card__top">
+      <span class="badge badge--spoiler badge--spoiler-none guide-card__badge" title="Spoiler level: Spoiler-free">Spoiler-free</span>
+    </div>
+    <h3 class="guide-card__title">GTA 6 Online: Is There Multiplayer at Launch? (2026)</h3>
+    <p class="guide-card__desc">Is there GTA 6 Online? Rockstar&#39;s PlayStation page says GTA VI is a single-player experience. See what is confirmed, what is a rumour and what to play now.</p>
+    <p class="guide-card__meta"><span>Updated <time datetime="2026-11-18">18 Nov 2026</time></span><span aria-hidden="true">·</span><span>2 min read</span></p>
+  </a>
+</article><article class="guide-card" style="--accent: var(--cat-launch-hub, var(--x-accent-default))">
+  <a class="guide-card__link" href="/launch-hub/platforms/">
+    <div class="guide-card__top">
+      <span class="badge badge--spoiler badge--spoiler-none guide-card__badge" title="Spoiler level: Spoiler-free">Spoiler-free</span>
+    </div>
+    <h3 class="guide-card__title">GTA 6 Platforms: PS5, PS5 Pro, Xbox, PC and 30 FPS</h3>
+    <p class="guide-card__desc">Is GTA 6 on PC, PS4 or Xbox One? Get the exact platform list, the 30 FPS target, PS5 Pro extras and how Xbox One players stream on 19 Nov 2026.</p>
+    <p class="guide-card__meta"><span>Updated <time datetime="2026-11-18">18 Nov 2026</time></span><span aria-hidden="true">·</span><span>3 min read</span></p>
+  </a>
+</article><article class="guide-card" style="--accent: var(--cat-launch-hub, var(--x-accent-default))">
+  <a class="guide-card__link" href="/launch-hub/preload-size/">
+    <div class="guide-card__top">
+      <span class="badge badge--spoiler badge--spoiler-none guide-card__badge" title="Spoiler level: Spoiler-free">Spoiler-free</span>
+    </div>
+    <h3 class="guide-card__title">GTA 6 Pre-Load: 212 GB Size, Start Times, Fixes (2026)</h3>
+    <p class="guide-card__desc">GTA 6 pre-load is live: up to 212 GB on PS5 and Xbox Series X|S. Start times, download-time estimates, space tips and a fix if the download stalls.</p>
+    <p class="guide-card__meta"><span>Updated <time datetime="2026-11-18">18 Nov 2026</time></span><span aria-hidden="true">·</span><span>5 min read</span></p>
+  </a>
+</article><article class="guide-card" style="--accent: var(--cat-launch-hub, var(--x-accent-default))">
+  <a class="guide-card__link" href="/launch-hub/ps5-settings/">
+    <div class="guide-card__top">
+      <span class="badge badge--spoiler badge--spoiler-none guide-card__badge" title="Spoiler level: Spoiler-free">Spoiler-free</span>
+    </div>
+    <h3 class="guide-card__title">GTA 6 PS5 Settings: Best Setup for PS5 and Pro (2026)</h3>
+    <p class="guide-card__desc">GTA 6 targets 30 FPS on PS5 and PS5 Pro. See what PS5 Pro adds, exact menu steps for HDR and storage, and what is not announced yet.</p>
+    <p class="guide-card__meta"><span>Updated <time datetime="2026-11-18">18 Nov 2026</time></span><span aria-hidden="true">·</span><span>3 min read</span></p>
+  </a>
+</article><article class="guide-card" style="--accent: var(--cat-launch-hub, var(--x-accent-default))">
+  <a class="guide-card__link" href="/launch-hub/radio-stations/">
+    <div class="guide-card__top">
+      <span class="badge badge--spoiler badge--spoiler-none guide-card__badge" title="Spoiler level: Spoiler-free">Spoiler-free</span>
+    </div>
+    <h3 class="guide-card__title">GTA 6 Radio Stations: All 6 Stations and Podcasts</h3>
+    <p class="guide-card__desc">All 6 GTA 6 radio stations with genre and DJs, plus podcasts, the 34-track album and how to listen on foot. Only officially announced stations are listed.</p>
+    <p class="guide-card__meta"><span>Updated <time datetime="2026-11-18">18 Nov 2026</time></span><span aria-hidden="true">·</span><span>2 min read</span></p>
+  </a>
+</article><article class="guide-card" style="--accent: var(--cat-launch-hub, var(--x-accent-default))">
+  <a class="guide-card__link" href="/launch-hub/release-time/">
+    <div class="guide-card__top">
+      <span class="badge badge--spoiler badge--spoiler-none guide-card__badge" title="Spoiler level: Spoiler-free">Spoiler-free</span>
+    </div>
+    <h3 class="guide-card__title">GTA 6 Release Time: Unlock Times by Time Zone (2026)</h3>
+    <p class="guide-card__desc">GTA 6 unlocks at midnight local time on 19 Nov 2026 on PS5 and Xbox Series X|S. See the unlock time for PT, ET, BRT, GMT, CET, EET, IST, JST, AEDT, NZDT.</p>
+    <p class="guide-card__meta"><span>Updated <time datetime="2026-11-18">18 Nov 2026</time></span><span aria-hidden="true">·</span><span>10 min read</span></p>
+  </a>
+</article><article class="guide-card" style="--accent: var(--cat-launch-hub, var(--x-accent-default))">
+  <a class="guide-card__link" href="/launch-hub/vintage-vice-city-pack/">
+    <div class="guide-card__top">
+      <span class="badge badge--spoiler badge--spoiler-none guide-card__badge" title="Spoiler level: Spoiler-free">Spoiler-free</span>
+    </div>
+    <h3 class="guide-card__title">GTA 6 Vintage Vice City Pack: How to Get It Before 20 Nov</h3>
+    <p class="guide-card__desc">Get the GTA 6 Vintage Vice City Pack free: buy before 20 Nov 2026. See what is in it, how GTA+ fits in, and PS5 and Xbox steps to buy and claim.</p>
+    <p class="guide-card__meta"><span>Updated <time datetime="2026-11-18">18 Nov 2026</time></span><span aria-hidden="true">·</span><span>3 min read</span></p>
+  </a>
+</article>
+  </div>
+  <nav class="section hub-links" aria-labelledby="hubs-h">
+    <h2 class="section__title" id="hubs-h">Explore other hubs</h2>
+    <ul class="hub-links__list">
+      <li><a class="hub-links__link" href="/missions/" style="--accent: var(--cat-missions, var(--x-accent-default))">Mission Walkthroughs</a></li>
+      <li><a class="hub-links__link" href="/money/" style="--accent: var(--cat-money, var(--x-accent-default))">Money Methods</a></li>
+      <li><a class="hub-links__link" href="/collectibles/" style="--accent: var(--cat-collectibles, var(--x-accent-default))">Collectibles &amp; Maps</a></li>
+      <li><a class="hub-links__link" href="/cars/" style="--accent: var(--cat-cars, var(--x-accent-default))">Best Cars</a></li>
+      <li><a class="hub-links__link" href="/glitches/" style="--accent: var(--cat-glitches, var(--x-accent-default))">Glitch Fixes</a></li>
+      <li><a class="hub-links__link" href="/beginner-tips/" style="--accent: var(--cat-beginner-tips, var(--x-accent-default))">Beginner Tips <span>(1)</span></a></li>
+      <li><a class="hub-links__link" href="/ps5-settings/" style="--accent: var(--cat-ps5-settings, var(--x-accent-default))">PS5 Settings</a></li>
+      <li><a class="hub-links__link" href="/leaks/" style="--accent: var(--cat-leaks, var(--x-accent-default))">Leaks &amp; Rumors</a></li>
+    </ul>
+  </nav>
+</div>
+
+    </main>
+    <footer class="site-footer">
+  <div class="site-footer__inner container">
+    <div class="site-footer__brand">
+      <p class="site-footer__name">Leonida Guides</p>
+      <p class="site-footer__disclaimer"><strong>Unofficial fan site. Not affiliated with Rockstar Games.</strong> Grand Theft Auto and GTA VI are trademarks of Take-Two Interactive Software, Inc. Guides credit every source we use.</p>
+    </div>
+    <nav class="site-footer__col" aria-label="Guides">
+      <p class="site-footer__heading">Guides</p>
+      <ul class="site-footer__list">
+        <li><a href="/launch-hub/">Launch Hub</a></li>
+        <li><a href="/missions/">Mission Walkthroughs</a></li>
+        <li><a href="/money/">Money Methods</a></li>
+        <li><a href="/collectibles/">Collectibles &amp; Maps</a></li>
+        <li><a href="/cars/">Best Cars</a></li>
+        <li><a href="/glitches/">Glitch Fixes</a></li>
+        <li><a href="/beginner-tips/">Beginner Tips</a></li>
+        <li><a href="/ps5-settings/">PS5 Settings</a></li>
+        <li><a href="/leaks/">Leaks &amp; Rumors</a></li>
+      </ul>
+    </nav>
+    <nav class="site-footer__col" aria-label="About">
+      <p class="site-footer__heading">Site</p>
+      <ul class="site-footer__list">
+        <li><a href="/about/">About &amp; disclaimer</a></li>
+        <li><a href="/search/">Search</a></li>
+        <li><a href="/feed.xml">Atom feed</a></li>
+        <li><a href="/sitemap.xml">Sitemap</a></li>
+      </ul>
+    </nav>
+  </div>
+  <div class="site-footer__bar container">
+    <p class="site-footer__meta">Site last updated <time datetime="2026-11-18T00:00:00.000Z">18 Nov 2026</time></p>
+    <p class="site-footer__meta">&copy; 2026 Leonida Guides · Fan-made, not for official use</p>
+  </div>
+</footer>
+
+  </body>
+</html>

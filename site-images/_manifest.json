@@ -408,26 +408,25 @@
   "gta-6-how-to-make-money-fast-step-1": {
     "file": "gta-6-how-to-make-money-fast-step-1.webp",
     "width": 1200,
-    "height": 675,
-    "bytes": 41626,
-    "alt": "Placeholder table for money methods ranked by money per hour. No payouts have been tested yet.",
+    "height": 710,
+    "bytes": 38596,
+    "alt": "Table of four GTA 6 money methods from GameSpot and Destructoid: gang hideouts, car jobs, treasure dives, stores and banks, with when each opens. No story names.",
     "type": "compare-table"
   },
   "gta-6-how-to-make-money-fast-step-2": {
     "file": "gta-6-how-to-make-money-fast-step-2.webp",
     "width": 1200,
     "height": 675,
-    "bytes": 36226,
-    "alt": "Schematic map with a single placeholder pin for where a money method starts. Location to be filled after testing, with no story details.",
-    "type": "map-annotate",
-    "credit": "Original schematic by Leonida Guides."
+    "bytes": 26608,
+    "alt": "Two boxes: a yellow icon on the map marks a robbery spot; a fence is where you sell the loot. No place names.",
+    "type": "info-cards"
   },
   "gta-6-how-to-make-money-fast-step-3": {
     "file": "gta-6-how-to-make-money-fast-step-3.webp",
     "width": 1200,
     "height": 675,
-    "bytes": 39610,
-    "alt": "Illustration of a cash total panel with before and after values marked not tested. Not an in-game screenshot.",
+    "bytes": 31000,
+    "alt": "Illustration of a cash total next to a BuckMe bank balance, with a note that you can carry up to $20,000 in cash. Not an in-game screenshot.",
     "type": "menu-mock"
   },
   "gta-6-launch-hub-step-1": {
@@ -949,25 +948,25 @@
   "gta-6-controls-step-1": {
     "file": "gta-6-controls-step-1.webp",
     "width": 1200,
-    "height": 675,
-    "bytes": 37420,
-    "alt": "A simple DualSense-style controller outline with a banner saying the button map is not announced yet.",
-    "type": "sketch"
+    "height": 866,
+    "bytes": 31460,
+    "alt": "Table of GTA 6 driving buttons: accelerate R2 or RT, brake L2 or LT, handbrake Cross or A, exit Triangle or Y, look behind hold R3 or RS.",
+    "type": "compare-table"
   },
   "gta-6-controls-step-2": {
     "file": "gta-6-controls-step-2.webp",
     "width": 1200,
-    "height": 675,
-    "bytes": 35270,
-    "alt": "A simple Xbox-style controller outline with a banner saying the button map is not announced yet.",
-    "type": "sketch"
+    "height": 866,
+    "bytes": 32320,
+    "alt": "Table of GTA 6 on-foot buttons: run L3 or LS, jump Cross or A, crouch Circle or B, cover R1 or RB, aim L2 or LT, shoot R2 or RT.",
+    "type": "compare-table"
   },
   "gta-6-controls-step-3": {
     "file": "gta-6-controls-step-3.webp",
     "width": 1200,
     "height": 675,
-    "bytes": 45718,
-    "alt": "Illustration of a pause menu with Settings, Controls and Accessibility marked to be checked after launch. Not an in-game screenshot.",
+    "bytes": 30272,
+    "alt": "Illustration of a controls menu with three layouts: Default, Classic and Left-Handed. Not an in-game screenshot.",
     "type": "menu-mock"
   },
   "gta-6-performance-mode-step-1": {

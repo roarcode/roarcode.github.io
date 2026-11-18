@@ -2,3 +2,5 @@
 File: content/gta-6-first-mission.md (qa: pending, draft: true — leave held)
 Problem: Title, title_alts, and quick answer contain "[MISSION NAME]"-style placeholders; no real walkthrough facts.
 Fix: Do not publish until real facts exist from sourced/own play. Remove all [..] placeholders and spoiler-check the final content (mission details need spoiler blocks).
+
+- Fixed by Copywriter 18 Nov 13:15: not filled. No verifiable step-by-step facts for the first mission from a reputable guide yet. Left held.
