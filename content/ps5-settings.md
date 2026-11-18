@@ -8,6 +8,8 @@ slug: ps5-settings
 category: pre-launch
 description: "GTA 6 targets 30 FPS on PS5 and PS5 Pro. See what PS5 Pro adds, exact menu steps for HDR and storage, and what is not announced yet."
 sources:
+  - https://playday.one/2026/11/18/all-in-game-options-in-gta-6/
+  - https://space4games.com/en/games-en/gta-6-best-settings-guide/
   - https://www.digitalfoundry.net/reviews/grand-theft-auto-6-a-landmark-achievement-that-redefines-a-console-generation
   - https://www.techradar.com/gaming/why-no-40fps-mode-for-gta-6-rockstar-says-the-complexity-of-simulating-and-rendering-our-world-requires-it-to-carefully-balance-how-we-spend-every-millisecond-of-both-the-central-processor-and-the-graphics-processor
   - https://gameinformer.com/2026/11/10/grand-theft-auto-vi-will-run-at-30-fps-on-all-consoles-but-ps5-pro-will-feature-improved
@@ -27,7 +29,7 @@ sources:
 updated: 2026-11-18
 status: prelaunch
 spoilers: none
-qa: passed
+qa: live-review
 ---
 
 # GTA 6 on PS5 and PS5 Pro: What Is Confirmed (2026)
@@ -117,6 +119,20 @@ Rockstar has not published the full settings menu. Early players in New Zealand 
 
 - **HDR tip from a player:** one post says to turn HDR off. That is one person's opinion. Rockstar says the game was made for both HDR and SDR. Our tip: run **Adjust HDR** first (Step 2). Turn HDR off only if the picture still looks wrong on your TV.
 
+### Settings menu: what guide sites list (18 Nov)
+
+Two guide sites posted the settings menu from the finished game: DayOne ([full list](https://playday.one/2026/11/18/all-in-game-options-in-gta-6/)) and Space4Games ([best settings](https://space4games.com/en/games-en/gta-6-best-settings-guide/)). We have not checked these ourselves yet.
+
+- **Targeting:** Lock-On, Partial or Free Aim. **Aim Assist Strength** goes from 0 to 4 (4 is the default).
+- **Motion Blur Strength:** a slider. *Motion blur* makes things look smeared when you move fast.
+- **Mute Licensed Music:** handy if you stream or record. Space4Games warns it does not make every sound safe for videos.
+- **Simplified Mini Games:** makes button-mashing games easier, like hot-wiring cars and the gym.
+- **Tap Assist and Hold Assist:** help if pressing a button fast or holding it is hard.
+- **Accessible Combat** and **Reduced Vehicle Damage:** make the game much easier.
+- **High Contrast Shaders:** make people and things you can use stand out.
+- **UI Text Size:** Small up to Extra Large. **Subtitles** can be Off, Mission Only or On.
+- **Screen Narration** and **Audio Descriptions:** in the Audio settings, per DayOne.
+
 ## Not announced (we will update at launch)
 
 - Field-of-view and camera options in the game
@@ -154,6 +170,7 @@ No. Rockstar says the vignette (darker corners) is an art choice with no toggle.
 
 | Date | What changed |
 |---|---|
+| 2026-11-18 17:20 CET | Added the settings menu list from DayOne and Space4Games (aim, motion blur, music, accessibility). |
 | 2026-11-18 13:15 CET | Added Rockstar's resolution and HDR answers (via Wccftech), the no-toggle vignette note, and early player reports about the settings menu. |
 
 ### Can I change the controller buzz?

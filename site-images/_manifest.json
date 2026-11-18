@@ -1208,5 +1208,29 @@
     "bytes": 26982,
     "alt": "Two boxes with green ticks: PS5, PS button then PlayStation Store; Xbox, Xbox button then Store.",
     "type": "info-cards"
+  },
+  "gta-6-hacker-guilty-plea-step-1": {
+    "file": "gta-6-hacker-guilty-plea-step-1.webp",
+    "width": 1200,
+    "height": 710,
+    "bytes": 30520,
+    "alt": "Timeline: September 2022 videos posted, 16 November 2026 guilty plea, 19 November game out, 23 November sentencing date.",
+    "type": "compare-table"
+  },
+  "gta-6-hacker-guilty-plea-step-2": {
+    "file": "gta-6-hacker-guilty-plea-step-2.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 28816,
+    "alt": "Three cards: what he admitted, which companies were hit, what is not known yet.",
+    "type": "info-cards"
+  },
+  "gta-6-hacker-guilty-plea-step-3": {
+    "file": "gta-6-hacker-guilty-plea-step-3.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 23524,
+    "alt": "Two cards: the game launch is not affected; we never share leaked clips.",
+    "type": "info-cards"
   }
 }

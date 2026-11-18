@@ -1,0 +1,32 @@
+{
+  "type": "compare-table",
+  "alt": "Timeline: September 2022 videos posted, 16 November 2026 guilty plea, 19 November game out, 23 November sentencing date.",
+  "data": {
+    "category": "news",
+    "title": "The case in 4 dates",
+    "subtitle": "From the Crown Prosecution Service and The Verge.",
+    "columns": [
+      "Date",
+      "What happened"
+    ],
+    "rows": [
+      [
+        "Sep 2022",
+        "90 test videos posted online"
+      ],
+      [
+        "16 Nov 2026",
+        "He pleads guilty in court"
+      ],
+      [
+        "19 Nov 2026",
+        "GTA 6 comes out"
+      ],
+      [
+        "23 Nov 2026",
+        "Sentencing date set"
+      ]
+    ],
+    "note": "Our own timeline. Dates can still move."
+  }
+}

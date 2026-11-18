@@ -1,0 +1,28 @@
+{
+  "type": "info-cards",
+  "alt": "Three cards: what he admitted, which companies were hit, what is not known yet.",
+  "data": {
+    "category": "news",
+    "title": "What we know and what we don't",
+    "cols": 3,
+    "card_height": 250,
+    "cards": [
+      {
+        "title": "Admitted",
+        "body": "6 crimes, including the Rockstar hack.",
+        "status": "check"
+      },
+      {
+        "title": "Also hit",
+        "body": "BT/EE, Revolut and Uber.",
+        "status": "ok"
+      },
+      {
+        "title": "Not known yet",
+        "body": "His sentence. Due 23 Nov.",
+        "status": "warn"
+      }
+    ],
+    "note": "Source: Crown Prosecution Service, 16 Nov 2026."
+  }
+}

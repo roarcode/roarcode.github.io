@@ -1,0 +1,23 @@
+{
+  "type": "info-cards",
+  "alt": "Two cards: the game launch is not affected; we never share leaked clips.",
+  "data": {
+    "category": "news",
+    "title": "Does this change GTA 6?",
+    "cols": 2,
+    "card_height": 230,
+    "cards": [
+      {
+        "title": "Launch day",
+        "body": "Nothing changed. Still 19 Nov.",
+        "status": "check"
+      },
+      {
+        "title": "Old leaked clips",
+        "body": "We never share or link them.",
+        "status": "warn"
+      }
+    ],
+    "note": "No statement from Rockstar this week."
+  }
+}
