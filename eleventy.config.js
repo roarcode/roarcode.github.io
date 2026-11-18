@@ -9,6 +9,7 @@ import { buildCss } from "./lib/css.js";
 import { generateOgImages } from "./lib/og.js";
 import { seoHead, breadcrumbsFor } from "./lib/seo.js";
 import { escapeXml } from "./lib/util.js";
+import { REDIRECTS, redirectPage } from "./lib/extras.js";
 
 export default function (eleventyConfig) {
   // ---- global data (functions are re-evaluated on every (re)build) ----------
@@ -63,6 +64,15 @@ export default function (eleventyConfig) {
     // in-guide images (rendered by Designer's pipeline into site-images/; _manifest.json lists them)
     const imgDir = path.join(DIRS.root, "site-images");
     if (fs.existsSync(imgDir)) for (const f of fs.readdirSync(imgDir)) if (/\.(webp|png|jpe?g|avif|svg)$/i.test(f)) copy(path.join(imgDir, f), path.join(out, "site-images", f));
+
+    // moved URLs: tiny noindex meta-refresh pages (GitHub Pages has no server redirects)
+    for (const [from, to] of Object.entries(REDIRECTS)) {
+      const dest = path.join(out, from.replace(/^\//, ""), "index.html");
+      if (!fs.existsSync(dest)) {
+        fs.mkdirSync(path.dirname(dest), { recursive: true });
+        fs.writeFileSync(dest, redirectPage(to, site.origin));
+      }
+    }
 
     // favicons + webmanifest at the site root
     for (const [name, src] of assets.favicons) copy(src, path.join(out, name));

@@ -5,7 +5,7 @@ title_alts:
   - "GTA 6 Beginner Guide: Launch-Night Setup and First Tips"
   - "GTA 6 First Hour Tips: Reported and Series-Standard"
 slug: beginner-tips
-category: beginner
+category: launch-hub
 description: "GTA 6 beginner tips: launch-night steps for PS5 and Xbox, what previews report about police and switching, and old-GTA habits that may apply."
 sources:
   - https://www.playstation.com/en-us/support/games/gta-vi-support/
