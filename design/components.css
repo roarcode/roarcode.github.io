@@ -139,7 +139,7 @@ a.chip:hover { color: var(--text-on-accent); filter: brightness(1.12); }
 .badge--spoiler-none { --b: var(--status-updated); } .badge--spoiler-minor { --b: var(--status-rumour); } .badge--spoiler-major { --b: var(--status-danger); }
 
 /* ---------- 5. Sections, marquee, promo ---------- */
-.section { padding-block: var(--space-section) 0; }
+.section { padding-block: var(--space-section) 0; scroll-margin-top: calc(var(--header-h) + .5rem); }
 .section--last { padding-bottom: 0; }
 .section__head { position: relative; display: flex; flex-wrap: wrap; align-items: flex-end; justify-content: space-between; gap: var(--space-2) var(--space-5); margin-bottom: var(--space-5); padding-bottom: .8rem; border-bottom: 1px solid var(--line-1); }
 .section__head::after { content: ""; position: absolute; left: 0; bottom: -1px; width: 4.5rem; height: 3px; background: var(--gradient-cta); }

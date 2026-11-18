@@ -61,6 +61,8 @@
   // ToC: open on desktop (sticky sidebar), collapsed on phones/tablets (compact sticky bar)
   const toc = $('.toc[data-collapsible]');
   if (toc && matchMedia('(max-width: 63.99rem)').matches) toc.removeAttribute('open');
+  // Close the compact ToC after a jump on phones/tablets so it doesn't cover the heading
+  $$('.toc a[href^="#"]').forEach((a) => a.addEventListener('click', () => { if (matchMedia('(max-width: 63.99rem)').matches) a.closest('details.toc')?.removeAttribute('open'); }));
 
   // ToC scroll-spy
   const links = $$('.toc a[href^="#"]');
