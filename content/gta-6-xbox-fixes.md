@@ -21,7 +21,7 @@ updated: 2026-11-19
 status: stub
 publish: true
 spoilers: none
-qa: live-review
+qa: passed
 ---
 
 # GTA 6 Xbox Fixes: 8 Steps for Series X|S and Xbox One
