@@ -17,11 +17,11 @@ sources:
   - https://support.rockstargames.com/servicestatus
   - https://x.com/HarryAyy_/status/2123008728513552863
   - https://wccftech.com/grand-theft-auto-vi-amd-fsr-4-xbox-series-s-ray-tracing/
-updated: 2026-11-18
+updated: 2026-11-19
 status: stub
 publish: true
 spoilers: none
-qa: passed
+qa: live-review
 ---
 
 # GTA 6 Xbox Fixes: 8 Steps for Series X|S and Xbox One
@@ -81,6 +81,17 @@ More numbers: [GTA 6 performance mode](/launch-hub/gta-6-performance-mode/).
 
 You may see advice to clear **persistent storage**. That fix is for **disc** installs. The boxed GTA 6 has a download code and **no disc**, so it is not needed.
 
+## Game crashing or freezing? (reports, 19 Nov)
+
+Some players say the game **crashes or freezes** after it unlocked in Europe, including one on Xbox Series X ([Reddit report](https://www.reddit.com/r/GTAVI/comments/1xzuuh7/gta6_freeze_on_xbox_series_x/)). These are **player reports**. Rockstar and Xbox have not posted a bug or a fix on their support pages or accounts as of 01:25 CET.
+
+1. **Close the game and open it again.**
+2. **If the screen is frozen, do a power cycle** (step 4 above).
+3. **Follow Xbox's own guide** for games that freeze, quit by themselves or won't start: [Xbox Support: troubleshoot game issues](https://support.xbox.com/en-US/help/games-apps/troubleshooting/game-issues-solution).
+4. **Watch [Rockstar Support](https://support.rockstargames.com/)** for a patch.
+
+On PS5? See [GTA 6 PS5 fixes](/glitches/gta-6-ps5-fixes/).
+
 ## Still broken?
 
 - **Xbox Support:** downloads, codes, account and store problems.
@@ -116,6 +127,7 @@ Rockstar says Series S starts at 720p and is made bigger to 1080p. Series X star
 
 | Date | What changed |
 |---|---|
+| 2026-11-19 01:36 CET | Added a crashing or freezing box: player reports only, with Xbox's own troubleshooting guide. |
 | 2026-11-18 13:15 CET | Added a Series S section with Rockstar's resolution numbers (via Wccftech). |
 
 ---
