@@ -20,7 +20,7 @@ updated: 2026-11-19
 status: prelaunch
 publish: true
 spoilers: none
-qa: live-review
+qa: passed
 ---
 
 # GTA 6 Code-in-Box: How to Redeem and Fix Code Problems
