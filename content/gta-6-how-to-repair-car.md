@@ -70,7 +70,6 @@ A **gas station** can do small repairs, but GamesRadar+ says it will not fix cri
 ## Garage will not fix my car?
 
 - **A stolen car with a red tracker.** GameSpot says a Pay 'n' Spray will not take a car with an **advanced (red) tracker**. Swap to another car. See [how to steal cars in GTA 6](/cars/gta-6-how-to-steal-cars/) for tracker icons.
-- **Players are asking too.** One player on [r/GTA on Reddit](https://www.reddit.com/r/GTA/comments/1y05dr9/help_i_cant_get_my_car_repaired_at_coastal_auto/) says they could not get a repair at one mod shop. There is no confirmed cause yet. Try a different garage from the Index.
 
 ## Free repairs
 

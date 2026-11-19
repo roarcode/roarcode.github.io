@@ -1927,5 +1927,77 @@
     "bytes": 33786,
     "alt": "Our diagram: 4 good habits: aim low, knock out, sneak, be kind to animals.",
     "type": "compare-table"
+  },
+  "gta-6-car-trunk-storage-step-1": {
+    "file": "gta-6-car-trunk-storage-step-1.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 29356,
+    "alt": "Our diagram: Open the trunk. Walk to the back of your own car. Press Triangle or Y. Hold L1 or LB for the loadout. Not a game screenshot.",
+    "type": "info-cards"
+  },
+  "gta-6-car-trunk-storage-step-2": {
+    "file": "gta-6-car-trunk-storage-step-2.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 27042,
+    "alt": "Our diagram: Two tabs. Weapons: sidearms, longarms, melee, explosives. Items: masks, outfits, bags and more. Switch tabs with R1 or RB. Not a game screenshot.",
+    "type": "info-cards"
+  },
+  "gta-6-car-trunk-storage-step-3": {
+    "file": "gta-6-car-trunk-storage-step-3.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 32168,
+    "alt": "Our diagram: Ammu-Nation locker to trunk. Find the shop in the Index. Use the weapons locker. Send guns to your car. Not a game screenshot.",
+    "type": "info-cards"
+  },
+  "gta-6-crab-lab-codes-step-1": {
+    "file": "gta-6-crab-lab-codes-step-1.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 28958,
+    "alt": "Our diagram: Where the lab is. Pelican Valley swamps: Southwest part. Just north of the Keys: Look near the water. A dock: Building at the end. Not a game screenshot.",
+    "type": "step-card"
+  },
+  "gta-6-crab-lab-codes-step-2": {
+    "file": "gta-6-crab-lab-codes-step-2.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 26562,
+    "alt": "Our diagram: The three locks. Computer: Password on the floor. Safe: Use the hint. Dock door: Code is in the safe. Not a game screenshot.",
+    "type": "step-card"
+  },
+  "gta-6-crab-lab-codes-step-3": {
+    "file": "gta-6-crab-lab-codes-step-3.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 26484,
+    "alt": "Our diagram: What you get. Safe: Just over $1,000. Dock building: A special SMG. Car boot: Store the long gun. Not a game screenshot.",
+    "type": "step-card"
+  },
+  "gta-6-how-to-repair-car-step-1": {
+    "file": "gta-6-how-to-repair-car-step-1.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 27340,
+    "alt": "Our diagram: Engine icon colours. Green: fine. Orange: moderate damage. Red: critical. Red cross: destroyed. Not a game screenshot.",
+    "type": "info-cards"
+  },
+  "gta-6-how-to-repair-car-step-2": {
+    "file": "gta-6-how-to-repair-car-step-2.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 28850,
+    "alt": "Our diagram: Find a garage. Open the GTA 6 Index. Vehicles tab. Pay 'n' Spray or Mod Shops. Not a game screenshot.",
+    "type": "info-cards"
+  },
+  "gta-6-how-to-repair-car-step-3": {
+    "file": "gta-6-how-to-repair-car-step-3.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 26724,
+    "alt": "Our diagram: Where to fix it. Pay 'n' Spray or Mod Shop: fixes big damage. Gas station: small damage only, costs more. Not a game screenshot.",
+    "type": "info-cards"
   }
 }
