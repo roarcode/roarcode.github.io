@@ -27,7 +27,7 @@ updated: 2026-11-19
 status: stub
 publish: true
 spoilers: none
-qa: live-review
+qa: passed
 ---
 
 # GTA 6 Not Working? Servers Down Check and 7 Fixes
@@ -47,7 +47,7 @@ qa: live-review
 
 > **Status check, 18 Nov 2026 at 13:50 CET:** the [Xbox status page](https://support.xbox.com/en-US/xbox-live-status) showed no problems. PlayStation's US status page showed no alerts, and its Europe page showed only an older Russia-only alert from 11 Nov. The Rockstar status page did not load for us, so check it yourself. Insider Gaming wrote on 18 Nov that GTA 6 had no performance or network problems at the time it wrote. Rockstar has not posted any GTA VI "known issues" list or fix yet ([Insider Gaming](https://insider-gaming.com/is-grand-theft-auto-6-down-gta-6-issues-explained/)).
 
-> **PSN problems, 19 Nov 2026 (Sony's alert has now cleared):** from **06:33 CET**, [PlayStation's status page](https://status.playstation.com) showed **"Gaming and Social: Degraded"** for PS5 and PS4 in the Americas, and since **06:34 CET** in Europe. Its message says: "You might have difficulty launching games, apps or network features. We're working to resolve the issue as soon as possible. Thank you for your patience." Sony's Europe page also listed a **PlayStation Store outage** alert: "You might have difficulty getting products in PlayStation Store." We checked at **06:40 CET** and both alerts were still there. When we checked again at **07:09 CET**, the launching-games alert was gone for Europe and the Americas. The only Store alert left was for Russia. Still having trouble? Check the status page for your country. Sony has not said what caused it.
+> **PSN problems, 19 Nov 2026 (Sony's alert has now cleared):** from **06:33 CET**, [PlayStation's status page](https://status.playstation.com) showed **"Gaming and Social: Degraded"** for PS5 and PS4 in the Americas, and since **06:34 CET** in Europe. Its message says: "You might have difficulty launching games, apps or network features. We're working to resolve the issue as soon as possible. Thank you for your patience." Sony's Europe page also listed a **PlayStation Store outage** alert: "You might have difficulty getting products in PlayStation Store." We checked at **06:40 CET** and both alerts were still there. When we checked again at **07:09 CET**, the launching-games alert was gone for Europe and the Americas. The only alert left on Sony's Europe page was a **PlayStation Store outage** listed for **Russia** (since 06:56 CET). Our check at **07:42 CET** showed the same. Still having trouble? Check the status page for your country. Sony has not said what caused it.
 >
 > **Player reports (unconfirmed):** at the same time, some PS5 players say GTA VI will not start. Some see "Can't use this content. Your license is being verified. Try again later." ([@SJCFutures on X](https://x.com/SJCFutures/status/2123282165203185685)). Others say they are stuck at the title screen with a "servers busy" message ([@SJCFutures on X](https://x.com/SJCFutures/status/2123282165203185685); [r/GTAVI thread](https://www.reddit.com/r/GTAVI/comments/1y014lq/anyone_else_stuck_at_title_screen_with_servers/)). Rockstar has not posted about it yet.
 >
@@ -136,6 +136,7 @@ Not announced on any page we checked. The PlayStation Store lists it as a single
 
 | Date | What changed |
 |---|---|
+| 2026-11-19 07:43 CET | PSN box: re-checked Sony's status page; launching-games alert still cleared, only a Russia PlayStation Store outage (since 06:56 CET) listed. |
 | 2026-11-19 07:09 CET | PSN box: Sony's launching-games alert cleared for Europe and the Americas at the 07:09 CET check; only a Russia Store alert left. |
 | 2026-11-19 06:40 CET | New PSN box: Sony status page shows "Gaming and Social: Degraded" (Americas 06:33 CET, Europe 06:34 CET) and a Europe PlayStation Store outage; player reports of license-verification and "servers busy" errors, marked unconfirmed. |
 | 2026-11-18 20:38 CET | PSN box: Sony status alert no longer shown at 20:38 CET check (Europe, US). |
