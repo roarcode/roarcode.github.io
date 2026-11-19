@@ -1,0 +1,28 @@
+{
+  "type": "compare-table",
+  "alt": "Our diagram: where to look. Hold right on the d-pad, then check the icon next to each character's picture.",
+  "data": {
+    "category": "beginner",
+    "title": "Check your criminal profile",
+    "columns": [
+      "Step",
+      "What to do"
+    ],
+    "rows": [
+      [
+        "1",
+        "Hold right on the d-pad"
+      ],
+      [
+        "2",
+        "Look at the icon next to each picture"
+      ],
+      [
+        "3",
+        "Full view: pause > Jason & Lucia"
+      ]
+    ],
+    "note": "Our drawing, not a game screenshot. Source: GamesRadar.",
+    "banner": "Our diagram, not a game screenshot"
+  }
+}

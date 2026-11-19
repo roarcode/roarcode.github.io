@@ -1,0 +1,42 @@
+{
+  "type": "compare-table",
+  "alt": "Our diagram: the 5 levels as a ladder from Professional (yellow) at the top to Irredeemable (dark grey) at the bottom, with a lock on the last step.",
+  "data": {
+    "category": "beginner",
+    "title": "The 5 criminal profile levels",
+    "columns": [
+      "Level",
+      "Icon colour",
+      "Can you leave it?"
+    ],
+    "rows": [
+      [
+        "Professional",
+        "Yellow",
+        "Yes"
+      ],
+      [
+        "Hardened",
+        "Orange",
+        "Yes"
+      ],
+      [
+        "Violent",
+        "Purple",
+        "Yes"
+      ],
+      [
+        "Psycho",
+        "Light grey",
+        "Yes"
+      ],
+      [
+        "Irredeemable",
+        "Dark grey",
+        "No, permanent"
+      ]
+    ],
+    "note": "Our drawing, not a game screenshot. Source: PC Gamer, GamesRadar.",
+    "banner": "Our diagram, not a game screenshot"
+  }
+}

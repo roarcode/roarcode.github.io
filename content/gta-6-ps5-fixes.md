@@ -21,7 +21,7 @@ updated: 2026-11-19
 status: stub
 publish: true
 spoilers: none
-qa: passed
+qa: live-review
 ---
 
 # GTA 6 PS5 Fixes: 9 Steps When It Won't Start or Load
@@ -32,7 +32,7 @@ qa: passed
 
 **Words used on this page.** *Safe Mode* is a special start-up menu for fixing problems. *Database* is the list of what is on your console. *fps* means frames per second: how many pictures the game draws each second.
 
-> **19 Nov, 06:40 CET:** [PlayStation's status page](https://status.playstation.com) shows a PSN problem with launching games in Europe and the Americas right now. If you see "Your license is being verified" (players report this, [@SJCFutures on X](https://x.com/SJCFutures/status/2123282165203185685)), wait and try again later. Do **not** delete the game. More in [GTA 6 not working](/glitches/gta-6-not-working/).
+> **19 Nov, 06:40 CET:** [PlayStation's status page](https://status.playstation.com) showed a PSN problem with launching games in Europe and the Americas. At our **07:09 CET** check that alert had cleared. If you still see "Your license is being verified" (players reported this, [@SJCFutures on X](https://x.com/SJCFutures/status/2123282165203185685)), wait and try again later. Do **not** delete the game. More in [GTA 6 not working](/glitches/gta-6-not-working/).
 
 ## The 9 steps (from PlayStation support)
 

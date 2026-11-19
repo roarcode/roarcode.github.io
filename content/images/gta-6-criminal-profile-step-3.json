@@ -1,0 +1,32 @@
+{
+  "type": "compare-table",
+  "alt": "Our diagram: 4 good habits: aim low, knock out, sneak, be kind to animals.",
+  "data": {
+    "category": "beginner",
+    "title": "Stay Professional",
+    "columns": [
+      "Habit",
+      "Why"
+    ],
+    "rows": [
+      [
+        "Aim at arms and legs",
+        "Injures instead of kills"
+      ],
+      [
+        "Knock enemies out",
+        "Non-lethal"
+      ],
+      [
+        "Sneak past",
+        "Professional means staying hidden"
+      ],
+      [
+        "Be kind to animals",
+        "Hurting pets pushes you to Psycho"
+      ]
+    ],
+    "note": "Our drawing, not a game screenshot. Source: PC Gamer.",
+    "banner": "Our diagram, not a game screenshot"
+  }
+}
