@@ -10,11 +10,11 @@ description: "GTA 6 launch hub: is it out, release time by zone, download and pr
 sources:
   - https://www.playstation.com/en-us/support/games/gta-vi-support/
   - https://www.rockstargames.com/VI
-updated: 2026-11-18
+updated: 2026-11-19
 status: live
 spoilers: none
 featured: true
-qa: passed
+qa: live-review
 ---
 
 # GTA 6 Launch Hub: Release Time, Fixes and Guides (Live)
@@ -102,6 +102,7 @@ qa: passed
 - [GTA 6 Difficulty Settings: Is There Easy Mode? (No, But...)](/beginner-tips/gta-6-difficulty-settings/)
 - [GTA 6 How to Study Animals: Binoculars and the Logbook](/collectibles/gta-6-how-to-study-animals/)
 - [GTA 6 Phone Apps: What Each App Does (WAiNK, RydeMe)](/beginner-tips/gta-6-phone-apps/)
+- [GTA 6 Criminal Profile Explained: All 5 Levels](/beginner-tips/gta-6-criminal-profile/)
 
 ## Spoiler guides (each hides details in boxes)
 

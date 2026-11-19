@@ -11,11 +11,11 @@ sources:
   - https://www.gamespot.com/articles/gta-6-tips-everything-i-wish-i-knew-before-i-started-playing/
   - https://games.gg/grand-theft-auto-vi/guides/grand-theft-auto-6-beginner-tips-what-to-do-first/
   - https://www.pcgamer.com/games/grand-theft-auto/gta-6-six-stars/
-updated: 2026-11-18
+updated: 2026-11-19
 status: live
 publish: true
 spoilers: none
-qa: passed
+qa: live-review
 ---
 
 # Can You Play GTA 6 Without Killing Anyone? How It Works
@@ -23,6 +23,8 @@ qa: passed
 > - **Quick answer:** in theory yes, GameSpot says you can play from start to finish without killing anyone. It is "just incredibly difficult".
 > - **How:** aim at **joints and limbs** to injure. Head and heart shots kill (GameSpot).
 > - **Why bother:** the game keeps a **criminal profile**. GameSpot says a violent Lucia acts more violently when you are not controlling her. Games.gg says it also changes how NPCs and police react.
+
+More on the levels: [GTA 6 criminal profile explained](/beginner-tips/gta-6-criminal-profile/).
 
 **Words used on this page.** *Non-lethal* means not killing. *Hit marker* is the little mark that shows you hit someone. *Criminal profile* is the game's record of how violent you are. *Joint* is a body part that bends, like a knee or elbow. *Pursuing* means chasing.
 
