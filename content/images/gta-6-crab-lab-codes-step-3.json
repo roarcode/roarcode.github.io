@@ -1,0 +1,17 @@
+{
+  "type": "step-card",
+  "alt": "Our diagram: What you get. Safe: Just over $1,000. Dock building: A special SMG. Car boot: Store the long gun. Not a game screenshot.",
+  "data": {
+    "category": "money",
+    "title": "What you get",
+    "cols": 3,
+    "card_height": 230,
+    "steps": [
+      {"title": "Safe", "body": "Just over $1,000."},
+      {"title": "Dock building", "body": "A special SMG."},
+      {"title": "Car boot", "body": "Store the long gun."}
+    ],
+    "note": "Simplified. Not the game's map and not a screenshot.",
+    "banner": "Our diagram, not a game screenshot"
+  }
+}

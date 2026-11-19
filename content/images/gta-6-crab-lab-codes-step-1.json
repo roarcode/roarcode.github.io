@@ -1,0 +1,17 @@
+{
+  "type": "step-card",
+  "alt": "Our diagram: Where the lab is. Pelican Valley swamps: Southwest part. Just north of the Keys: Look near the water. A dock: Building at the end. Not a game screenshot.",
+  "data": {
+    "category": "money",
+    "title": "Where the lab is",
+    "cols": 3,
+    "card_height": 230,
+    "steps": [
+      {"title": "Pelican Valley swamps", "body": "Southwest part."},
+      {"title": "Just north of the Keys", "body": "Look near the water."},
+      {"title": "A dock", "body": "Building at the end."}
+    ],
+    "note": "Simplified. Not the game's map and not a screenshot.",
+    "banner": "Our diagram, not a game screenshot"
+  }
+}

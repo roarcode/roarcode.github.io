@@ -1,0 +1,17 @@
+{
+  "type": "step-card",
+  "alt": "Our diagram: The three locks. Computer: Password on the floor. Safe: Use the hint. Dock door: Code is in the safe. Not a game screenshot.",
+  "data": {
+    "category": "money",
+    "title": "The three locks",
+    "cols": 3,
+    "card_height": 230,
+    "steps": [
+      {"title": "Computer", "body": "Password on the floor."},
+      {"title": "Safe", "body": "Use the hint."},
+      {"title": "Dock door", "body": "Code is in the safe."}
+    ],
+    "note": "Simplified. Not the game's map and not a screenshot.",
+    "banner": "Our diagram, not a game screenshot"
+  }
+}
