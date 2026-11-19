@@ -15,8 +15,7 @@ updated: 2026-11-19
 status: live
 publish: true
 spoilers: minor
-qa: pending
-draft: true
+qa: passed
 ---
 
 # GTA 6 Criminal Profile Explained: All 5 Levels
