@@ -14,7 +14,7 @@ updated: 2026-11-19
 status: live
 spoilers: none
 featured: true
-qa: live-review
+qa: passed
 ---
 
 # GTA 6 Launch Hub: Release Time, Fixes and Guides (Live)
