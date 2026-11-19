@@ -23,7 +23,7 @@ updated: 2026-11-18
 status: stub
 publish: true
 spoilers: none
-qa: passed
+qa: live-review
 ---
 
 # GTA 6 Download Stuck? 8 Fixes for PS5 and Xbox (2026)
@@ -75,7 +75,7 @@ Watch the number for 10 minutes. If the percent or the GB number goes up, even s
 
 ## Check these on both consoles
 
-- **Free space.** Keep at least **212 GB** free (PlayStation's advice). PS5: **Settings > Storage**. Xbox: **Profile & system > Settings > System > Storage devices**.
+- **Free space.** Keep at least **212 GB** free ([PlayStation: GTA VI page](https://www.playstation.com/en-us/games/grand-theft-auto-vi/)). PS5: **Settings > Storage**. Xbox: **Profile & system > Settings > System > Storage devices**.
 - **Right account.** Use the account that bought the game or entered the box code.
 - **Status pages.** [PlayStation Network status](https://status.playstation.com) and [Xbox status](https://support.xbox.com/en-US/xbox-live-status). If you see an alert, wait.
 - **System software.** PS5: **Settings > System > System Software > System Software Update and Settings**.

@@ -30,12 +30,12 @@ sources:
 updated: 2026-11-18
 status: prelaunch
 spoilers: none
-qa: passed
+qa: live-review
 ---
 
 # GTA 6 Pre-Load: 212 GB Size, Start Times, Fixes (2026)
 
-> - **Quick answer:** The GTA 6 pre-load is **up to 212 GB**. PlayStation says to keep **at least 212 GB free** on PS5.
+> - **Quick answer:** The GTA 6 pre-load is **up to 212 GB**. PlayStation says to keep **at least 212 GB free** on PS5 ([PlayStation: GTA VI page](https://www.playstation.com/en-us/games/grand-theft-auto-vi/)).
 > - **Pre-load (downloading the game early) opened on 10 Nov 2026.** Boxed copies have a **download code, not a disc**, and reached shops on **12 Nov**.
 > - **It stays locked until midnight in your time zone on 19 Nov.** Pre-loading does not let you play early. See the [release time table](/launch-hub/release-time/).
 
@@ -47,7 +47,7 @@ qa: passed
 1. Go to the home screen.
 2. Open **Settings**.
 3. Select **Storage**.
-4. Read the free space. Keep **at least 212 GB free** (PlayStation's advice). Take extra for patches.
+4. Read the free space. Keep **at least 212 GB free** ([PlayStation: GTA VI page](https://www.playstation.com/en-us/games/grand-theft-auto-vi/)). Take extra for patches.
 
 **Xbox Series X|S** *(general Xbox menu path, check the names on your console)*
 1. Press the **Xbox button** on your controller.

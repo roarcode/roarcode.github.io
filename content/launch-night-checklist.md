@@ -20,7 +20,7 @@ sources:
 updated: 2026-11-18
 status: prelaunch
 spoilers: none
-qa: passed
+qa: live-review
 ---
 
 # GTA 6 Launch Night Checklist: Be Ready by Midnight
@@ -52,7 +52,7 @@ Stuck? See [the download fix steps](/launch-hub/preload-size/).
 
 1. **PS5:** open **Settings > Storage**.
 2. **Xbox:** press the **Xbox button**, open **Profile & system > Settings > System > Storage devices**.
-3. Keep **at least 212 GB free** (PlayStation's advice) for the game, plus a gap for updates.
+3. Keep **at least 212 GB free** ([PlayStation: GTA VI page](https://www.playstation.com/en-us/games/grand-theft-auto-vi/)) for the game, plus a gap for updates.
 
 ![storage screen with free space](TODO: image:launch-night-checklist-step-2 — menu screen, PS5 and Xbox storage screens side by side with free space circled)
 *Caption: Menu screen. Where to read your free space on PS5 and Xbox.*

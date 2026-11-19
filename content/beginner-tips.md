@@ -22,12 +22,12 @@ sources:
 updated: 2026-11-18
 status: prelaunch
 spoilers: minor
-qa: passed
+qa: live-review
 ---
 
 # GTA 6 Beginner Tips: Start Strong in 2026
 
-> - **Quick answer:** Before you play: **at least 212 GB free** (PlayStation), pre-load done, controller charged. In game: Rockstar is targeting **30 FPS**, and previews describe **six-star wanted levels**.
+> - **Quick answer:** Before you play: **at least 212 GB free** ([PlayStation: GTA VI page](https://www.playstation.com/en-us/games/grand-theft-auto-vi/)), pre-load done, controller charged. In game: Rockstar is targeting **30 FPS**, and previews describe **six-star wanted levels**.
 > - **Three labels:** *Confirmed* = an official source. *Reported* = a reputable outlet or preview. *Based on previous GTA games* = old habits that may change in GTA 6.
 > - **Button names and exact menus are not announced yet.** We will fill them in after launch. We will not guess.
 
@@ -35,7 +35,7 @@ qa: passed
 
 ## Before you start (Confirmed)
 
-1. **Keep at least 212 GB free** (PlayStation's advice). PS5: **Settings > Storage**. Xbox: **Xbox button > Profile & system > Settings > System > Storage devices**. See [pre-load steps](/launch-hub/preload-size/).
+1. **Keep at least 212 GB free** ([PlayStation: GTA VI page](https://www.playstation.com/en-us/games/grand-theft-auto-vi/)). PS5: **Settings > Storage**. Xbox: **Xbox button > Profile & system > Settings > System > Storage devices**. See [pre-load steps](/launch-hub/preload-size/).
 2. **Finish the pre-load.** PS5: **PS button > Downloads/Uploads**. Xbox: **Xbox button > My games & apps > Queue**.
 3. **Turn on Rest Mode downloads (PS5).** **Settings > Saved Data and Game/App Settings > Automatic Updates > Auto-Install in Rest Mode**.
 4. **Share the console?** PS5: **Settings > Users and Accounts > Other > Console Sharing and Offline Play > Enable**.

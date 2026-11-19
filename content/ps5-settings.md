@@ -29,7 +29,7 @@ sources:
 updated: 2026-11-18
 status: prelaunch
 spoilers: none
-qa: passed
+qa: live-review
 ---
 
 # GTA 6 on PS5 and PS5 Pro: What Is Confirmed (2026)
@@ -53,7 +53,7 @@ qa: passed
 | Controller | DualSense haptics and adaptive triggers, adjustable in accessibility settings | Rockstar via GamesRadar, PlayStation Blog |
 | Sound | Tempest 3D Audio | PlayStation Blog |
 | Loading | Faster loads from the PS5 SSD | PlayStation Blog |
-| Space | At least 212 GB free | PlayStation |
+| Space | At least 212 GB free | [PlayStation: GTA VI page](https://www.playstation.com/en-us/games/grand-theft-auto-vi/) |
 | Remote Play | Supported on PlayStation and Xbox | Game Informer |
 
 ## PS5 vs PS5 Pro
@@ -158,7 +158,7 @@ Rockstar is targeting 30 FPS. No 60 FPS or performance mode has been announced.
 PSSR (sharper picture) and ray-traced shadows.
 
 ### How much space do I need?
-At least 212 GB free (PlayStation).
+At least 212 GB free ([PlayStation: GTA VI page](https://www.playstation.com/en-us/games/grand-theft-auto-vi/)).
 
 ### Is there a performance mode?
 No. TechRadar says there are no graphics modes on PS5 or Xbox.
