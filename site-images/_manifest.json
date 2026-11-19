@@ -1903,5 +1903,29 @@
     "bytes": 26452,
     "alt": "Our diagram: Spend in this order. Mods. Garage. Savings. Registration. Not a game screenshot.",
     "type": "step-card"
+  },
+  "gta-6-criminal-profile-step-1": {
+    "file": "gta-6-criminal-profile-step-1.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 29262,
+    "alt": "Our diagram: where to look. Hold right on the d-pad, then check the icon next to each character's picture.",
+    "type": "compare-table"
+  },
+  "gta-6-criminal-profile-step-2": {
+    "file": "gta-6-criminal-profile-step-2.webp",
+    "width": 1200,
+    "height": 748,
+    "bytes": 33122,
+    "alt": "Our diagram: the 5 levels as a ladder from Professional (yellow) at the top to Irredeemable (dark grey) at the bottom, with a lock on the last step.",
+    "type": "compare-table"
+  },
+  "gta-6-criminal-profile-step-3": {
+    "file": "gta-6-criminal-profile-step-3.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 33786,
+    "alt": "Our diagram: 4 good habits: aim low, knock out, sneak, be kind to animals.",
+    "type": "compare-table"
   }
 }

@@ -42,10 +42,9 @@ Rockstar's Rob Nelson says there is no right or wrong way to play. But he says "
 
 GamesRadar gives two ways ([GamesRadar](https://www.gamesradar.com/games/grand-theft-auto/gta-6-criminal-profiles/)):
 
-1. **Quick look:** hold **right on the d-pad**. This works the same on PS5 and Xbox.
+1. **Quick look:** hold **right on the d-pad**.
 2. Look at the small icon next to Jason's or Lucia's picture.
-3. **Full view:** pause the game. Press **Options** (PS5) or **Menu** (Xbox).
-4. Open the **Jason & Lucia** menu.
+3. **Full view:** open the **Jason & Lucia** menu.
 
 ![Our diagram: where to look. Hold right on the d-pad, then check the icon next to each character's picture.](TODO: image:gta-6-criminal-profile-step-1 — diagram, our own art: a controller with the d-pad right arrow highlighted and two round profile pictures with a small icon beside each)
 *Caption: Diagram. Hold right on the d-pad for a quick look at both profiles.*
