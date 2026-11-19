@@ -23,11 +23,11 @@ sources:
   - https://x.com/Vicecitydailyvi/status/2123030813016985996
   - https://www.numerama.com/pop-culture/2378315-timing-terrible-le-playstation-network-flanche-a-quelques-heures-de-la-sortie-de-gta-6.html
   - https://www.haberler.com/haber/playstation-network-coktu-mu-playstation-psn-20440366-haberi/
-updated: 2026-11-18
+updated: 2026-11-19
 status: stub
 publish: true
 spoilers: none
-qa: passed
+qa: live-review
 ---
 
 # GTA 6 Not Working? Servers Down Check and 7 Fixes
@@ -46,6 +46,15 @@ qa: passed
 4. If any page shows a problem, stop. Nothing you change on your console fixes a server problem. Try again later.
 
 > **Status check, 18 Nov 2026 at 13:50 CET:** the [Xbox status page](https://support.xbox.com/en-US/xbox-live-status) showed no problems. PlayStation's US status page showed no alerts, and its Europe page showed only an older Russia-only alert from 11 Nov. The Rockstar status page did not load for us, so check it yourself. Insider Gaming wrote on 18 Nov that GTA 6 had no performance or network problems at the time it wrote. Rockstar has not posted any GTA VI "known issues" list or fix yet ([Insider Gaming](https://insider-gaming.com/is-grand-theft-auto-6-down-gta-6-issues-explained/)).
+
+> **PSN problems, 19 Nov 2026 (live now):** since **06:33 CET**, [PlayStation's status page](https://status.playstation.com) shows **"Gaming and Social: Degraded"** for PS5 and PS4 in the Americas, and since **06:34 CET** in Europe. Its message says: "You might have difficulty launching games, apps or network features. We're working to resolve the issue as soon as possible. Thank you for your patience." In Europe it also shows a **PlayStation Store outage**: "You might have difficulty getting products in PlayStation Store." We checked at **06:40 CET** and both alerts were still there. Sony has not said what caused it.
+>
+> **Player reports (unconfirmed):** at the same time, some PS5 players say GTA VI will not start. Some see "Can't use this content. Your license is being verified. Try again later." ([@SJCFutures on X](https://x.com/SJCFutures/status/2123282165203185685)). Others say they are stuck at the title screen with a "servers busy" message ([@SJCFutures on X](https://x.com/SJCFutures/status/2123282165203185685); [r/GTAVI thread](https://www.reddit.com/r/GTAVI/comments/1y014lq/anyone_else_stuck_at_title_screen_with_servers/)). Rockstar has not posted about it yet.
+>
+> **What to do:**
+> 1. Open [status.playstation.com](https://status.playstation.com). If it still shows an alert, wait. The problem is on Sony's side.
+> 2. Do **not** delete the game. Deleting it means you have to download the whole game again.
+> 3. Try again in 15 to 30 minutes.
 
 > **PSN problems, 18 Nov 2026 (Sony's alert has now cleared):** on Wednesday evening, many PlayStation players reported that they could not sign in or connect. Reports on Downdetector jumped at about **19:05 CET** ([Numerama](https://www.numerama.com/pop-culture/2378315-timing-terrible-le-playstation-network-flanche-a-quelques-heures-de-la-sortie-de-gta-6.html)). Complaints rose in the afternoon and peaked in the evening ([Haberler](https://www.haberler.com/haber/playstation-network-coktu-mu-playstation-psn-20440366-haberi/)).
 >
@@ -127,6 +136,7 @@ Not announced on any page we checked. The PlayStation Store lists it as a single
 
 | Date | What changed |
 |---|---|
+| 2026-11-19 06:40 CET | New PSN box: Sony status page shows "Gaming and Social: Degraded" (Americas 06:33 CET, Europe 06:34 CET) and a Europe PlayStation Store outage; player reports of license-verification and "servers busy" errors, marked unconfirmed. |
 | 2026-11-18 20:38 CET | PSN box: Sony status alert no longer shown at 20:38 CET check (Europe, US). |
 | 2026-11-18 20:15 CET | PSN box: Sony status page now shows "Gaming and Social: Degraded" since 19:58 CET (checked 20:14 CET). Fixed credits (19:05 CET time is from Numerama). |
 | 2026-11-18 19:37 CET | Added evening PSN sign-in/connection reports (Numerama, Haberler), marked as reports. |
