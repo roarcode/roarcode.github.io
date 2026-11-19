@@ -8,17 +8,19 @@ slug: gta-6-physical-edition-code-in-box
 category: glitches
 description: "GTA 6 physical edition has no disc, only a download code. How to redeem it on PS5 and who to ask if the code is missing, unreadable or already used."
 sources:
+  - https://timesofmalta.com/article/grand-theft-agius-saliba-says-discless-video-games-threaten.1137305
+  - https://www.maltatoday.com.mt/news/europe/145804/agius_saliba_questions_whether_gamers_truly_own_the_games_they_purchase_ahead_of_gta_vi_release
   - https://www.playstation.com/en-us/support/games/gta-vi-support/
   - https://www.reddit.com/r/GTA6/comments/1ugfufg/grand_theft_auto_vi_preorder_purchase_support_faq/
   - https://x.com/thyGeekdom/status/2122362810227388677
   - https://x.com/WantedLevelgg/status/2122342041992798409
   - https://x.com/letstalkgizmo/status/2122691234342805531
   - https://x.com/RockstarGames/status/2120909499200421900
-updated: 2026-11-18
+updated: 2026-11-19
 status: prelaunch
 publish: true
 spoilers: none
-qa: passed
+qa: live-review
 ---
 
 # GTA 6 Code-in-Box: How to Redeem and Fix Code Problems
@@ -66,6 +68,14 @@ If you ordered online, check that the order went through. PlayStation's steps:
 ![Flow chart: missing code goes to the shop, Rockstar Store goes to Xsolla](TODO: image:gta-6-physical-edition-code-in-box-step-3 — diagram, our own art: three boxes, Missing code > shop; Rockstar Store order > Xsolla; account problem > PlayStation Support)
 *Caption: Diagram. Who to contact for each problem.*
 
+## In the news: an EU politician asks about boxes with no disc
+
+On 18 Nov 2026, Maltese MEP **Alex Agius Saliba** wrote to the European Commission about games sold in a box with only a download code inside, with GTA VI as the example ([Times of Malta](https://timesofmalta.com/article/grand-theft-agius-saliba-says-discless-video-games-threaten.1137305)). An *MEP* is a member of the European Parliament.
+
+- **What he asks for:** clear labels that say if a box has a disc or only a code, and the right to buy, sell, lend and keep playing games you paid for ([Times of Malta](https://timesofmalta.com/article/grand-theft-agius-saliba-says-discless-video-games-threaten.1137305)).
+- **Why:** he says a digital purchase is only "a revocable license", so you can lose a game if servers shut down ([Times of Malta](https://timesofmalta.com/article/grand-theft-agius-saliba-says-discless-video-games-threaten.1137305)).
+- **What it means for you today:** nothing changes yet. It is a letter asking for an investigation, not a new law ([MaltaToday](https://www.maltatoday.com.mt/news/europe/145804/agius_saliba_questions_whether_gamers_truly_own_the_games_they_purchase_ahead_of_gta_vi_release)). Your code still works the same way.
+
 ## What players report (not confirmed)
 
 > **Rumour / unconfirmed:** some boxes came with missing or already-used codes, and some stores refunded or sent buyers elsewhere. Rockstar has not confirmed a wider problem. Source: https://x.com/thyGeekdom/status/2122362810227388677
@@ -102,6 +112,7 @@ Xsolla, according to Rockstar's support article.
 
 | Date | What changed |
 |---|---|
+| 2026-11-19 09:15 CET | Added news: Maltese MEP's letter to the European Commission about disc-free boxed games (Times of Malta, MaltaToday). |
 | 2026-11-18 | Page created from PlayStation Support and Rockstar's purchase support article. |
 
 ---
