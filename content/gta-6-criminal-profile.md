@@ -61,8 +61,8 @@ PC Gamer lists the levels from best to worst. Each one has its own coloured icon
 | **Psycho** | Light grey | Kill lots of police, helpless people and pets or defenceless animals. Hunting does not count. | Headshots fill your focus meter, but you **can't surrender** to the police. |
 | **Irredeemable** | Dark grey | Stay Psycho for too long. | None listed. It is **permanent**. |
 
-![Our diagram: the 5 levels as a ladder from Professional (yellow) at the top to Irredeemable (dark grey) at the bottom, with a lock on the last step.](TODO: image:gta-6-criminal-profile-step-2 — diagram, our own art: a 5-step ladder in the five icon colours, the bottom step locked)
-*Caption: Diagram. You can climb up and down the top 4 steps. The bottom one locks.*
+![Our diagram: a table of the 5 levels with each icon colour, from Professional (yellow) to Irredeemable (dark grey), and whether you can leave each one.](TODO: image:gta-6-criminal-profile-step-2 — diagram, our own art: a table of the 5 levels with icon colour and whether you can leave each one)
+*Caption: Diagram. You can move between the first 4 levels. Irredeemable is permanent.*
 
 **Sources disagree on one name.** An earlier preview reported by PC Gamer called the second level **Aggressive**, not Hardened ([PC Gamer preview report](https://www.pcgamer.com/games/grand-theft-auto/gta-6s-criminal-profile-system-sounds-pretty-interesting-isnt-a-direct-copy-of-red-deads-honor-system/)). PC Gamer's newer guide and GamesRadar both say **Hardened**.
 
