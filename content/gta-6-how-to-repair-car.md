@@ -15,8 +15,7 @@ updated: 2026-11-19
 status: live
 publish: true
 spoilers: minor
-qa: pending
-draft: true
+qa: passed
 ---
 
 # How to Repair Your Car in GTA 6 (and Why It Won't Fix)
