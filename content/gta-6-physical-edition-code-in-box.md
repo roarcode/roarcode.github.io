@@ -78,9 +78,9 @@ On 18 Nov 2026, Maltese MEP **Alex Agius Saliba** wrote to the European Commissi
 
 ## What players report (not confirmed)
 
-> **Rumour / unconfirmed:** some boxes came with missing or already-used codes, and some stores refunded or sent buyers elsewhere. Rockstar has not confirmed a wider problem. Source: https://x.com/thyGeekdom/status/2122362810227388677
+> **Rumour / unconfirmed:** some boxes came with missing or already-used codes, and some stores refunded or sent buyers elsewhere. Rockstar has not confirmed a wider problem. Source: [@thyGeekdom on X](https://x.com/thyGeekdom/status/2122362810227388677)
 
-> **Rumour / unconfirmed:** an imported code-in-box copy may not redeem on a PSN account from another country. Nobody official has confirmed this. Source: https://x.com/letstalkgizmo/status/2122691234342805531
+> **Rumour / unconfirmed:** an imported code-in-box copy may not redeem on a PSN account from another country. Nobody official has confirmed this. Source: [@letstalkgizmo on X](https://x.com/letstalkgizmo/status/2122691234342805531)
 
 ## Upgrading to Ultimate
 

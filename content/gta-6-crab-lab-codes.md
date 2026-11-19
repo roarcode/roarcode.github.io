@@ -38,7 +38,7 @@ The Big Lead's Kirk McKeand says it is a research base with "bizarre crab experi
 
 ## How to solve it, step by step
 
-Want to try it yourself first? Turn on **Focus mode** (press **L3 and R3** together on PS5, or **left stick and right stick** together on Xbox) to make clues stand out ([PC Gamer](https://www.pcgamer.com/games/grand-theft-auto/gta-6-safe-codes-combinations/) gives the PS5 buttons). The lab has a main yard, a house in the middle, an outer building full of crabs, and a locked building at the end of a dock.
+Want to try it yourself first? Turn on **Focus mode** (press **L3 and R3** together on PS5) to make clues stand out ([PC Gamer](https://www.pcgamer.com/games/grand-theft-auto/gta-6-safe-codes-combinations/) gives the PS5 buttons). The lab has a main yard, a house in the middle, an outer building full of crabs, and a locked building at the end of a dock.
 
 :::spoiler Step 1: turn on the power
 1. Walk into the main yard.
@@ -83,7 +83,7 @@ The Big Lead says it is a long gun, so you have to **store it in your car's boot
 
 ## Is there more money? (reports)
 
-Some players say there is more. A post from [@viceovertime on X](https://x.com/viceovertime/status/2123329309733700036), sharing a clip from TikTok creator @mislead, says the lab also has a bag of **marked bills worth about $10,000**. The Big Lead does not mention this bag, so treat it as a **report** for now. Marked bills are not clean cash yet. You sell them at a fence, see [GTA 6 fences and stash bags](/money/gta-6-fences-stash-bags/).
+Some players say there is more. A post from [@viceovertime on X](https://x.com/viceovertime/status/2123329309733700036), sharing a clip from TikTok creator @mislead, says the lab also has a **duffel bag with $10K** in it. The Big Lead does not mention this bag, so treat it as a **report** for now. Marked bills are not clean cash yet. You sell them at a fence, see [GTA 6 fences and stash bags](/money/gta-6-fences-stash-bags/).
 
 ## FAQ
 
@@ -91,7 +91,7 @@ Some players say there is more. A post from [@viceovertime on X](https://x.com/v
 In the southwest of the Pelican Valley swamps, just north of the Keys (The Big Lead).
 
 ### What do you get?
-Just over $1,000 from the safe and a special SMG from the dock building (The Big Lead). A $10,000 bag of marked bills is only a player report so far.
+Just over $1,000 from the safe and a special SMG from the dock building (The Big Lead). A duffel bag with $10K is only a player report so far.
 
 ### Do I need to do a mission first?
 No source says so. The Big Lead calls it an early game surprise.
