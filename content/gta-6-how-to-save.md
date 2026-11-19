@@ -12,11 +12,12 @@ sources:
   - https://www.gamespot.com/articles/how-do-you-save-your-game-in-gta-6/
   - https://www.keengamer.com/articles/guides/how-to-save-in-gta-6-manual-saves-autosave-and-safehouses/
   - https://www.gamespot.com/articles/gta-6-tips-everything-i-wish-i-knew-before-i-started-playing/
-updated: 2026-11-18
+  - https://www.notebookcheck.net/GTA-6-PS5-and-Xbox-crashes-are-losing-hours-of-progress-despite-autosave-system.1453724.0.html
+updated: 2026-11-19
 status: live
 publish: true
 spoilers: minor
-qa: passed
+qa: live-review
 ---
 
 # How to Save in GTA 6: Manual Save, Autosave, Slots
@@ -90,6 +91,19 @@ There is no mission replay in GTA 6. Read [Can you replay missions in GTA 6?](/b
 - **Autosave overwrote what you wanted.** KeenGamer says to open **Game**, then **Load Game**, and pick your newest manual save (unconfirmed). PC Gamer confirms you can load from the Game menu.
 - **Cloud backup.** KeenGamer says PS5 saves can back up to PlayStation Plus cloud storage and Xbox Series X|S saves sync to the cloud on their own. Unconfirmed. We have not checked this ourselves.
 
+## Lost progress after a crash?
+
+Some players on PS5 and Xbox report crashes on launch day that sent them back hours. These are player reports, and Rockstar has not explained the cause ([Notebookcheck](https://www.notebookcheck.net/GTA-6-PS5-and-Xbox-crashes-are-losing-hours-of-progress-despite-autosave-system.1453724.0.html)).
+
+1. Do not start a new game yet.
+2. Open the pause menu and choose **Game**, then **Load Game**. Notebookcheck says the **Save Game** menu does not show autosaves, so look in **Load Game** instead.
+3. Pick the newest save you can see.
+
+To lose less next time:
+
+1. Make a **manual save** after each mission. Notebookcheck says Rockstar has not confirmed how often the game autosaves, and that the prologue and some mission checkpoints do not trigger an autosave.
+2. Use more than one slot. Each autosave replaces the last one (GameSpot), so a spare manual save is your backup.
+
 ## FAQ
 
 ### How do you save in GTA 6?
@@ -110,6 +124,7 @@ Yes. Each autosave overwrites the previous one (GameSpot). Exactly when it trigg
 |---|---|
 | 2026-11-18 | Page created from KeenGamer and GameSpot. |
 | 2026-11-18 | Key facts re-sourced to PC Gamer and GameSpot. Single-source details marked unconfirmed. |
+| 2026-11-19 | Added "Lost progress after a crash?" from Notebookcheck (12:50 CET). |
 
 ---
 *Unofficial fan site, not affiliated with Rockstar Games or Take-Two.*
