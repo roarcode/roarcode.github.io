@@ -12,7 +12,7 @@ sources:
   - https://gamerant.com/gta-6-online-single-player-rockstar-take-two-comments/
   - https://www.gamespot.com/articles/gta-6s-big-reveal-all-the-things-we-learned/
   - https://www.pcgamer.com/games/grand-theft-auto/gta-6-guide/
-updated: 2026-11-18
+updated: 2026-11-19
 status: prelaunch
 spoilers: none
 qa: passed
@@ -68,6 +68,12 @@ Not announced. Any date you see online is a rumour.
 
 ### Can I play GTA Online now?
 Yes, in GTA 5, which is still supported.
+
+### Can I play GTA 6 offline?
+Yes. [PlayStation's GTA VI page](https://www.playstation.com/en-us/games/grand-theft-auto-vi/) lists "Offline play enabled". The same page says some features may need an internet connection.
+
+### Does GTA 6 have co-op?
+No co-op is listed. [PlayStation's GTA VI page](https://www.playstation.com/en-us/games/grand-theft-auto-vi/) says "1 player".
 
 ### Does GTA 6 have microtransactions?
 Rockstar said none at launch, in an interview. PlayStation's page says in-game purchases are optional.

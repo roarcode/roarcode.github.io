@@ -23,7 +23,7 @@ updated: 2026-11-18
 status: stub
 publish: true
 spoilers: none
-qa: live-review
+qa: passed
 ---
 
 # GTA 6 Download Stuck? 8 Fixes for PS5 and Xbox (2026)
