@@ -83,7 +83,7 @@ The Big Lead says it is a long gun, so you have to **store it in your car's boot
 
 ## Is there more money? (reports)
 
-Some players say there is more. A post from [@viceovertime on X](https://x.com/viceovertime/status/2123329309733700036), sharing a clip from TikTok creator @mislead, says the lab also has a **duffel bag with $10K** in it. The Big Lead does not mention this bag, so treat it as a **report** for now. Marked bills are not clean cash yet. You sell them at a fence, see [GTA 6 fences and stash bags](/money/gta-6-fences-stash-bags/).
+Some players say there is more. A post from [@viceovertime on X](https://x.com/viceovertime/status/2123329309733700036), sharing a clip from TikTok creator @mislead, says the lab also has a **duffel bag with $10K** in it. The Big Lead does not mention this bag, so treat it as a **report** for now.
 
 ## FAQ
 
