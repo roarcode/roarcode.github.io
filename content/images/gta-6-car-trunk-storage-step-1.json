@@ -1,0 +1,29 @@
+{
+  "type": "info-cards",
+  "alt": "Our diagram: Open the trunk. Walk to the back of your own car. Press Triangle or Y. Hold L1 or LB for the loadout. Not a game screenshot.",
+  "data": {
+    "category": "vehicles",
+    "title": "Open the trunk",
+    "cols": 3,
+    "card_height": 240,
+    "cards": [
+      {
+        "title": "Walk to your car",
+        "body": "Go to the back of your own Personal Vehicle.",
+        "status": "none"
+      },
+      {
+        "title": "Triangle / Y",
+        "body": "Opens the trunk.",
+        "status": "none"
+      },
+      {
+        "title": "Hold L1 / LB",
+        "body": "Opens your loadout.",
+        "status": "none"
+      }
+    ],
+    "note": "Our drawing, not a game screenshot. Sources are on the page.",
+    "banner": "Our diagram, not a game screenshot"
+  }
+}

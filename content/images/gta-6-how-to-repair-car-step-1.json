@@ -1,0 +1,34 @@
+{
+  "type": "info-cards",
+  "alt": "Our diagram: Engine icon colours. Green: fine. Orange: moderate damage. Red: critical. Red cross: destroyed. Not a game screenshot.",
+  "data": {
+    "category": "vehicles",
+    "title": "Engine icon colours",
+    "cols": 4,
+    "card_height": 240,
+    "cards": [
+      {
+        "title": "Green",
+        "body": "Fine.",
+        "status": "none"
+      },
+      {
+        "title": "Orange",
+        "body": "Moderate damage.",
+        "status": "none"
+      },
+      {
+        "title": "Red",
+        "body": "Critical.",
+        "status": "none"
+      },
+      {
+        "title": "Red cross",
+        "body": "Destroyed.",
+        "status": "none"
+      }
+    ],
+    "note": "Our drawing, not a game screenshot. Sources are on the page.",
+    "banner": "Our diagram, not a game screenshot"
+  }
+}

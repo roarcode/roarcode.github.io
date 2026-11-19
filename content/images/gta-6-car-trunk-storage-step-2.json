@@ -1,0 +1,29 @@
+{
+  "type": "info-cards",
+  "alt": "Our diagram: Two tabs. Weapons: sidearms, longarms, melee, explosives. Items: masks, outfits, bags and more. Switch tabs with R1 or RB. Not a game screenshot.",
+  "data": {
+    "category": "vehicles",
+    "title": "Two tabs",
+    "cols": 3,
+    "card_height": 240,
+    "cards": [
+      {
+        "title": "Weapons",
+        "body": "Sidearms, longarms, melee, explosives.",
+        "status": "none"
+      },
+      {
+        "title": "Items",
+        "body": "Masks, outfits, bags and more.",
+        "status": "none"
+      },
+      {
+        "title": "R1 / RB",
+        "body": "Switch tabs.",
+        "status": "none"
+      }
+    ],
+    "note": "Our drawing, not a game screenshot. Sources are on the page.",
+    "banner": "Our diagram, not a game screenshot"
+  }
+}

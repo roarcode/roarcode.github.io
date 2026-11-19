@@ -1,0 +1,24 @@
+{
+  "type": "info-cards",
+  "alt": "Our diagram: Where to fix it. Pay 'n' Spray or Mod Shop: fixes big damage. Gas station: small damage only, costs more. Not a game screenshot.",
+  "data": {
+    "category": "vehicles",
+    "title": "Where to fix it",
+    "cols": 2,
+    "card_height": 240,
+    "cards": [
+      {
+        "title": "Pay 'n' Spray or Mod Shop",
+        "body": "Fixes big damage.",
+        "status": "none"
+      },
+      {
+        "title": "Gas station",
+        "body": "Small damage only, costs more.",
+        "status": "none"
+      }
+    ],
+    "note": "Our drawing, not a game screenshot. Sources are on the page.",
+    "banner": "Our diagram, not a game screenshot"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "info-cards",
+  "alt": "Our diagram: Ammu-Nation locker to trunk. Find the shop in the Index. Use the weapons locker. Send guns to your car. Not a game screenshot.",
+  "data": {
+    "category": "vehicles",
+    "title": "Ammu-Nation locker to trunk",
+    "cols": 3,
+    "card_height": 240,
+    "cards": [
+      {
+        "title": "Find the shop",
+        "body": "GTA 6 Index, Weapons tab.",
+        "status": "none"
+      },
+      {
+        "title": "Weapons locker",
+        "body": "Inside every Ammu-Nation.",
+        "status": "none"
+      },
+      {
+        "title": "Send to car",
+        "body": "Guns go to your trunk.",
+        "status": "none"
+      }
+    ],
+    "note": "Our drawing, not a game screenshot. Sources are on the page.",
+    "banner": "Our diagram, not a game screenshot"
+  }
+}

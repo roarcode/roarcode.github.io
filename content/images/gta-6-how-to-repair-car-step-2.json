@@ -1,0 +1,29 @@
+{
+  "type": "info-cards",
+  "alt": "Our diagram: Find a garage. Open the GTA 6 Index. Vehicles tab. Pay 'n' Spray or Mod Shops. Not a game screenshot.",
+  "data": {
+    "category": "vehicles",
+    "title": "Find a garage",
+    "cols": 3,
+    "card_height": 240,
+    "cards": [
+      {
+        "title": "GTA 6 Index",
+        "body": "Open it from the menu.",
+        "status": "none"
+      },
+      {
+        "title": "Vehicles tab",
+        "body": "Go to this tab.",
+        "status": "none"
+      },
+      {
+        "title": "Pay 'n' Spray / Mod Shops",
+        "body": "Nearest is listed first.",
+        "status": "none"
+      }
+    ],
+    "note": "Our drawing, not a game screenshot. Sources are on the page.",
+    "banner": "Our diagram, not a game screenshot"
+  }
+}
