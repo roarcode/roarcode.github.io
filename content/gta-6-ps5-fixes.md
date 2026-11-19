@@ -17,7 +17,7 @@ sources:
   - https://gameinformer.com/2026/11/10/grand-theft-auto-vi-will-run-at-30-fps-on-all-consoles-but-ps5-pro-will-feature-improved
   - https://support.rockstargames.com/
   - https://www.playstation.com/en-gb/support/error-codes/ps5/ce-108255-1/
-updated: 2026-11-18
+updated: 2026-11-19
 status: stub
 publish: true
 spoilers: none
@@ -31,6 +31,8 @@ qa: passed
 > - **Not a bug:** Rockstar targets **30 frames per second** on every console, so 30 fps is by design (Game Informer).
 
 **Words used on this page.** *Safe Mode* is a special start-up menu for fixing problems. *Database* is the list of what is on your console. *fps* means frames per second: how many pictures the game draws each second.
+
+> **19 Nov, 06:40 CET:** [PlayStation's status page](https://status.playstation.com) shows a PSN problem with launching games in Europe and the Americas right now. If you see "Your license is being verified" (players report this, [@SJCFutures on X](https://x.com/SJCFutures/status/2123282165203185685)), wait and try again later. Do **not** delete the game. More in [GTA 6 not working](/glitches/gta-6-not-working/).
 
 ## The 9 steps (from PlayStation support)
 
