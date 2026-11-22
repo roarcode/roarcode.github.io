@@ -17,7 +17,7 @@ updated: 2026-11-19
 status: live
 publish: true
 spoilers: minor
-qa: live-review
+qa: passed
 ---
 
 # How to Save in GTA 6: Manual Save, Autosave, Slots
