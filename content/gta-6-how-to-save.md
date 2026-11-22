@@ -124,7 +124,7 @@ Yes. Each autosave overwrites the previous one (GameSpot). Exactly when it trigg
 |---|---|
 | 2026-11-18 | Page created from KeenGamer and GameSpot. |
 | 2026-11-18 | Key facts re-sourced to PC Gamer and GameSpot. Single-source details marked unconfirmed. |
-| 2026-11-19 | Added "Lost progress after a crash?" from Notebookcheck (12:50 CET). |
+| 2026-11-19 | Added "Lost progress after a crash?" from Notebookcheck (12:45 CET). |
 
 ---
 *Unofficial fan site, not affiliated with Rockstar Games or Take-Two.*
