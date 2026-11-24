@@ -1,10 +1,11 @@
 {
   "type": "menu-mock",
-  "alt": "Illustration of a controls menu with three layouts: Default, Classic and Left-Handed. Not an in-game screenshot.",
+  "alt": "Illustration of a Control Scheme menu with three layouts: Default, Classic and Left-Handed. Not an in-game screenshot.",
   "data": {
     "category": "ps5",
+    "category_label": "Controls",
     "title": "3 button layouts to pick from",
-    "panel_title": "Controls \u2014 illustration",
+    "panel_title": "Control Scheme",
     "highlightRow": 1,
     "rows": [
       {
@@ -20,6 +21,6 @@
         "value": "Sides swapped"
       }
     ],
-    "note": "Illustration, not an in-game screenshot. Layout names from Shacknews."
+    "note": "Illustration, not an in-game screenshot. Layout names from Shacknews. Path from Engadget and GamesRadar+."
   }
 }

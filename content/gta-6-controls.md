@@ -15,6 +15,9 @@ sources:
   - https://www.gamespot.com/articles/gta-6-all-the-secret-controls-and-gameplay-features-you-might-have-missed/
   - https://www.gamespot.com/articles/how-to-listen-to-music-and-podcasts-on-your-phone-in-gta-6/
   - https://www.gamespot.com/articles/how-to-play-golf-and-mini-golf-in-gta-6/
+  - https://www.gamespot.com/articles/gta-6-tips-everything-i-wish-i-knew-before-i-started-playing/
+  - https://www.engadget.com/2323542/change-these-settings-if-you-want-gta-6-to-feel-like-old-gta/
+  - https://www.gamesradar.com/games/grand-theft-auto/gta-6-classic-controls/
   - https://gameinformer.com/2026/11/10/grand-theft-auto-vi-will-run-at-30-fps-on-all-consoles-but-ps5-pro-will-feature-improved
   - https://x.com/IGN/status/2122811762194199016
 updated: 2026-11-24
@@ -45,7 +48,7 @@ qa: live-review
 5. Press **Triangle** (Xbox: **Y**) to get out. Double-tap it if you want the engine to stay on (see hidden shortcuts).
 
 ![Driving buttons table](TODO: image:gta-6-controls-step-1 — table, our own art: driving jobs with PS5 and Xbox buttons)
-*Caption: Table. The driving buttons in the default layout.*
+*Caption: Table. The six main driving buttons (full list below).*
 
 | Job in a car or boat | PS5 | Xbox (same spot) |
 |---|---|---|
@@ -78,7 +81,7 @@ qa: live-review
 5. Press **R1** (Xbox: **RB**) to hide behind cover.
 
 ![On-foot buttons table](TODO: image:gta-6-controls-step-2 — table, our own art: on-foot jobs with PS5 and Xbox buttons)
-*Caption: Table. Run, jump, crouch, cover, aim and shoot.*
+*Caption: Table. The six main on-foot buttons: run, jump, crouch, cover, aim and shoot (full list below).*
 
 | Job on foot | PS5 | Xbox (same spot) |
 |---|---|---|
@@ -99,9 +102,11 @@ qa: live-review
 | Pause | Options | Menu |
 | Look behind | Hold R3 | Hold RS |
 
+The pause button is **Options** on PS5 and **Menu** on Xbox ([GamesRadar+](https://www.gamesradar.com/games/grand-theft-auto/gta-6-classic-controls/), [Engadget](https://www.engadget.com/2323542/change-these-settings-if-you-want-gta-6-to-feel-like-old-gta/)). [Shacknews](https://www.shacknews.com/article/151396/gta6-ps5-controls) lists this button as Select.
+
 ## Fighting and aiming
 
-- **Aiming:** Hold **L2** (LT) to aim. Hold **R1** (RB) to throw quickly. Press **Triangle** (Y) to swap weapons fast. Hold **D-pad left** to look over your other shoulder. While aiming, press **R3** (RS) to use a scope or tighten your shot (Shacknews, PC Gamer). Tap **Cross** (A) while aiming to roll (GameSpot).
+- **Aiming:** Hold **L2** (LT) to aim. Hold **R1** (RB) to throw quickly. Press **Triangle** (Y) to swap weapons fast. To look over your other shoulder, Shacknews and GameSpot say **hold D-pad left**; PC Gamer says **press** it. While aiming, press **R3** (RS) to use a scope or tighten your shot (Shacknews, PC Gamer). Tap **Cross** (A) while aiming to roll (GameSpot).
 - **Fist fights:** **Square** (X) punches or kicks, **Cross** (A) blocks or dodges, **R2** (RT) grabs, and holding **L2** (LT) locks on.
 
 ## Hidden shortcuts (default layout)
@@ -112,7 +117,7 @@ These only match the **default** controller layout. If you switched to Classic o
 |---|---|---|
 | Get out and leave the engine on | Double-tap **Triangle** / **Y**. On a boat, the boat keeps moving so you can walk the deck. | PC Gamer, GameSpot |
 | Lean on a wall | Stand next to it and hold **Circle** / **B** | GameSpot |
-| Rest on a railing | Stand next to it and press **L3** / **LS** | GameSpot |
+| Rest on a railing | GameSpot says press **L3** / **LS**. PC Gamer says hold **Circle** / **B** near a rail to lean. | GameSpot, PC Gamer |
 | Sit at a pool or dock | Stand at the edge and hold **Circle** / **B** | PC Gamer |
 | Swing the car door into someone | While driving, press **Square** / **X**. On a bike, the same button kicks. | PC Gamer, GameSpot |
 | Headlights on or off | Press **Circle** / **B** | Shacknews, PC Gamer, GameSpot |
@@ -121,7 +126,7 @@ These only match the **default** controller layout. If you switched to Classic o
 | Push a car or boat | Walk into the front, back or side with the left stick until the push starts. GameSpot says hold **Square** / **X** to shove, or to flip it if it is on its side or roof. PC Gamer describes holding **L3** / **LS** to shove. | GameSpot, PC Gamer |
 | Shout at a nearby driver | Pull up beside them, hold **L2** / **LT** to aim at them, then press **R3** / **RS**. (A short press of R3 is also listed by PC Gamer.) | GameSpot, PC Gamer |
 | Look through your character's eyes | Stand still, hold **L2** / **LT**, then press **R3** / **RS**. You can look around, but walking turns it off. | PC Gamer, GameSpot |
-| Let the car drive itself | While driving, hold **D-pad down**, press **Options** (Xbox: **Menu**) for cinematic view, then hold **Circle** / **B**. GameSpot says you can also set the speed to slow, normal or fast. | GameSpot |
+| Let the car drive itself | While driving, hold **D-pad down**, press **Options** (Xbox: **Menu**) for cinematic view, then hold **Circle** / **B**. GameSpot says you can also set the speed to slow, normal or fast, and GameSpot calls that cinematic-view button Start. | GameSpot |
 | Change how a cap is worn | Hold **L1** / **LB** for the item wheel, open Items, pick the cap, then press **Cross** / **A** to change the style. | GameSpot |
 | Move an item to the other hand | Press **D-pad left** or **right**. GameSpot says you can also hold something in each hand. | GameSpot |
 | Flip someone off | Hold **L2** / **LT**, then press **R1** / **RB**. This also works while driving. | PC Gamer, GameSpot |
@@ -139,7 +144,7 @@ A few more notes that come up often:
 
 Shacknews says Focus helps in gunfights, slows time while driving, spots fish and animals, and shows targets through walls. You can use it for some things right away. Focus for gunfights unlocks a little way into the story. How long it lasts grows as you level up Focus.
 
-To grow the bar, GameSpot points to calm activities such as **fishing** and **pool**, and its golf guide says a round of **golf** also raises Focus. Food and drinks that show the Focus icon can help in the moment (Shacknews). We have not seen a major outlet confirm a specific drink, so look for that icon rather than guessing. More detail is on our [Health, Stamina and Focus guide](/beginner-tips/gta-6-health-stamina-focus/).
+To grow the bar, [GameSpot's tips article](https://www.gamespot.com/articles/gta-6-tips-everything-i-wish-i-knew-before-i-started-playing/) (20 Nov 2026) points to calm activities such as **fishing** and **pool**, and its golf guide says a round of **golf** also raises Focus. That tips article also says the Focus you gain stays with you. Food and drinks that show the Focus icon can help in the moment (Shacknews). We have not seen a major outlet confirm a specific drink, so look for that icon rather than guessing. More detail is on our [Health, Stamina and Focus guide](/beginner-tips/gta-6-health-stamina-focus/).
 
 ## Other default buttons
 
@@ -154,22 +159,33 @@ All four rows are from the Shacknews default layout.
 
 ## How to switch to the Classic layout
 
-1. Press the **Options** button (Xbox: **Menu**) to pause.
-2. Go to **Settings**, then **Controls**.
-3. Pick **Classic** for the older GTA button style, or **Left-Handed** to swap sides.
+1. Press **Options** (Xbox: **Menu**) to pause.
+2. Open **Settings**.
+3. Open the first tab, **Control Scheme**.
+4. Change **Default** to **Classic** (or **Left-Handed**).
+5. Back out of the menu to save.
 
-The three layout names are from Shacknews. The exact menu path is our best guess and will be checked in game.
+This path is from [Engadget](https://www.engadget.com/2323542/change-these-settings-if-you-want-gta-6-to-feel-like-old-gta/) (20 Nov 2026) and [GamesRadar+](https://www.gamesradar.com/games/grand-theft-auto/gta-6-classic-controls/) (19 Nov 2026). The three layout names are also listed by Shacknews.
+
+### What Classic changes
+
+In Classic, these four buttons move. Everything else stays the same (GamesRadar+; Engadget lists run, jump and crouch).
+
+| Job | PS5 | Xbox |
+|---|---|---|
+| Run | Cross | A |
+| Jump or climb | Square | X |
+| Melee | Circle | B |
+| Crouch | L3 | LS |
 
 ![Controls layout menu illustration](TODO: image:gta-6-controls-step-3 — menu screen, our own mock-up: Default, Classic and Left-Handed layouts)
-*Caption: Menu screen. Three layouts: Default, Classic and Left-Handed.*
+*Caption: Menu screen. Control Scheme tab with three layouts: Default, Classic and Left-Handed.*
 
 ## Controller vibration on PS5
 
 On PS5 and PS5 Pro, the DualSense has detailed vibration (*haptic feedback*). You can change it in the accessibility settings (Rockstar, via Game Informer).
 
-## What players are saying
-
-*Public posts, quoted with a link. Player tips are not confirmed facts.*
+**IGN video (17 Nov 2026, before launch)**
 
 <blockquote class="twitter-tweet"><a href="https://x.com/IGN/status/2122811762194199016"></a></blockquote>
 
@@ -182,16 +198,16 @@ Click the left stick: **L3** on PS5, **LS** on Xbox, in the default layout. Pick
 **Cross** on PS5, **A** on Xbox.
 
 ### How do I leave the engine running in GTA 6?
-Double-tap **Triangle** (Xbox: **Y**) as you get out. A single press gets you out and turns the engine off. This uses the default layout (PC Gamer, GameSpot).
+Double-tap **Triangle** (Xbox: **Y**) as you get out. A single press just gets you out (GameSpot says a single press also leaves the door open). This uses the default layout (PC Gamer, GameSpot).
 
 ### How do I use Focus in GTA 6?
 Click **both sticks** at the same time.
 
 ### How do I turn on auto-drive in GTA 6?
-Hold **D-pad down**, press **Options** (Xbox: **Menu**) for cinematic view, then hold **Circle** (Xbox: **B**). GameSpot also lets you set the speed. Default layout only.
+Hold **D-pad down**, press **Options** (Xbox: **Menu**) for cinematic view, then hold **Circle** (Xbox: **B**). GameSpot also lets you set the speed, and GameSpot calls that cinematic-view button Start. Default layout only.
 
 ### Can I change the controls?
-Yes. You can pick Default, Classic or Left-Handed. Full button remapping is not confirmed yet.
+Yes. There are three presets: Default, Classic and Left-Handed. [Engadget](https://www.engadget.com/2323542/change-these-settings-if-you-want-gta-6-to-feel-like-old-gta/) says there is no full button remapping.
 
 ## Sources
 
@@ -201,6 +217,9 @@ Yes. You can pick Default, Classic or Left-Handed. Full button remapping is not 
 - [GameSpot: secret controls and features](https://www.gamespot.com/articles/gta-6-all-the-secret-controls-and-gameplay-features-you-might-have-missed/) (23 Nov 2026)
 - [GameSpot: music and podcasts on your phone](https://www.gamespot.com/articles/how-to-listen-to-music-and-podcasts-on-your-phone-in-gta-6/) (18 Nov 2026)
 - [GameSpot: how to play golf](https://www.gamespot.com/articles/how-to-play-golf-and-mini-golf-in-gta-6/) (20 Nov 2026)
+- [GameSpot: tips I wish I knew](https://www.gamespot.com/articles/gta-6-tips-everything-i-wish-i-knew-before-i-started-playing/) (20 Nov 2026)
+- [Engadget: change these settings if you want GTA 6 to feel like old GTA](https://www.engadget.com/2323542/change-these-settings-if-you-want-gta-6-to-feel-like-old-gta/) (20 Nov 2026)
+- [GamesRadar+: GTA 6 classic controls](https://www.gamesradar.com/games/grand-theft-auto/gta-6-classic-controls/) (19 Nov 2026)
 - [Game Informer: haptics on PS5](https://gameinformer.com/2026/11/10/grand-theft-auto-vi-will-run-at-30-fps-on-all-consoles-but-ps5-pro-will-feature-improved)
 
 ## Updated
@@ -210,6 +229,7 @@ Yes. You can pick Default, Classic or Left-Handed. Full button remapping is not 
 | 2026-11-18 | Held stub created. Confirmed haptics facts only. |
 | 2026-11-18 | Filled in the full default layout, driving help, Focus and layout options from Shacknews. |
 | 2026-11-24 | Added hidden shortcuts from PC Gamer and GameSpot, the remaining default buttons, and published after QA. |
+| 2026-11-24 | After QA: sourced the Classic path, added what Classic changes, stated source disagreements, fixed image labels, and moved the IGN video. |
 
 ---
 *Unofficial fan site, not affiliated with Rockstar Games or Take-Two.*

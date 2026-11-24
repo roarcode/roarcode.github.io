@@ -1,12 +1,13 @@
 {
   "type": "compare-table",
-  "alt": "Table of GTA 6 on-foot buttons: run L3 or LS, jump Cross or A, crouch Circle or B, cover R1 or RB, aim L2 or LT, shoot R2 or RT.",
+  "alt": "Table of the six main GTA 6 on-foot buttons: run L3 or LS, jump Cross or A, crouch Circle or B, cover R1 or RB, aim L2 or LT, shoot R2 or RT. Full list is on the page.",
   "data": {
     "category": "ps5",
+    "category_label": "Controls",
     "title": "On-foot buttons",
-    "subtitle": "Default layout. PS5 from Shacknews, 18 Nov 2026. Xbox = same spot on the pad.",
+    "subtitle": "The six main on-foot buttons in the default layout. Full list on the page. PS5 from Shacknews, 18 Nov 2026. Xbox = same spot on the pad.",
     "columns": [
-      "Job",
+      "Action",
       "PS5",
       "Xbox"
     ],
@@ -42,6 +43,6 @@
         "RT"
       ]
     ],
-    "note": "Run is no longer on Cross / A. Pick Classic in the settings to get that back."
+    "note": "Run is no longer on Cross / A. Pick Classic in the settings to get that back. The six main on-foot buttons; full list on the page."
   }
 }

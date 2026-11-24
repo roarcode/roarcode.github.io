@@ -947,25 +947,25 @@
   "gta-6-controls-step-1": {
     "file": "gta-6-controls-step-1.webp",
     "width": 1200,
-    "height": 866,
-    "bytes": 31460,
-    "alt": "Table of GTA 6 driving buttons: accelerate R2 or RT, brake L2 or LT, handbrake Cross or A, exit Triangle or Y, look behind hold R3 or RS.",
+    "height": 896,
+    "bytes": 37428,
+    "alt": "Table of the six main GTA 6 driving buttons: accelerate R2 or RT, brake L2 or LT, handbrake Cross or A, exit Triangle or Y, look behind hold R3 or RS. Full list is on the page.",
     "type": "compare-table"
   },
   "gta-6-controls-step-2": {
     "file": "gta-6-controls-step-2.webp",
     "width": 1200,
-    "height": 866,
-    "bytes": 32320,
-    "alt": "Table of GTA 6 on-foot buttons: run L3 or LS, jump Cross or A, crouch Circle or B, cover R1 or RB, aim L2 or LT, shoot R2 or RT.",
+    "height": 926,
+    "bytes": 37758,
+    "alt": "Table of the six main GTA 6 on-foot buttons: run L3 or LS, jump Cross or A, crouch Circle or B, cover R1 or RB, aim L2 or LT, shoot R2 or RT. Full list is on the page.",
     "type": "compare-table"
   },
   "gta-6-controls-step-3": {
     "file": "gta-6-controls-step-3.webp",
     "width": 1200,
     "height": 675,
-    "bytes": 30272,
-    "alt": "Illustration of a controls menu with three layouts: Default, Classic and Left-Handed. Not an in-game screenshot.",
+    "bytes": 32278,
+    "alt": "Illustration of a Control Scheme menu with three layouts: Default, Classic and Left-Handed. Not an in-game screenshot.",
     "type": "menu-mock"
   },
   "gta-6-performance-mode-step-1": {

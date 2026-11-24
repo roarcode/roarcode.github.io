@@ -1,12 +1,13 @@
 {
   "type": "compare-table",
-  "alt": "Table of GTA 6 driving buttons: accelerate R2 or RT, brake L2 or LT, handbrake Cross or A, exit Triangle or Y, look behind hold R3 or RS.",
+  "alt": "Table of the six main GTA 6 driving buttons: accelerate R2 or RT, brake L2 or LT, handbrake Cross or A, exit Triangle or Y, look behind hold R3 or RS. Full list is on the page.",
   "data": {
     "category": "ps5",
+    "category_label": "Controls",
     "title": "Driving buttons",
-    "subtitle": "Default layout. PS5 from Shacknews, 18 Nov 2026. Xbox = same spot on the pad.",
+    "subtitle": "The six main driving buttons in the default layout. Full list on the page. PS5 from Shacknews, 18 Nov 2026. Xbox = same spot on the pad.",
     "columns": [
-      "Job",
+      "Action",
       "PS5",
       "Xbox"
     ],
@@ -42,6 +43,6 @@
         "Hold RS"
       ]
     ],
-    "note": "Our own table, not an official diagram."
+    "note": "Our own table, not an official diagram. The six main driving buttons; full list on the page."
   }
 }
