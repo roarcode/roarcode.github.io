@@ -1,6 +1,6 @@
 # Links to add after QA passes (Copywriter, 18 Nov 2026)
 
-New pages are hidden until SEARCH passes them. Add each line only after its target page is live (`qa: passed`, no `draft`). Adding a link to a live page means setting that page to `qa: live-review`. Held page `gta-6-controls` has no link yet (publish: false).
+New pages are hidden until SEARCH passes them. Add each line only after its target page is live (`qa: passed`, no `draft`). Adding a link to a live page means setting that page to `qa: live-review`. Page `gta-6-controls` is no longer held: Rok approved it himself on 24 Nov 2026 (09:24 CET) and it is live (published 08:52 CET, commit 8e15f22). It has no inbound links yet; add any link to it the same way as for other live pages. The Slovenian pages stay on hold until Rok approves.
 
 | # | Target live file | Where | Exact markdown to insert | New page slug |
 |---|---|---|---|---|
