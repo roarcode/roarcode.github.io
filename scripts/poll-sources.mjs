@@ -108,20 +108,28 @@ function writeItem({ source, sourceName, title, url, published, body, extra = {}
 async function newswire() {
   const url = "https://www.rockstargames.com/newswire";
   if (!(await allowed(url))) throw new Error("blocked by robots.txt");
-  let html;
-  if (CHROME) {
-    html = await new Promise((resolve, reject) =>
-      execFile(CHROME, ["--headless=new", "--no-sandbox", "--disable-gpu", `--user-agent=${UA}`, "--virtual-time-budget=20000", "--dump-dom", url], { timeout: 60_000, maxBuffer: 20 * 1024 * 1024 }, (e, out) => (e && !out ? reject(e) : resolve(out))),
-    );
-  } else html = await (await guarded(url, "text/html")).text();
-
-  const items = [];
-  for (const m of html.matchAll(/<a\b[^>]*href="(\/newswire\/article\/[^"#?]+)"[^>]*>([\s\S]*?)<\/a>/g)) {
-    const title = text((m[2].match(/<h[1-6][^>]*>([\s\S]*?)<\/h[1-6]>/) || [])[1] || "");
-    if (!title) continue;
-    const tag = text((m[2].match(/<i><\/i>([\s\S]*?)<\/div>/) || [])[1] || "");
-    const date = text((m[2].match(/<time[^>]*>([\s\S]*?)<\/time>/) || [])[1] || "");
-    items.push({ id: m[1].split("/")[3], title, tag, date, url: "https://www.rockstargames.com" + m[1] });
+  // Client-rendered: a dump can occasionally come back before the post cards hydrate (seen 2026-11-22 and
+  // 2026-11-24, both self-recovered). Retry once with a longer render budget before treating it as a layout change.
+  const render = (budget) => CHROME
+    ? new Promise((resolve, reject) =>
+        execFile(CHROME, ["--headless=new", "--no-sandbox", "--disable-gpu", `--user-agent=${UA}`, `--virtual-time-budget=${budget}`, "--dump-dom", url], { timeout: 90_000, maxBuffer: 20 * 1024 * 1024 }, (e, out) => (e && !out ? reject(e) : resolve(out))),
+      )
+    : guarded(url, "text/html").then((r) => r.text());
+  const parse = (html) => {
+    const items = [];
+    for (const m of html.matchAll(/<a\b[^>]*href="(?:https:\/\/www\.rockstargames\.com)?(\/newswire\/article\/[^"#?]+)"[^>]*>([\s\S]*?)<\/a>/g)) {
+      const title = text((m[2].match(/<h[1-6][^>]*>([\s\S]*?)<\/h[1-6]>/) || [])[1] || "");
+      if (!title) continue;
+      const tag = text((m[2].match(/<i><\/i>([\s\S]*?)<\/div>/) || [])[1] || "");
+      const date = text((m[2].match(/<time[^>]*>([\s\S]*?)<\/time>/) || [])[1] || "");
+      items.push({ id: m[1].split("/")[3], title, tag, date, url: "https://www.rockstargames.com" + m[1] });
+    }
+    return items;
+  };
+  let items = parse(await render(20000));
+  if (!items.length) {
+    await new Promise((r) => setTimeout(r, 5000));
+    items = parse(await render(40000));
   }
   const uniq = [...new Map(items.map((i) => [i.id, i])).values()];
   if (!uniq.length) throw new Error("no posts found (page layout changed?)");
