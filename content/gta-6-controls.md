@@ -26,7 +26,7 @@ status: live
 publish: true
 draft: false
 spoilers: none
-qa: live-review
+qa: passed
 ---
 
 # GTA 6 Controls on PS5 and Xbox: Every Default Button
