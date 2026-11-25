@@ -1,30 +1,33 @@
 ---
-title: "GTA 6 Ammo Glitch: Refill Your Magazine With Your Partner"
+title: "GTA 6 Out of Ammo: How to Get and Refill Ammo"
 title_alts:
-  - "GTA 6 Infinite Ammo Glitch: Does It Work? (Updated)"
-  - "GTA 6 Out of Ammo? Quick Refill Trick for PS5 and Xbox"
+  - "GTA 6 How to Get More Ammo: Gun Stores, Trunk and Tips"
+  - "GTA 6 Ammo Guide: Where to Buy Ammo and Ammo Packs"
+  - "GTA 6 Ammo Glitch? Safe Ways to Refill Your Guns"
 slug: gta-6-ammo-refill-glitch
 category: glitches
-description: "GTA 6 ammo refill trick explained: one player report, source disagreements on handing over guns, and confirmed ways to get ammo on PS5 and Xbox."
+description: "Out of ammo in GTA 6? Where to buy ammo and Ammo Packs, how Jason and Lucia share guns, trunk backups, and the unconfirmed partner trick."
 sources:
-  - https://www.reddit.com/r/gtaglitches/comments/1y4y7gj/gta_6_infiniteish_ammo_glitch/
-  - https://www.shacknews.com/article/151396/gta6-ps5-controls
-  - https://www.shacknews.com/article/151419/gta6-xbox-controls
-  - https://www.gamesradar.com/games/grand-theft-auto/gta-6-switch-characters-command/
-  - https://www.powerpyx.com/gta-6-how-to-hand-items-to-your-partner/
-  - https://gta6walk.com/guides/how-to-hand-items-to-your-partner/
-  - https://gta.tech4gamers.com/gta-6/guides/shared-weapons-jason-lucia/
-  - https://www.invenglobal.com/articles/28810/13-tips-i-wish-i-knew-before-starting-gta-6
-  - https://www.gamesradar.com/games/grand-theft-auto/gta-6-manage-loadout/
-  - https://www.gamesradar.com/games/grand-theft-auto/gta-6-weapon-ownership-explained/
-  - https://www.gamespot.com/articles/how-to-increase-your-inventory-in-gta-6/
-  - https://www.powerpyx.com/gta-6-tips-tricks/
   - https://www.dexerto.com/wikis/gta-6/equipment/ammo-pack/
   - https://www.dexerto.com/wikis/gta-6/equipment/ammo/
+  - https://www.dexerto.com/wikis/gta-6/equipment/ammo/assault-rifle-ammo/
+  - https://www.powerpyx.com/gta-6-tips-tricks/
+  - https://www.gamesradar.com/games/grand-theft-auto/gta-6-chapter-1-walkthrough/5/
   - https://www.gamesradar.com/games/grand-theft-auto/gta-6-weapons/
+  - https://www.gamesradar.com/games/grand-theft-auto/gta-6-manage-loadout/
+  - https://www.gamesradar.com/games/grand-theft-auto/gta-6-weapon-ownership-explained/
+  - https://www.gamesradar.com/games/grand-theft-auto/gta-6-switch-characters-command/
+  - https://www.gamespot.com/articles/how-to-increase-your-inventory-in-gta-6/
   - https://www.gamespot.com/articles/gta-6-all-the-secret-controls-and-gameplay-features-you-might-have-missed/
   - https://www.gamespot.com/articles/all-gta-6-cheats-and-how-to-unlock-them/
   - https://www.pcgamer.com/games/grand-theft-auto/gta-6-cheats-list/
+  - https://www.invenglobal.com/articles/28810/13-tips-i-wish-i-knew-before-starting-gta-6
+  - https://www.shacknews.com/article/151396/gta6-ps5-controls
+  - https://www.shacknews.com/article/151419/gta6-xbox-controls
+  - https://www.powerpyx.com/gta-6-how-to-hand-items-to-your-partner/
+  - https://gta6walk.com/guides/how-to-hand-items-to-your-partner/
+  - https://gta.tech4gamers.com/gta-6/guides/shared-weapons-jason-lucia/
+  - https://www.reddit.com/r/gtaglitches/comments/1y4y7gj/gta_6_infiniteish_ammo_glitch/
 updated: 2026-11-25
 published: 2026-11-25
 status: live
@@ -33,127 +36,128 @@ spoilers: none
 qa: live-review
 ---
 
-# GTA 6 Ammo Glitch: Refill Your Magazine With Your Partner
+# GTA 6 Out of Ammo: How to Get and Refill Ammo
 
-> - **Quick answer — Unconfirmed: one player report so far.** One player ([u/Sinx0x on r/gtaglitches](https://www.reddit.com/r/gtaglitches/comments/1y4y7gj/gta_6_infiniteish_ammo_glitch/)) claims that handing a gun to your partner and taking it back refills the **loaded magazine**, not spare ammo. No major gaming site or Rockstar confirms this glitch.
-> - **Sources disagree on handing over guns:** [PowerPyx](https://www.powerpyx.com/gta-6-how-to-hand-items-to-your-partner/) says only **longarms** (assault rifles, shotguns) and stash bags can be handed over, [GamesRadar+](https://www.gamesradar.com/games/grand-theft-auto/gta-6-switch-characters-command/) says weapons can be handed over, and [Tech4Gamers](https://gta.tech4gamers.com/gta-6/guides/shared-weapons-jason-lucia/) says **no weapons** can be handed over at all.
-> - **Confirmed ways to get ammo:** buy ammo or a **$950 Ammo Pack** at **Ammu-Nation** ([PowerPyx](https://www.powerpyx.com/gta-6-tips-tricks/), [Dexerto](https://www.dexerto.com/wikis/gta-6/equipment/ammo-pack/)), check your **Personal Vehicle trunk**, or switch characters since Jason and Lucia hold separate ammo ([Inven Global](https://www.invenglobal.com/articles/28810/13-tips-i-wish-i-knew-before-starting-gta-6)).
+> - **Quick answer:** Buy ammo or a **$950 Ammo Pack** at gun stores (**Ammu-Nation**), or switch between **Jason and Lucia** for separate ammo.
+> - **No bullets mid-fight?** Press **Square** (PS5) or **X** (Xbox) to hit with your gun, or tap **Triangle / Y** while aiming to swap fast.
+> - **Partner ammo trick:** **Unconfirmed (one player report).** Sources disagree on handing over guns, so use gun stores instead.
 
-> **Unconfirmed: one player report so far.** This ammo trick comes from a single Reddit thread ([u/Sinx0x on r/gtaglitches](https://www.reddit.com/r/gtaglitches/comments/1y4y7gj/gta_6_infiniteish_ammo_glitch/)) posted on 25 Nov 2026. No major outlet or Rockstar has confirmed it, and **not tested by us**.
-
-**Words used on this page.** *Magazine* (or mag) is the ammo loaded inside the gun right now. *Spare ammo* is the extra ammo you carry in your pockets. *Partner* is the other main character, Jason or Lucia, when they are with you. *Longarm* (or long gun) is a big gun like an assault rifle, shotgun, or LMG. *LMG* is a light machine gun, a heavy gun with a very big magazine. *Sidearm* is a small gun like a pistol or revolver.
+**Words used on this page.** *Magazine* (or mag) is the ammo loaded inside the gun right now. *Spare ammo* is the extra ammo you carry in your pockets. *Sidearm* is a small gun like a pistol or revolver. *Longarm* (or long gun) is a big gun like a shotgun or rifle. *LMG* is a light machine gun with a big magazine. *Ammu-Nation* is the gun shop chain in GTA 6. *Personal Vehicle* is a car that belongs to you.
 
 *Story mode, PS5 and Xbox. No mods or PC tools.*
 
-## What you need (and where sources disagree)
+## Ways to get and refill ammo
 
-| What | What sources say | Source |
-|---|---|---|
-| Your partner next to you | Free switching and full partner commands unlock in Chapter 2 | [GamesRadar+](https://www.gamesradar.com/games/grand-theft-auto/gta-6-switch-characters-command/) |
-| Partner Menu button | **Hold right on the D-pad** opens the Partner Menu on PS5 and Xbox | [Shacknews PS5](https://www.shacknews.com/article/151396/gta6-ps5-controls), [Shacknews Xbox](https://www.shacknews.com/article/151419/gta6-xbox-controls) |
-| A gun you can hand over | **Disputed** — see the disagreement below; pistols, SMGs, and grenade launchers do not work | [PowerPyx](https://www.powerpyx.com/gta-6-how-to-hand-items-to-your-partner/), [Tech4Gamers](https://gta.tech4gamers.com/gta-6/guides/shared-weapons-jason-lucia/), [u/Sinx0x](https://www.reddit.com/r/gtaglitches/comments/1y4y7gj/gta_6_infiniteish_ammo_glitch/) |
-| Give and take-back inputs | **Circle / B** to give and **L1 / LB** to take back come from one Reddit post (guide sites also list Circle / B to hand over) | [u/Sinx0x](https://www.reddit.com/r/gtaglitches/comments/1y4y7gj/gta_6_infiniteish_ammo_glitch/), [gta6walk](https://gta6walk.com/guides/how-to-hand-items-to-your-partner/) |
+You do not need a glitch to get bullets back. Use these safe, sourced ways to restock or keep fighting.
 
-### Which guns can actually be handed over?
+![Our diagram of three ways to get ammo in GTA 6: buy ammo or an Ammo Pack at gun stores, switch between Jason and Lucia for separate ammo, or swap to a stored gun in your car trunk. Not a game screenshot.](TODO: image:gta-6-ammo-refill-glitch-step-1 — diagram, our own art: three info cards on ways to get ammo)
+*Caption: Diagram. Three ways to stay stocked up on ammo in GTA 6.*
 
-Sources do not agree on whether you can hand a gun to your partner at all, or which guns count:
+### 1. Buy ammo or an Ammo Pack at gun stores
 
-- **[GamesRadar+](https://www.gamesradar.com/games/grand-theft-auto/gta-6-switch-characters-command/)** says you can hold right on the D-pad during a robbery to hand over weapons or stash bags to your partner, without naming a weapon-type limit.
-- **[PowerPyx](https://www.powerpyx.com/gta-6-how-to-hand-items-to-your-partner/)** (echoed by guide site [gta6walk](https://gta6walk.com/guides/how-to-hand-items-to-your-partner/)) says you can only hand over **stash bags** and **longarms** (such as assault rifles and shotguns). **Pistols, revolvers, SMGs, and equipment cannot be handed over.**
-- **[Tech4Gamers](https://gta.tech4gamers.com/gta-6/guides/shared-weapons-jason-lucia/)** disagrees with both and says **weapons and equipment cannot be handed over at all** — only stash bags can pass between Jason and Lucia.
-- **[u/Sinx0x](https://www.reddit.com/r/gtaglitches/comments/1y4y7gj/gta_6_infiniteish_ammo_glitch/)** says they used an **LMG** (a heavy longarm) for the refill trick, and added in comments that **grenade launchers cannot be handed over**.
+[Dexerto](https://www.dexerto.com/wikis/gta-6/equipment/ammo-pack/) lists a **$950 Ammo Pack** at gun stores **Big Shots** and **Chuck's Tackle & Shot**. It refills all standard gun ammo types at once, such as pistol, revolver, SMG, shotgun, rifle, sniper rifle, and machine gun ammo ([Dexerto Ammo](https://www.dexerto.com/wikis/gta-6/equipment/ammo/)). Dexerto also lists single ammo boxes there, such as 30 Assault Rifle rounds for $22 ([Dexerto Assault Rifle Ammo](https://www.dexerto.com/wikis/gta-6/equipment/ammo/assault-rifle-ammo/)).
 
-![Our diagram of the reported GTA 6 ammo refill trick: give a long gun to your partner, take it back, and the poster says the magazine refills. Unconfirmed. Not a game screenshot.](TODO: image:gta-6-ammo-refill-glitch-step-1 — diagram, our own art: three step cards, reported refill loop)
-*Caption: Diagram. What the original poster says happens when you hand over a long gun and take it back. Unconfirmed.*
+[GamesRadar+](https://www.gamesradar.com/games/grand-theft-auto/gta-6-chapter-1-walkthrough/5/) identifies Chuck's Tackle & Shot as an **Ammu-Nation** store. [GamesRadar+](https://www.gamesradar.com/games/grand-theft-auto/gta-6-weapons/) also lists four Ammu-Nation store tiers: **Everyday**, **Premium**, **Hunting**, and **Pawn**. [PowerPyx](https://www.powerpyx.com/gta-6-tips-tricks/) (a guide site) says ammo and explosive charges are sold at Ammu-Nations, and stores marked **Expanded Inventory** on the map carry the widest stock.
 
-## What the original poster says they did
+1. Open the **GTA 6 Index** on the map to find the closest **Ammu-Nation** ([GamesRadar+](https://www.gamesradar.com/games/grand-theft-auto/gta-6-manage-loadout/)).
+2. Walk up to the counter and talk to the clerk.
+3. Buy single ammo boxes for your gun, or buy a **$950 Ammo Pack** ([Dexerto](https://www.dexerto.com/wikis/gta-6/equipment/ammo-pack/)).
 
-These steps are **what the original poster says they did** on [r/gtaglitches](https://www.reddit.com/r/gtaglitches/comments/1y4y7gj/gta_6_infiniteish_ammo_glitch/). Only the **Hold right on the D-pad** Partner Menu input is backed by major outlets ([Shacknews](https://www.shacknews.com/article/151396/gta6-ps5-controls), [GamesRadar+](https://www.gamesradar.com/games/grand-theft-auto/gta-6-switch-characters-command/)). The give and take-back button steps below come from u/Sinx0x's report (with [gta6walk](https://gta6walk.com/guides/how-to-hand-items-to-your-partner/) also listing Circle / B for Hand Over) and are **not tested by us**.
+### 2. Switch between Jason and Lucia
 
-1. Unlock free character switching in Chapter 2 ([GamesRadar+](https://www.gamesradar.com/games/grand-theft-auto/gta-6-switch-characters-command/)).
-2. Stand next to your partner.
-3. Equip a **longarm** that is low on ammo (PowerPyx says small guns like pistols and SMGs will not hand over, and Tech4Gamers says no weapons hand over at all).
-4. **Hold right on the D-pad** to open the Partner Menu ([Shacknews](https://www.shacknews.com/article/151396/gta6-ps5-controls)).
-5. Press **Circle** (PS5) or **B** (Xbox) if a give option shows — u/Sinx0x says this gives the gun to your partner.
-6. **Hold right on the D-pad** again to reopen the Partner Menu.
-7. Press **L1** (PS5) or **LB** (Xbox) — u/Sinx0x says this takes the gun back.
-8. Check your ammo counter. If the trick works in your game, the poster says the **loaded magazine** comes back full.
+[Inven Global](https://www.invenglobal.com/articles/28810/13-tips-i-wish-i-knew-before-starting-gta-6) reports that Jason and Lucia keep **separate ammo supplies and healing items**. If one character runs dry during a shootout, the other character may still have bullets left.
 
-If your screen shows different prompts in the Partner Menu, follow the on-screen labels for giving and taking back rather than pressing buttons blindly.
+1. Unlock free character switching during **Chapter 2** ([GamesRadar+](https://www.gamesradar.com/games/grand-theft-auto/gta-6-switch-characters-command/)).
+2. **Hold right on the D-pad** to open the Partner Menu ([Shacknews](https://www.shacknews.com/article/151396/gta6-ps5-controls)).
+3. Press **R1** (PS5) or **RB** (Xbox) to switch to your other character ([GamesRadar+](https://www.gamesradar.com/games/grand-theft-auto/gta-6-switch-characters-command/)).
 
-![Table of reported buttons for the GTA 6 ammo trick: hold D-pad right for the Partner Menu (Shacknews), then Circle or B to give and D-pad right with L1 or LB to take back (u/Sinx0x).](TODO: image:gta-6-ammo-refill-glitch-step-2 — diagram, our own art: compare table of reported PS5 and Xbox buttons)
-*Caption: Diagram. D-pad right opens the Partner Menu (Shacknews); the give and take-back buttons are from u/Sinx0x's unconfirmed report.*
+### 3. Swap guns from your car trunk or locker
 
-## Reported limits and caveats
+Extra owned guns sit in the trunk of your **Personal Vehicle** or in an **Ammu-Nation weapons locker** ([GamesRadar+](https://www.gamesradar.com/games/grand-theft-auto/gta-6-manage-loadout/)). If one gun is empty, grab another gun from your car.
 
-- **Only the magazine (poster's follow-up):** In comments on their [Reddit thread](https://www.reddit.com/r/gtaglitches/comments/1y4y7gj/gta_6_infiniteish_ammo_glitch/), u/Sinx0x says the trick **does not restore spare ammo**, only the bullets loaded in the current magazine.
-- **Big magazines matter:** Because only the magazine refills, u/Sinx0x says it is most useful on guns with huge magazines, such as a silenced LMG.
-- **Many weapons cannot be handed over:** u/Sinx0x corrected their first claim and said **grenade launchers** cannot be handed over. [PowerPyx](https://www.powerpyx.com/gta-6-how-to-hand-items-to-your-partner/) adds that **pistols, revolvers, SMGs, and equipment** cannot be handed over either, and [Tech4Gamers](https://gta.tech4gamers.com/gta-6/guides/shared-weapons-jason-lucia/) says no guns can be handed over.
-- **Not confirmed or tested:** No major outlet has reproduced this glitch, and we have not tested it ourselves.
+1. Walk to the back of your **Personal Vehicle** ([GamesRadar+](https://www.gamesradar.com/games/grand-theft-auto/gta-6-manage-loadout/)).
+2. Press **Triangle** (PS5) or **Y** (Xbox) to open the trunk.
+3. Hold **L1** (PS5) or **LB** (Xbox) to open your loadout and swap weapons.
 
-![Our diagram of reported limits and source disagreements: loaded magazine refills per one player, spare ammo does not, long guns are disputed, and small guns or grenade launchers cannot be handed over. Not a game screenshot.](TODO: image:gta-6-ammo-refill-glitch-step-3 — diagram, our own art: three info cards on limits and source disagreements)
-*Caption: Diagram. Reported limits from u/Sinx0x alongside the source disagreement on which guns can be handed over.*
+See [GTA 6 car trunk storage](/cars/gta-6-car-trunk-storage/) for the full trunk menu steps.
 
-## How the ammo system works in GTA 6
+### 4. Stay alive if you run empty mid-fight
 
-If you are running out of bullets often, it helps to know how GTA 6 splits weapons and ammo between your two characters:
+When your gun clicks empty in the middle of a fight, [GameSpot](https://www.gamespot.com/articles/gta-6-all-the-secret-controls-and-gameplay-features-you-might-have-missed/) lists two quick backups:
 
-- **Jason and Lucia have separate ammo pools.** [Inven Global](https://www.invenglobal.com/articles/28810/13-tips-i-wish-i-knew-before-starting-gta-6) reports that when one character buys a gun at Ammu-Nation, both characters unlock a copy of that gun, and [GamesRadar+](https://www.gamesradar.com/games/grand-theft-auto/gta-6-weapon-ownership-explained/) says the same is true for Unique Weapon Variants. However, **ammo, healing items, weapon attachments, and equipped loadouts are kept separately** (Inven Global, GamesRadar+). Swapping to your partner can suddenly leave you low on ammo if you have not stocked them up too.
-- **You carry a strict set of weapons on you.** [GamesRadar+](https://www.gamesradar.com/games/grand-theft-auto/gta-6-manage-loadout/) lists your on-person Weapons slots as **2 sidearms, 2 longarms, 1 melee weapon, 1 explosives slot, 1 equipment slot, and 1 hands slot**. [GameSpot](https://www.gamespot.com/articles/how-to-increase-your-inventory-in-gta-6/) confirms there is **no backpack or inventory upgrade** to carry more.
-- **Owned guns stay safe; picked-up guns can be lost.** [GamesRadar+](https://www.gamesradar.com/games/grand-theft-auto/gta-6-weapon-ownership-explained/) explains that guns you buy at Ammu-Nation, receive in missions, or unlock as Unique Variants can always be recovered from your Personal Vehicle's trunk or an Ammu-Nation weapons locker. Unowned weapons picked up from enemies or the ground are lost if you drop them, get Wasted, or get Busted.
+- **Hit enemies with your empty gun:** Press **Square** (PS5) or **X** (Xbox) to pistol-whip them.
+- **Quick-swap to another gun:** Hold aim, then tap **Triangle** (PS5) or **Y** (Xbox) to switch weapons fast.
 
-## Confirmed ways to get ammo
+![Table of PS5 and Xbox buttons when you run out of ammo in GTA 6: hit with your gun, quick-swap weapons, open your car trunk, or switch characters.](TODO: image:gta-6-ammo-refill-glitch-step-2 — diagram, our own art: compare table of out-of-ammo buttons)
+*Caption: Diagram. Quick PS5 and Xbox buttons when your gun runs dry.*
 
-Instead of relying on an unverified glitch, these confirmed methods keep your guns fed:
+## How ammo and guns work in GTA 6
 
-| Method | How it works | Source |
-|---|---|---|
-| Buy ammo at Ammu-Nation | Visit any gun store to buy firearm ammo and explosive charges; **Expanded Inventory** stores carry the widest range (store tiers: Everyday, Premium, Hunting, Pawn) | [PowerPyx](https://www.powerpyx.com/gta-6-tips-tricks/), [GamesRadar+](https://www.gamesradar.com/games/grand-theft-auto/gta-6-weapons/) |
-| Buy an **Ammo Pack ($950)** | Refills all standard firearm ammo types (pistol, revolver, SMG, shotgun, assault rifle, tactical rifle, small-game rifle, sniper rifle, and machine gun); listed at Big Shots and Chuck's Tackle & Shot | [Dexerto Ammo Pack](https://www.dexerto.com/wikis/gta-6/equipment/ammo-pack/), [Dexerto Ammo](https://www.dexerto.com/wikis/gta-6/equipment/ammo/) |
-| Check your **car trunk** | Walk to the back of your Personal Vehicle, press **Triangle / Y** to open the trunk, and hold **L1 / LB** to swap weapons or grab stored gear (see [GTA 6 car trunk storage](/cars/gta-6-car-trunk-storage/)) | [GamesRadar+](https://www.gamesradar.com/games/grand-theft-auto/gta-6-manage-loadout/), [GameSpot](https://www.gamespot.com/articles/how-to-increase-your-inventory-in-gta-6/) |
-| Empty mid-fight options | Press **Square (PS5) / X (Xbox)** to pistol-whip with an empty gun, or tap **Triangle / Y** while aiming to quick-swap to another weapon | [GameSpot](https://www.gamespot.com/articles/gta-6-all-the-secret-controls-and-gameplay-features-you-might-have-missed/) |
-| Post-story **ammo cheats** | After finishing the main story, shooting-range medal challenges unlock **Max Ammo**, **Infinite Ammo**, and **No Reload** — but cheats **disable saving and trophies/achievements** for that session | [GameSpot](https://www.gamespot.com/articles/all-gta-6-cheats-and-how-to-unlock-them/), [PC Gamer](https://www.pcgamer.com/games/grand-theft-auto/gta-6-cheats-list/) |
+- **Bought guns unlock for both, but ammo does not.** When one character buys a gun at Ammu-Nation or finds a Unique Weapon Variant, both Jason and Lucia unlock it ([GamesRadar+](https://www.gamesradar.com/games/grand-theft-auto/gta-6-weapon-ownership-explained/)). However, **ammo and healing items are separate for each character** ([Inven Global](https://www.invenglobal.com/articles/28810/13-tips-i-wish-i-knew-before-starting-gta-6)). **Weapon attachments and equipped loadouts are separate too** ([GamesRadar+](https://www.gamesradar.com/games/grand-theft-auto/gta-6-weapon-ownership-explained/), [Inven Global](https://www.invenglobal.com/articles/28810/13-tips-i-wish-i-knew-before-starting-gta-6)).
+- **Pocket space is fixed.** Your Weapons tab holds **2 sidearms, 2 longarms, 1 melee weapon, 1 explosives slot, 1 equipment slot, and 1 hands slot** ([GamesRadar+](https://www.gamesradar.com/games/grand-theft-auto/gta-6-manage-loadout/)). [GameSpot](https://www.gamespot.com/articles/how-to-increase-your-inventory-in-gta-6/) says you cannot buy a bigger backpack or unlock extra pocket slots.
+- **Bought guns stay safe; ground guns can be lost.** Guns you buy, get in missions, or unlock as Unique Variants can always be recovered from your car trunk or an Ammu-Nation locker ([GamesRadar+](https://www.gamesradar.com/games/grand-theft-auto/gta-6-weapon-ownership-explained/)). Weapons picked up from enemies or the ground disappear if you drop them, get Wasted, or get Busted.
 
-## What to do if the glitch does not work
+## Post-story ammo cheats
 
-Because only one player has reported this trick and sources disagree on weapon hand-overs, it may not work in your game. Try these steps instead:
+If you want endless ammo just for fun after beating the game, [GameSpot](https://www.gamespot.com/articles/all-gta-6-cheats-and-how-to-unlock-them/) and [PC Gamer](https://www.pcgamer.com/games/grand-theft-auto/gta-6-cheats-list/) list three official ammo cheats:
 
-- **Make sure partner commands are unlocked and your partner is nearby.** [GamesRadar+](https://www.gamesradar.com/games/grand-theft-auto/gta-6-switch-characters-command/) says free character switching unlocks during **Chapter 2**. If your partner is not next to you, **hold right on the D-pad** and press **Triangle (PS5) / Y (Xbox)** to call them over.
-- **Check what kind of gun you are holding.** If you are holding a pistol, revolver, SMG, or grenade launcher, [PowerPyx](https://www.powerpyx.com/gta-6-how-to-hand-items-to-your-partner/) and [u/Sinx0x](https://www.reddit.com/r/gtaglitches/comments/1y4y7gj/gta_6_infiniteish_ammo_glitch/) say those cannot be handed over. If no gun gives you a hand-over option at all, [Tech4Gamers](https://gta.tech4gamers.com/gta-6/guides/shared-weapons-jason-lucia/) may be right for your version or situation — only stash bags pass across.
-- **Switch to your other character for a shootout.** Since Jason and Lucia keep separate ammo ([Inven Global](https://www.invenglobal.com/articles/28810/13-tips-i-wish-i-knew-before-starting-gta-6)), holding **right on the D-pad** and pressing **R1 (PS5) / RB (Xbox)** lets you switch to the character who still has bullets ([GamesRadar+](https://www.gamesradar.com/games/grand-theft-auto/gta-6-switch-characters-command/)).
-- **Swap guns at your car trunk or visit Ammu-Nation.** Open your Personal Vehicle trunk with **Triangle / Y** and hold **L1 / LB** to switch to a different owned longarm or grab stored gear ([GamesRadar+](https://www.gamesradar.com/games/grand-theft-auto/gta-6-manage-loadout/)), or head to the nearest Ammu-Nation to buy ammo or an Ammo Pack ([PowerPyx](https://www.powerpyx.com/gta-6-tips-tricks/), [Dexerto](https://www.dexerto.com/wikis/gta-6/equipment/ammo-pack/)).
+- **Max Ammo:** Refills all ammo to full.
+- **Infinite Ammo:** Ammo never runs out, though you still reload.
+- **No Reload:** Ammo never runs out and you never reload.
+
+All three cheats only work **after you finish the main story** and earn shooting-range medals ([GameSpot](https://www.gamespot.com/articles/all-gta-6-cheats-and-how-to-unlock-them/), [PC Gamer](https://www.pcgamer.com/games/grand-theft-auto/gta-6-cheats-list/)). Turning on any cheat **disables saving and trophies/achievements** for that play session.
+
+## Side note: the partner ammo refill trick (Unconfirmed: one player report)
+
+> **Unconfirmed: one player report so far.** One player ([u/Sinx0x on r/gtaglitches](https://www.reddit.com/r/gtaglitches/comments/1y4y7gj/gta_6_infiniteish_ammo_glitch/)) reported this trick on 25 Nov 2026. No major outlet or Rockstar has reported it, and **we have not tested it**.
+
+![Our diagram of the unconfirmed partner ammo trick and weapon hand-over disagreements: one Reddit report by u/Sinx0x, sources disagree on handing over guns, and post-story ammo cheats disable saving. Not a game screenshot.](TODO: image:gta-6-ammo-refill-glitch-step-3 — diagram, our own art: three info cards on partner trick, hand-over disagreement, and cheats)
+*Caption: Diagram. The partner ammo trick is unconfirmed, and sources disagree on handing over guns.*
+
+**What the poster says.** On [r/gtaglitches](https://www.reddit.com/r/gtaglitches/comments/1y4y7gj/gta_6_infiniteish_ammo_glitch/), u/Sinx0x says that handing a low-ammo gun to your partner and taking it back refills the **loaded magazine**, not your spare ammo. In follow-up comments, u/Sinx0x says it works best with big-magazine guns such as LMGs, and adds that grenade launchers cannot be handed over.
+
+**Buttons reported.** Only **hold right on the D-pad** for the Partner Menu is backed by major outlets ([Shacknews PS5](https://www.shacknews.com/article/151396/gta6-ps5-controls), [Shacknews Xbox](https://www.shacknews.com/article/151419/gta6-xbox-controls), [GamesRadar+](https://www.gamesradar.com/games/grand-theft-auto/gta-6-switch-characters-command/)). The poster says to press **Circle** (PS5) or **B** (Xbox) to give the gun, then **hold right on the D-pad** and press **L1** (PS5) or **LB** (Xbox) to take it back. Guide site [gta6walk](https://gta6walk.com/guides/how-to-hand-items-to-your-partner/) also lists **D-pad right + Circle / B** for handing over items, while the **L1 / LB** take-back input comes only from u/Sinx0x's post.
+
+**Why this trick is disputed.** Sources do not agree on whether guns can be handed to your partner at all:
+
+| Source | What it says about handing over guns |
+|---|---|
+| [GamesRadar+](https://www.gamesradar.com/games/grand-theft-auto/gta-6-switch-characters-command/) | Says you can hold right on the D-pad during a robbery to hand over weapons and stash bags |
+| [PowerPyx](https://www.powerpyx.com/gta-6-how-to-hand-items-to-your-partner/) (and [gta6walk](https://gta6walk.com/guides/how-to-hand-items-to-your-partner/)) | Says only **longarms** (assault rifles, shotguns) and stash bags work; pistols, revolvers, SMGs, and equipment cannot be handed over |
+| [GamesRadar+ weapons list](https://www.gamesradar.com/games/grand-theft-auto/gta-6-weapons/) | Classes several SMGs (VOM Feuer VF5, VF5C, Schlamm DW-9, BZI Vatra, ADB PD-90) as **longarms**, which conflicts with PowerPyx's "no SMGs" rule |
+| [Tech4Gamers](https://gta.tech4gamers.com/gta-6/guides/shared-weapons-jason-lucia/) | Says **no weapons or equipment** can be handed over at all — only stash bags |
+| [u/Sinx0x](https://www.reddit.com/r/gtaglitches/comments/1y4y7gj/gta_6_infiniteish_ammo_glitch/) | Says grenade launchers cannot be handed over |
 
 ## FAQ
 
-### Is there a confirmed infinite ammo glitch in GTA 6?
-No. As of 25 Nov 2026, no major gaming site or Rockstar confirms an ammo glitch. One player ([u/Sinx0x on r/gtaglitches](https://www.reddit.com/r/gtaglitches/comments/1y4y7gj/gta_6_infiniteish_ammo_glitch/)) reported a partner hand-over trick that refills the loaded magazine only, not spare ammo.
+### Where do I buy ammo in GTA 6?
+At gun stores like Big Shots and Chuck's Tackle & Shot. [Dexerto](https://www.dexerto.com/wikis/gta-6/equipment/ammo-pack/) lists single ammo boxes and the **$950 Ammo Pack** there, and [GamesRadar+](https://www.gamesradar.com/games/grand-theft-auto/gta-6-chapter-1-walkthrough/5/) identifies Chuck's Tackle & Shot as an Ammu-Nation. [PowerPyx](https://www.powerpyx.com/gta-6-tips-tricks/) (a guide site) says all Ammu-Nation stores sell ammo.
 
-### Can you hand guns to your partner in GTA 6?
-Sources disagree. [GamesRadar+](https://www.gamesradar.com/games/grand-theft-auto/gta-6-switch-characters-command/) says you can hand over weapons and stash bags, [PowerPyx](https://www.powerpyx.com/gta-6-how-to-hand-items-to-your-partner/) says only longarms (assault rifles, shotguns) and stash bags can be handed over (not pistols, revolvers, SMGs, or equipment), and [Tech4Gamers](https://gta.tech4gamers.com/gta-6/guides/shared-weapons-jason-lucia/) says no weapons can be handed over at all.
+### Does switching to my partner give me more ammo?
+Maybe, if they still have bullets left. [Inven Global](https://www.invenglobal.com/articles/28810/13-tips-i-wish-i-knew-before-starting-gta-6) says Jason and Lucia hold separate ammo supplies, so one character can be empty while the other still has ammo.
 
-### Does the reported glitch work with grenade launchers, pistols, or SMGs?
-No. [u/Sinx0x](https://www.reddit.com/r/gtaglitches/comments/1y4y7gj/gta_6_infiniteish_ammo_glitch/) says grenade launchers cannot be handed over, and [PowerPyx](https://www.powerpyx.com/gta-6-how-to-hand-items-to-your-partner/) says pistols, revolvers, SMGs, and equipment cannot be handed over either.
+### Is there a confirmed ammo glitch in GTA 6?
+No. As of 25 Nov 2026, no major gaming site or Rockstar reports an ammo glitch. Only one Reddit player ([u/Sinx0x](https://www.reddit.com/r/gtaglitches/comments/1y4y7gj/gta_6_infiniteish_ammo_glitch/)) reported the partner hand-over trick, and we have not tested it.
 
-### What is the fastest confirmed way to refill ammo?
-Visit an **Ammu-Nation** gun store to buy ammo ([PowerPyx](https://www.powerpyx.com/gta-6-tips-tricks/)), or buy a **$950 Ammo Pack** at Big Shots or Chuck's Tackle & Shot to refill all standard firearm ammo types ([Dexerto](https://www.dexerto.com/wikis/gta-6/equipment/ammo-pack/)). After you finish the main story, you can also unlock official ammo cheats via shooting-range medals, though cheats turn off saving and trophies ([GameSpot](https://www.gamespot.com/articles/all-gta-6-cheats-and-how-to-unlock-them/), [PC Gamer](https://www.pcgamer.com/games/grand-theft-auto/gta-6-cheats-list/)).
-
-### Is it patched?
-Unconfirmed. The Reddit report was posted on 25 Nov 2026, after update 01.002.002, and has not been confirmed or tested by us.
+### Can you hand guns to your partner, or does the trick work with pistols, SMGs, or grenade launchers?
+Not confirmed. [PowerPyx](https://www.powerpyx.com/gta-6-how-to-hand-items-to-your-partner/) (a guide site) says pistols, revolvers, and SMGs cannot be handed over. However, [GamesRadar+](https://www.gamesradar.com/games/grand-theft-auto/gta-6-weapons/) lists some SMGs as longarms, and [another GamesRadar+ guide](https://www.gamesradar.com/games/grand-theft-auto/gta-6-switch-characters-command/) says weapons can be handed over, while [Tech4Gamers](https://gta.tech4gamers.com/gta-6/guides/shared-weapons-jason-lucia/) says no weapons can be handed over at all. [u/Sinx0x](https://www.reddit.com/r/gtaglitches/comments/1y4y7gj/gta_6_infiniteish_ammo_glitch/) says grenade launchers cannot be handed over.
 
 ## Credits and sources
 
-- Player report: [u/Sinx0x on r/gtaglitches](https://www.reddit.com/r/gtaglitches/comments/1y4y7gj/gta_6_infiniteish_ammo_glitch/) (glitch claim, follow-up comments on magazine-only and grenade launchers, and reported give/take-back button steps).
-- Controls and partner hand-overs: [Shacknews PS5 controls](https://www.shacknews.com/article/151396/gta6-ps5-controls), [Shacknews Xbox controls](https://www.shacknews.com/article/151419/gta6-xbox-controls), [GamesRadar+ partner guide](https://www.gamesradar.com/games/grand-theft-auto/gta-6-switch-characters-command/), [PowerPyx partner items guide](https://www.powerpyx.com/gta-6-how-to-hand-items-to-your-partner/), [gta6walk partner guide](https://gta6walk.com/guides/how-to-hand-items-to-your-partner/), and [Tech4Gamers shared weapons guide](https://gta.tech4gamers.com/gta-6/guides/shared-weapons-jason-lucia/).
-- Ammo, loadout, and combat backups: [Inven Global 13 tips](https://www.invenglobal.com/articles/28810/13-tips-i-wish-i-knew-before-starting-gta-6), [GamesRadar+ loadout guide](https://www.gamesradar.com/games/grand-theft-auto/gta-6-manage-loadout/), [GamesRadar+ weapon ownership](https://www.gamesradar.com/games/grand-theft-auto/gta-6-weapon-ownership-explained/), [GamesRadar+ all weapons](https://www.gamesradar.com/games/grand-theft-auto/gta-6-weapons/), [GameSpot inventory guide](https://www.gamespot.com/articles/how-to-increase-your-inventory-in-gta-6/), [PowerPyx tips and tricks](https://www.powerpyx.com/gta-6-tips-tricks/), [Dexerto Ammo Pack](https://www.dexerto.com/wikis/gta-6/equipment/ammo-pack/), [Dexerto Ammo types](https://www.dexerto.com/wikis/gta-6/equipment/ammo/), [GameSpot secret controls](https://www.gamespot.com/articles/gta-6-all-the-secret-controls-and-gameplay-features-you-might-have-missed/), [GameSpot cheats](https://www.gamespot.com/articles/all-gta-6-cheats-and-how-to-unlock-them/), and [PC Gamer cheats](https://www.pcgamer.com/games/grand-theft-auto/gta-6-cheats-list/).
+- Gun stores, ammo, and prices: [Dexerto Ammo Pack](https://www.dexerto.com/wikis/gta-6/equipment/ammo-pack/), [Dexerto Ammo types](https://www.dexerto.com/wikis/gta-6/equipment/ammo/), [Dexerto Assault Rifle Ammo](https://www.dexerto.com/wikis/gta-6/equipment/ammo/assault-rifle-ammo/), [GamesRadar+ Gear Up walkthrough](https://www.gamesradar.com/games/grand-theft-auto/gta-6-chapter-1-walkthrough/5/), [GamesRadar+ all weapons](https://www.gamesradar.com/games/grand-theft-auto/gta-6-weapons/), and [PowerPyx tips and tricks](https://www.powerpyx.com/gta-6-tips-tricks/).
+- Loadouts, trunk storage, and character switching: [Inven Global 13 tips](https://www.invenglobal.com/articles/28810/13-tips-i-wish-i-knew-before-starting-gta-6), [GamesRadar+ loadout guide](https://www.gamesradar.com/games/grand-theft-auto/gta-6-manage-loadout/), [GamesRadar+ weapon ownership](https://www.gamesradar.com/games/grand-theft-auto/gta-6-weapon-ownership-explained/), [GamesRadar+ partner guide](https://www.gamesradar.com/games/grand-theft-auto/gta-6-switch-characters-command/), [GameSpot inventory guide](https://www.gamespot.com/articles/how-to-increase-your-inventory-in-gta-6/), [Shacknews PS5 controls](https://www.shacknews.com/article/151396/gta6-ps5-controls), and [Shacknews Xbox controls](https://www.shacknews.com/article/151419/gta6-xbox-controls).
+- Mid-fight backups and post-story cheats: [GameSpot secret controls](https://www.gamespot.com/articles/gta-6-all-the-secret-controls-and-gameplay-features-you-might-have-missed/), [GameSpot cheats](https://www.gamespot.com/articles/all-gta-6-cheats-and-how-to-unlock-them/), and [PC Gamer cheats](https://www.pcgamer.com/games/grand-theft-auto/gta-6-cheats-list/).
+- Partner hand-over disagreement and unconfirmed trick: [PowerPyx partner items guide](https://www.powerpyx.com/gta-6-how-to-hand-items-to-your-partner/), [gta6walk partner guide](https://gta6walk.com/guides/how-to-hand-items-to-your-partner/), [Tech4Gamers shared weapons guide](https://gta.tech4gamers.com/gta-6/guides/shared-weapons-jason-lucia/), and [u/Sinx0x on r/gtaglitches](https://www.reddit.com/r/gtaglitches/comments/1y4y7gj/gta_6_infiniteish_ammo_glitch/).
 
-Related: [GTA 6 money glitch](/money/gta-6-money-glitch/) · [GTA 6 controls](/beginner-tips/gta-6-controls/) · [GTA 6 car trunk storage](/cars/gta-6-car-trunk-storage/) · [GTA 6 how to lose the cops](/beginner-tips/gta-6-how-to-lose-the-cops/)
+Related: [GTA 6 car trunk storage](/cars/gta-6-car-trunk-storage/) · [GTA 6 controls](/beginner-tips/gta-6-controls/) · [GTA 6 how to lose the cops](/beginner-tips/gta-6-how-to-lose-the-cops/) · [GTA 6 money glitch](/money/gta-6-money-glitch/)
 
 ## Updated
 
 | Date | What changed |
 |---|---|
 | 2026-11-25 | Page created from u/Sinx0x's post and comments. Not tested by us. |
-| 2026-11-25 (21:34 CET) | After QA: added top unconfirmed banner and Quick answer notice, backed Partner Menu input with Shacknews and GamesRadar+, stated source disagreements on handing over guns (PowerPyx, GamesRadar+, Tech4Gamers, gta6walk, u/Sinx0x), framed steps cautiously as the poster's account, and added sourced ammo system, confirmed ammo methods, and fallback steps. Updated all 3 diagram images to match. |
+| 2026-11-25 (21:34 CET) | Added unconfirmed notices, source disagreements, ammo system, and confirmed ammo methods. |
+| 2026-11-25 (22:31 CET) | Reworked into a general out-of-ammo guide after QA: moved the unconfirmed partner trick to a short side note near the end, updated title/meta/Quick answer/images, fixed Inven Global vs GamesRadar+ credit, fixed LMG wording, fixed SMG/hand-over FAQ and table against GamesRadar+, backed gun-store ammo with Dexerto and GamesRadar+, and simplified sentences for easier reading. |
 
 ---
 *Unofficial fan site, not affiliated with Rockstar Games or Take-Two.*

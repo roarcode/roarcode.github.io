@@ -1,10 +1,10 @@
 {
   "type": "compare-table",
-  "alt": "Table of reported buttons for the GTA 6 ammo trick: hold D-pad right for the Partner Menu (Shacknews), then Circle or B to give and D-pad right with L1 or LB to take back (u/Sinx0x).",
+  "alt": "Table of PS5 and Xbox buttons when you run out of ammo in GTA 6: hit with your gun, quick-swap weapons, open your car trunk, or switch characters.",
   "data": {
     "category": "glitches",
-    "title": "Reported buttons",
-    "subtitle": "D-pad right opens Partner Menu (Shacknews). Give/take buttons are from u/Sinx0x.",
+    "title": "Out of ammo buttons",
+    "subtitle": "PS5 and Xbox controls from GameSpot and GamesRadar+.",
     "columns": [
       "Action",
       "PS5",
@@ -12,16 +12,26 @@
     ],
     "rows": [
       [
-        "Give the gun",
-        "Hold D-pad right, Circle",
-        "Hold D-pad right, B"
+        "Hit with empty gun",
+        "Square",
+        "X"
       ],
       [
-        "Take it back",
-        "Hold D-pad right, L1",
-        "Hold D-pad right, LB"
+        "Quick-swap weapon",
+        "Aim + tap Triangle",
+        "Aim + tap Y"
+      ],
+      [
+        "Open car trunk",
+        "Triangle, hold L1",
+        "Y, hold LB"
+      ],
+      [
+        "Switch character",
+        "Hold D-pad right, R1",
+        "Hold D-pad right, RB"
       ]
     ],
-    "note": "Unconfirmed player report by u/Sinx0x (25 Nov 2026). Not tested by us."
+    "note": "Default control layout. Sources: GameSpot and GamesRadar+."
   }
 }

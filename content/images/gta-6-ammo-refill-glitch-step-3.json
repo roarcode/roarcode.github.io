@@ -1,26 +1,25 @@
 {
   "type": "info-cards",
-  "alt": "Our diagram of reported limits and source disagreements: loaded magazine refills per one player, spare ammo does not, long guns are disputed, and small guns or grenade launchers cannot be handed over. Not a game screenshot.",
+  "alt": "Our diagram of the unconfirmed partner ammo trick and weapon hand-over disagreements: one Reddit report by u/Sinx0x, sources disagree on handing over guns, and post-story ammo cheats disable saving. Not a game screenshot.",
   "data": {
     "category": "glitches",
-    "title": "Reported limits and sources",
+    "title": "Partner trick and cheats",
     "cols": 3,
     "cards": [
       {
-        "title": "Loaded mag only",
-        "body": "u/Sinx0x says it refills, not spare ammo."
+        "title": "Partner trick",
+        "body": "Unconfirmed: one Reddit report (u/Sinx0x). Not tested by us."
       },
       {
-        "title": "Long guns disputed",
-        "body": "PowerPyx says yes. Tech4Gamers says no."
+        "title": "Hand-over limits",
+        "body": "Sources disagree on whether guns can pass to a partner."
       },
       {
-        "title": "Small guns and launchers",
-        "body": "Cannot hand over (PowerPyx, u/Sinx0x).",
-        "status": "no"
+        "title": "Ammo cheats",
+        "body": "Post-story only. Turns off saving and trophies (GameSpot)."
       }
     ],
-    "note": "Unconfirmed trick (u/Sinx0x). Sources disagree on gun hand-overs.",
+    "note": "Our diagram, not a game screenshot.",
     "banner": "Our diagram, not a game screenshot"
   }
 }

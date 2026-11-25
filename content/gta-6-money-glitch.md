@@ -27,7 +27,7 @@ qa: live-review
 
 > - **Quick answer:** at the **Apollo Aggregates** warehouse east of Hamlet, the drugs in two vans **come back** each time you switch to your other character and straight back. Bag them, store them in a van, sell them (GameSpot, r/gtaglitches).
 > - **What it pays:** GameSpot counts **$1,200 per pack** and **about $254,400** for one full run (two vans plus four carried bags) in **10 to 15 minutes**.
-> - **Status: working (checked 2026-11-25).** GameSpot's guide (published 23 Nov, US time). u/lilsteve68 says it still worked after they updated. Not tested by us. Any patch can end it.
+> - **Status: mixed.** The 01.002.002 patch notes do not mention this glitch. Players disagree since the update: some say it still works, others say it stopped. Not tested by us.
 
 **Words used on this page.** A *glitch* is a bug you can use on purpose. *Respawn* means items come back after you take them. *Stash bag* is the bag your loot goes into. A *fence* is a person who buys stolen goods. *Switching* means changing between Jason and Lucia. *Personal vehicle* is a car you registered, so you can call it with the ScooterBros app.
 
@@ -108,11 +108,11 @@ GameSpot's total: **20 bags in two vans plus 4 carried = about $254,400**, in **
 
 ## Is it patched?
 
-**Status: working (checked 2026-11-25).**
+**Status: mixed.** The 01.002.002 patch notes do not mention this glitch. Players disagree since the update: some say it still works, others say it stopped. Not tested by us.
 
 - [Rockstar Support's 23 Nov Launch Updates](https://support.rockstargames.com/articles/sN5pEdFYZdlvijKXd6xpJ/grand-theft-auto-vi-launch-updates-ps5-xbox-series-x-or-s) list seven fixes. None is this glitch. [VGC](https://www.videogameschronicle.com/news/grand-theft-auto-6-has-received-a-new-patch-which-fixes-autosaving/) and [Polygon](https://www.polygon.com/gta-6-update-today-ver-01002002-where-is-ps5-xbox-download-size-patch-notes/) report this list as update **01.002.002**. One of the seven fixes is partners not handing over bags to sell to fences.
-- GameSpot's guide (published 23 Nov, US time) does not give a test date and does not say it was tested after the patch. [u/lilsteve68](https://www.reddit.com/r/gtaglitches/comments/1y3y1ny/gta_6_infinite_money_glitch_optimised/19t3j0e2fgo9x/) says they "just tested it straight after I updated" and it still worked.
-- Some players report it failing. [u/Matrix-tk](https://www.reddit.com/r/gtaglitches/comments/1y1gou5/gta_6_unlimited_money_red_barn_apollo_aggregates/19t04izcvtzgl/) says the trucks were gone later in the story. [u/Initial_Branch954](https://www.reddit.com/r/gtaglitches/comments/1y3y1ny/gta_6_infinite_money_glitch_optimised/19t4ajx4aks82/) says payouts fell from $18k to $12k to $3.5k and they thought it was patched. [u/Blood_Soaked_Bat](https://www.reddit.com/r/gtaglitches/comments/1y3y1ny/gta_6_infinite_money_glitch_optimised/19t4mkvg3vg0z/) says the vans were gone the next day.
+- GameSpot's guide (published 23 Nov, US time) does not give a test date and does not say it was tested after the patch. [u/lilsteve68](https://www.reddit.com/r/gtaglitches/comments/1y3y1ny/gta_6_infinite_money_glitch_optimised/19t3j0e2fgo9x/) says they "just tested it straight after I updated" and it still worked. [u/DONTUSECAPSLOCK](https://www.reddit.com/r/gtaglitches/comments/1y1gou5/gta_6_unlimited_money_red_barn_apollo_aggregates/19t2ud2na15fl/) said on 23 Nov, "Just checked, and yes it still works."
+- Some players report it failing. [u/Matrix-tk](https://www.reddit.com/r/gtaglitches/comments/1y1gou5/gta_6_unlimited_money_red_barn_apollo_aggregates/19t04izcvtzgl/) says the trucks were gone later in the story. [u/Initial_Branch954](https://www.reddit.com/r/gtaglitches/comments/1y3y1ny/gta_6_infinite_money_glitch_optimised/19t4ajx4aks82/) says payouts fell from $18k to $12k to $3.5k and they thought it was patched. [u/Blood_Soaked_Bat](https://www.reddit.com/r/gtaglitches/comments/1y3y1ny/gta_6_infinite_money_glitch_optimised/19t4mkvg3vg0z/) says it doesn't work anymore: the vans were gone the next day.
 
 Sell often and bank your money.
 
@@ -131,7 +131,7 @@ At Apollo Aggregates, an abandoned red warehouse east of Hamlet in South Vice-Da
 GameSpot counts $1,200 per pack and about $254,400 for a full two-van run in 10 to 15 minutes.
 
 ### Is the GTA 6 money glitch patched?
-Not as of 25 Nov 2026. Update 01.002.002 does not mention it (Rockstar Support's seven fixes, reported as this update by VGC and Polygon), and u/lilsteve68 says it still worked after they updated. Some players report it failing. Not tested by us.
+The 01.002.002 patch notes do not mention it (Rockstar Support's seven fixes, reported as this update by VGC and Polygon). Players disagree since the update: some say it still works, others say it stopped. Not tested by us.
 
 ### Do I need mods or a PC?
 No. It is done in story mode on PS5 or Xbox with normal game actions.
@@ -149,6 +149,7 @@ Related: [GTA 6 fences and stash bags](/money/gta-6-fences-stash-bags/) · [GTA 
 
 | Date | What changed |
 |---|---|
+| 2026-11-25 22:31 CET | Status set to mixed: players disagree since the update. Fixed the Quick answer fragment and quoted "doesn't work anymore" accurately. |
 | 2026-11-25 21:37 CET | Fixed sourcing and credits after SEARCH QA: named the right sources, stated disagreements, cited official patch notes, and added comment links. |
 | 2026-11-25 | Page created from GameSpot, r/gtaglitches posts and comments, and the 01.002.002 patch notes. Not tested by us. |
 

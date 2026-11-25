@@ -1,23 +1,25 @@
 {
-  "type": "step-card",
-  "alt": "Our diagram of the reported GTA 6 ammo refill trick: give a long gun to your partner, take it back, and the poster says the magazine refills. Unconfirmed. Not a game screenshot.",
+  "type": "info-cards",
+  "alt": "Our diagram of three ways to get ammo in GTA 6: buy ammo or an Ammo Pack at gun stores, switch between Jason and Lucia for separate ammo, or swap to a stored gun in your car trunk. Not a game screenshot.",
   "data": {
     "category": "glitches",
-    "title": "Reported refill trick",
-    "steps": [
+    "title": "Ways to get ammo",
+    "cols": 3,
+    "cards": [
       {
-        "title": "Give a long gun",
-        "body": "Poster says: hand it to your partner."
+        "title": "Gun stores",
+        "body": "Buy ammo or a $950 Ammo Pack at shops like Big Shots (Dexerto)."
       },
       {
-        "title": "Take it back",
-        "body": "Poster says: take the same gun back."
+        "title": "Switch character",
+        "body": "Jason and Lucia each hold their own ammo (Inven Global)."
       },
       {
-        "title": "Full magazine?",
-        "body": "Poster says the loaded mag refills."
+        "title": "Car trunk",
+        "body": "Open your trunk to swap to another owned gun (GamesRadar+)."
       }
     ],
-    "tip": "Unconfirmed: one player report (u/Sinx0x, 25 Nov 2026). Not tested by us."
+    "note": "Our diagram, not a game screenshot.",
+    "banner": "Our diagram, not a game screenshot"
   }
 }
