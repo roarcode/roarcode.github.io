@@ -13,7 +13,7 @@ published: 2026-11-25
 status: live
 publish: true
 spoilers: none
-qa: passed
+qa: live-review
 ---
 
 # GTA 6 Ammo Glitch: Refill Your Magazine With Your Partner
