@@ -1,0 +1,27 @@
+{
+  "type": "step-card",
+  "alt": "Our diagram of the GTA 6 money glitch loop in four steps: loot both teddy bear vans, switch characters and back, loot again, store full bags in a van and sell. Not a game screenshot.",
+  "data": {
+    "category": "money",
+    "title": "The respawn loop",
+    "steps": [
+      {
+        "title": "Loot both vans",
+        "body": "3 packs outside, 3 inside. $1,200 each."
+      },
+      {
+        "title": "Switch and back",
+        "body": "Partner far away. Switch, then switch straight back."
+      },
+      {
+        "title": "Loot again",
+        "body": "The 6 packs are back. Fill both bags."
+      },
+      {
+        "title": "Store, then sell",
+        "body": "10 bags per plain van. Sell to a fence."
+      }
+    ],
+    "tip": "From GameSpot, 23 Nov 2026. Our drawing, not a game screenshot."
+  }
+}

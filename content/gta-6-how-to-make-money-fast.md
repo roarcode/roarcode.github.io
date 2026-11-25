@@ -10,7 +10,7 @@ description: "GTA 6 how to make money fast: 4 ways GameSpot and Destructoid reco
 sources:
   - https://www.gamespot.com/articles/best-ways-to-make-money-fast-in-gta-6/
   - https://www.destructoid.com/the-best-and-fastest-ways-to-make-money-in-gta-6/
-updated: 2026-11-18
+updated: 2026-11-25
 status: live
 publish: true
 spoilers: minor
@@ -118,13 +118,14 @@ Yes. Destructoid says you can carry $20,000 in cash. Put the rest in your BuckMe
 Yes, but later. GameSpot says big banks open about halfway through the story.
 
 ### Is there a money glitch in GTA 6?
-We do not publish money glitches or exploits. If Rockstar patches or bans for one, we say so.
+This page covers normal methods only. A story-mode warehouse respawn glitch is reported working as of 25 Nov 2026; it has its own page: [GTA 6 money glitch](/money/gta-6-money-glitch/).
 
 ## Updated
 
 | Date | What changed |
 |---|---|
 | 2026-11-18 | Filled from GameSpot's and Destructoid's money guides (18 Nov). Not timed by us yet. |
+| 2026-11-25 | FAQ now links to our separate money glitch page. |
 
 ---
 *Unofficial fan site, not affiliated with Rockstar Games or Take-Two.*

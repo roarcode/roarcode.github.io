@@ -10,7 +10,7 @@ description: "GTA 6 launch hub: is it out, release time by zone, download and pr
 sources:
   - https://www.playstation.com/en-us/support/games/gta-vi-support/
   - https://www.rockstargames.com/VI
-updated: 2026-11-19
+updated: 2026-11-25
 status: live
 spoilers: none
 featured: true
@@ -39,6 +39,8 @@ qa: passed
 - [GTA 6 cheats: how to enter them on PS5 and Xbox](/launch-hub/gta-6-cheats/)
 - [GTA 6 review scores: Metacritic 99 and more (spoiler-free)](/launch-hub/gta-6-review-score-roundup/)
 - [GTA 6 how to make money fast: 4 best ways](/money/gta-6-how-to-make-money-fast/)
+- [GTA 6 money glitch: warehouse respawn, is it patched?](/money/gta-6-money-glitch/)
+- [GTA 6 ammo glitch: refill your magazine with your partner](/glitches/gta-6-ammo-refill-glitch/)
 
 ## Something is not working
 

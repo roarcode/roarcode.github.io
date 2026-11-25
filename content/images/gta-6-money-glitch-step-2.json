@@ -1,0 +1,28 @@
+{
+  "type": "info-cards",
+  "alt": "Our diagram: teddy bear van outside, loot it. Teddy bear van inside, loot it. Plain van, fill it with bags. Not a game screenshot.",
+  "data": {
+    "category": "money",
+    "title": "Which vans to use",
+    "cols": 3,
+    "cards": [
+      {
+        "title": "Teddy bear van, outside",
+        "body": "Loot it. Do not move it.",
+        "status": "ok"
+      },
+      {
+        "title": "Teddy bear van, inside",
+        "body": "Loot it. Do not move it.",
+        "status": "ok"
+      },
+      {
+        "title": "Plain van",
+        "body": "Fill it: 10 bag slots.",
+        "status": "none"
+      }
+    ],
+    "note": "From GameSpot and r/gtaglitches. Our drawing, not a game screenshot.",
+    "banner": "Our diagram, not a game screenshot"
+  }
+}

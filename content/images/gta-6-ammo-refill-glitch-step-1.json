@@ -1,0 +1,23 @@
+{
+  "type": "step-card",
+  "alt": "Our diagram of the GTA 6 ammo refill trick: give the gun to your partner, take it back, the magazine is full. Not a game screenshot.",
+  "data": {
+    "category": "glitches",
+    "title": "The refill trick",
+    "steps": [
+      {
+        "title": "Give the gun",
+        "body": "Hand the low gun to your partner."
+      },
+      {
+        "title": "Take it back",
+        "body": "Take the same gun back."
+      },
+      {
+        "title": "Full magazine",
+        "body": "The loaded mag is full again."
+      }
+    ],
+    "tip": "Player report by u/Sinx0x, 25 Nov 2026. Unconfirmed."
+  }
+}

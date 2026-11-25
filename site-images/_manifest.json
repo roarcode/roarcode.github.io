@@ -1999,5 +1999,53 @@
     "bytes": 26724,
     "alt": "Our diagram: Where to fix it. Pay 'n' Spray or Mod Shop: fixes big damage. Gas station: small damage only, costs more. Not a game screenshot.",
     "type": "info-cards"
+  },
+  "gta-6-ammo-refill-glitch-step-1": {
+    "file": "gta-6-ammo-refill-glitch-step-1.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 23596,
+    "alt": "Our diagram of the GTA 6 ammo refill trick: give the gun to your partner, take it back, the magazine is full. Not a game screenshot.",
+    "type": "step-card"
+  },
+  "gta-6-ammo-refill-glitch-step-2": {
+    "file": "gta-6-ammo-refill-glitch-step-2.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 25004,
+    "alt": "Table of buttons for the GTA 6 ammo trick: give the gun with D-pad right then Circle or B, take it back with D-pad right then L1 or LB.",
+    "type": "compare-table"
+  },
+  "gta-6-ammo-refill-glitch-step-3": {
+    "file": "gta-6-ammo-refill-glitch-step-3.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 30774,
+    "alt": "Our diagram: loaded magazine refills, spare ammo does not, grenade launchers cannot be handed over. Not a game screenshot.",
+    "type": "info-cards"
+  },
+  "gta-6-money-glitch-step-1": {
+    "file": "gta-6-money-glitch-step-1.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 30872,
+    "alt": "Our diagram of the GTA 6 money glitch loop in four steps: loot both teddy bear vans, switch characters and back, loot again, store full bags in a van and sell. Not a game screenshot.",
+    "type": "step-card"
+  },
+  "gta-6-money-glitch-step-2": {
+    "file": "gta-6-money-glitch-step-2.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 31744,
+    "alt": "Our diagram: teddy bear van outside, loot it. Teddy bear van inside, loot it. Plain van, fill it with bags. Not a game screenshot.",
+    "type": "info-cards"
+  },
+  "gta-6-money-glitch-step-3": {
+    "file": "gta-6-money-glitch-step-3.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 34458,
+    "alt": "Table of three GTA 6 money glitch routes: GameSpot two-van run about $254,400 in 10 to 15 minutes, u/lilsteve68 $88,000 to $100,000 in under 10 minutes, u/rdjh ten vans over $1,000,000 in about 30 minutes.",
+    "type": "compare-table"
   }
 }

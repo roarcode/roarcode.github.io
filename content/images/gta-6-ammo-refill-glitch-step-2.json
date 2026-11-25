@@ -1,0 +1,27 @@
+{
+  "type": "compare-table",
+  "alt": "Table of buttons for the GTA 6 ammo trick: give the gun with D-pad right then Circle or B, take it back with D-pad right then L1 or LB.",
+  "data": {
+    "category": "glitches",
+    "title": "Buttons",
+    "subtitle": "In the order the poster gives them.",
+    "columns": [
+      "Action",
+      "PS5",
+      "Xbox"
+    ],
+    "rows": [
+      [
+        "Give the gun",
+        "Hold D-pad right, Circle",
+        "Hold D-pad right, B"
+      ],
+      [
+        "Take it back",
+        "Hold D-pad right, L1",
+        "Hold D-pad right, LB"
+      ]
+    ],
+    "note": "Player report by u/Sinx0x, 25 Nov 2026."
+  }
+}

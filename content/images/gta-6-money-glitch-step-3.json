@@ -1,0 +1,36 @@
+{
+  "type": "compare-table",
+  "alt": "Table of three GTA 6 money glitch routes: GameSpot two-van run about $254,400 in 10 to 15 minutes, u/lilsteve68 $88,000 to $100,000 in under 10 minutes, u/rdjh ten vans over $1,000,000 in about 30 minutes.",
+  "data": {
+    "category": "money",
+    "title": "What each route pays",
+    "subtitle": "Payouts as each source states them. Not timed by us.",
+    "columns": [
+      "Route",
+      "Pays",
+      "Time",
+      "Source"
+    ],
+    "rows": [
+      [
+        "Two vans + 4 bags",
+        "about $254,400",
+        "10-15 min",
+        "GameSpot"
+      ],
+      [
+        "Van every 7 min",
+        "$88,000-100,000",
+        "under 10 min",
+        "u/lilsteve68"
+      ],
+      [
+        "Up to 10 vans",
+        "over $1,000,000",
+        "about 30 min",
+        "u/rdjh (claim)"
+      ]
+    ],
+    "note": "Checked 25 Nov 2026, update 01.002.002."
+  }
+}

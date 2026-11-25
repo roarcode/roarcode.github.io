@@ -1,0 +1,28 @@
+{
+  "type": "info-cards",
+  "alt": "Our diagram: loaded magazine refills, spare ammo does not, grenade launchers cannot be handed over. Not a game screenshot.",
+  "data": {
+    "category": "glitches",
+    "title": "What refills",
+    "cols": 3,
+    "cards": [
+      {
+        "title": "Loaded magazine",
+        "body": "Refills. Best with LMGs.",
+        "status": "ok"
+      },
+      {
+        "title": "Spare ammo",
+        "body": "Does not refill.",
+        "status": "no"
+      },
+      {
+        "title": "Grenade launcher",
+        "body": "Cannot be handed over.",
+        "status": "no"
+      }
+    ],
+    "note": "Player report by u/Sinx0x. Our drawing, not a game screenshot.",
+    "banner": "Our diagram, not a game screenshot"
+  }
+}
