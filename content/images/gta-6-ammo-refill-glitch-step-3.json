@@ -1,28 +1,26 @@
 {
   "type": "info-cards",
-  "alt": "Our diagram: loaded magazine refills, spare ammo does not, grenade launchers cannot be handed over. Not a game screenshot.",
+  "alt": "Our diagram of reported limits and source disagreements: loaded magazine refills per one player, spare ammo does not, long guns are disputed, and small guns or grenade launchers cannot be handed over. Not a game screenshot.",
   "data": {
     "category": "glitches",
-    "title": "What refills",
+    "title": "Reported limits and sources",
     "cols": 3,
     "cards": [
       {
-        "title": "Loaded magazine",
-        "body": "Refills. Best with LMGs.",
-        "status": "ok"
+        "title": "Loaded mag only",
+        "body": "u/Sinx0x says it refills, not spare ammo."
       },
       {
-        "title": "Spare ammo",
-        "body": "Does not refill.",
-        "status": "no"
+        "title": "Long guns disputed",
+        "body": "PowerPyx says yes. Tech4Gamers says no."
       },
       {
-        "title": "Grenade launcher",
-        "body": "Cannot be handed over.",
+        "title": "Small guns and launchers",
+        "body": "Cannot hand over (PowerPyx, u/Sinx0x).",
         "status": "no"
       }
     ],
-    "note": "Player report by u/Sinx0x. Our drawing, not a game screenshot.",
+    "note": "Unconfirmed trick (u/Sinx0x). Sources disagree on gun hand-overs.",
     "banner": "Our diagram, not a game screenshot"
   }
 }

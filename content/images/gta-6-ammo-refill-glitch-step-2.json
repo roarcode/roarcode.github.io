@@ -1,10 +1,10 @@
 {
   "type": "compare-table",
-  "alt": "Table of buttons for the GTA 6 ammo trick: give the gun with D-pad right then Circle or B, take it back with D-pad right then L1 or LB.",
+  "alt": "Table of reported buttons for the GTA 6 ammo trick: hold D-pad right for the Partner Menu (Shacknews), then Circle or B to give and D-pad right with L1 or LB to take back (u/Sinx0x).",
   "data": {
     "category": "glitches",
-    "title": "Buttons",
-    "subtitle": "In the order the poster gives them.",
+    "title": "Reported buttons",
+    "subtitle": "D-pad right opens Partner Menu (Shacknews). Give/take buttons are from u/Sinx0x.",
     "columns": [
       "Action",
       "PS5",
@@ -22,6 +22,6 @@
         "Hold D-pad right, LB"
       ]
     ],
-    "note": "Player report by u/Sinx0x, 25 Nov 2026."
+    "note": "Unconfirmed player report by u/Sinx0x (25 Nov 2026). Not tested by us."
   }
 }

@@ -2004,24 +2004,24 @@
     "file": "gta-6-ammo-refill-glitch-step-1.webp",
     "width": 1200,
     "height": 675,
-    "bytes": 23596,
-    "alt": "Our diagram of the GTA 6 ammo refill trick: give the gun to your partner, take it back, the magazine is full. Not a game screenshot.",
+    "bytes": 26630,
+    "alt": "Our diagram of the reported GTA 6 ammo refill trick: give a long gun to your partner, take it back, and the poster says the magazine refills. Unconfirmed. Not a game screenshot.",
     "type": "step-card"
   },
   "gta-6-ammo-refill-glitch-step-2": {
     "file": "gta-6-ammo-refill-glitch-step-2.webp",
     "width": 1200,
     "height": 675,
-    "bytes": 25004,
-    "alt": "Table of buttons for the GTA 6 ammo trick: give the gun with D-pad right then Circle or B, take it back with D-pad right then L1 or LB.",
+    "bytes": 32858,
+    "alt": "Table of reported buttons for the GTA 6 ammo trick: hold D-pad right for the Partner Menu (Shacknews), then Circle or B to give and D-pad right with L1 or LB to take back (u/Sinx0x).",
     "type": "compare-table"
   },
   "gta-6-ammo-refill-glitch-step-3": {
     "file": "gta-6-ammo-refill-glitch-step-3.webp",
     "width": 1200,
     "height": 675,
-    "bytes": 30774,
-    "alt": "Our diagram: loaded magazine refills, spare ammo does not, grenade launchers cannot be handed over. Not a game screenshot.",
+    "bytes": 38902,
+    "alt": "Our diagram of reported limits and source disagreements: loaded magazine refills per one player, spare ammo does not, long guns are disputed, and small guns or grenade launchers cannot be handed over. Not a game screenshot.",
     "type": "info-cards"
   },
   "gta-6-money-glitch-step-1": {

@@ -12,7 +12,9 @@ sources:
   - https://www.reddit.com/r/gtaglitches/comments/1y1gou5/gta_6_unlimited_money_red_barn_apollo_aggregates/
   - https://www.reddit.com/r/gtaglitches/comments/1y3y1ny/gta_6_infinite_money_glitch_optimised/
   - https://www.reddit.com/r/gtaglitches/comments/1y4gvl1/gta_6_working_glitches_thread/
-  - https://rockstarintel.com/new-gta-vi-update-01-002-002-patch-notes-released/
+  - https://support.rockstargames.com/articles/sN5pEdFYZdlvijKXd6xpJ/grand-theft-auto-vi-launch-updates-ps5-xbox-series-x-or-s
+  - https://www.videogameschronicle.com/news/grand-theft-auto-6-has-received-a-new-patch-which-fixes-autosaving/
+  - https://www.polygon.com/gta-6-update-today-ver-01002002-where-is-ps5-xbox-download-size-patch-notes/
 updated: 2026-11-25
 published: 2026-11-25
 status: live
@@ -25,7 +27,7 @@ qa: live-review
 
 > - **Quick answer:** at the **Apollo Aggregates** warehouse east of Hamlet, the drugs in two vans **come back** each time you switch to your other character and straight back. Bag them, store them in a van, sell them (GameSpot, r/gtaglitches).
 > - **What it pays:** GameSpot counts **$1,200 per pack** and **about $254,400** for one full run (two vans plus four carried bags) in **10 to 15 minutes**.
-> - **Status: working (checked 2026-11-25).** GameSpot tested it on 23 Nov, and players report it still works after update 01.002.002. Not tested by us. Any patch can end it.
+> - **Status: working (checked 2026-11-25).** GameSpot's guide (published 23 Nov, US time). u/lilsteve68 says it still worked after they updated. Not tested by us. Any patch can end it.
 
 **Words used on this page.** A *glitch* is a bug you can use on purpose. *Respawn* means items come back after you take them. *Stash bag* is the bag your loot goes into. A *fence* is a person who buys stolen goods. *Switching* means changing between Jason and Lucia. *Personal vehicle* is a car you registered, so you can call it with the ScooterBros app.
 
@@ -48,7 +50,7 @@ qa: live-review
 ## Before you start
 
 1. **Play into Chapter 3 first if you can.** You can do it from Chapter 1, but GameSpot says the best buyer for drugs only opens in Chapter 3.
-2. **Bank wisely in Chapter 1.** Players in the original thread say only money in your **BuckMe savings** account carries over when Chapter 2 starts. Cash and your normal BuckMe account are emptied.
+2. **Bank wisely in Chapter 1.** When Chapter 2 starts, the original post says only money in your **BuckMe** account carries over. Two players in that thread, [u/Wild_Bee_3953](https://www.reddit.com/r/gtaglitches/comments/1y1gou5/gta_6_unlimited_money_red_barn_apollo_aggregates/19sxyd6b8ak03/) and [u/BringingFire](https://www.reddit.com/r/gtaglitches/comments/1y1gou5/gta_6_unlimited_money_red_barn_apollo_aggregates/19sxz30gm4r0g/), say it is only money in your **BuckMe savings** account, and that cash and your normal BuckMe account are emptied. These are player reports. We have not found a major outlet that confirms either version.
 3. **Register a 10-slot van** as a personal vehicle (optional, but it doubles the haul). GameSpot names the Burrito '98, Boxville, Rumpo and Shifter. You need a free garage slot.
 4. **Send your partner away.** Tell them to **split up**. The switch only respawns the loot if your other character is far away (GameSpot).
 
@@ -60,7 +62,7 @@ GameSpot says **Tyrone**, a fence in Vice City you meet in Chapter 3, pays a hig
 
 1. Go to the warehouse. Set a waypoint and use the **RydeMe** app to get there fast (GameSpot).
 2. Open the back of the **teddy bear van outside** and take its **3 packs**.
-3. Go inside. Take the **3 packs** in the second teddy bear van. On your first visit there is also a safe and marked money (GameSpot).
+3. Go inside. Take the **3 packs** in the second teddy bear van. On your first visit there is also a safe ([u/InertiaGTA's post](https://www.reddit.com/r/gtaglitches/comments/1y1gou5/gta_6_unlimited_money_red_barn_apollo_aggregates/)) and marked money, bodies and a collectible card (GameSpot).
 4. Stand **outside** the warehouse.
 5. **Switch** to your other character, then **switch straight back** (GameSpot).
 6. The 6 packs are back in the vans. Take them again.
@@ -70,7 +72,7 @@ GameSpot says **Tyrone**, a fence in Vice City you meet in Chapter 3, pays a hig
 
 **Do not move the teddy bear vans.** A player in the original thread says the loot stopped coming back after they drove one outside.
 
-**No switch?** The original poster's other trigger: **Save Game**, then **Load Game** on the same save, and drive back. Several players say driving **about 0.3 to 0.5 miles** away and back also works.
+**No switch?** The original poster's other trigger: **Save Game**, then **Load Game** on the same save, and drive back. Players also say the loot comes back if you drive toward the Vapid dealership and loop back ([u/densestport](https://www.reddit.com/r/gtaglitches/comments/1y1gou5/gta_6_unlimited_money_red_barn_apollo_aggregates/19syaihj1i20w/)), or drive away for 15-20 seconds ([u/JR3456](https://www.reddit.com/r/gtaglitches/comments/1y1gou5/gta_6_unlimited_money_red_barn_apollo_aggregates/19szkzbdvuu9u/)). Two players give a distance: [u/M4YON](https://www.reddit.com/r/gtaglitches/comments/1y1gou5/gta_6_unlimited_money_red_barn_apollo_aggregates/19t0utqw97a2t/) says about 0.32 miles; [u/LeatherSignature6293](https://www.reddit.com/r/gtaglitches/comments/1y3y1ny/gta_6_infinite_money_glitch_optimised/19t4afhtoxof4/) says 0.5 miles sometimes works and 0.3 miles can work too, but not every time.
 
 ![Our diagram of where the loot is: the van outside, the van inside, the plain van for storage. Not a game screenshot.](TODO: image:gta-6-money-glitch-step-2 — diagram, our own art: three boxes, which vans to loot and which to fill)
 *Caption: Diagram. Loot the two teddy bear vans. Store bags in a plain van.*
@@ -98,27 +100,27 @@ GameSpot's total: **20 bags in two vans plus 4 carried = about $254,400**, in **
 
 ## Problems and fixes
 
-- **Bag only holds about $3,200 to $4,000.** Early in the story your bags are smaller. A player tip from the original thread: stop adding drugs at **$2,800**, then open the safe. The bag then held **$4,000**.
+- **Bag only holds about $3,200 to $4,000.** [u/densestport](https://www.reddit.com/r/gtaglitches/comments/1y1gou5/gta_6_unlimited_money_red_barn_apollo_aggregates/19syaihj1i20w/) says if your bag limit is **$3,200**, stop adding drugs at **$2,800**, then open the safe. The bag then held **$4,000**.
 - **Your partner sells to the wrong fence.** u/lilsteve68 says to take them to the right fence **in person twice**. After that, they go there on their own.
 - **Payment says "pending".** GameSpot says this happens if your BuckMe credit limit is still low. Do more main missions. The money arrives later.
-- **Bags stow into your car on their own.** u/rdjh says to reload your save, drop the bags before you switch, then pick them up again.
+- **Bags stow into your car on their own.** [u/rdjh](https://www.reddit.com/r/gtaglitches/comments/1y3y1ny/gta_6_infinite_money_glitch_optimised/19t45ragkh7tw/) says to reload your save, drop the bags before you switch, then pick them up again.
 - **Loot does not come back.** Make sure your partner is far away, not next to you. Players say leaving the area further, or a save and load, fixes it.
 
 ## Is it patched?
 
 **Status: working (checked 2026-11-25).**
 
-- Rockstar's notes for update **01.002.002** (23 Nov) list seven fixes. None is this glitch (Rockstar Support, via RockstarINTEL). One of them fixes partners not handing over bags to sell to fences.
-- GameSpot tested the method on 23 Nov. The original poster and other players say it still works after the patch.
-- One player in the optimised post says the vans were gone the next day. We list it because it is the only report against.
+- [Rockstar Support's 23 Nov Launch Updates](https://support.rockstargames.com/articles/sN5pEdFYZdlvijKXd6xpJ/grand-theft-auto-vi-launch-updates-ps5-xbox-series-x-or-s) list seven fixes. None is this glitch. [VGC](https://www.videogameschronicle.com/news/grand-theft-auto-6-has-received-a-new-patch-which-fixes-autosaving/) and [Polygon](https://www.polygon.com/gta-6-update-today-ver-01002002-where-is-ps5-xbox-download-size-patch-notes/) report this list as update **01.002.002**. One of the seven fixes is partners not handing over bags to sell to fences.
+- GameSpot's guide (published 23 Nov, US time) does not give a test date and does not say it was tested after the patch. [u/lilsteve68](https://www.reddit.com/r/gtaglitches/comments/1y3y1ny/gta_6_infinite_money_glitch_optimised/19t3j0e2fgo9x/) says they "just tested it straight after I updated" and it still worked.
+- Some players report it failing. [u/Matrix-tk](https://www.reddit.com/r/gtaglitches/comments/1y1gou5/gta_6_unlimited_money_red_barn_apollo_aggregates/19t04izcvtzgl/) says the trucks were gone later in the story. [u/Initial_Branch954](https://www.reddit.com/r/gtaglitches/comments/1y3y1ny/gta_6_infinite_money_glitch_optimised/19t4ajx4aks82/) says payouts fell from $18k to $12k to $3.5k and they thought it was patched. [u/Blood_Soaked_Bat](https://www.reddit.com/r/gtaglitches/comments/1y3y1ny/gta_6_infinite_money_glitch_optimised/19t4mkvg3vg0z/) says the vans were gone the next day.
 
-Rockstar usually closes money glitches in a later patch. Sell often and bank your money.
+Sell often and bank your money.
 
 ## What players are saying
 
 *Public posts, quoted with a link. Player tips are not confirmed facts.*
 
-> "Just checked, and yes it still works." – u/DONTUSECAPSLOCK on Reddit, 23 Nov, after update 01.002.002 ([link](https://www.reddit.com/r/gtaglitches/comments/1y1gou5/gta_6_unlimited_money_red_barn_apollo_aggregates/))
+> "Not true, just tested it straight after I updated." – u/lilsteve68 on Reddit, 24 Nov, after they updated ([comment](https://www.reddit.com/r/gtaglitches/comments/1y3y1ny/gta_6_infinite_money_glitch_optimised/19t3j0e2fgo9x/))
 
 ## FAQ
 
@@ -129,7 +131,7 @@ At Apollo Aggregates, an abandoned red warehouse east of Hamlet in South Vice-Da
 GameSpot counts $1,200 per pack and about $254,400 for a full two-van run in 10 to 15 minutes.
 
 ### Is the GTA 6 money glitch patched?
-Not as of 25 Nov 2026. Update 01.002.002 does not mention it, and players report it still works.
+Not as of 25 Nov 2026. Update 01.002.002 does not mention it (Rockstar Support's seven fixes, reported as this update by VGC and Polygon), and u/lilsteve68 says it still worked after they updated. Some players report it failing. Not tested by us.
 
 ### Do I need mods or a PC?
 No. It is done in story mode on PS5 or Xbox with normal game actions.
@@ -139,7 +141,7 @@ We have found no statement from Rockstar about it. It is story mode, not online.
 
 ## Credits
 
-Method first posted by u/InertiaGTA on r/gtaglitches ([post](https://www.reddit.com/r/gtaglitches/comments/1y1gou5/gta_6_unlimited_money_red_barn_apollo_aggregates/)). Optimised route by u/lilsteve68 ([post](https://www.reddit.com/r/gtaglitches/comments/1y3y1ny/gta_6_infinite_money_glitch_optimised/)), with the multi-van upgrade by u/rdjh in its comments. Full step test and payouts: [GameSpot](https://www.gamespot.com/articles/gta-6-infinite-cash-money-cheat-exploit/). Patch notes: [RockstarINTEL](https://rockstarintel.com/new-gta-vi-update-01-002-002-patch-notes-released/).
+Method first posted by u/InertiaGTA on r/gtaglitches ([post](https://www.reddit.com/r/gtaglitches/comments/1y1gou5/gta_6_unlimited_money_red_barn_apollo_aggregates/)). Optimised route by u/lilsteve68 ([post](https://www.reddit.com/r/gtaglitches/comments/1y3y1ny/gta_6_infinite_money_glitch_optimised/)), with the multi-van upgrade by u/rdjh in its comments. Full step test and payouts: [GameSpot](https://www.gamespot.com/articles/gta-6-infinite-cash-money-cheat-exploit/). Patch notes: [Rockstar Support, Grand Theft Auto VI Launch Updates](https://support.rockstargames.com/articles/sN5pEdFYZdlvijKXd6xpJ/grand-theft-auto-vi-launch-updates-ps5-xbox-series-x-or-s) (23 Nov). [VGC](https://www.videogameschronicle.com/news/grand-theft-auto-6-has-received-a-new-patch-which-fixes-autosaving/) and [Polygon](https://www.polygon.com/gta-6-update-today-ver-01002002-where-is-ps5-xbox-download-size-patch-notes/) report the same list as update 01.002.002.
 
 Related: [GTA 6 fences and stash bags](/money/gta-6-fences-stash-bags/) · [GTA 6 how to make money fast](/money/gta-6-how-to-make-money-fast/) · [GTA 6 what to spend money on](/money/gta-6-what-to-spend-money-on/)
 
@@ -147,6 +149,7 @@ Related: [GTA 6 fences and stash bags](/money/gta-6-fences-stash-bags/) · [GTA 
 
 | Date | What changed |
 |---|---|
+| 2026-11-25 21:37 CET | Fixed sourcing and credits after SEARCH QA: named the right sources, stated disagreements, cited official patch notes, and added comment links. |
 | 2026-11-25 | Page created from GameSpot, r/gtaglitches posts and comments, and the 01.002.002 patch notes. Not tested by us. |
 
 ---
