@@ -1,0 +1,25 @@
+{
+  "type": "info-cards",
+  "alt": "Our diagram: a sun icon that never changes next to a calendar of in-game days. Not a game screenshot.",
+  "data": {
+    "category": "glitches",
+    "title": "The weather bug",
+    "cols": 3,
+    "cards": [
+      {
+        "title": "Always sunny",
+        "body": "Clear sky for many in-game days in a row."
+      },
+      {
+        "title": "No rain or fog",
+        "body": "Storms almost never show, even after hours."
+      },
+      {
+        "title": "After the patch",
+        "body": "Some PS5 players still see it on 01.002.002 (IGN)."
+      }
+    ],
+    "note": "Our diagram, not a game screenshot.",
+    "banner": "Our diagram, not a game screenshot"
+  }
+}

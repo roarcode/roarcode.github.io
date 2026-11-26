@@ -1,0 +1,25 @@
+{
+  "type": "info-cards",
+  "alt": "Our diagram: a phone with no incoming call and a story bar stuck at 72%. Not a game screenshot.",
+  "data": {
+    "category": "glitches",
+    "title": "The story softlock",
+    "cols": 3,
+    "cards": [
+      {
+        "title": "About 72%",
+        "body": "Main story stops at a mission that says wait for a call."
+      },
+      {
+        "title": "No call",
+        "body": "The phone stays silent, even after hours."
+      },
+      {
+        "title": "Both consoles",
+        "body": "Reported on PS5 and Xbox (GameRant)."
+      }
+    ],
+    "note": "Our diagram, not a game screenshot.",
+    "banner": "Our diagram, not a game screenshot"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "step-card",
+  "alt": "Our flow chart: update, check chapter, clear cache, then wait for a patch. Not a game screenshot.",
+  "data": {
+    "category": "glitches",
+    "title": "Try in this order",
+    "steps": [
+      {
+        "title": "Update",
+        "body": "Install 01.002.002 (23 Nov)."
+      },
+      {
+        "title": "Check chapter",
+        "body": "Chapter 1 is mostly sunny by design."
+      },
+      {
+        "title": "Clear PS5 cache",
+        "body": "Safe Mode, option 6, system cache."
+      },
+      {
+        "title": "Still stuck",
+        "body": "Report it to Rockstar Support."
+      }
+    ],
+    "tip": "Community workaround, not an official fix. Our drawing, not a game screenshot."
+  }
+}

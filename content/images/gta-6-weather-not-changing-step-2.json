@@ -1,0 +1,30 @@
+{
+  "type": "menu-mock",
+  "alt": "Our drawing of the PS5 Safe Mode menu with option 6 highlighted. Not a real screenshot.",
+  "data": {
+    "category": "glitches",
+    "title": "Safe Mode: option 6",
+    "panel_title": "Safe Mode — illustration",
+    "platform": "PS5",
+    "highlightRow": 2,
+    "rows": [
+      {
+        "label": "Restore Default Settings",
+        "value": "Skip"
+      },
+      {
+        "label": "6. Clear Cache and Rebuild Database",
+        "value": "Pick this"
+      },
+      {
+        "label": "Clear System Software Cache",
+        "value": "Then this"
+      },
+      {
+        "label": "Reset PS5",
+        "value": "Never"
+      }
+    ],
+    "note": "Illustration, not a real screenshot. Steps from Insider Gaming and IGN, 26 Nov 2026."
+  }
+}

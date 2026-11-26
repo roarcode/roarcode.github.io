@@ -71,3 +71,6 @@ New pages are hidden until SEARCH passes them. Add each line only after its targ
 |---|---|---|---|---|
 | 44 | content/gta-6-launch-hub.md | "Buy and know before you play" list, add as last bullet | `- [GTA 6 GTA+ benefits: free car, 10% off and how to turn off](/beginner-tips/gta-6-gta-plus-benefits/)` | gta-6-gta-plus-benefits |
 | 45 | content/vintage-vice-city-pack.md | "The free GTA+ month (separate bonus)" section, new bullet after "Cost" | `- **What GTA+ gives you in the game:** [GTA 6 GTA+ benefits](/beginner-tips/gta-6-gta-plus-benefits/).` | gta-6-gta-plus-benefits |
+| 46 | content/gta-6-launch-hub.md | "Something is not working" list, add as last bullet | `- [GTA 6 weather not changing? PS5 cache fix and patch status](/glitches/gta-6-weather-not-changing/)` | gta-6-weather-not-changing (added by daily routine 2026-11-26, qa: pending) |
+| 47 | content/gta-6-launch-hub.md | "Something is not working" list, add as last bullet | `- [GTA 6 story stuck at 72%? Fix for the call that never comes](/glitches/gta-6-story-stuck-call-not-coming/)` | gta-6-story-stuck-call-not-coming (added by daily routine 2026-11-26, qa: pending) |
+| 48 | content/gta-6-ps5-fixes.md | "Related:" line, append | ` · [GTA 6 weather not changing](/glitches/gta-6-weather-not-changing/)` | gta-6-weather-not-changing (added by daily routine 2026-11-26, qa: pending) |

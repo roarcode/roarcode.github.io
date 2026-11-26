@@ -1,0 +1,27 @@
+{
+  "type": "step-card",
+  "alt": "Our flow chart: fence jobs, save as Lucia and restart, sleep, check other jobs, then contact Support. Not a game screenshot.",
+  "data": {
+    "category": "glitches",
+    "title": "Try the fixes in order",
+    "steps": [
+      {
+        "title": "Fence jobs",
+        "body": "Finish all optional jewelry jobs."
+      },
+      {
+        "title": "Save and restart",
+        "body": "As Lucia, new slot, full power off."
+      },
+      {
+        "title": "Sleep or reload",
+        "body": "Quick player tips, try them too."
+      },
+      {
+        "title": "Other jobs",
+        "body": "Check open story jobs, then Support."
+      }
+    ],
+    "tip": "From GameRant and Reddit players, 26 Nov 2026. Our drawing, not a game screenshot."
+  }
+}

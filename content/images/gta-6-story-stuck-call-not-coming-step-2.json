@@ -1,0 +1,26 @@
+{
+  "type": "menu-mock",
+  "alt": "Our drawing of a save menu with a new save slot picked as Lucia. Not a real screenshot.",
+  "data": {
+    "category": "glitches",
+    "title": "Save as Lucia, new slot",
+    "panel_title": "Save game — illustration",
+    "platform": "PS5 / Xbox",
+    "highlightRow": 2,
+    "rows": [
+      {
+        "label": "Autosave",
+        "value": "Keep"
+      },
+      {
+        "label": "New save",
+        "value": "Lucia, hotel room"
+      },
+      {
+        "label": "Then",
+        "value": "Close game, power off"
+      }
+    ],
+    "note": "Illustration, not a real screenshot. Steps from GameRant, 26 Nov 2026."
+  }
+}
