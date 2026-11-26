@@ -15,7 +15,7 @@ sources:
   - https://support.rockstargames.com/articles/sN5pEdFYZdlvijKXd6xpJ/grand-theft-auto-vi-launch-updates-ps5-xbox-series-x-or-s
   - https://www.videogameschronicle.com/news/grand-theft-auto-6-has-received-a-new-patch-which-fixes-autosaving/
   - https://www.polygon.com/gta-6-update-today-ver-01002002-where-is-ps5-xbox-download-size-patch-notes/
-updated: 2026-11-25
+updated: 2026-11-26
 published: 2026-11-25
 status: live
 publish: true
@@ -70,7 +70,7 @@ GameSpot says **Tyrone**, a fence in Vice City you meet in Chapter 3, pays a hig
 8. Put both bags in the back of a **plain van parked there** (not a teddy bear van). GameSpot says it has **10 slots**, about **$106,000** when full.
 9. Keep going until the van is full.
 
-**Do not move the teddy bear vans.** A player in the original thread says the loot stopped coming back after they drove one outside.
+**Do not drive the teddy bear vans away.** The [original post](https://www.reddit.com/r/gtaglitches/comments/1y1gou5/gta_6_unlimited_money_red_barn_apollo_aggregates/) says so, and [u/OWLICIOUSS](https://www.reddit.com/r/gtaglitches/comments/1y1gou5/gta_6_unlimited_money_red_barn_apollo_aggregates/19t155zjxgngl/) says the loot stopped coming back after they moved one outside. [u/lilsteve68's optimised route](https://www.reddit.com/r/gtaglitches/comments/1y3y1ny/gta_6_infinite_money_glitch_optimised/) does move both vans inside the warehouse, so the sources disagree: moving them a little inside may be OK.
 
 **No switch?** The original poster's other trigger: **Save Game**, then **Load Game** on the same save, and drive back. Players also say the loot comes back if you drive toward the Vapid dealership and loop back ([u/densestport](https://www.reddit.com/r/gtaglitches/comments/1y1gou5/gta_6_unlimited_money_red_barn_apollo_aggregates/19syaihj1i20w/)), or drive away for 15-20 seconds ([u/JR3456](https://www.reddit.com/r/gtaglitches/comments/1y1gou5/gta_6_unlimited_money_red_barn_apollo_aggregates/19szkzbdvuu9u/)). Two players give a distance: [u/M4YON](https://www.reddit.com/r/gtaglitches/comments/1y1gou5/gta_6_unlimited_money_red_barn_apollo_aggregates/19t0utqw97a2t/) says about 0.32 miles; [u/LeatherSignature6293](https://www.reddit.com/r/gtaglitches/comments/1y3y1ny/gta_6_infinite_money_glitch_optimised/19t4afhtoxof4/) says 0.5 miles sometimes works and 0.3 miles can work too, but not every time.
 
@@ -104,7 +104,7 @@ GameSpot's total: **20 bags in two vans plus 4 carried = about $254,400**, in **
 - **Your partner sells to the wrong fence.** u/lilsteve68 says to take them to the right fence **in person twice**. After that, they go there on their own.
 - **Payment says "pending".** GameSpot says this happens if your BuckMe credit limit is still low. Do more main missions. The money arrives later.
 - **Bags stow into your car on their own.** [u/rdjh](https://www.reddit.com/r/gtaglitches/comments/1y3y1ny/gta_6_infinite_money_glitch_optimised/19t45ragkh7tw/) says to reload your save, drop the bags before you switch, then pick them up again.
-- **Loot does not come back.** Make sure your partner is far away, not next to you. Players say leaving the area further, or a save and load, fixes it.
+- **Loot does not come back.** Make sure your partner is far away, not next to you. The [original post](https://www.reddit.com/r/gtaglitches/comments/1y1gou5/gta_6_unlimited_money_red_barn_apollo_aggregates/) says leaving the area further, or a save and load, fixes it.
 
 ## Is it patched?
 
@@ -149,6 +149,7 @@ Related: [GTA 6 fences and stash bags](/money/gta-6-fences-stash-bags/) · [GTA 
 
 | Date | What changed |
 |---|---|
+| 2026-11-26 08:33 CET | Named who says not to drive the teddy bear vans away, and noted that u/lilsteve68's route disagrees. Updated the two diagrams. |
 | 2026-11-25 22:31 CET | Status set to mixed: players disagree since the update. Fixed the Quick answer fragment and quoted "doesn't work anymore" accurately. |
 | 2026-11-25 21:37 CET | Fixed sourcing and credits after SEARCH QA: named the right sources, stated disagreements, cited official patch notes, and added comment links. |
 | 2026-11-25 | Page created from GameSpot, r/gtaglitches posts and comments, and the 01.002.002 patch notes. Not tested by us. |

@@ -102,10 +102,10 @@ When your gun clicks empty in the middle of a fight, [GameSpot](https://www.game
 If you want endless ammo just for fun after beating the game, [GameSpot](https://www.gamespot.com/articles/all-gta-6-cheats-and-how-to-unlock-them/) and [PC Gamer](https://www.pcgamer.com/games/grand-theft-auto/gta-6-cheats-list/) list three official ammo cheats:
 
 - **Max Ammo:** Refills all ammo to full.
-- **Infinite Ammo:** Ammo never runs out, though you still reload.
+- **Infinite Ammo:** Ammo never runs out.
 - **No Reload:** Ammo never runs out and you never reload.
 
-All three cheats only work **after you finish the main story** and earn shooting-range medals ([GameSpot](https://www.gamespot.com/articles/all-gta-6-cheats-and-how-to-unlock-them/), [PC Gamer](https://www.pcgamer.com/games/grand-theft-auto/gta-6-cheats-list/)). Turning on any cheat **disables saving and trophies/achievements** for that play session.
+All three cheats only work **after you finish the main story** and earn shooting-range medals ([GameSpot](https://www.gamespot.com/articles/all-gta-6-cheats-and-how-to-unlock-them/), [PC Gamer](https://www.pcgamer.com/games/grand-theft-auto/gta-6-cheats-list/)). Turning on any cheat **disables saving and trophies/achievements** for that play session ([GameSpot](https://www.gamespot.com/articles/all-gta-6-cheats-and-how-to-unlock-them/), [PC Gamer](https://www.pcgamer.com/games/grand-theft-auto/gta-6-cheats-list/)).
 
 ## Side note: the partner ammo refill trick (Unconfirmed: one player report)
 
@@ -158,6 +158,7 @@ Related: [GTA 6 car trunk storage](/cars/gta-6-car-trunk-storage/) · [GTA 6 con
 | 2026-11-25 | Page created from u/Sinx0x's post and comments. Not tested by us. |
 | 2026-11-25 (21:34 CET) | Added unconfirmed notices, source disagreements, ammo system, and confirmed ammo methods. |
 | 2026-11-25 (22:31 CET) | Reworked into a general out-of-ammo guide after QA: moved the unconfirmed partner trick to a short side note near the end, updated title/meta/Quick answer/images, fixed Inven Global vs GamesRadar+ credit, fixed LMG wording, fixed SMG/hand-over FAQ and table against GamesRadar+, backed gun-store ammo with Dexerto and GamesRadar+, and simplified sentences for easier reading. |
+| 2026-11-26 (08:32 CET) | After QA: credited ammo-cheat saving and trophies to GameSpot and PC Gamer in the step-3 image and the page text, and dropped the unsourced “you still reload” line from Infinite Ammo. |
 
 ---
 *Unofficial fan site, not affiliated with Rockstar Games or Take-Two.*
