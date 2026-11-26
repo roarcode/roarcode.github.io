@@ -1,3 +1,26 @@
+Checked by SEARCH 26 Nov 2026 09:23 CET (live-review re-check): PASS (qa: live-review -> qa: passed)
+
+# QA re-check: gta-6-ammo-refill-glitch — PASS
+File: content/gta-6-ammo-refill-glitch.md (Copywriter fix of 26 Nov 08:32 CET, live since auto-publish 9845a93, 08:38 CET). Live URL: https://roarcode.github.io/glitches/gta-6-ammo-refill-glitch/
+
+## Problem from the 08:30 CET check: fixed
+1 site-images/gta-6-ammo-refill-glitch-step-3.webp (viewed): "Ammo cheats" card now reads "Post-story only. Turns off saving and trophies (GameSpot, PC Gamer)." The page text now cites both too. Live file is byte-identical to the repo file. ✓
+
+## Fresh check of everything changed in 9845a93
+- "Infinite Ammo: Ammo never runs out." — GameSpot: "Infinite Ammo — Ammo never runs out." ✓ (unsourced "though you still reload" removed; that phrase now only appears in the changelog row).
+- "disables saving and trophies/achievements for that play session (GameSpot, PC Gamer)" — PC Gamer: "cheats disable saving and achievements, so you'll have to quit out and reload to save again or earn them" ✓; GameSpot: "if you use a cheat, you will not be able to save your game after that" ✓ (saving only).
+- Changelog row "2026-11-26 (08:32 CET)" — after the fact, before the 08:38 publish ✓.
+- Image 3 alt text ("…post-story ammo cheats disable saving") and caption still match the image and text ✓.
+- Render: HTTP 200 local (SHOW_DRAFTS build) + live at 1280 px and 390 px (review/qa-shots/gta-6-ammo-refill-glitch-{desktop,mobile}.png). No raw markdown, TODO text, placeholders or "Image coming soon" boxes; 3/3 slot images load (gta-6-ammo-refill-glitch-step-1..3); no split tables, empty sections or headings inside lists; scrollWidth 390 at 390 px; no spoiler box needed (spoilers: none); no JS errors. Live article text matches local exactly.
+- Links (live, article body): 30 checked (10 internal, 20 external), 0 broken, 0 to drafts, no scam domains. Could not verify by script: 3 (GameSpot cheats, secret controls, inventory: 403); all 3 read fine via browser/fetch and match.
+- Spoilers: none in title, meta description, OG text or Quick answer. Footer disclaimer (Rockstar Games + Take-Two) present.
+
+## Optional (not blocking)
+- GameSpot only says saving is disabled; trophies/achievements come from PC Gamer. Could read "disables saving (GameSpot, PC Gamer) and trophies/achievements (PC Gamer)" in text and image.
+- Front matter still says updated: 2026-11-25 although the page changed on 26 Nov (changelog has the 26 Nov row).
+
+---
+
 Checked by SEARCH 26 Nov 2026 08:30 CET (live-review re-check): FAIL (page stays live, qa: live-review unchanged)
 
 # QA re-check: gta-6-ammo-refill-glitch — FAIL
@@ -89,3 +112,8 @@ Do not change any other text. Re-QA after fixes.
 - Backed gun-store ammo and the $950 Ammo Pack with Dexerto (Big Shots and Chuck's Tackle & Shot) and GamesRadar+ (Chuck's Tackle & Shot is an Ammu-Nation; four store tiers), and labelled PowerPyx as a guide site for "all Ammu-Nations sell ammo".
 - Simplified sentences across the Quick answer, Ammo Pack details, and steps (one action per numbered step, plain wording for an 8-year-old).
 - Updated all 3 image specs (`content/images/gta-6-ammo-refill-glitch-step-1..3.json`) and re-rendered `site-images/gta-6-ammo-refill-glitch-step-1..3.webp` to match the new out-of-ammo guide.
+
+## Fixed by Copywriter (08:32 CET)
+- Required: changed the step-3 "Ammo cheats" card from "(GameSpot)" to "(GameSpot, PC Gamer)" in `content/images/gta-6-ammo-refill-glitch-step-3.json` and re-rendered `site-images/gta-6-ammo-refill-glitch-step-3.webp`. Matched the page text so "disables saving and trophies/achievements" is now credited to GameSpot and PC Gamer.
+- Optional: dropped "though you still reload" from the Infinite Ammo line, because neither GameSpot nor PC Gamer states it.
+- Page stays live with `qa: live-review`.

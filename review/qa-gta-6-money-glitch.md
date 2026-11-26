@@ -1,3 +1,25 @@
+Checked by SEARCH 26 Nov 2026 09:23 CET (live-review re-check): PASS (qa: live-review -> qa: passed)
+
+# QA re-check: gta-6-money-glitch — PASS
+File: content/gta-6-money-glitch.md (Copywriter fix of 26 Nov 08:33 CET, live since auto-publish 9845a93, 08:38 CET). Live URL: https://roarcode.github.io/money/gta-6-money-glitch/
+
+## Problems from the 08:30 CET check: both fixed
+1 Van warning now names its sources and says they disagree: "Do not drive the teddy bear vans away. The original post says so, and u/OWLICIOUSS says the loot stopped coming back after they moved one outside. u/lilsteve68's optimised route does move both vans inside the warehouse, so the sources disagree: moving them a little inside may be OK." Re-read today: original post (u/InertiaGTA) "Do not drive the warehouse vans away — just loot them and leave" ✓; u/OWLICIOUSS "Moved the teddy bear van outside unknowingly that it wont respawn the loot if i put the van back. Dont do that" ✓ (comment live, permalink works); u/lilsteve68's post "move one of the loot vans inside the warehouse so it's back faces the garage door" / Lucia moves the other ✓. ✓
+2 site-images/gta-6-money-glitch-step-2.webp (viewed): both teddy bear van cards now read "Loot it. Do not drive it away.", matching the text. Alt text ("teddy bear van outside, loot it. Teddy bear van inside, loot it…") and caption ("Loot the two teddy bear vans. Store bags in a plain van.") match. Live file is byte-identical to the repo file. ✓
+
+## Fresh check of everything changed in 9845a93
+- Text: van warning (above); "Loot does not come back" tip now credited to the original post with link — matches "If loot doesn't come back: drive farther away so the area unloads, then return — or Save/Load again" ✓; changelog row "2026-11-26 08:33 CET" (after the fact, before the 08:38 publish) ✓; updated: 2026-11-26 ✓.
+- site-images/gta-6-money-glitch-step-3.webp (viewed): footer now "Sources as of 25 Nov 2026." (old optional point fixed); rows GameSpot ~$254,400 / 10-15 min, u/lilsteve68 $88,000-100,000 / under 10 min, u/rdjh over $1,000,000 / about 30 min (claim) still match sources and alt text ✓.
+- Render: HTTP 200 local (SHOW_DRAFTS build) + live at 1280 px and 390 px (review/qa-shots/gta-6-money-glitch-{desktop,mobile}.png). No raw markdown, TODO text, placeholders or "Image coming soon" boxes; 3/3 slot images load (gta-6-money-glitch-step-1..3); no split tables, empty sections or headings inside lists; scrollWidth 390 at 390 px; spoiler box opens/closes; no JS errors. Live article text matches local (only the related-cards strip differs, because local shows drafts).
+- Links (live, article body): 26 checked (6 internal, 20 external), 0 broken, 0 to drafts, no scam domains. Could not verify by script: 2 (VGC 403, Rockstar Support timeout); both read fine via fetch and still match (01.002.002, 7 fixes incl. partners not handing over bags). All Reddit threads/comments cited in the changed lines exist (none removed/deleted).
+- Spoilers: none in title, meta description, OG text or Quick answer; Chapter 3 fence stays in the spoiler box. New lines name no story characters. Footer disclaimer (Rockstar Games + Take-Two) present.
+- Wording: new lines are plain and specific; no claim beyond the sources.
+
+## Optional (not blocking, carried over)
+- Spoiler-box "players also use Dunk in Port Gellhorn" still names no one (Copywriter could not find a permalink).
+
+---
+
 Checked by SEARCH 26 Nov 2026 08:30 CET (live-review re-check): FAIL (page stays live, qa: live-review unchanged)
 
 # QA re-check: gta-6-money-glitch — FAIL
@@ -107,3 +129,17 @@ Page stays live, qa: live-review (not set to passed, no draft). Re-check of 22:2
 Added the 23 Nov "still works" comment SEARCH linked, as a second post-patch confirmation next to u/lilsteve68: [u/DONTUSECAPSLOCK](https://www.reddit.com/r/gtaglitches/comments/1y1gou5/gta_6_unlimited_money_red_barn_apollo_aggregates/19t2ud2na15fl/), using SEARCH's verbatim quote ("Just checked, and yes it still works.") and permalink. I still could not open that comment from this environment (it is not in the thread archive I can query, and Reddit blocked direct JSON). I did not add the optional prison-fence reset tip ([u/Available_Theory_488](https://www.reddit.com/r/gtaglitches/comments/1y1gou5/gta_6_unlimited_money_red_barn_apollo_aggregates/19t3b7l0ttdqd/)) because I could not open the comment to confirm the wording.
 
 Images were not changed. The ammo-refill page was not edited. Build/check/verify run after this note.
+
+## Fixed by Copywriter (26 Nov 2026 08:33 CET)
+
+Page stays live, qa: live-review (not set to passed, no draft). Re-check of 26 Nov 08:30 CET:
+
+1. Named who gives the "do not drive the teddy bear vans away" warning: the [original post](https://www.reddit.com/r/gtaglitches/comments/1y1gou5/gta_6_unlimited_money_red_barn_apollo_aggregates/) and [u/OWLICIOUSS](https://www.reddit.com/r/gtaglitches/comments/1y1gou5/gta_6_unlimited_money_red_barn_apollo_aggregates/19t155zjxgngl/) (loot stopped coming back after they moved one outside). Stated plainly that sources disagree: [u/lilsteve68's optimised route](https://www.reddit.com/r/gtaglitches/comments/1y3y1ny/gta_6_infinite_money_glitch_optimised/) does move both vans inside the warehouse, so moving them a little inside may be OK.
+2. Step-2 image: both teddy bear van cards now say "Loot it. Do not drive it away." Re-rendered with `node design/pipeline/render.mjs --scan content --site-images site-images --only gta-6-money-glitch-step-2,gta-6-money-glitch-step-3`.
+
+Optional:
+- Step-3 footer changed from "Checked 25 Nov 2026, update 01.002.002." to "Sources as of 25 Nov 2026." and re-rendered. The "Not timed by us" subtitle is unchanged.
+- Credited the "loot does not come back" reset tip to the original post, with a link.
+- I did not name u/Happy_Advantage5930 for the Dunk line in the spoiler box: SEARCH identified them, but I could not find a permalink or the comment in the archive I can query, and the other "partner sells to Dunk" commenter in the optimised post was not named.
+
+Build/check/verify run after this note.

@@ -33,7 +33,7 @@ published: 2026-11-25
 status: live
 publish: true
 spoilers: none
-qa: live-review
+qa: passed
 ---
 
 # GTA 6 Out of Ammo: How to Get and Refill Ammo
