@@ -80,15 +80,15 @@ Two limits: Destructoid says you can only steal a set number of cars a day. Game
 GameSpot says the first buyer is **Moses** in **Port Gellhorn**. He gives you tools for mid-range cars. Later you meet **Randy** in western Vice City. He deals in high-end cars, teaches key cloning, and has a list of more than a dozen cars.
 :::
 
-**Player tips for Advanced-tracker cars you take to Randy (unconfirmed).** In the [r/GTAVI car selling thread](https://www.reddit.com/r/GTAVI/comments/1y5liiu/selling_cars_is_such_a_good_way_to_make_money/), [u/misplacedsagacity](https://www.reddit.com/r/GTAVI/comments/1y5liiu/selling_cars_is_such_a_good_way_to_make_money/19t7dtmpie5b7/) says the tracker does not go off if you move the car with a **tow truck**. [u/-lugia-](https://www.reddit.com/r/GTAVI/comments/1y5liiu/selling_cars_is_such_a_good_way_to_make_money/19t7453wcvo83/) says the tracker also stays quiet if the **other main character** drives the stolen car while you drive another, so it arrives at Randy without a scratch.
+**Player tips for Advanced-tracker cars you take to the high-end car buyer (unconfirmed).** In the [r/GTAVI car selling thread](https://www.reddit.com/r/GTAVI/comments/1y5liiu/selling_cars_is_such_a_good_way_to_make_money/), [u/misplacedsagacity](https://www.reddit.com/r/GTAVI/comments/1y5liiu/selling_cars_is_such_a_good_way_to_make_money/19t7dtmpie5b7/) says the tracker does not go off if you move the car with a **tow truck**. [u/-lugia-](https://www.reddit.com/r/GTAVI/comments/1y5liiu/selling_cars_is_such_a_good_way_to_make_money/19t7453wcvo83/) says the tracker also stays quiet if the **other main character** drives the stolen car while you drive another, so it arrives at the high-end car buyer without a scratch.
 
 ### Faster car cash: sell at a Pay 'N' Spray
 
 A *tracker* is a device in a car that tells the police where it is. *WAiNK* is the phone app that scans a car before you steal it.
 
-GameSpot does not say when Pay 'N' Spray sales open, and it says a shop will not take a car with a high-end tracker. [PowerPyx](https://www.powerpyx.com/gta-6-money-guide-how-to-get-money-fast/) and [GamesRadar](https://www.gamesradar.com/games/grand-theft-auto/gta-6-sell-cars-bikes-how-to/) disagree: they say selling stolen cars that have a tracker opens in **Chapter 3**. A Standard tracker is not the high-end (Advanced) tracker GameSpot means.
+GameSpot does not give a chapter for when Pay 'N' Spray sales open, and it says a shop will not take a car with a high-end tracker. [PowerPyx](https://www.powerpyx.com/gta-6-money-guide-how-to-get-money-fast/) disagrees: it says any Pay 'N' Spray starts buying Standard-tracker cars in **early Chapter 3**. [GamesRadar](https://www.gamesradar.com/games/grand-theft-auto/gta-6-sell-cars-bikes-how-to/) says the first car buyer later puts in a good word with Pay 'N' Sprays. [Its fence guide](https://www.gamesradar.com/games/grand-theft-auto/gta-6-fences/) says you wait until Chapter 3 to sell cars that have a tracker, but that is about the car buyers, not Pay 'N' Spray. A Standard tracker is not the high-end (Advanced) tracker GameSpot means.
 
-1. Get to **early Chapter 3**. PowerPyx says that is when any Pay 'N' Spray starts buying cars with a **Standard** tracker. GamesRadar says Moses later puts in a good word with Pay 'N' Sprays, and [its fence guide](https://www.gamesradar.com/games/grand-theft-auto/gta-6-fences/) says you wait until Chapter 3 to sell cars that have a tracker. PowerPyx says a good Standard-tracker car pays **around $4,000 or more**.
+1. Get to **early Chapter 3**. PowerPyx says that is when any Pay 'N' Spray starts buying cars with a **Standard** tracker, and that a good one pays **around $4,000 or more**. GamesRadar says the first car buyer later puts in a good word with Pay 'N' Sprays.
 2. Go where nice cars drive by. [u/chill2308](https://www.reddit.com/r/GTAVI/comments/1y63mhj/money_tip_chapter_3/) takes a RydeMe to **Vice Beach**.
 3. Scan cars that have a driver with **WAiNK**. Look for a car that shows **Standard** tracking and a high sale value (u/chill2308).
 4. Steal it. Drive carefully: GamesRadar says buyers pay more for cars in good condition.
@@ -148,7 +148,8 @@ This page covers normal methods only. A story-mode warehouse respawn glitch is r
 | 2026-11-18 | Filled from GameSpot's and Destructoid's money guides (18 Nov). Not timed by us yet. |
 | 2026-11-25 | FAQ now links to our separate money glitch page. |
 | 2026-11-26 | Added Pay 'N' Spray car selling steps from PowerPyx, with player payouts and tips marked unconfirmed. |
-| 2026-11-26 | QA fix: added GamesRadar for the Chapter 3 unlock, noted where GameSpot disagrees, credited Destructoid and GamesRadar for the daily limit, moved the Randy tips, and sourced the sell step. |
+| 2026-11-26 | QA fix: added GamesRadar citations, noted where GameSpot disagrees, credited Destructoid and GamesRadar for the daily limit, moved the high-end buyer tips, and sourced the sell step. |
+| 2026-11-26 | QA fix: took car-buyer names out of visible text, and credited the Chapter 3 Pay 'N' Spray unlock to PowerPyx only. |
 
 ---
 *Unofficial fan site, not affiliated with Rockstar Games or Take-Two.*

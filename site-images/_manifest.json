@@ -2076,8 +2076,8 @@
     "file": "gta-6-weather-not-changing-step-1.webp",
     "width": 1200,
     "height": 675,
-    "bytes": 33698,
-    "alt": "Our diagram with three text boxes: Always sunny, No rain or fog, and After the patch some PS5 players still see it on 01.002.002. Not a game screenshot.",
+    "bytes": 34724,
+    "alt": "Our diagram with three text boxes: Always sunny, No rain or fog, and After the patch some PS5 players still see it on 01.002.002 (PlayStationInfo, Polygon, VGC). Not a game screenshot.",
     "type": "info-cards"
   },
   "gta-6-weather-not-changing-step-2": {
@@ -2092,7 +2092,7 @@
     "file": "gta-6-weather-not-changing-step-3.webp",
     "width": 1200,
     "height": 675,
-    "bytes": 28988,
+    "bytes": 30416,
     "alt": "Our flow chart: update, check chapter, clear the PS5 cache, and if you are still stuck, report it to Rockstar Support. Not a game screenshot.",
     "type": "step-card"
   }

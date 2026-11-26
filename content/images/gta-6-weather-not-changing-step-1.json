@@ -1,6 +1,6 @@
 {
   "type": "info-cards",
-  "alt": "Our diagram with three text boxes: Always sunny, No rain or fog, and After the patch some PS5 players still see it on 01.002.002. Not a game screenshot.",
+  "alt": "Our diagram with three text boxes: Always sunny, No rain or fog, and After the patch some PS5 players still see it on 01.002.002 (PlayStationInfo, Polygon, VGC). Not a game screenshot.",
   "data": {
     "category": "glitches",
     "title": "The weather bug",
@@ -16,7 +16,7 @@
       },
       {
         "title": "After the patch",
-        "body": "Some PS5 players still see it on 01.002.002 (PlayStationInfo)."
+        "body": "Some PS5 players still see it on 01.002.002 (PlayStationInfo, Polygon, VGC)."
       }
     ],
     "note": "Our diagram, not a game screenshot.",
