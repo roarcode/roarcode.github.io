@@ -1,17 +1,37 @@
 {
   "type": "compare-table",
-  "alt": "Table of four GTA 6 money methods from GameSpot and Destructoid: gang hideouts, car jobs, treasure dives, stores and banks, with when each opens. No story names.",
+  "alt": "Table of four GTA 6 money methods: gang hideouts, car jobs, treasure dives, stores and banks, with when each opens. Car pay and when banks open differ by source. No story names.",
   "data": {
     "category": "money",
     "title": "4 ways to make money fast",
-    "subtitle": "From GameSpot and Destructoid guides, 18 Nov 2026. Not timed by us yet.",
-    "columns": ["#", "Method", "When it opens"],
-    "rows": [
-      ["1", "Raid gang hideouts (yellow icons)", "Early"],
-      ["2", "Steal cars for paid jobs (often $10,000+)", "Early, better cars later"],
-      ["3", "Treasure dives", "Fairly early"],
-      ["4", "Big stores, then banks", "Banks about halfway"]
+    "subtitle": "From GameSpot, Destructoid, PowerPyx and GamesRadar. Pay and timing can differ by source. Not timed by us yet.",
+    "columns": [
+      "#",
+      "Method",
+      "When it opens"
     ],
-    "note": "No glitches or exploits. Carry under $20,000 cash and bank the rest."
+    "rows": [
+      [
+        "1",
+        "Raid gang hideouts (yellow icons)",
+        "Early"
+      ],
+      [
+        "2",
+        "Steal cars for paid jobs (pay varies)",
+        "Early, better cars later"
+      ],
+      [
+        "3",
+        "Treasure dives",
+        "Fairly early"
+      ],
+      [
+        "4",
+        "Big stores, then banks",
+        "Banks later (sources differ)"
+      ]
+    ],
+    "note": "Car job pay and when banks open differ by source. Carry under $20,000 cash. BuckMe has a limit too."
   }
 }

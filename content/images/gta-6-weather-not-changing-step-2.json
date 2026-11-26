@@ -4,7 +4,7 @@
   "data": {
     "category": "glitches",
     "title": "Safe Mode: option 6",
-    "panel_title": "Safe Mode — illustration",
+    "panel_title": "Safe Mode \u2014 illustration",
     "platform": "PS5",
     "highlightRow": 2,
     "rows": [
@@ -25,6 +25,6 @@
         "value": "Never"
       }
     ],
-    "note": "Illustration, not a real screenshot. Steps from Insider Gaming and IGN, 26 Nov 2026."
+    "note": "Illustration, not a real screenshot. Option names from PlayStation Support. Steps from Insider Gaming and PlayStationInfo, 26 Nov 2026."
   }
 }

@@ -1,16 +1,25 @@
 {
   "type": "menu-mock",
-  "alt": "Illustration of a cash total next to a BuckMe bank balance, with a note that you can carry up to $20,000 in cash. Not an in-game screenshot.",
+  "alt": "Illustration of a cash total next to a BuckMe bank balance: you can carry up to $20,000 in cash, deposit it at an ATM, and BuckMe has a limit that goes up as you play. Not an in-game screenshot.",
   "data": {
     "category": "money",
     "title": "Bank your cash",
-    "panel_title": "Cash and BuckMe — illustration",
+    "panel_title": "Cash and BuckMe \u2014 illustration",
     "highlightRow": 2,
     "rows": [
-      {"label": "Cash you carry", "value": "Up to $20,000"},
-      {"label": "BuckMe account", "value": "Safe if you are arrested"},
-      {"label": "Tip", "value": "Deposit at an ATM"}
+      {
+        "label": "Cash you carry",
+        "value": "Up to $20,000"
+      },
+      {
+        "label": "Put it in BuckMe",
+        "value": "Deposit at an ATM"
+      },
+      {
+        "label": "BuckMe limit",
+        "value": "Goes up as you play"
+      }
     ],
-    "note": "Illustration — not an in-game screenshot. Cash limit as reported by Destructoid, 18 Nov 2026."
+    "note": "Illustration \u2014 not an in-game screenshot. Cash limit: Destructoid and GamesRadar. ATM: GamesRadar. BuckMe limit: Destructoid, GamesRadar and Rockstar Support."
   }
 }

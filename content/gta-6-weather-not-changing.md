@@ -29,7 +29,7 @@ draft: true
 # GTA 6 Weather Not Changing? PS5 Cache Fix and Patch Status
 
 > - **Quick answer:** If the GTA 6 weather never changes on **PS5**, players say **clearing the system software cache in Safe Mode** brings rain and storms back (IGN, Insider Gaming).
-> - **Affects:** PS5 and PS5 Pro reports after update **01.002.002** (PlayStationInfo, Polygon, VGC). Rockstar's patch notes list a weather fix. The cache trick is **not** an official fix.
+> - **Affects:** some **PS5** players after update **01.002.002** (IGN, Insider Gaming, PlayStationInfo; version: PlayStationInfo, Polygon, VGC). One player on X ([@NiffoLeon](https://x.com/NiffoLeon/status/2125911934360867252)) says PS5 Pro too. Rockstar's patch notes list a weather fix. The cache trick is **not** an official fix.
 > - **Status: unconfirmed workaround**, checked 2026-11-26. Many players report it works; IGN says it could be a placebo. Not tested by us.
 
 **Words used on this page.** A *glitch* is a mistake in the game. A *patch* is an update that fixes mistakes. *Safe Mode* is a special start-up menu on the PS5 for fixing problems. *Cache* is a store of temporary files the console can throw away and make again.
@@ -41,7 +41,7 @@ draft: true
 - The sky stays clear and sunny for many in-game days.
 - You almost never see rain, fog or a storm, even after many hours.
 
-![Our diagram with three text boxes: Always sunny, No rain or fog, and After the patch some PS5 players still see it on 01.002.002 (PlayStationInfo, Polygon, VGC). Not a game screenshot.](TODO: image:gta-6-weather-not-changing-step-1 — diagram, our own art: three boxes for always sunny, no rain or fog, and still stuck after the patch)
+![Our diagram with three text boxes: Always sunny, No rain or fog, and After the patch some PS5 players still see it (IGN, Insider Gaming, PlayStationInfo). Not a game screenshot.](TODO: image:gta-6-weather-not-changing-step-1 — diagram, our own art: three boxes for always sunny, no rain or fog, and still stuck after the patch)
 *Caption: Diagram. The bug: the same sunny weather, day after day.*
 
 ## First check: is it really a bug?
@@ -54,9 +54,9 @@ draft: true
 
 | Platform | Affected? | Version / patch | Source |
 |---|---|---|---|
-| PS5 | Yes, some players after the patch | 01.002.002 (PlayStationInfo, Polygon, VGC) | IGN, Insider Gaming |
+| PS5 | Yes, some players after the patch | 01.002.002 (PlayStationInfo, Polygon, VGC) | IGN, Insider Gaming, PlayStationInfo |
 | PS5 Pro | Yes, one player report | 01.002.002 (PlayStationInfo, Polygon, VGC) | [@NiffoLeon on X](https://x.com/NiffoLeon/status/2125911934360867252) |
-| Xbox Series X\|S | Mixed reports | 01.002.002 (PlayStationInfo, Polygon, VGC) | Insider Gaming says the cache clear appears to work; PlayStationInfo says it is not yet clear |
+| Xbox Series X\|S | Possible; outlets disagree on the fix | 01.002.002 (PlayStationInfo, Polygon, VGC) | Insider Gaming says the cache clear appears to work; PlayStationInfo says it is not yet clear |
 
 ## Fixes, fastest first
 
@@ -64,17 +64,17 @@ draft: true
 
 This trick was shared by [GameRoll on X](https://x.com/GameRoll_/status/2125764422371029015) on 26 Nov. GameRoll says it takes about two minutes. [Insider Gaming](https://insider-gaming.com/fix-weather-bug-gta-6-rain-storms/) credits GameRoll and the X user mauricioce85796, who first raised it.
 
-1. In GTA 6, **save your game**. Then close the game.
+1. In GTA 6, **save your game**. Then close the game (PlayStationInfo).
 2. **Turn the PS5 completely off** (Insider Gaming, PlayStationInfo).
-3. **Press and hold the power button.** Let go after the **second beep**, about 7 seconds (Insider Gaming).
-4. **Plug in your controller with a USB cable.** Press the **PS button**.
-5. Pick **Clear Cache and Rebuild Database** (option 6).
+3. **Press and hold the power button.** Let go after the **second beep**, about 7 seconds (Insider Gaming, [PlayStation Support](https://www.playstation.com/en-us/support/hardware/safe-mode-playstation/)).
+4. **Plug in your controller with a USB cable.** Press the **PS button** (Insider Gaming, PlayStation Support).
+5. Pick **Clear Cache and Rebuild Database** (option 6) (PlayStation Support).
 6. Pick **Clear System Software Cache**. Confirm it (PlayStationInfo).
-7. Wait for the PS5 to restart. Start GTA 6 and load your save.
+7. Wait for the PS5 to restart. Start GTA 6 and load your save (PlayStationInfo).
 
-**Do not pick any reset option** lower in the Safe Mode menu. Those can wipe the console. The option names come from [PlayStation Support](https://www.playstation.com/en-us/support/hardware/safe-mode-playstation/). Clearing the cache does not delete your saves or games (IGN, [PlayStationInfo](https://www.playstationinfo.de/en/2026/11/26/gta-6-only-shows-sunshine-for-many-players-and-a-simple-ps5-trick-could-fix-the-problem/)).
+**Do not pick any reset option** lower in the Safe Mode menu. Those can wipe the console (PlayStation Support, PlayStationInfo). The option names come from [PlayStation Support](https://www.playstation.com/en-us/support/hardware/safe-mode-playstation/). Clearing the cache does not delete your saves or games (IGN, [PlayStationInfo](https://www.playstationinfo.de/en/2026/11/26/gta-6-only-shows-sunshine-for-many-players-and-a-simple-ps5-trick-could-fix-the-problem/)).
 
-The weather may not change at once. Play for a while and drive to a new area (Insider Gaming).
+The weather may not change at once. You may need to spend some time exploring (Insider Gaming).
 
 ![Our drawing of the PS5 Safe Mode menu with option 6 highlighted. Not a real screenshot.](TODO: image:gta-6-weather-not-changing-step-2 — menu screen, our own illustration: PS5 Safe Mode list with "6 Clear Cache and Rebuild Database" highlighted, then "Clear System Software Cache")
 *Caption: Menu screen. Safe Mode option 6, then Clear System Software Cache.*
@@ -90,16 +90,13 @@ The weather may not change at once. Play for a while and drive to a new area (In
 
 Rockstar Support says this does not change your save data, but it will reset your brightness and language settings.
 
-The weather may not change at once. Play for a while and drive to a new area (Insider Gaming).
+The weather may not change at once. The weather still needs time to cycle (Insider Gaming).
 
 [PlayStationInfo](https://www.playstationinfo.de/en/2026/11/26/gta-6-only-shows-sunshine-for-many-players-and-a-simple-ps5-trick-could-fix-the-problem/) says the result on Xbox is not yet clear.
 
 ### Fix 3: Fully close the game and start it again
 
-1. Save your game.
-2. Fully close the game, then start it again. Load your save.
-
-[PlayStationInfo](https://www.playstationinfo.de/en/2026/11/26/gta-6-only-shows-sunshine-for-many-players-and-a-simple-ps5-trick-could-fix-the-problem/) suggests this, and says the Xbox result is not yet clear.
+Fully close the game, then start it again ([PlayStationInfo](https://www.playstationinfo.de/en/2026/11/26/gta-6-only-shows-sunshine-for-many-players-and-a-simple-ps5-trick-could-fix-the-problem/)). PlayStationInfo also says the Xbox result is not yet clear.
 
 ![Our flow chart: update, check chapter, clear the PS5 cache, and if you are still stuck, report it to Rockstar Support. Not a game screenshot.](TODO: image:gta-6-weather-not-changing-step-3 — diagram, our own flow chart: Update > Check chapter > Clear PS5 cache > Still stuck: Report it to Rockstar Support)
 *Caption: Diagram. Try the steps in this order.*
@@ -109,9 +106,9 @@ The weather may not change at once. Play for a while and drive to a new area (In
 | Item | Detail |
 |---|---|
 | Latest patch | 01.002.002, 23 Nov 2026 (version: [PlayStationInfo](https://www.playstationinfo.de/en/2026/11/26/gta-6-only-shows-sunshine-for-many-players-and-a-simple-ps5-trick-could-fix-the-problem/), [Polygon](https://www.polygon.com/gta-6-update-today-ver-01002002-where-is-ps5-xbox-download-size-patch-notes/), [VGC](https://www.videogameschronicle.com/news/grand-theft-auto-6-has-received-a-new-patch-which-fixes-autosaving/); date and notes: [Rockstar Support](https://support.rockstargames.com/articles/sN5pEdFYZdlvijKXd6xpJ/grand-theft-auto-vi-launch-updates-ps5-xbox-series-x-or-s)) |
-| Does it fix this? | Patch notes say yes. Some PS5 players still report it. |
+| Does it fix this? | Patch notes say yes. Some PS5 players still report it (IGN, Insider Gaming, PlayStationInfo). |
 | Patch notes | [Rockstar Support, Launch Updates](https://support.rockstargames.com/articles/sN5pEdFYZdlvijKXd6xpJ/grand-theft-auto-vi-launch-updates-ps5-xbox-series-x-or-s) |
-| Cache trick | Community workaround. Rockstar has not commented. |
+| Cache trick | Community workaround. Official confirmation from Rockstar is still pending (PlayStationInfo). |
 | Last checked | 2026-11-26 |
 
 **Status: unconfirmed workaround** (checked 2026-11-26). IGN and Insider Gaming report many players saying it worked. IGN adds it could be a placebo. Not every player sees a change: one player on X says the fog came and went at once ([@leerobi08433142](https://x.com/leerobi08433142/status/2125914968063144147)).
@@ -133,7 +130,7 @@ The weather may not change at once. Play for a while and drive to a new area (In
 No. IGN and PlayStationInfo say clearing the system software cache does not delete saves or games. Do not pick the reset options lower in the Safe Mode menu.
 
 ### Did Rockstar fix the GTA 6 weather bug?
-Rockstar's 23 Nov patch notes list a fix for weather not changing for extended periods. Some PS5 players still report the problem after it.
+Rockstar's 23 Nov patch notes list a fix for weather not changing for extended periods. Some PS5 players still report the problem after it (IGN, Insider Gaming, PlayStationInfo).
 
 ### Why is it always sunny in Chapter 1?
 Rockstar told IGN the first chapter has mostly good weather and storms grow later. Rain is local, so you can miss it.
@@ -152,8 +149,9 @@ Related: [GTA 6 PS5 fixes](/glitches/gta-6-ps5-fixes/) · [GTA 6 Xbox fixes](/gl
 | Date | What changed |
 |---|---|
 | 2026-11-26 | Page created from Rockstar's patch notes, IGN, Insider Gaming and GameRoll's post. Not tested by us. |
-| 2026-11-26, 20:31 CET | SEARCH re-check: added the Xbox cache steps from Insider Gaming, and noted that PlayStationInfo says the Xbox result is not yet clear. Credited IGN and PlayStationInfo (not PlayStation Support) for the save warning. Fixed the step-1 and step-3 images. |
-| 2026-11-26, 21:27 CET | SEARCH re-check: dropped unsourced Fix 2 and Fix 3 times; Fix 1's two minutes and the title_alt now credit GameRoll. Version 01.002.002 is credited to PlayStationInfo, Polygon and VGC, not IGN or Insider Gaming. Fix 3 now says fully close the game and start it again (PlayStationInfo), not restart the console. Replaced the unsourced Rest Mode warning with sourced "completely off" wording. |
+| 2026-11-26, 20:31 CET | Added Xbox cache steps from Insider Gaming, and noted that PlayStationInfo says the Xbox result is not yet clear. The save warning now credits IGN and PlayStationInfo. |
+| 2026-11-26, 21:27 CET | Removed guessed times. Credited GameRoll for the two-minute claim, and PlayStationInfo, Polygon and VGC for the version number. The close-and-restart steps now say to start the game again, not the console. |
+| 2026-11-26, 22:30 CET | Split the credits for who is still affected and for the version number. Marked the PS5 Pro report as one player on X. |
 
 ---
 *Unofficial fan site, not affiliated with Rockstar Games or Take-Two.*

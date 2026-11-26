@@ -407,9 +407,9 @@
   "gta-6-how-to-make-money-fast-step-1": {
     "file": "gta-6-how-to-make-money-fast-step-1.webp",
     "width": 1200,
-    "height": 710,
-    "bytes": 38596,
-    "alt": "Table of four GTA 6 money methods from GameSpot and Destructoid: gang hideouts, car jobs, treasure dives, stores and banks, with when each opens. No story names.",
+    "height": 740,
+    "bytes": 43280,
+    "alt": "Table of four GTA 6 money methods: gang hideouts, car jobs, treasure dives, stores and banks, with when each opens. Car pay and when banks open differ by source. No story names.",
     "type": "compare-table"
   },
   "gta-6-how-to-make-money-fast-step-2": {
@@ -424,8 +424,8 @@
     "file": "gta-6-how-to-make-money-fast-step-3.webp",
     "width": 1200,
     "height": 675,
-    "bytes": 31000,
-    "alt": "Illustration of a cash total next to a BuckMe bank balance, with a note that you can carry up to $20,000 in cash. Not an in-game screenshot.",
+    "bytes": 36300,
+    "alt": "Illustration of a cash total next to a BuckMe bank balance: you can carry up to $20,000 in cash, deposit it at an ATM, and BuckMe has a limit that goes up as you play. Not an in-game screenshot.",
     "type": "menu-mock"
   },
   "gta-6-launch-hub-step-1": {
@@ -2076,15 +2076,15 @@
     "file": "gta-6-weather-not-changing-step-1.webp",
     "width": 1200,
     "height": 675,
-    "bytes": 34724,
-    "alt": "Our diagram with three text boxes: Always sunny, No rain or fog, and After the patch some PS5 players still see it on 01.002.002 (PlayStationInfo, Polygon, VGC). Not a game screenshot.",
+    "bytes": 35122,
+    "alt": "Our diagram with three text boxes: Always sunny, No rain or fog, and After the patch some PS5 players still see it (IGN, Insider Gaming, PlayStationInfo). Not a game screenshot.",
     "type": "info-cards"
   },
   "gta-6-weather-not-changing-step-2": {
     "file": "gta-6-weather-not-changing-step-2.webp",
     "width": 1200,
-    "height": 675,
-    "bytes": 37262,
+    "height": 676,
+    "bytes": 40374,
     "alt": "Our drawing of the PS5 Safe Mode menu with option 6 highlighted. Not a real screenshot.",
     "type": "menu-mock"
   },
@@ -2092,7 +2092,7 @@
     "file": "gta-6-weather-not-changing-step-3.webp",
     "width": 1200,
     "height": 675,
-    "bytes": 30416,
+    "bytes": 30694,
     "alt": "Our flow chart: update, check chapter, clear the PS5 cache, and if you are still stuck, report it to Rockstar Support. Not a game screenshot.",
     "type": "step-card"
   }

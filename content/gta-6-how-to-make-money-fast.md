@@ -12,6 +12,8 @@ sources:
   - https://www.destructoid.com/the-best-and-fastest-ways-to-make-money-in-gta-6/
   - "GamesRadar+ | https://www.gamesradar.com/games/grand-theft-auto/gta-6-sell-cars-bikes-how-to/"
   - "GamesRadar+ fence guide | https://www.gamesradar.com/games/grand-theft-auto/gta-6-fences/"
+  - "GamesRadar+ ATMs | https://www.gamesradar.com/games/grand-theft-auto/gta-6-atm/"
+  - "Rockstar Support, BuckMe account limit | https://support.rockstargames.com/articles/5hSbxodEFeNbU1wARy1p4X/cannot-put-any-more-money-in-my-buckme-account-in-grand-theft-auto-vi"
   - "PowerPyx | https://www.powerpyx.com/gta-6-money-guide-how-to-get-money-fast/"
   - "u/chill2308 on r/GTAVI | https://www.reddit.com/r/GTAVI/comments/1y63mhj/money_tip_chapter_3/"
   - "r/GTAVI car selling thread | https://www.reddit.com/r/GTAVI/comments/1y5liiu/selling_cars_is_such_a_good_way_to_make_money/"
@@ -24,9 +26,9 @@ qa: live-review
 
 # GTA 6 How to Make Money Fast: 4 Best Ways (2026)
 
-> - **Quick answer:** GTA 6 how to make money fast: **raid gang hideouts (yellow map icons) and sell the loot**, and steal cars for paid jobs that often pay **over $10,000** (GameSpot).
-> - **Needs:** most big money opens as the story goes on. Banks open later (GameSpot, Destructoid).
-> - **Warning:** you can carry only **$20,000 in cash**. Put it in the bank, or you can lose it if you are arrested or die (Destructoid).
+> - **Quick answer:** GTA 6 how to make money fast: **raid gang hideouts (yellow map icons) and sell the loot**, and steal cars for paid jobs. Sources disagree on the car pay: GameSpot says those jobs often pay **over $10,000**; PowerPyx says the first buyer's cars usually pay about **$1,000 or more**; GamesRadar says harder-to-get cars can pay high four- or five-digit sums.
+> - **Needs:** most big money opens as the story goes on. Banks open later (Destructoid). GameSpot says about halfway through the story; PowerPyx says the big bank vault robberies open at the end of Chapter 4.
+> - **Warning:** you can carry only **$20,000 in cash** (Destructoid, GamesRadar). Put it in your **BuckMe** account, or you can lose it if you are arrested or die (Destructoid). BuckMe has a limit too; it goes up as you play the story (Destructoid, GamesRadar, Rockstar Support).
 
 **Words used on this page.** *Hideout* is a place where a gang keeps money and goods. *Loot* means things you take. A *fence* is a shop person who buys stolen things. *Focus mode* is a view that shows useful items around you. *Payout* is the money you get.
 
@@ -37,27 +39,27 @@ qa: live-review
 | # | Method | What you get | When it opens | Source |
 |---|---|---|---|---|
 | 1 | Raid gang hideouts | Cash, goods to sell, sometimes rare guns and cars | Early, as you find them | GameSpot, Destructoid |
-| 2 | Steal cars for paid jobs | Often **more than $10,000** per car | Early, better cars later | GameSpot |
+| 2 | Steal cars for paid jobs | Sources disagree: GameSpot says often **over $10,000**; PowerPyx says about **$1,000 or more** early | Early, better cars later | GameSpot, PowerPyx, GamesRadar |
 | 3 | Treasure dives | "Tens of thousands of dollars" in total | Fairly early in the story | GameSpot |
-| 4 | Rob big stores and banks | Big stores now, banks much more | Banks about halfway through the story | GameSpot, Destructoid |
+| 4 | Rob big stores and banks | Big stores now, banks much more | Banks later (Destructoid). GameSpot: about halfway. PowerPyx: end of Chapter 4 | GameSpot, Destructoid, PowerPyx |
 
 ![Table of the 4 money methods](TODO: image:gta-6-how-to-make-money-fast-step-1 — diagram, our own art: a table of the 4 methods with what they pay and when they open, no story names)
-*Caption: Diagram. The 4 methods and when each one opens.*
+*Caption: Diagram. The 4 methods and when each one opens. Car pay and when banks open can differ by source.*
 
 ## First: do not lose your cash
 
-1. Watch your cash. You can carry up to **$20,000** (Destructoid).
-2. Go to a bank machine (ATM) when you get close to that.
-3. Put the money into your **BuckMe** account. BuckMe is the game's bank app.
+1. Watch your cash. You can carry up to **$20,000** (Destructoid, GamesRadar).
+2. Go to an **ATM** when you get close to that (GamesRadar).
+3. Put the money into your **BuckMe** account (Destructoid). BuckMe is the game's bank app.
 
-Destructoid says cash you carry is lost if you are "wasted" (you die) or arrested. Money in BuckMe is safe.
+Destructoid says cash you carry is lost if you are "wasted" (you die) or arrested. Money in BuckMe is safe. BuckMe has a limit too; it goes up as you play the story (Destructoid, GamesRadar, [Rockstar Support](https://support.rockstargames.com/articles/5hSbxodEFeNbU1wARy1p4X/cannot-put-any-more-money-in-my-buckme-account-in-grand-theft-auto-vi)).
 
 ## Method 1: Raid gang hideouts
 
 1. Open the map. Look for **yellow icons**. These are robbery spots (GameSpot, Destructoid).
 2. Pick one. GameSpot says the label shows the gang, the security level and the possible score.
 3. Go there and beat the guards. GameSpot says most have about **one or two dozen** enemies.
-4. Turn on **Focus mode** to find loot. Click **both sticks** at once: **L3 + R3 on PS5**, both sticks on Xbox (Destructoid).
+4. Turn on **Focus mode** to find loot. Click **both analog sticks** at once (Destructoid).
 5. Grab the cash and goods.
 6. Take the goods to a **fence** to sell them. GameSpot says you get paid almost at once.
 
@@ -71,7 +73,7 @@ GameSpot says some hideouts have rare guns and vehicles. You can sell those too.
 1. Meet the car buyers. They come in through the story (GameSpot, Destructoid).
 2. Take a job from the list of cars they want.
 3. Find the car and steal it.
-4. Drive it to the buyer. GameSpot says the reward is often **over $10,000**.
+4. Drive it to the buyer. GameSpot says the reward is often **over $10,000**. The sources disagree: PowerPyx says the first buyer's cars usually pay about **$1,000 or more**, and that bigger payouts (often **$30,000 or more**) come from the later, high-end buyer. GamesRadar says harder-to-get cars can pay high four- or five-digit sums.
 5. Keep the car in good shape. GameSpot says a later buyer pays more for clean cars.
 
 Two limits: Destructoid says you can only steal a set number of cars a day. GameSpot says a **Pay 'N' Spray** also buys cars, but not cars with a high-end tracker.
@@ -116,10 +118,10 @@ GameSpot says a man called **Kenton** runs a scuba-boat shop in **Key Lento**. Y
 4. Ask for the safe code if there is a safe (GameSpot).
 5. Leave fast. Destructoid says police come the longer you stay.
 
-Banks open later. GameSpot says big **Fleeca** banks become possible about **halfway through the story**, together with a tool that stops dye packs (ink bombs that ruin stolen notes).
+Banks open later (Destructoid). GameSpot says big **Fleeca** banks become possible about **halfway through the story**, together with a tool that stops dye packs (ink bombs that ruin stolen notes). PowerPyx disagrees: it says the big bank vault robberies only open at the end of Chapter 4.
 
 ![Menu screen showing cash and BuckMe balance](TODO: image:gta-6-how-to-make-money-fast-step-3 — menu screen, our own illustration of a cash total next to a BuckMe bank balance with a $20,000 cash limit note)
-*Caption: Menu screen. Keep your cash under $20,000 and bank the rest.*
+*Caption: Menu screen. Keep your cash under $20,000 and bank the rest. BuckMe has a limit too.*
 
 :::spoiler Short on money early in the story? (reveals a story section)
 GameSpot says that at about the 30% mark you must pay rent at a motel as Lucia, with no money. Its tip: rob the small stores marked with green icons in Port Gellhorn, rob people on the street, and sell cars.
@@ -130,13 +132,13 @@ GameSpot says that at about the 30% mark you must pay rent at a motel as Lucia, 
 ## FAQ
 
 ### What is the fastest way to make money in GTA 6?
-GameSpot says raiding gang hideouts again and again is the way to never worry about money. Car jobs often pay over $10,000 each.
+GameSpot says raiding gang hideouts again and again is the way to never worry about money. It also says car jobs often pay over $10,000 each. The sources disagree: PowerPyx says the first buyer's cars usually pay about $1,000 or more, with bigger payouts from the later, high-end buyer. GamesRadar says harder-to-get cars can pay high four- or five-digit sums.
 
 ### Is there a cash limit in GTA 6?
-Yes. Destructoid says you can carry $20,000 in cash. Put the rest in your BuckMe account.
+Yes. Destructoid and GamesRadar say you can carry $20,000 in cash. Put the rest in your BuckMe account (Destructoid). BuckMe has a limit too; it goes up as you play the story (Destructoid, GamesRadar, Rockstar Support).
 
 ### Can I rob banks in GTA 6?
-Yes, but later. GameSpot says big banks open about halfway through the story.
+Yes, but later (Destructoid). GameSpot says big banks open about halfway through the story. PowerPyx says the big bank vault robberies only open at the end of Chapter 4. The sources disagree.
 
 ### Is there a money glitch in GTA 6?
 This page covers normal methods only. A story-mode warehouse respawn glitch is reported working as of 25 Nov 2026; it has its own page: [GTA 6 money glitch](/money/gta-6-money-glitch/).
@@ -148,8 +150,9 @@ This page covers normal methods only. A story-mode warehouse respawn glitch is r
 | 2026-11-18 | Filled from GameSpot's and Destructoid's money guides (18 Nov). Not timed by us yet. |
 | 2026-11-25 | FAQ now links to our separate money glitch page. |
 | 2026-11-26 | Added Pay 'N' Spray car selling steps from PowerPyx, with player payouts and tips marked unconfirmed. |
-| 2026-11-26 | QA fix: added GamesRadar citations, noted where GameSpot disagrees, credited Destructoid and GamesRadar for the daily limit, moved the high-end buyer tips, and sourced the sell step. |
-| 2026-11-26 | QA fix: took car-buyer names out of visible text, and credited the Chapter 3 Pay 'N' Spray unlock to PowerPyx only. |
+| 2026-11-26 | Added GamesRadar citations, noted where GameSpot disagrees, credited Destructoid and GamesRadar for the daily limit, moved the high-end buyer tips, and sourced the sell step. |
+| 2026-11-26 | Took car-buyer names out of visible text, and credited the Chapter 3 Pay 'N' Spray unlock to PowerPyx only. |
+| 2026-11-26 | Noted where sources disagree on car-job pay and when banks open, sourced the ATM step, and added the BuckMe balance limit. |
 
 ---
 *Unofficial fan site, not affiliated with Rockstar Games or Take-Two.*
