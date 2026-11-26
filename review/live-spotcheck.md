@@ -68,3 +68,8 @@ ISSUE: commit 192829b (25 Nov 18:20 CET, "Daily update 2026-11-25: QA passed: ..
 Homepage + 5 recently changed pages (money glitch, ammo refill glitch, how to make money fast, launch hub, controls; content commits since 24 Nov: 9845a93, 2983836, 55659d7, 192829b, 168a7ff): all 200, render, footer disclaimer (Rockstar Games + Take-Two) present on all 6, no spoilers in title/meta/OG, no raw markdown/TODO/"Image coming soon", 0 broken images, no sideways scroll at 390px. 90 internal links checked, 0 broken.
 Known, now resolved: money glitch and ammo refill glitch (live-review since 25 Nov 21:26) were edited by Copywriter and auto-published in 9845a93 (26 Nov 08:38 CET); re-check 09:23 CET PASS, set to qa: passed (commit 9259563).
 NEW issues vs earlier entries: none. No unchecked QA-passed publishes; origin had no other new commits.
+
+## Spot-check by SEARCH 26 Nov 2026 13:25 CET
+Homepage + 5 recently changed pages (money glitch, ammo refill glitch, how to make money fast, launch hub, controls): all 200, render, footer disclaimer (Rockstar Games + Take-Two) present on all 6, no spoilers in title/meta/OG, no raw markdown/TODO/"Image coming soon", 0 broken images, no sideways scroll at 390px. 90 internal links checked, 0 broken.
+No pages due for QA (Slovenian pages, held stubs and crab-lab sourcing hold unchanged; no content commits since 9259563; no unchecked QA-passed publishes; origin had no new commits). NEW issues vs earlier entries: none.
+
