@@ -10,6 +10,8 @@ description: "GTA 6 how to make money fast: 4 ways GameSpot and Destructoid reco
 sources:
   - https://www.gamespot.com/articles/best-ways-to-make-money-fast-in-gta-6/
   - https://www.destructoid.com/the-best-and-fastest-ways-to-make-money-in-gta-6/
+  - "GamesRadar+ | https://www.gamesradar.com/games/grand-theft-auto/gta-6-sell-cars-bikes-how-to/"
+  - "GamesRadar+ fence guide | https://www.gamesradar.com/games/grand-theft-auto/gta-6-fences/"
   - "PowerPyx | https://www.powerpyx.com/gta-6-money-guide-how-to-get-money-fast/"
   - "u/chill2308 on r/GTAVI | https://www.reddit.com/r/GTAVI/comments/1y63mhj/money_tip_chapter_3/"
   - "r/GTAVI car selling thread | https://www.reddit.com/r/GTAVI/comments/1y5liiu/selling_cars_is_such_a_good_way_to_make_money/"
@@ -28,7 +30,7 @@ qa: live-review
 
 **Words used on this page.** *Hideout* is a place where a gang keeps money and goods. *Loot* means things you take. A *fence* is a shop person who buys stolen things. *Focus mode* is a view that shows useful items around you. *Payout* is the money you get.
 
-*We have not timed these methods ourselves yet, so there are no "dollars per hour" numbers here. Facts come from GameSpot (18 Nov 2026) and Destructoid (18 Nov 2026), plus PowerPyx and marked player tips in the car section (26 Nov 2026). No glitches or exploits.*
+*We have not timed these methods ourselves yet, so there are no "dollars per hour" numbers here. Facts come from GameSpot (18 Nov 2026) and Destructoid (18 Nov 2026), plus PowerPyx, GamesRadar, and marked player tips in the car section (26 Nov 2026). No glitches or exploits.*
 
 ## The 4 best ways, at a glance
 
@@ -72,25 +74,27 @@ GameSpot says some hideouts have rare guns and vehicles. You can sell those too.
 4. Drive it to the buyer. GameSpot says the reward is often **over $10,000**.
 5. Keep the car in good shape. GameSpot says a later buyer pays more for clean cars.
 
-Two limits: Destructoid says you can only steal a set number of cars per day. GameSpot says a **Pay 'N' Spray** also buys cars, but not cars with a high-end tracker.
+Two limits: Destructoid says you can only steal a set number of cars a day. GameSpot says a **Pay 'N' Spray** also buys cars, but not cars with a high-end tracker.
+
+:::spoiler Who buys the cars and where (names two characters and two places)
+GameSpot says the first buyer is **Moses** in **Port Gellhorn**. He gives you tools for mid-range cars. Later you meet **Randy** in western Vice City. He deals in high-end cars, teaches key cloning, and has a list of more than a dozen cars.
+:::
+
+**Player tips for Advanced-tracker cars you take to Randy (unconfirmed).** In the [r/GTAVI car selling thread](https://www.reddit.com/r/GTAVI/comments/1y5liiu/selling_cars_is_such_a_good_way_to_make_money/), [u/misplacedsagacity](https://www.reddit.com/r/GTAVI/comments/1y5liiu/selling_cars_is_such_a_good_way_to_make_money/19t7dtmpie5b7/) says the tracker does not go off if you move the car with a **tow truck**. [u/-lugia-](https://www.reddit.com/r/GTAVI/comments/1y5liiu/selling_cars_is_such_a_good_way_to_make_money/19t7453wcvo83/) says the tracker also stays quiet if the **other main character** drives the stolen car while you drive another, so it arrives at Randy without a scratch.
 
 ### Faster car cash: sell at a Pay 'N' Spray
 
 A *tracker* is a device in a car that tells the police where it is. *WAiNK* is the phone app that scans a car before you steal it.
 
-1. Get to **early Chapter 3**. [PowerPyx](https://www.powerpyx.com/gta-6-money-guide-how-to-get-money-fast/) (a guide site) says that is when any Pay 'N' Spray starts buying cars with a **Standard** tracker. These pay more, **around $4,000 or more** for a good car.
+GameSpot does not say when Pay 'N' Spray sales open, and it says a shop will not take a car with a high-end tracker. [PowerPyx](https://www.powerpyx.com/gta-6-money-guide-how-to-get-money-fast/) and [GamesRadar](https://www.gamesradar.com/games/grand-theft-auto/gta-6-sell-cars-bikes-how-to/) disagree: they say selling stolen cars that have a tracker opens in **Chapter 3**. A Standard tracker is not the high-end (Advanced) tracker GameSpot means.
+
+1. Get to **early Chapter 3**. PowerPyx says that is when any Pay 'N' Spray starts buying cars with a **Standard** tracker. GamesRadar says Moses later puts in a good word with Pay 'N' Sprays, and [its fence guide](https://www.gamesradar.com/games/grand-theft-auto/gta-6-fences/) says you wait until Chapter 3 to sell cars that have a tracker. PowerPyx says a good Standard-tracker car pays **around $4,000 or more**.
 2. Go where nice cars drive by. [u/chill2308](https://www.reddit.com/r/GTAVI/comments/1y63mhj/money_tip_chapter_3/) takes a RydeMe to **Vice Beach**.
-3. Scan cars that have a driver with **WAiNK**. Look for a car that shows **Standard** tracking and a high sale value.
-4. Steal it. Drive carefully: damage lowers the price.
-5. Drive into a Pay 'N' Spray and choose **Sell**.
+3. Scan cars that have a driver with **WAiNK**. Look for a car that shows **Standard** tracking and a high sale value (u/chill2308).
+4. Steal it. Drive carefully: GamesRadar says buyers pay more for cars in good condition.
+5. Drive into a Pay 'N' Spray. GamesRadar says the menu there has a sell option (it describes this for a car you own).
 
-**What it pays: unconfirmed.** u/chill2308 says the best Standard-tracker cars pay **$9,000 to $12,000** each, about **$30,000 a day** with three sales. That is one player's claim. PowerPyx gives the lower $4,000+ figure. The daily limit is also a player report (u/chill2308 thinks it is three cars).
-
-**Player tips (unconfirmed).** In the [r/GTAVI car selling thread](https://www.reddit.com/r/GTAVI/comments/1y5liiu/selling_cars_is_such_a_good_way_to_make_money/), [u/misplacedsagacity](https://www.reddit.com/r/GTAVI/comments/1y5liiu/selling_cars_is_such_a_good_way_to_make_money/19t7dtmpie5b7/) says the tracker does not go off if you move the car with a **tow truck**. [u/-lugia-](https://www.reddit.com/r/GTAVI/comments/1y5liiu/selling_cars_is_such_a_good_way_to_make_money/19t7453wcvo83/) says the tracker also stays quiet if your **partner** drives the stolen car while you drive another, so it arrives without a scratch.
-
-:::spoiler Who buys the cars and where (names two characters and two places)
-GameSpot says the first buyer is **Moses** in **Port Gellhorn**. He gives you tools for mid-range cars. Later you meet **Randy** in western Vice City. He deals in high-end cars, teaches key cloning, and has a list of more than a dozen cars.
-:::
+**What it pays: unconfirmed.** u/chill2308 says the best Standard-tracker cars pay **$9,000 to $12,000** each, about **$30,000 a day** with three sales. That is one player's claim. PowerPyx gives the lower $4,000+ figure. Destructoid says you can only steal a set number of cars a day, and GamesRadar says Pay 'N' Sprays only buy a set number a day. Neither gives the number; u/chill2308 thinks it is three.
 
 ## Method 3: Treasure dives
 
@@ -144,6 +148,7 @@ This page covers normal methods only. A story-mode warehouse respawn glitch is r
 | 2026-11-18 | Filled from GameSpot's and Destructoid's money guides (18 Nov). Not timed by us yet. |
 | 2026-11-25 | FAQ now links to our separate money glitch page. |
 | 2026-11-26 | Added Pay 'N' Spray car selling steps from PowerPyx, with player payouts and tips marked unconfirmed. |
+| 2026-11-26 | QA fix: added GamesRadar for the Chapter 3 unlock, noted where GameSpot disagrees, credited Destructoid and GamesRadar for the daily limit, moved the Randy tips, and sourced the sell step. |
 
 ---
 *Unofficial fan site, not affiliated with Rockstar Games or Take-Two.*

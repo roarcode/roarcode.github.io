@@ -2052,15 +2052,15 @@
     "file": "gta-6-story-stuck-call-not-coming-step-1.webp",
     "width": 1200,
     "height": 675,
-    "bytes": 32130,
-    "alt": "Our diagram: a phone with no incoming call and a story bar stuck at 72%. Not a game screenshot.",
+    "bytes": 32112,
+    "alt": "Our diagram: three boxes that say About 72%, No call, and Both consoles. Not a game screenshot.",
     "type": "info-cards"
   },
   "gta-6-story-stuck-call-not-coming-step-2": {
     "file": "gta-6-story-stuck-call-not-coming-step-2.webp",
     "width": 1200,
     "height": 675,
-    "bytes": 30986,
+    "bytes": 31838,
     "alt": "Our drawing of a save menu with a new save slot picked as Lucia. Not a real screenshot.",
     "type": "menu-mock"
   },
@@ -2068,16 +2068,16 @@
     "file": "gta-6-story-stuck-call-not-coming-step-3.webp",
     "width": 1200,
     "height": 675,
-    "bytes": 30056,
-    "alt": "Our flow chart: fence jobs, save as Lucia and restart, sleep, check other jobs, then contact Support. Not a game screenshot.",
+    "bytes": 30090,
+    "alt": "Our flow chart: leftover fence jobs, save as Lucia and restart, sleep, check other jobs, then contact Support. Not a game screenshot.",
     "type": "step-card"
   },
   "gta-6-weather-not-changing-step-1": {
     "file": "gta-6-weather-not-changing-step-1.webp",
     "width": 1200,
     "height": 675,
-    "bytes": 32862,
-    "alt": "Our diagram: a sun icon that never changes next to a calendar of in-game days. Not a game screenshot.",
+    "bytes": 33698,
+    "alt": "Our diagram with three text boxes: Always sunny, No rain or fog, and After the patch some PS5 players still see it on 01.002.002. Not a game screenshot.",
     "type": "info-cards"
   },
   "gta-6-weather-not-changing-step-2": {
@@ -2093,7 +2093,7 @@
     "width": 1200,
     "height": 675,
     "bytes": 28988,
-    "alt": "Our flow chart: update, check chapter, clear cache, then wait for a patch. Not a game screenshot.",
+    "alt": "Our flow chart: update, check chapter, clear the PS5 cache, and if you are still stuck, report it to Rockstar Support. Not a game screenshot.",
     "type": "step-card"
   }
 }

@@ -4,9 +4,9 @@
   "data": {
     "category": "glitches",
     "title": "Save as Lucia, new slot",
-    "panel_title": "Save game — illustration",
+    "panel_title": "Save game \u2014 illustration",
     "platform": "PS5 / Xbox",
-    "highlightRow": 2,
+    "highlightRow": 1,
     "rows": [
       {
         "label": "Autosave",
@@ -21,6 +21,6 @@
         "value": "Close game, power off"
       }
     ],
-    "note": "Illustration, not a real screenshot. Steps from GameRant, 26 Nov 2026."
+    "note": "Illustration, not a real screenshot. Lucia hotel save: GameRant, 26 Nov. New slot: our tip."
   }
 }

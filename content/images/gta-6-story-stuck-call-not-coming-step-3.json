@@ -1,13 +1,13 @@
 {
   "type": "step-card",
-  "alt": "Our flow chart: fence jobs, save as Lucia and restart, sleep, check other jobs, then contact Support. Not a game screenshot.",
+  "alt": "Our flow chart: leftover fence jobs, save as Lucia and restart, sleep, check other jobs, then contact Support. Not a game screenshot.",
   "data": {
     "category": "glitches",
     "title": "Try the fixes in order",
     "steps": [
       {
         "title": "Fence jobs",
-        "body": "Finish all optional jewelry jobs."
+        "body": "Finish the fence's leftover jobs."
       },
       {
         "title": "Save and restart",
