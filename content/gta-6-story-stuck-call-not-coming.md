@@ -18,8 +18,7 @@ published: 2026-11-26
 status: live
 publish: true
 spoilers: major
-qa: pending
-draft: true
+qa: passed
 ---
 
 # GTA 6 Story Stuck at 72%? Fix for the Call That Never Comes
