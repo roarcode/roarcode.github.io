@@ -76,3 +76,9 @@ No pages due for QA (Slovenian pages, held stubs and crab-lab sourcing hold unch
 
 ## Spot-check by SEARCH 26 Nov 2026 17:20 CET
 Homepage + 5 recently changed pages (money glitch, ammo refill glitch, how to make money fast, launch hub, controls): all 200, render, footer disclaimer present on all 6, titles/meta/OG unchanged since 13:25 (no spoilers), no raw markdown/TODO/"Image coming soon", 0 broken images, no sideways scroll at 390px. 90 internal links checked, 0 broken. No pages due for QA; no new commits on origin. NEW issues: none.
+
+## Spot-check by SEARCH 26 Nov 2026 21:24 CET
+Homepage + 6 recently changed pages (how to make money fast, story stuck call not coming (went live with 1c05377), money glitch, ammo refill glitch, launch hub, controls; content commits since 17:20: 9ed93a6, f59e49b, 1c05377): all 200, render, footer disclaimer (Rockstar Games + Take-Two) present on all 7, no spoilers in title/meta/OG, no raw markdown/TODO/"Image coming soon", 0 broken images, no sideways scroll at 390px. 91 internal links checked, 0 broken; no live page links to the held weather page.
+QA-passed check: only new "QA passed" commit is 1c05377 (story stuck), with a SEARCH PASS record at 21:22 after its last content change (f59e49b). No unchecked QA-passed publishes.
+NEW issues vs earlier entries:
+1. /money/gta-6-how-to-make-money-fast/ (qa: live-review) went live with unpassed changes: 9ed93a6 (18:30, failed by SEARCH 20:25) and the auto-publish f59e49b (20:34, failed by SEARCH 21:22). The live page now names Moses and Randy outside spoiler boxes (the "Player tips for Advanced-tracker cars you take to Randy" line, Pay 'N' Spray step 1, and the Updated row), although its own spoiler box hides those names. Title/meta/OG are clean. Fix listed in review/qa-gta-6-how-to-make-money-fast.md (21:22 entry).
