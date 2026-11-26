@@ -73,3 +73,6 @@ NEW issues vs earlier entries: none. No unchecked QA-passed publishes; origin ha
 Homepage + 5 recently changed pages (money glitch, ammo refill glitch, how to make money fast, launch hub, controls): all 200, render, footer disclaimer (Rockstar Games + Take-Two) present on all 6, no spoilers in title/meta/OG, no raw markdown/TODO/"Image coming soon", 0 broken images, no sideways scroll at 390px. 90 internal links checked, 0 broken.
 No pages due for QA (Slovenian pages, held stubs and crab-lab sourcing hold unchanged; no content commits since 9259563; no unchecked QA-passed publishes; origin had no new commits). NEW issues vs earlier entries: none.
 
+
+## Spot-check by SEARCH 26 Nov 2026 17:20 CET
+Homepage + 5 recently changed pages (money glitch, ammo refill glitch, how to make money fast, launch hub, controls): all 200, render, footer disclaimer present on all 6, titles/meta/OG unchanged since 13:25 (no spoilers), no raw markdown/TODO/"Image coming soon", 0 broken images, no sideways scroll at 390px. 90 internal links checked, 0 broken. No pages due for QA; no new commits on origin. NEW issues: none.
