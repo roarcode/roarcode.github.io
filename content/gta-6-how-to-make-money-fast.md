@@ -21,7 +21,7 @@ updated: 2026-11-26
 status: live
 publish: true
 spoilers: minor
-qa: live-review
+qa: passed
 ---
 
 # GTA 6 How to Make Money Fast: 4 Best Ways (2026)
