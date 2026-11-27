@@ -1,0 +1,15 @@
+{
+  "type": "step-card",
+  "alt": "Our step diagram: clone the key, partner waits in, take another car, partner follows you. Not a game screenshot.",
+  "data": {
+    "category": "vehicles",
+    "title": "The partner trick",
+    "steps": [
+      { "title": "Clone the key", "body": "Both characters get in. Do not drive off." },
+      { "title": "Wait In", "body": "Hold D-pad Right, pick Wait In." },
+      { "title": "Switch cars", "body": "Get into a second vehicle." },
+      { "title": "Follow Me", "body": "Hold D-pad Right, pick Follow Me." }
+    ],
+    "tip": "From Insider Gaming, Polygon and VICE. Our drawing, not a game screenshot."
+  }
+}

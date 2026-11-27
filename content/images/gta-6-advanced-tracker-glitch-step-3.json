@@ -1,0 +1,20 @@
+{
+  "type": "info-cards",
+  "alt": "Our diagram with two cards: The trick does (no police on the way, car arrives in good shape) and The trick does not (remove the tracker, let you register the car). Not a game screenshot.",
+  "data": {
+    "category": "vehicles",
+    "title": "What the trick does",
+    "cols": 2,
+    "cards": [
+      {
+        "title": "It does",
+        "body": "No police on the way. The car can arrive in good shape (Polygon, VICE)."
+      },
+      {
+        "title": "It does not",
+        "body": "Remove the tracker or let you register the car (Polygon)."
+      }
+    ],
+    "note": "Our diagram, not a game screenshot."
+  }
+}

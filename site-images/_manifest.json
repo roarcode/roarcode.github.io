@@ -2095,5 +2095,29 @@
     "bytes": 30694,
     "alt": "Our flow chart: update, check chapter, clear the PS5 cache, and if you are still stuck, report it to Rockstar Support. Not a game screenshot.",
     "type": "step-card"
+  },
+  "gta-6-advanced-tracker-glitch-step-1": {
+    "file": "gta-6-advanced-tracker-glitch-step-1.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 32264,
+    "alt": "Our diagram with three boxes: Red tracker, Slow down for about 5 seconds, Police come (GameSpot). Not a game screenshot.",
+    "type": "info-cards"
+  },
+  "gta-6-advanced-tracker-glitch-step-2": {
+    "file": "gta-6-advanced-tracker-glitch-step-2.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 27334,
+    "alt": "Our step diagram: clone the key, partner waits in, take another car, partner follows you. Not a game screenshot.",
+    "type": "step-card"
+  },
+  "gta-6-advanced-tracker-glitch-step-3": {
+    "file": "gta-6-advanced-tracker-glitch-step-3.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 26168,
+    "alt": "Our diagram with two cards: The trick does (no police on the way, car arrives in good shape) and The trick does not (remove the tracker, let you register the car). Not a game screenshot.",
+    "type": "info-cards"
   }
 }

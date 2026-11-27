@@ -1,0 +1,24 @@
+{
+  "type": "info-cards",
+  "alt": "Our diagram with three boxes: Red tracker, Slow down for about 5 seconds, Police come (GameSpot). Not a game screenshot.",
+  "data": {
+    "category": "vehicles",
+    "title": "Why red-tracker cars are hard",
+    "cols": 3,
+    "cards": [
+      {
+        "title": "Red tracker",
+        "body": "The advanced tracker stays on until the car is yours (Polygon)."
+      },
+      {
+        "title": "Slow down",
+        "body": "Below a set speed for about 5 seconds (GameSpot)."
+      },
+      {
+        "title": "Police come",
+        "body": "The tracker pings the police (GameSpot)."
+      }
+    ],
+    "note": "Our diagram, not a game screenshot."
+  }
+}

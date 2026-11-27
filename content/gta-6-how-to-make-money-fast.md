@@ -17,11 +17,15 @@ sources:
   - "PowerPyx | https://www.powerpyx.com/gta-6-money-guide-how-to-get-money-fast/"
   - "u/chill2308 on r/GTAVI | https://www.reddit.com/r/GTAVI/comments/1y63mhj/money_tip_chapter_3/"
   - "r/GTAVI car selling thread | https://www.reddit.com/r/GTAVI/comments/1y5liiu/selling_cars_is_such_a_good_way_to_make_money/"
-updated: 2026-11-26
+  - "Insider Gaming | https://insider-gaming.com/easy-method-randy-supercars-advanced-trackers/"
+  - "Polygon | https://www.polygon.com/gta-6-advanced-trackers-how-to-disable-deactivate/"
+  - "Game Rant | https://gamerant.com/gta-6-ocelot-jugular-location-randy-grand-theft-auto-6/"
+  - "VICE | https://www.vice.com/en/article/gta-6-advanced-tracker-removal-glitch/"
+updated: 2026-11-27
 status: live
 publish: true
 spoilers: minor
-qa: passed
+qa: live-review
 ---
 
 # GTA 6 How to Make Money Fast: 4 Best Ways (2026)
@@ -82,7 +86,7 @@ Two limits: Destructoid says you can only steal a set number of cars a day. Game
 GameSpot says the first buyer is **Moses** in **Port Gellhorn**. He gives you tools for mid-range cars. Later you meet **Randy** in western Vice City. He deals in high-end cars, teaches key cloning, and has a list of more than a dozen cars.
 :::
 
-**Player tips for Advanced-tracker cars you take to the high-end car buyer (unconfirmed).** In the [r/GTAVI car selling thread](https://www.reddit.com/r/GTAVI/comments/1y5liiu/selling_cars_is_such_a_good_way_to_make_money/), [u/misplacedsagacity](https://www.reddit.com/r/GTAVI/comments/1y5liiu/selling_cars_is_such_a_good_way_to_make_money/19t7dtmpie5b7/) says the tracker does not go off if you move the car with a **tow truck**. [u/-lugia-](https://www.reddit.com/r/GTAVI/comments/1y5liiu/selling_cars_is_such_a_good_way_to_make_money/19t7453wcvo83/) says the tracker also stays quiet if the **other main character** drives the stolen car while you drive another, so it arrives at the high-end car buyer without a scratch.
+**Player tips for Advanced-tracker cars you take to the high-end car buyer (unconfirmed).** In the [r/GTAVI car selling thread](https://www.reddit.com/r/GTAVI/comments/1y5liiu/selling_cars_is_such_a_good_way_to_make_money/), [u/misplacedsagacity](https://www.reddit.com/r/GTAVI/comments/1y5liiu/selling_cars_is_such_a_good_way_to_make_money/19t7dtmpie5b7/) says the tracker does not go off if you move the car with a **tow truck**. [u/-lugia-](https://www.reddit.com/r/GTAVI/comments/1y5liiu/selling_cars_is_such_a_good_way_to_make_money/19t7453wcvo83/) says the tracker also stays quiet if the **other main character** drives the stolen car while you drive another, so it arrives at the high-end car buyer without a scratch. Four outlets have since described the partner trick: [Insider Gaming](https://insider-gaming.com/easy-method-randy-supercars-advanced-trackers/) says it tested it many times, and [Polygon](https://www.polygon.com/gta-6-advanced-trackers-how-to-disable-deactivate/), [Game Rant](https://gamerant.com/gta-6-ocelot-jugular-location-randy-grand-theft-auto-6/) and [VICE](https://www.vice.com/en/article/gta-6-advanced-tracker-removal-glitch/) give the steps: tell your partner to **wait in** the stolen car, get into another vehicle, then tell them to **follow you**. Insider Gaming thinks it is a bug, so a patch could stop it.
 
 ### Faster car cash: sell at a Pay 'N' Spray
 
@@ -153,6 +157,7 @@ This page covers normal methods only. A story-mode warehouse respawn glitch is r
 | 2026-11-26 | Added GamesRadar citations, noted where GameSpot disagrees, credited Destructoid and GamesRadar for the daily limit, moved the high-end buyer tips, and sourced the sell step. |
 | 2026-11-26 | Took car-buyer names out of visible text, and credited the Chapter 3 Pay 'N' Spray unlock to PowerPyx only. |
 | 2026-11-26 | Noted where sources disagree on car-job pay and when banks open, sourced the ATM step, and added the BuckMe balance limit. |
+| 2026-11-27 | The partner tip for advanced-tracker cars is now described by Insider Gaming, Polygon, Game Rant and VICE, with the steps. |
 
 ---
 *Unofficial fan site, not affiliated with Rockstar Games or Take-Two.*
