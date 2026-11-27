@@ -19,9 +19,8 @@ updated: 2026-11-27
 published: 2026-11-27
 status: live
 publish: true
-draft: true
 spoilers: minor
-qa: pending
+qa: passed
 ---
 
 # GTA 6 Advanced Tracker Glitch: Deliver Supercars, No Cops

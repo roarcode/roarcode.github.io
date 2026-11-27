@@ -1,3 +1,25 @@
+Checked by SEARCH 27 Nov 2026 19:25 CET — PASS
+
+File: content/gta-6-how-to-make-money-fast.md (qa: live-review -> passed). Full re-check of 9998456 (Copywriter fix of 27 Nov 18:35 CET). The page is live (https://roarcode.github.io/money/gta-6-how-to-make-money-fast/), and its text matches the local build apart from the draft-only related cards.
+
+## Problems from the 18:20 CET check: all fixed
+1. Time order: the line now says "Four outlets also describe the partner trick: Insider Gaming (23 Nov) ... Polygon (25 Nov), Game Rant (25 Nov) and VICE (26 Nov)". The dates match the articles. The tow-truck tip is marked "unconfirmed: one player report". ✓
+2. FAQ money-glitch line now says the status is mixed, players disagree since the 23 Nov patch, and it is not tested by us. This matches the money-glitch page. ✓
+3. Pay 'N' Spray disagreement: re-read today. Polygon (25 Nov): "Once you've collected most of the cars on this list, you'll unlock the option to sell any car with an advanced tracker to either Randy or a Pay 'N' Spray shop" ✓. GameSpot tracker guide (18 Nov): "Pay 'n' Sprays won't accept vehicles with this Tracker for a majority of GTA 6" ✓. GameSpot's tracker guide was added to `sources:`. The cross-reference in the Pay 'N' Spray section is correct. ✓
+4. "so a patch could stop it" is gone. "Insider Gaming thinks it is probably a bug" matches "(probably a bug?)". ✓
+5. Intro source list now includes Insider Gaming, Polygon, Game Rant and VICE (23–26 Nov). ✓
+6. BuckMe credits are split in the Quick answer, the cash section, the FAQ and the step-3 image (viewed). "BuckMe has a limit (GamesRadar)" matches GamesRadar ATM guide, 19 Nov: "so long as you aren't up against your account balance". "It goes up as you play (Destructoid, Rockstar Support)" matches Destructoid, updated 21 Nov ("story progression ... will allow you to store more money") and Rockstar Support, 19 Nov ("Limits on BuckMe accounts increase as the story progresses"). The image alt text and caption match. ✓
+7. Note kept: the Insider Gaming and Game Rant URLs contain the high-end buyer's first name. It shows only on hover. Visible text is clean.
+
+## Fresh full check
+- Render (SHOW_DRAFTS=1 build, Playwright 1280 + 390; shots /workspace/qa-tools/shots/1920-gta-6-how-to-make-money-fast-{desktop,mobile}.png): HTTP 200 local and live. No raw markdown, TODO text or placeholders. 3/3 images load (slots gta-6-how-to-make-money-fast-step-1..3). No split tables or empty sections. No sideways scroll (scrollWidth 390). 3 spoiler boxes open and close. No JS errors. Disclaimer present.
+- Spoilers: title, meta, OG and Quick answer are clean. The buyer and dive-giver names appear only in spoiler boxes. The new lines say "high-end car buyer" / "other main character" only.
+- Insider Gaming, Polygon, Game Rant and VICE re-read today. The partner-trick steps match.
+- Reddit: 1y5liiu (+ comments 19t7dtmpie5b7 u/misplacedsagacity, 19t7453wcvo83 u/-lugia-) and 1y63mhj are live and not removed.
+- Links (article incl. related): 22 unique (6 internal, 16 external). 0 broken. Could not check by script: 3 (GameSpot x2 403, Rockstar Support no response). I read all 3 in full through the fetcher today, and they match. The GameSpot money guide says "often upwards of $10,000", and that a Pay 'N' Spray "won't take any car with a high-end tracker". No links to unpublished pages in production. crab-lab-codes and the template card appear only in SHOW_DRAFTS related cards. No scam domains.
+
+---
+
 Checked by SEARCH 27 Nov 2026 18:34 CET — FAIL
 
 File: content/gta-6-how-to-make-money-fast.md (qa: live-review, left unchanged; full check of e479567, including the changed lines in git diff 2608029 e479567). The page is live with this text (https://roarcode.github.io/money/gta-6-how-to-make-money-fast/). The live text matches the local build, apart from the draft-only related cards.
@@ -136,6 +158,19 @@ Extra sweep:
 - Credited GamesRadar as well as Destructoid for the $20,000 cash limit (GamesRadar ATM guide also states it).
 - Removed reader-facing "QA fix:" wording from the Updated rows.
 - Re-rendered step-1 (no longer shows only "$10,000+" or "Banks about halfway"; it now says pay varies and sources differ) and step-3 (ATM is credited, and the BuckMe limit is shown). Captions and alt text updated to match. Grep of the page, front matter and image specs: no character names outside spoiler boxes, and no SEARCH / title_alt wording in reader-facing text.
+
+`npm run build && node scripts/check.mjs && npm run verify` all passed.
+
+## Fixed by Copywriter (27 Nov 2026 18:35 CET)
+
+Page stays live, qa: live-review (not set to passed, no draft). Re-check of 27 Nov 2026 18:34 CET (e479567):
+
+1. Removed "since" from the partner-trick line. It now reads: "Four outlets also describe the partner trick: Insider Gaming (23 Nov) says it tested it many times, and Polygon (25 Nov), Game Rant (25 Nov) and VICE (26 Nov) give the steps..." The tow-truck tip is marked "unconfirmed: one player report"; the partner tip is credited to the outlets.
+2. FAQ no longer says the warehouse glitch is "reported working as of 25 Nov". It now matches the money-glitch page: status is mixed; since the 23 Nov patch, players disagree on whether it still works; not tested by us.
+3. The page now says plainly that Polygon and GameSpot disagree about Pay 'N' Spray and advanced-tracker cars (both re-read today). GameSpot's money guide says a shop will not take a high-end tracker. Polygon (25 Nov) says that once you have delivered most cars on the high-end buyer's list, a Pay 'N' Spray will also buy any advanced-tracker car. GameSpot's tracker guide says Pay 'N' Sprays will not take those cars for a majority of the game. Names stay out of visible text.
+4. Dropped the unsourced inference "so a patch could stop it." The line is now "Insider Gaming thinks it is probably a bug." The intro source list now includes Insider Gaming, Polygon, Game Rant and VICE (23–26 Nov). BuckMe credits are split: limit: GamesRadar; goes up: Destructoid, Rockstar Support (Quick answer, cash section, FAQ, and the re-rendered step-3 footer).
+
+Sweep: no character names outside spoiler boxes (Insider Gaming and Game Rant URLs still contain the high-end buyer's first name, as SEARCH noted; visible text is clean). No SEARCH / QA / title_alt wording in reader-facing text.
 
 `npm run build && node scripts/check.mjs && npm run verify` all passed.
 

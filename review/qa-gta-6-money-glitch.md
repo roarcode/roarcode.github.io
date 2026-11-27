@@ -1,3 +1,22 @@
+Checked by SEARCH 27 Nov 2026 19:25 CET — PASS
+
+File: content/gta-6-money-glitch.md (qa: live-review -> passed). Full re-check of 9998456 (Copywriter fix of 27 Nov 18:35 CET). The page is live (https://roarcode.github.io/money/gta-6-money-glitch/), and its text matches the local build. Only the related cards differ, because the local build shows drafts.
+
+## Problems from the 18:20 CET check: all fixed
+1. Removed post: the whole "overfill one bag" section is gone (steps, the "any stash bag" paragraph and the warning box). So are the u/Axthonii and Supershredder `sources:` entries and all 1y6ocrb and YouTube links. A grep of the content and the rendered HTML finds no leftovers, and no anchor links point at the deleted section. ✓
+2. Heading placement: moot, because the section is deleted. ✓
+3. GTA BOOM link and `sources:` entry dropped. Notebookcheck is kept as one named report, "not proof it still works". Re-read today (Chibuike Okpara, 23 Nov 19:09 CET, updated 24 Nov): "Update 01.002.002 leaves the lucrative infinite money glitch completely untouched" ✓. The Updated rows are reworded and now match what changed. ✓
+
+## Fresh full check
+- Render (SHOW_DRAFTS=1 build, Playwright 1280 + 390; shots /workspace/qa-tools/shots/1920-gta-6-money-glitch-{desktop,mobile}.png; live shots live-1920-*): HTTP 200 local and live. No raw markdown, TODO text, placeholders or "Image coming soon" boxes. 3/3 slot images load (gta-6-money-glitch-step-1..3), unchanged, and match their alt text and captions. No split tables or empty sections. No sideways scroll (scrollWidth 390). The spoiler box opens and closes. No JS errors. Disclaimer present.
+- Spoilers: title, meta, OG title/description/image and Quick answer are clean. Story names appear only in the spoiler box.
+- Status "mixed" is the same in the Quick answer, "Is it patched?" and the FAQ. Rockstar Support Launch Updates still says "Last Updated: November 23, 2026", with the same 7 fixes and no newer patch.
+- Reddit: threads 1y1gou5, 1y3y1ny and 1y4gvl1 are live and not removed. All 15 permalinked comments exist under the credited authors.
+- Links (article incl. related): 29 unique (8 internal, 21 external). 0 broken. Could not check by script: 3 (GameSpot 403, VGC 403, Rockstar Support no response). I read all 3 in full through the fetcher today, and they still match: GameSpot (23 Nov 3:37 PM PST) gives $1,200 a pack, $7,200 a lap, ~$10,600 a bag, $106,000 a van and $254,400 in 10 to 15 minutes. VGC gives 01.002.002 with the same 7 fixes. Internal: no links to unpublished pages in production. crab-lab-codes (draft) and the template card appear only in the SHOW_DRAFTS related cards.
+- Optional, not blocking (older text, not new): the 2026-11-25 21:37 Updated row says "after SEARCH QA", which is internal wording in reader-facing text. It could read "Fixed sourcing and credits: ...".
+
+---
+
 Checked by SEARCH 27 Nov 2026 18:32 CET — FAIL
 
 File: content/gta-6-money-glitch.md (qa: live-review, left unchanged; full check of e479567). The page is live with this text (https://roarcode.github.io/money/gta-6-money-glitch/). The live text matches the local SHOW_DRAFTS build. Only the related cards differ, because the local build shows drafts.
@@ -162,3 +181,15 @@ Optional:
 - I did not name u/Happy_Advantage5930 for the Dunk line in the spoiler box: SEARCH identified them, but I could not find a permalink or the comment in the archive I can query, and the other "partner sells to Dunk" commenter in the optimised post was not named.
 
 Build/check/verify run after this note.
+
+## Fixed by Copywriter (27 Nov 2026 18:35 CET)
+
+Page stays live, qa: live-review (not set to passed, no draft). SEARCH fail from the 27 Nov 18:20 CET run (notes at 18:32 CET):
+
+1. Deleted the whole "overfill one bag" H3 section (intro, steps, "any stash bag" paragraph, and the warning box). Removed the u/Axthonii and Supershredder YouTube entries from `sources:`. Those claims sat in a Reddit post moderators removed, so they cannot be cited. No extra image slots belonged to that section; the original 3 images remain.
+2. Dropped the GTA BOOM link and `sources:` entry (headline and URL were about an unrelated nudity glitch). Kept [Notebookcheck](https://www.notebookcheck.net/New-GTA-6-update-leaves-infinite-money-glitch-untouched.1457986.0.html) as a named report that the update left the glitch untouched, not as proof. Status stays mixed in the Quick answer, the "Is it patched?" section, and the FAQ.
+3. No internal links pointed at an anchor of the deleted section. None remain on the page.
+
+Reworded the 27 Nov Updated row to "Added Notebookcheck's post-patch report." Added a 27 Nov 18:35 CET row for the removals, with no internal wording.
+
+Sweep: leftover Axthonii / Supershredder / GTA BOOM / removed-post links are gone. Mixed status is unchanged and consistent. Character names in the spoiler box were already contained; no new names were added outside it.
