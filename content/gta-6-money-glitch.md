@@ -15,9 +15,6 @@ sources:
   - https://support.rockstargames.com/articles/sN5pEdFYZdlvijKXd6xpJ/grand-theft-auto-vi-launch-updates-ps5-xbox-series-x-or-s
   - https://www.videogameschronicle.com/news/grand-theft-auto-6-has-received-a-new-patch-which-fixes-autosaving/
   - https://www.polygon.com/gta-6-update-today-ver-01002002-where-is-ps5-xbox-download-size-patch-notes/
-  - "u/Axthonii on r/gtaglitches | https://www.reddit.com/r/gtaglitches/comments/1y6ocrb/gta_6_the_absolute_fastest_money_glitch_right_now/"
-  - "Supershredder on YouTube | https://www.youtube.com/watch?v=SeJzzPozjQE"
-  - "GTA BOOM | https://www.gtaboom.com/gta-6-nude-glitch-and-money-exploit-survives-first-patch-cd3d"
   - "Notebookcheck | https://www.notebookcheck.net/New-GTA-6-update-leaves-infinite-money-glitch-untouched.1457986.0.html"
 updated: 2026-11-27
 published: 2026-11-25
@@ -102,22 +99,6 @@ GameSpot's total: **20 bags in two vans plus 4 carried = about $254,400**, in **
 ![Our chart: payout per run by method, from GameSpot and player claims. Not a game screenshot.](TODO: image:gta-6-money-glitch-step-3 — diagram, our own art: compare table of the three routes and what each source says they pay)
 *Caption: Diagram. What each route pays, and who says so.*
 
-### New player variant: overfill one bag by dropping it (unconfirmed, 27 Nov)
-
-On 27 Nov, [u/Axthonii posted a shortcut on r/gtaglitches](https://www.reddit.com/r/gtaglitches/comments/1y6ocrb/gta_6_the_absolute_fastest_money_glitch_right_now/) that skips the van setup. It links a [YouTube video by Supershredder](https://www.youtube.com/watch?v=SeJzzPozjQE) that claims about $500,000 a minute. The moderators removed the post as a repost, so the link may show as removed. The steps from the post, with the clearer order from [u/rdjh's comment](https://www.reddit.com/r/gtaglitches/comments/1y6ocrb/gta_6_the_absolute_fastest_money_glitch_right_now/19t9ik1wuguxs/):
-
-1. At the teddy bear vans, put some loot in your stash bag.
-2. **Drop the bag** while standing. Do not move.
-3. **Crouch.** Pick the bag up, then drop it again while crouched (u/rdjh).
-4. Pick it up again. Repeat. u/Axthonii says the bag's capacity goes up each time.
-5. Stop at about **$150,000 in one bag** (u/Axthonii).
-6. Store the bag, switch characters, and repeat.
-
-u/rdjh says it works with **any stash bag**, not only drugs. [u/I_m8d_n_acc_4_this](https://www.reddit.com/r/gtaglitches/comments/1y6ocrb/gta_6_the_absolute_fastest_money_glitch_right_now/19t9e9rgsq6ci/) says it worked with jewelry store loot, even out on a boat.
-
-> [!WARNING]
-> **Payouts are not reliable.** [u/BlackPointPL](https://www.reddit.com/r/gtaglitches/comments/1y6ocrb/gta_6_the_absolute_fastest_money_glitch_right_now/19t9fzcnnvxk1/) says it looked like it worked, but the money never came after selling. [u/Vertzz](https://www.reddit.com/r/gtaglitches/comments/1y6ocrb/gta_6_the_absolute_fastest_money_glitch_right_now/19t9n0e3okfc5/) says a fence paid them only $6. No outlet has tested it. Save first, and try one bag before you spend time on it.
-
 ## Problems and fixes
 
 - **Bag only holds about $3,200 to $4,000.** [u/densestport](https://www.reddit.com/r/gtaglitches/comments/1y1gou5/gta_6_unlimited_money_red_barn_apollo_aggregates/19syaihj1i20w/) says if your bag limit is **$3,200**, stop adding drugs at **$2,800**, then open the safe. The bag then held **$4,000**.
@@ -132,7 +113,7 @@ u/rdjh says it works with **any stash bag**, not only drugs. [u/I_m8d_n_acc_4_th
 
 - [Rockstar Support's 23 Nov Launch Updates](https://support.rockstargames.com/articles/sN5pEdFYZdlvijKXd6xpJ/grand-theft-auto-vi-launch-updates-ps5-xbox-series-x-or-s) list seven fixes. None is this glitch. [VGC](https://www.videogameschronicle.com/news/grand-theft-auto-6-has-received-a-new-patch-which-fixes-autosaving/) and [Polygon](https://www.polygon.com/gta-6-update-today-ver-01002002-where-is-ps5-xbox-download-size-patch-notes/) report this list as update **01.002.002**. One of the seven fixes is partners not handing over bags to sell to fences.
 - GameSpot's guide (published 23 Nov, US time) does not give a test date and does not say it was tested after the patch. [u/lilsteve68](https://www.reddit.com/r/gtaglitches/comments/1y3y1ny/gta_6_infinite_money_glitch_optimised/19t3j0e2fgo9x/) says they "just tested it straight after I updated" and it still worked. [u/DONTUSECAPSLOCK](https://www.reddit.com/r/gtaglitches/comments/1y1gou5/gta_6_unlimited_money_red_barn_apollo_aggregates/19t2ud2na15fl/) said on 23 Nov, "Just checked, and yes it still works."
-- [GTA BOOM](https://www.gtaboom.com/gta-6-nude-glitch-and-money-exploit-survives-first-patch-cd3d) said on 24 Nov that it can confirm the warehouse trick still works after the patch (it describes the save-and-reload loop, about $8,000 to $10,000 a run). [Notebookcheck](https://www.notebookcheck.net/New-GTA-6-update-leaves-infinite-money-glitch-untouched.1457986.0.html) also reports the update left it untouched.
+- [Notebookcheck](https://www.notebookcheck.net/New-GTA-6-update-leaves-infinite-money-glitch-untouched.1457986.0.html) reports the update left this glitch untouched. This is one outlet's report, not proof it still works.
 - Some players report it failing. [u/Matrix-tk](https://www.reddit.com/r/gtaglitches/comments/1y1gou5/gta_6_unlimited_money_red_barn_apollo_aggregates/19t04izcvtzgl/) says the trucks were gone later in the story. [u/Initial_Branch954](https://www.reddit.com/r/gtaglitches/comments/1y3y1ny/gta_6_infinite_money_glitch_optimised/19t4ajx4aks82/) says payouts fell from $18k to $12k to $3.5k and they thought it was patched. [u/Blood_Soaked_Bat](https://www.reddit.com/r/gtaglitches/comments/1y3y1ny/gta_6_infinite_money_glitch_optimised/19t4mkvg3vg0z/) says it doesn't work anymore: the vans were gone the next day.
 
 Sell often and bank your money.
@@ -170,7 +151,8 @@ Related: [GTA 6 fences and stash bags](/money/gta-6-fences-stash-bags/) · [GTA 
 
 | Date | What changed |
 |---|---|
-| 2026-11-27 | Added the new drop-and-crouch bag variant from r/gtaglitches (unconfirmed, payout problems reported), and GTA BOOM's and Notebookcheck's post-patch reports. |
+| 2026-11-27 18:35 CET | Removed a player variant that cited a deleted Reddit post, and dropped one post-patch source that was not suitable for this page. |
+| 2026-11-27 | Added Notebookcheck's post-patch report. |
 | 2026-11-26 08:33 CET | Named who says not to drive the teddy bear vans away, and noted that u/lilsteve68's route disagrees. Updated the two diagrams. |
 | 2026-11-25 22:31 CET | Status set to mixed: players disagree since the update. Fixed the Quick answer fragment and quoted "doesn't work anymore" accurately. |
 | 2026-11-25 21:37 CET | Fixed sourcing and credits after SEARCH QA: named the right sources, stated disagreements, cited official patch notes, and added comment links. |

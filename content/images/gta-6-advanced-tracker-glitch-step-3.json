@@ -1,6 +1,6 @@
 {
   "type": "info-cards",
-  "alt": "Our diagram with two cards: The trick does (no police on the way, car arrives in good shape) and The trick does not (remove the tracker, let you register the car). Not a game screenshot.",
+  "alt": "Our diagram with two cards: It does (no police on the way, car arrives in good shape) and It does not (remove the tracker). Not a game screenshot.",
   "data": {
     "category": "vehicles",
     "title": "What the trick does",
@@ -12,7 +12,7 @@
       },
       {
         "title": "It does not",
-        "body": "Remove the tracker or let you register the car (Polygon)."
+        "body": "Remove the tracker (Polygon)."
       }
     ],
     "note": "Our diagram, not a game screenshot."

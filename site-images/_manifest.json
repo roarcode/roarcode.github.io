@@ -424,7 +424,7 @@
     "file": "gta-6-how-to-make-money-fast-step-3.webp",
     "width": 1200,
     "height": 675,
-    "bytes": 36300,
+    "bytes": 38012,
     "alt": "Illustration of a cash total next to a BuckMe bank balance: you can carry up to $20,000 in cash, deposit it at an ATM, and BuckMe has a limit that goes up as you play. Not an in-game screenshot.",
     "type": "menu-mock"
   },
@@ -2100,7 +2100,7 @@
     "file": "gta-6-advanced-tracker-glitch-step-1.webp",
     "width": 1200,
     "height": 675,
-    "bytes": 32264,
+    "bytes": 33392,
     "alt": "Our diagram with three boxes: Red tracker, Slow down for about 5 seconds, Police come (GameSpot). Not a game screenshot.",
     "type": "info-cards"
   },
@@ -2116,8 +2116,8 @@
     "file": "gta-6-advanced-tracker-glitch-step-3.webp",
     "width": 1200,
     "height": 675,
-    "bytes": 26168,
-    "alt": "Our diagram with two cards: The trick does (no police on the way, car arrives in good shape) and The trick does not (remove the tracker, let you register the car). Not a game screenshot.",
+    "bytes": 24536,
+    "alt": "Our diagram with two cards: It does (no police on the way, car arrives in good shape) and It does not (remove the tracker). Not a game screenshot.",
     "type": "info-cards"
   }
 }

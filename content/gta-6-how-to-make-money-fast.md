@@ -9,6 +9,7 @@ category: money
 description: "GTA 6 how to make money fast: 4 ways GameSpot and Destructoid recommend, the $20,000 cash limit, and how not to lose your money. No glitches."
 sources:
   - https://www.gamespot.com/articles/best-ways-to-make-money-fast-in-gta-6/
+  - "GameSpot, steal cars and trackers | https://www.gamespot.com/articles/how-to-steal-cars-and-remove-trackers-in-gta-6/"
   - https://www.destructoid.com/the-best-and-fastest-ways-to-make-money-in-gta-6/
   - "GamesRadar+ | https://www.gamesradar.com/games/grand-theft-auto/gta-6-sell-cars-bikes-how-to/"
   - "GamesRadar+ fence guide | https://www.gamesradar.com/games/grand-theft-auto/gta-6-fences/"
@@ -32,11 +33,11 @@ qa: live-review
 
 > - **Quick answer:** GTA 6 how to make money fast: **raid gang hideouts (yellow map icons) and sell the loot**, and steal cars for paid jobs. Sources disagree on the car pay: GameSpot says those jobs often pay **over $10,000**; PowerPyx says the first buyer's cars usually pay about **$1,000 or more**; GamesRadar says harder-to-get cars can pay high four- or five-digit sums.
 > - **Needs:** most big money opens as the story goes on. Banks open later (Destructoid). GameSpot says about halfway through the story; PowerPyx says the big bank vault robberies open at the end of Chapter 4.
-> - **Warning:** you can carry only **$20,000 in cash** (Destructoid, GamesRadar). Put it in your **BuckMe** account, or you can lose it if you are arrested or die (Destructoid). BuckMe has a limit too; it goes up as you play the story (Destructoid, GamesRadar, Rockstar Support).
+> - **Warning:** you can carry only **$20,000 in cash** (Destructoid, GamesRadar). Put it in your **BuckMe** account, or you can lose it if you are arrested or die (Destructoid). BuckMe has a limit too; it goes up as you play the story (limit: GamesRadar; goes up: Destructoid, Rockstar Support).
 
 **Words used on this page.** *Hideout* is a place where a gang keeps money and goods. *Loot* means things you take. A *fence* is a shop person who buys stolen things. *Focus mode* is a view that shows useful items around you. *Payout* is the money you get.
 
-*We have not timed these methods ourselves yet, so there are no "dollars per hour" numbers here. Facts come from GameSpot (18 Nov 2026) and Destructoid (18 Nov 2026), plus PowerPyx, GamesRadar, and marked player tips in the car section (26 Nov 2026). No glitches or exploits.*
+*We have not timed these methods ourselves yet, so there are no "dollars per hour" numbers here. Facts come from GameSpot (18 Nov 2026) and Destructoid (18 Nov 2026), plus PowerPyx, GamesRadar, Insider Gaming, Polygon, Game Rant and VICE (23–26 Nov), and marked player tips in the car section (26 Nov 2026). No glitches or exploits.*
 
 ## The 4 best ways, at a glance
 
@@ -56,7 +57,7 @@ qa: live-review
 2. Go to an **ATM** when you get close to that (GamesRadar).
 3. Put the money into your **BuckMe** account (Destructoid). BuckMe is the game's bank app.
 
-Destructoid says cash you carry is lost if you are "wasted" (you die) or arrested. Money in BuckMe is safe. BuckMe has a limit too; it goes up as you play the story (Destructoid, GamesRadar, [Rockstar Support](https://support.rockstargames.com/articles/5hSbxodEFeNbU1wARy1p4X/cannot-put-any-more-money-in-my-buckme-account-in-grand-theft-auto-vi)).
+Destructoid says cash you carry is lost if you are "wasted" (you die) or arrested. Money in BuckMe is safe. BuckMe has a limit too; it goes up as you play the story (limit: GamesRadar; goes up: Destructoid, [Rockstar Support](https://support.rockstargames.com/articles/5hSbxodEFeNbU1wARy1p4X/cannot-put-any-more-money-in-my-buckme-account-in-grand-theft-auto-vi)).
 
 ## Method 1: Raid gang hideouts
 
@@ -80,19 +81,19 @@ GameSpot says some hideouts have rare guns and vehicles. You can sell those too.
 4. Drive it to the buyer. GameSpot says the reward is often **over $10,000**. The sources disagree: PowerPyx says the first buyer's cars usually pay about **$1,000 or more**, and that bigger payouts (often **$30,000 or more**) come from the later, high-end buyer. GamesRadar says harder-to-get cars can pay high four- or five-digit sums.
 5. Keep the car in good shape. GameSpot says a later buyer pays more for clean cars.
 
-Two limits: Destructoid says you can only steal a set number of cars a day. GameSpot says a **Pay 'N' Spray** also buys cars, but not cars with a high-end tracker.
+Two limits: Destructoid says you can only steal a set number of cars a day. GameSpot says a **Pay 'N' Spray** also buys cars, but not cars with a high-end tracker. The sources disagree on that last point: [Polygon](https://www.polygon.com/gta-6-advanced-trackers-how-to-disable-deactivate/) says that once you have delivered most cars on the high-end buyer's list, a Pay 'N' Spray will also buy any advanced-tracker car. GameSpot's [tracker guide](https://www.gamespot.com/articles/how-to-steal-cars-and-remove-trackers-in-gta-6/) says Pay 'N' Sprays will not take those cars for a majority of the game.
 
 :::spoiler Who buys the cars and where (names two characters and two places)
 GameSpot says the first buyer is **Moses** in **Port Gellhorn**. He gives you tools for mid-range cars. Later you meet **Randy** in western Vice City. He deals in high-end cars, teaches key cloning, and has a list of more than a dozen cars.
 :::
 
-**Player tips for Advanced-tracker cars you take to the high-end car buyer (unconfirmed).** In the [r/GTAVI car selling thread](https://www.reddit.com/r/GTAVI/comments/1y5liiu/selling_cars_is_such_a_good_way_to_make_money/), [u/misplacedsagacity](https://www.reddit.com/r/GTAVI/comments/1y5liiu/selling_cars_is_such_a_good_way_to_make_money/19t7dtmpie5b7/) says the tracker does not go off if you move the car with a **tow truck**. [u/-lugia-](https://www.reddit.com/r/GTAVI/comments/1y5liiu/selling_cars_is_such_a_good_way_to_make_money/19t7453wcvo83/) says the tracker also stays quiet if the **other main character** drives the stolen car while you drive another, so it arrives at the high-end car buyer without a scratch. Four outlets have since described the partner trick: [Insider Gaming](https://insider-gaming.com/easy-method-randy-supercars-advanced-trackers/) says it tested it many times, and [Polygon](https://www.polygon.com/gta-6-advanced-trackers-how-to-disable-deactivate/), [Game Rant](https://gamerant.com/gta-6-ocelot-jugular-location-randy-grand-theft-auto-6/) and [VICE](https://www.vice.com/en/article/gta-6-advanced-tracker-removal-glitch/) give the steps: tell your partner to **wait in** the stolen car, get into another vehicle, then tell them to **follow you**. Insider Gaming thinks it is a bug, so a patch could stop it.
+**Tips for Advanced-tracker cars you take to the high-end car buyer.** In the [r/GTAVI car selling thread](https://www.reddit.com/r/GTAVI/comments/1y5liiu/selling_cars_is_such_a_good_way_to_make_money/), [u/misplacedsagacity](https://www.reddit.com/r/GTAVI/comments/1y5liiu/selling_cars_is_such_a_good_way_to_make_money/19t7dtmpie5b7/) says the tracker does not go off if you move the car with a **tow truck** (unconfirmed: one player report). [u/-lugia-](https://www.reddit.com/r/GTAVI/comments/1y5liiu/selling_cars_is_such_a_good_way_to_make_money/19t7453wcvo83/) says the tracker also stays quiet if the **other main character** drives the stolen car while you drive another, so it arrives at the high-end car buyer without a scratch. Four outlets also describe the partner trick: [Insider Gaming](https://insider-gaming.com/easy-method-randy-supercars-advanced-trackers/) (23 Nov) says it tested it many times, and [Polygon](https://www.polygon.com/gta-6-advanced-trackers-how-to-disable-deactivate/) (25 Nov), [Game Rant](https://gamerant.com/gta-6-ocelot-jugular-location-randy-grand-theft-auto-6/) (25 Nov) and [VICE](https://www.vice.com/en/article/gta-6-advanced-tracker-removal-glitch/) (26 Nov) give the steps: tell the other main character to **wait in** the stolen car, get into another vehicle, then tell them to **follow you**. Insider Gaming thinks it is probably a bug.
 
 ### Faster car cash: sell at a Pay 'N' Spray
 
 A *tracker* is a device in a car that tells the police where it is. *WAiNK* is the phone app that scans a car before you steal it.
 
-GameSpot does not give a chapter for when Pay 'N' Spray sales open, and it says a shop will not take a car with a high-end tracker. [PowerPyx](https://www.powerpyx.com/gta-6-money-guide-how-to-get-money-fast/) disagrees: it says any Pay 'N' Spray starts buying Standard-tracker cars in **early Chapter 3**. [GamesRadar](https://www.gamesradar.com/games/grand-theft-auto/gta-6-sell-cars-bikes-how-to/) says the first car buyer later puts in a good word with Pay 'N' Sprays. [Its fence guide](https://www.gamesradar.com/games/grand-theft-auto/gta-6-fences/) says you wait until Chapter 3 to sell cars that have a tracker, but that is about the car buyers, not Pay 'N' Spray. A Standard tracker is not the high-end (Advanced) tracker GameSpot means.
+GameSpot does not give a chapter for when Pay 'N' Spray sales open, and its money guide says a shop will not take a car with a high-end tracker. As noted above, Polygon and GameSpot's tracker guide disagree about when a Pay 'N' Spray will take an advanced-tracker car. [PowerPyx](https://www.powerpyx.com/gta-6-money-guide-how-to-get-money-fast/) says any Pay 'N' Spray starts buying Standard-tracker cars in **early Chapter 3**. [GamesRadar](https://www.gamesradar.com/games/grand-theft-auto/gta-6-sell-cars-bikes-how-to/) says the first car buyer later puts in a good word with Pay 'N' Sprays. [Its fence guide](https://www.gamesradar.com/games/grand-theft-auto/gta-6-fences/) says you wait until Chapter 3 to sell cars that have a tracker, but that is about the car buyers, not Pay 'N' Spray. A Standard tracker is not the high-end (Advanced) tracker GameSpot's money guide means.
 
 1. Get to **early Chapter 3**. PowerPyx says that is when any Pay 'N' Spray starts buying cars with a **Standard** tracker, and that a good one pays **around $4,000 or more**. GamesRadar says the first car buyer later puts in a good word with Pay 'N' Sprays.
 2. Go where nice cars drive by. [u/chill2308](https://www.reddit.com/r/GTAVI/comments/1y63mhj/money_tip_chapter_3/) takes a RydeMe to **Vice Beach**.
@@ -139,13 +140,13 @@ GameSpot says that at about the 30% mark you must pay rent at a motel as Lucia, 
 GameSpot says raiding gang hideouts again and again is the way to never worry about money. It also says car jobs often pay over $10,000 each. The sources disagree: PowerPyx says the first buyer's cars usually pay about $1,000 or more, with bigger payouts from the later, high-end buyer. GamesRadar says harder-to-get cars can pay high four- or five-digit sums.
 
 ### Is there a cash limit in GTA 6?
-Yes. Destructoid and GamesRadar say you can carry $20,000 in cash. Put the rest in your BuckMe account (Destructoid). BuckMe has a limit too; it goes up as you play the story (Destructoid, GamesRadar, Rockstar Support).
+Yes. Destructoid and GamesRadar say you can carry $20,000 in cash. Put the rest in your BuckMe account (Destructoid). BuckMe has a limit too; it goes up as you play the story (limit: GamesRadar; goes up: Destructoid, Rockstar Support).
 
 ### Can I rob banks in GTA 6?
 Yes, but later (Destructoid). GameSpot says big banks open about halfway through the story. PowerPyx says the big bank vault robberies only open at the end of Chapter 4. The sources disagree.
 
 ### Is there a money glitch in GTA 6?
-This page covers normal methods only. A story-mode warehouse respawn glitch is reported working as of 25 Nov 2026; it has its own page: [GTA 6 money glitch](/money/gta-6-money-glitch/).
+This page covers normal methods only. A story-mode warehouse respawn glitch has its own page: [GTA 6 money glitch](/money/gta-6-money-glitch/). Status is mixed: since the 23 Nov patch, players disagree on whether it still works. Not tested by us.
 
 ## Updated
 
@@ -158,6 +159,7 @@ This page covers normal methods only. A story-mode warehouse respawn glitch is r
 | 2026-11-26 | Took car-buyer names out of visible text, and credited the Chapter 3 Pay 'N' Spray unlock to PowerPyx only. |
 | 2026-11-26 | Noted where sources disagree on car-job pay and when banks open, sourced the ATM step, and added the BuckMe balance limit. |
 | 2026-11-27 | The partner tip for advanced-tracker cars is now described by Insider Gaming, Polygon, Game Rant and VICE, with the steps. |
+| 2026-11-27 | Corrected the partner-tip date order, matched the money-glitch status in the FAQ, and noted that Polygon and GameSpot disagree about Pay 'N' Spray and advanced-tracker cars. |
 
 ---
 *Unofficial fan site, not affiliated with Rockstar Games or Take-Two.*
