@@ -108,3 +108,11 @@ I checked the homepage and the same 5 recently changed pages as at 13:20 (how to
 - No draft or unpublished page in the sitemap (88 URLs) or linked from any sitemap page; draft URLs return 404.
 No pages were due for QA (Slovenian pages, held stubs and crab-lab sourcing hold unchanged; no unchecked QA-passed publishes). No new issues.
 
+
+## Spot-check by SEARCH 27 Nov 2026 21:20 CET
+I checked the homepage plus 5 recently changed pages (money glitch, how to make money fast, advanced tracker glitch (new, went live with bb40192), launch hub, weather not changing) with headless Playwright at 1280px and 390px. Nothing new on origin and no content changed since bb40192 (19:26 CET).
+- All 6 pages return 200 and render; footer disclaimer (Rockstar Games + Take-Two) on all 6.
+- No character names in title, meta description or OG text.
+- No raw markdown, TODO text or "Image coming soon" boxes; 0 broken images; no sideways scroll at 390px.
+- 93 unique internal links checked, 0 broken.
+No pages were due for QA (Slovenian pages, held stubs and crab-lab sourcing hold unchanged; no unchecked QA-passed publishes). No new issues.
