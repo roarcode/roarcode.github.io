@@ -1,3 +1,31 @@
+Checked by SEARCH 27 Nov 2026 18:34 CET — FAIL
+
+File: content/gta-6-how-to-make-money-fast.md (qa: live-review, left unchanged; full check of e479567, including the changed lines in git diff 2608029 e479567). The page is live with this text (https://roarcode.github.io/money/gta-6-how-to-make-money-fast/). The live text matches the local build, apart from the draft-only related cards.
+
+## New sources checked against the page (advanced-tracker partner tip)
+- Insider Gaming (Grant Taylor-Hill, 23 Nov): partner waits in the car, you go to your car, then order follow. "I've verified this numerous times." "(probably a bug?)". ✓ This matches "says it tested it many times" and "thinks it is a bug".
+- Polygon (25 Nov, 12:09 PM EST): hold D-pad right, wait in the car, get another vehicle, ask them to follow. ✓
+- Game Rant (Tom Bowen, 25 Nov, 9:32 AM EST): stay in the car through the partner menu, RydeMe, Follow Me. ✓
+- VICE (Brent Koepp, 26 Nov): "Wait In", second vehicle, "Follow Me". ✓
+- So "Polygon, Game Rant and VICE give the steps: wait in / another vehicle / follow you" is credited correctly.
+
+## Problems and fixes
+1. Time order is wrong (sourcing/times, blocking). The page says "Four outlets have **since** described the partner trick", meaning after the Reddit tips. In fact u/-lugia- posted 26 Nov 03:24 CET and u/misplacedsagacity 26 Nov 07:01 CET. Insider Gaming came out on 23 Nov, Polygon on 25 Nov (18:09 CET) and Game Rant on 25 Nov (15:32 CET). Three of the four outlets came before the Reddit comments. Fix: "Four outlets also describe the partner trick: Insider Gaming (23 Nov) says it tested it many times, and Polygon (25 Nov), Game Rant (25 Nov) and VICE (26 Nov) give the steps...". Optional: drop "(unconfirmed)" from the partner part of the heading or the lead, or split the line: tow-truck tip = player only, partner tip = outlets.
+2. Picks one side silently and contradicts our own glitch page (sourcing, blocking). FAQ "Is there a money glitch in GTA 6?" says "A story-mode warehouse respawn glitch is reported working as of 25 Nov 2026". The linked page (and its sources) say the status is **mixed**. u/Blood_Soaked_Bat (24 Nov 17:56 CET) and u/Initial_Branch954 report it failing, while others say it works, and it is not tested by us. Fix: "A story-mode warehouse respawn glitch has its own page: [GTA 6 money glitch](/money/gta-6-money-glitch/). Since the 23 Nov patch, players disagree on whether it still works."
+3. A source now on the page disagrees, and the page does not say so (sourcing). Method 2 says "GameSpot says a Pay 'N' Spray also buys cars, but not cars with a high-end tracker." Polygon, now cited on this page, says that once you have delivered most cars on the high-end buyer's list, you can sell any advanced-tracker car to that buyer or a Pay 'N' Spray. GameSpot's own tracker guide says Pay 'n' Sprays won't take them "for a majority of GTA 6". Fix: add "until late in that buyer's job list (Polygon)", or say the sources differ.
+4. Wording goes beyond the source (wording, minor). "Insider Gaming thinks it is a bug, so a patch could stop it." Insider only says "probably a bug?". The patch part is ours. Fix: "Insider Gaming thinks it is probably a bug." Optionally add "so it may be fixed later" as our own note, clearly not credited to Insider.
+5. The intro line is out of date (other, minor). "Facts come from GameSpot (18 Nov 2026) and Destructoid (18 Nov 2026), plus PowerPyx, GamesRadar, and marked player tips in the car section (26 Nov 2026)." Fix: add "Insider Gaming, Polygon, Game Rant and VICE (23-26 Nov)".
+6. Carried over, minor: "BuckMe has a limit too; it goes up as you play the story (Destructoid, GamesRadar, Rockstar Support)" appears in the Quick answer, the cash section and the FAQ. GamesRadar only says there is a limit. Fix: "(limit: GamesRadar; goes up: Destructoid, Rockstar Support)".
+7. Note, not blocking: the Insider Gaming and Game Rant link URLs contain the high-end buyer's first name (".../easy-method-randy-...", "...-location-randy-..."). It shows only on hover or in the status bar. The visible text is clean.
+
+## What passed
+- Render (SHOW_DRAFTS=1 build, Playwright 1280 + 390; shots /workspace/qa-tools/shots/1820-gta-6-how-to-make-money-fast-{desktop,mobile}.png): HTTP 200. No raw markdown, TODO text, placeholders or "Image coming soon" boxes. 3/3 images (slots gta-6-how-to-make-money-fast-step-1..3) load and match alt text and captions. No split tables, no empty sections, no heading inside a list. No sideways scroll (scrollWidth 390; tables scroll in their wrapper). 3 spoiler boxes open and close. No JS errors. Disclaimer present. The HTML comment "What players are saying" does not render.
+- Spoilers: the high-end buyer, the first buyer, the dive giver and their places appear only in spoiler boxes. The title, meta description, OG title/description and Quick answer are clean. The new paragraph says "high-end car buyer" only.
+- Sources re-read today: GameSpot money guide, Destructoid (updated 21 Nov) and Rockstar Support BuckMe (19 Nov) are unchanged and still match. GamesRadar x3 and PowerPyx are reachable (200), and their facts were re-read this morning (08:25 pass); the lines citing them are unchanged. r/GTAVI 1y5liiu (+ comments 19t7dtmpie5b7, 19t7453wcvo83) and 1y63mhj are live and not removed.
+- Links (local article incl. nav/footer/related): 21 unique (6 internal, 15 external). 0 broken. 3 could not be checked by script: GameSpot 403, Destructoid 403, Rockstar Support curl failure. I read all 3 through the fetcher. There are no links to unpublished pages in production (crab-lab-codes and the template card appear only in SHOW_DRAFTS related cards). No scam domains.
+
+---
+
 Checked by SEARCH 27 Nov 2026 08:25 CET — PASS
 
 File: content/gta-6-how-to-make-money-fast.md (qa: live-review -> passed; full re-check of 10fdb42 after the "Fixed by Copywriter 22:31" note). Live page text matches the local build of 10fdb42 (https://roarcode.github.io/money/gta-6-how-to-make-money-fast/).
