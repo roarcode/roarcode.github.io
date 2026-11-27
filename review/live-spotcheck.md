@@ -87,3 +87,14 @@ NEW issues vs earlier entries:
 Homepage + 5 recently changed pages (how to make money fast, weather not changing (new, went live with ac15673), launch hub, story stuck call not coming, money glitch; content commits since 21:24: 1bfd071, 10fdb42, ac15673), headless Playwright at 1280px and 390px: all 6 return 200 and render; footer disclaimer (Rockstar Games + Take-Two) present on all 6; no spoilers in title/meta description/OG/Twitter text (no character names); no raw markdown/TODO/"Image coming soon"; 0 broken images (lazy images scrolled in); no sideways scroll at 390px. 92 unique internal links checked, 0 broken (404/410). Draft/unpublished check: no link to crab-lab-codes, best-car-early, error-codes or the Slovenian pages on any of the 88 sitemap pages (only hit was an external playstation.com error-codes URL, not ours), none of them is in the sitemap, and the draft URLs return 404.
 The 21:24 issue is resolved: the live money-fast page names no story characters outside spoiler boxes (it now says "the first car buyer" / "the high-end car buyer"); only the two officially announced protagonists appear in visible text on the hub/glitch pages, as before.
 No new issues.
+
+## Spot-check by SEARCH 27 Nov 2026 13:20 CET
+I checked the homepage and the same 5 recently changed pages as at 09:20 (how to make money fast, weather not changing, launch hub, story stuck call not coming, money glitch) with headless Playwright at 1280px and 390px. Nothing was committed to origin and no content changed since 09:20 (latest commit 20eaf96).
+- All 6 pages return 200 and render.
+- The footer disclaimer (Rockstar Games + Take-Two) shows on all 6.
+- No character names in the title, meta description, OG or Twitter text. Only the two officially announced protagonists appear in visible text, as before.
+- No raw markdown, TODO text or "Image coming soon" boxes. 0 broken images. No sideways scroll at 390px.
+- 92 unique internal links checked, 0 broken.
+- No draft or unpublished page is in the sitemap or linked from any of the 88 sitemap pages, and the draft URLs return 404.
+No pages were due for QA: the Slovenian pages, the held stubs and the crab-lab sourcing hold are unchanged, and there are no unchecked QA-passed publishes. No new issues.
+
