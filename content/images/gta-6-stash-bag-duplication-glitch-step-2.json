@@ -1,0 +1,28 @@
+{
+  "type": "info-cards",
+  "alt": "Our diagram with three cards: crouch and stay still, drop from the Items wheel, pick up with the camera only. Moving the left stick breaks it. Not a game screenshot.",
+  "data": {
+    "category": "money",
+    "title": "The three rules",
+    "cols": 3,
+    "cards": [
+      {
+        "title": "Stay crouched",
+        "body": "Crouch first. Do not move your character.",
+        "status": "ok"
+      },
+      {
+        "title": "Drop from Items",
+        "body": "Use the Items side of the weapon wheel.",
+        "status": "ok"
+      },
+      {
+        "title": "Move the left stick",
+        "body": "Breaks it. The pickup adds nothing.",
+        "status": "no"
+      }
+    ],
+    "note": "From Insider Gaming and Game Rant. Our drawing, not a game screenshot.",
+    "banner": "Our diagram, not a game screenshot"
+  }
+}

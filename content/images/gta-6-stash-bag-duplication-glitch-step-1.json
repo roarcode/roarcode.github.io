@@ -1,0 +1,15 @@
+{
+  "type": "step-card",
+  "alt": "Our step diagram: crouch, drop the bag, turn only the camera, pick it up, repeat. Not a game screenshot.",
+  "data": {
+    "category": "money",
+    "title": "The drop and pick-up loop",
+    "steps": [
+      { "title": "Crouch", "body": "Then do not touch the left stick." },
+      { "title": "Drop the bag", "body": "L1/LB, R1/RB to Items, hold Circle/B." },
+      { "title": "Look at it", "body": "Turn the camera with the right stick only." },
+      { "title": "Pick it up", "body": "Value grows. Repeat about 8 to 12 times." }
+    ],
+    "tip": "From Insider Gaming, Game Rant and VICE. Our drawing, not a game screenshot."
+  }
+}

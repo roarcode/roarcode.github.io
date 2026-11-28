@@ -2119,5 +2119,29 @@
     "bytes": 24536,
     "alt": "Our diagram with two cards: It does (no police on the way, car arrives in good shape) and It does not (remove the tracker). Not a game screenshot.",
     "type": "info-cards"
+  },
+  "gta-6-stash-bag-duplication-glitch-step-1": {
+    "file": "gta-6-stash-bag-duplication-glitch-step-1.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 29462,
+    "alt": "Our step diagram: crouch, drop the bag, turn only the camera, pick it up, repeat. Not a game screenshot.",
+    "type": "step-card"
+  },
+  "gta-6-stash-bag-duplication-glitch-step-2": {
+    "file": "gta-6-stash-bag-duplication-glitch-step-2.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 34764,
+    "alt": "Our diagram with three cards: crouch and stay still, drop from the Items wheel, pick up with the camera only. Moving the left stick breaks it. Not a game screenshot.",
+    "type": "info-cards"
+  },
+  "gta-6-stash-bag-duplication-glitch-step-3": {
+    "file": "gta-6-stash-bag-duplication-glitch-step-3.webp",
+    "width": 1200,
+    "height": 788,
+    "bytes": 42684,
+    "alt": "Table of what the GTA 6 stash bag glitch pays: Insider Gaming says the starting value is added each pickup, Insider Gaming and Game Rant say about 8 to 12 pickups, VICE got $277,200 in one bag and says a full van is about $2.72 million, one player claims $700,000 for two jewelry bags.",
+    "type": "compare-table"
   }
 }

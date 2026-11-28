@@ -1,0 +1,43 @@
+{
+  "type": "compare-table",
+  "alt": "Table of what the GTA 6 stash bag glitch pays: Insider Gaming says the starting value is added each pickup, Insider Gaming and Game Rant say about 8 to 12 pickups, VICE got $277,200 in one bag and says a full van is about $2.72 million, one player claims $700,000 for two jewelry bags.",
+  "data": {
+    "category": "money",
+    "title": "What the glitch pays",
+    "subtitle": "Amounts as each source states them. Not timed by us.",
+    "columns": [
+      "Claim",
+      "Amount",
+      "Source"
+    ],
+    "rows": [
+      [
+        "Each pickup adds",
+        "the starting value",
+        "Insider Gaming"
+      ],
+      [
+        "Pickups per bag",
+        "about 8 to 12",
+        "IG, Game Rant"
+      ],
+      [
+        "Best single bag",
+        "$277,200",
+        "VICE"
+      ],
+      [
+        "Full 10-slot van",
+        "about $2.72 million",
+        "VICE"
+      ],
+      [
+        "Two jewelry bags",
+        "$700,000",
+        "Player claim"
+      ]
+    ],
+    "note": "From Insider Gaming, Game Rant, VICE and r/gtaglitches. Our drawing, not a game screenshot.",
+    "banner": "Our diagram, not a game screenshot"
+  }
+}
