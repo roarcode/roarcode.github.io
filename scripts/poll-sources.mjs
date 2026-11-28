@@ -145,11 +145,15 @@ async function newswire() {
 
 // 2) Rockstar Games on YouTube (public Atom feed). Channel id verified against the channel page's own rssUrl.
 async function youtube() {
-  const ids = ["UC6VcWc1rAoWdBCM0JxrRQ3A", "UCFhY0J_8hCugqW1Ga2g9pGw"]; // 2nd = id from the brief; resolves 404, kept as a fallback only
-  let xml, used;
-  for (const id of ids) {
-    try { xml = await (await guarded(`https://www.youtube.com/feeds/videos.xml?channel_id=${id}`, "application/atom+xml", { feed: true })).text(); used = id; break; } catch (e) { if (id === ids.at(-1)) throw e; }
+  // Official Rockstar Games channel. YouTube's RSS endpoint intermittently returns 404/5xx, so retry with backoff.
+  // (The old fallback id from the brief is dead and only masked the real error with a 404, so it was removed.)
+  const used = "UC6VcWc1rAoWdBCM0JxrRQ3A";
+  let xml, lastErr;
+  for (let attempt = 0; attempt < 4; attempt++) {
+    if (attempt) await new Promise((r) => setTimeout(r, 3000 * attempt));
+    try { xml = await (await guarded(`https://www.youtube.com/feeds/videos.xml?channel_id=${used}`, "application/atom+xml", { feed: true })).text(); break; } catch (e) { lastErr = e; }
   }
+  if (xml === undefined) throw lastErr;
   const entries = [...xml.matchAll(/<entry>([\s\S]*?)<\/entry>/g)].map((m) => m[1]);
   if (!entries.length) throw new Error("feed has no entries");
   let n = 0;
