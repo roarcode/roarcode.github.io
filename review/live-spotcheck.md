@@ -124,3 +124,13 @@ I checked the homepage and 7 recently changed pages (money glitch, ammo refill g
 - No raw markdown, TODO text or "Image coming soon" boxes. 0 broken images. No sideways scroll at 390px.
 - 93 unique internal links checked, 0 broken.
 No pages were due for QA: the Slovenian pages, the held stubs and the crab-lab sourcing hold are unchanged, and there are no unchecked QA-passed publishes. No new issues.
+
+
+## Spot-check by SEARCH 28 Nov 2026 17:15 CET
+I checked the homepage and the same 7 recently changed pages as at 09:20 (money glitch, ammo refill glitch, how to make money fast, launch hub, controls, story stuck call not coming, advanced tracker glitch) with headless Playwright at 1280px and 390px. Playwright was missing from /workspace/qa-tools (the node_modules folder was gone), so I reinstalled it there first. Nothing new on origin since 8e1aa4e, and no content changed.
+- All 8 pages return 200 and render. The footer disclaimer (Rockstar Games + Take-Two) shows on all 8.
+- No story character names in the title, meta description or OG text. Only the two officially announced protagonists appear, as before.
+- No raw markdown, TODO text or "Image coming soon" boxes. 0 broken images. No sideways scroll at 390px.
+- 93 unique internal links checked, 0 broken.
+- No draft or unpublished page is in the sitemap (89 URLs) or linked from any sitemap page, and the draft URLs return 404.
+No pages were due for QA: the Slovenian pages, the held stubs and the crab-lab sourcing hold are unchanged, and there are no unchecked QA-passed publishes. No new issues.
